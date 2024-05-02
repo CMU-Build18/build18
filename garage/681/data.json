@@ -1,0 +1,28 @@
+{
+    "title": "Vermillion",
+    "date": "13 Nov 2020",
+    "detail": "It's a beach cleanup robot!",
+    "extended_details": "The robot will travel around a beach autonomously, identify plastic bottles, and pick them up localizing by fusing data from an IMU and WiFi beacons.",
+    "team_profiles": [
+        {
+            "username": "@agbhat",
+            "name": "@agbhat"
+        },
+        {
+            "username": "@cseiler",
+            "name": "@cseiler"
+        },
+        {
+            "username": "@vluu",
+            "name": "@vluu"
+        },
+        {
+            "username": "@spandans",
+            "name": "@spandans"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/681/0.jpg"
+    ]
+}

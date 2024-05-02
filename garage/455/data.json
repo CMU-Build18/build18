@@ -1,0 +1,129 @@
+{
+    "title": "Semaphore Cat",
+    "date": "28 Oct 2018",
+    "detail": "The ever-popular meme Bongo Cat pursues his true passion as a semaphore flagger.",
+    "extended_details": "Have you ever wanted to privately communicate with your friends and colleagues using semaphore, but you just couldn't remember the flag positions? Well, you don't have to suffer any longer with these portable semaphore cats that can signal to and understand each other using everyone's favorite naval code.",
+    "team_profiles": [
+        {
+            "username": "@sydneyb",
+            "name": "@sydneyb"
+        },
+        {
+            "username": "@keboyle",
+            "name": "@keboyle"
+        },
+        {
+            "username": "@sprinaw",
+            "name": "@sprinaw"
+        },
+        {
+            "username": "@marcurio",
+            "name": "@marcurio"
+        },
+        {
+            "username": "@sshastry",
+            "name": "@sshastry"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "External Battery",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "32 GB mini SD Card",
+            "cost": "$8.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Microphone Amplifier",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "White Cloth",
+            "cost": "$6.15",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Micro Servo Motor",
+            "cost": "$11.78",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboards/Jumper Wires",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Module",
+            "cost": "$22.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Acrylic Sheet",
+            "cost": "$15.01",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stuffing",
+            "cost": "$10.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "White Thread",
+            "cost": "$5.22",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Black Embroidery Thread",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Felt",
+            "cost": "$14.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pink Embroidery Thread",
+            "cost": "$7.04",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Zero WH",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Mini HDMI Cable",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/455/0.jpg"
+    ]
+}

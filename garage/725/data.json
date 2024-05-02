@@ -1,0 +1,82 @@
+{
+    "title": "Fish Alexa",
+    "date": "08 Nov 2021",
+    "detail": "An all-round care device for your fish.",
+    "extended_details": "<b><a href=\"https://www.pololu.com/wishlist/1J14407\">****Polulu Wishlist****</a>\r\n<br>\r\n<a href=\"https://www.amazon.com/hz/wishlist/ls/3UVHI7ETT6QIL\">****Amazon Wishlist****</a>\r\n</b>\r\n<br>\r\n<br>\r\nThis is our fish, and he hasn't eaten in days.\r\n\r\nHaha jk jk he's fine. But this could be the case if not for our project, Fish Alexa. It will serve the following functions:\r\n\r\n<ul>\r\n<li>Feed your fish in a timely manner\r\n<li>Change lighting in tank\r\n<li>Track fish, make sure he has not escaped!\r\n</ul>\r\n\r\nAll this and more, to keep your fish healthy...",
+    "team_profiles": [
+        {
+            "username": "@lchilamk",
+            "name": "@lchilamk"
+        },
+        {
+            "username": "@vvortega",
+            "name": "@vvortega"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$99.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9 volt batteries",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Fish Tank",
+            "cost": "$75.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Motor",
+            "cost": "$13.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Acrylic",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Water Heater",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Controller",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Servo Motors",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Glue",
+            "cost": "$6.38",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/725/0.jpg",
+        "garage/725/1.jpg",
+        "garage/725/2.jpg",
+        "garage/725/3.jpg",
+        "garage/725/4.jpg",
+        "garage/725/5.jpg",
+        "garage/725/6.jpg",
+        "garage/725/7.jpg"
+    ]
+}

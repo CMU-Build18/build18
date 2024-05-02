@@ -1,0 +1,20 @@
+{
+    "title": "AR Gestural Education",
+    "date": "13 Nov 2016",
+    "detail": "Learn how to kick a ball better than Messi and Jazzercise better than Richard Simmons using AR",
+    "extended_details": "Developing muscle memory is always a difficult task. Using the Microsoft Hololens--which the Studio for Creative Inquiry has generously granted us access to-- our project facilitates improvement in motor skills by allowing users perform a task with step by step direction from an AR coach and by seeing where their motions differ from the optimal gestures using Vive controllers. With multiple units working together, entire teams can understand their place in formation and entire classes can hold collaborative inquiry sessions.",
+    "team_profiles": [
+        {
+            "username": "@mgreer",
+            "name": "@mgreer"
+        },
+        {
+            "username": "@davidgor",
+            "name": "@davidgor"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/128/0.jpg"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "title": "RC soccer table",
+    "date": "28 Nov 2015",
+    "detail": "Demolition derby meets soccer meets RC!",
+    "extended_details": "Building a foosball type table where rc cars with 3D printed attachments try to push a ball into their respective goal.",
+    "team_profiles": [
+        {
+            "username": "@dsaha",
+            "name": "@dsaha"
+        },
+        {
+            "username": "@mineshp",
+            "name": "@mineshp"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Katu BK-BB6505-28 Set of 4 Furniture Swivel Plate Caster with Brake fo",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Stiga 3-Star Orange Table Tennis Balls, 6-Pack : Ping Pon",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/96/0.jpg"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Gesturing Synchronous Robotic Arms",
+    "date": "27 Oct 2019",
+    "detail": "Who doesn't need an extra pair of hands?",
+    "extended_details": "Want an extra hand or two to help out around the house? Look no further! With our autonomous or smartphone-controlled robotic arm, you can tell the robot to do anything you might need!",
+    "team_profiles": [
+        {
+            "username": "@jcorona",
+            "name": "@jcorona"
+        },
+        {
+            "username": "@ewenger",
+            "name": "@ewenger"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "5V DC Wall Power Adapter",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$28.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 4B 2G RAM",
+            "cost": "$45.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Cam",
+            "cost": "$8.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3D Printer Filament",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Servo Motors 4pcs",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bluetooth Transceiver",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Micro Servo Motor 5pcs",
+            "cost": "$11.68",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/596/0.jpg"
+    ]
+}

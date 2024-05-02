@@ -1,0 +1,71 @@
+{
+    "title": "Angry Wall Birds",
+    "date": "15 Nov 2017",
+    "detail": "Angry birds...but on the wall!",
+    "extended_details": "We will project Angry Birds on the wall, using cameras connected to an fpga and a raspberry pi to figure out if a player is pulling the slingshot and having the game respond accordingly.",
+    "team_profiles": [
+        {
+            "username": "@shenghah",
+            "name": "@shenghah"
+        },
+        {
+            "username": "@ayu1",
+            "name": "@ayu1"
+        },
+        {
+            "username": "@munsungk",
+            "name": "@munsungk"
+        },
+        {
+            "username": "@youngchk",
+            "name": "@youngchk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Plugable 5 Meter (16 Foot) USB 2.0 Active Extension Cable Type A Male",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry PI 5MP Camera Board Module",
+            "cost": "$34.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "DE0-Nano - Altera Cyclone IV FPGA starter board",
+            "cost": "$99.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B Motherboard",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "AmazonBasics USB 2.0 A-Male to Micro B Cable, 10 feet, Black",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "AmazonBasics 7 Port USB 2.0 Hub with 5V/4A Power Adapter",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Premium Female/Female Jumper Wires - 40 x 6\"",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/371/0.jpg"
+    ]
+}

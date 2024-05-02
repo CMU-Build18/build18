@@ -1,0 +1,74 @@
+{
+    "title": "Smart Treadmill",
+    "date": "21 Nov 2016",
+    "detail": "Make Dumb Treadmills Great Again!",
+    "extended_details": "A plugin device to enable smart features for dumb treadmills of yesteryear.",
+    "team_profiles": [
+        {
+            "username": "@tzeyewbh",
+            "name": "@tzeyewbh"
+        },
+        {
+            "username": "@aeng",
+            "name": "@aeng"
+        },
+        {
+            "username": "@hyeryung",
+            "name": "@hyeryung"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Bus Pirate - v3.6a - TOL-12942 - SparkFun Electronics",
+            "cost": "$26.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electron Cellular IoT Kit - 3G Americas/Aus ID: 3234 - $84.95 : Adafru",
+            "cost": "$84.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bus Pirate Cable - CAB-09556 - SparkFun Electronics",
+            "cost": "$4.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Handheld Oscilloscopes, DSO Nano V3: Amazon.com: Industrial & Scientif",
+            "cost": "$92.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Makerfire 4pcs ESP8266 Serial Wireless Wifi Transceiver Mo",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: CanaKit Raspberry Pi 3 Kit with Clear Case and 2.5A Power ",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: INNOVA 3320 Auto-Ranging Digital Multimeter: Automotive",
+            "cost": "$18.71",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size ",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/205/0.jpg",
+        "garage/205/1.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Autonomous Anki Plays Guitar",
+    "date": "13 Oct 2018",
+    "detail": "Anki vector robot that follows perceived path",
+    "extended_details": "Anki vector is a robotic toy with a nice sdk. I'm going to have it use its camera to \"see\" a path, probably marked by tape on the ground, and have it follow that path, it will also attempt to play the guitar using these path planning techniques",
+    "team_profiles": [
+        {
+            "username": "@cggonzal",
+            "name": "@cggonzal"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Guitar",
+            "cost": "$99.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Anki Vector",
+            "cost": "$199.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/428/0.jpg"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Tappy Glove",
+    "date": "29 Oct 2018",
+    "detail": "Gloves that let you send secret messages to your buds and pals",
+    "extended_details": "Ever been just absolutely sick of speaking? Did you suddenly go blind and deaf and you have no way of communicating except through touch? No? Well, that's understandable. That doesn't happen to many people.\r\n\r\nHave you ever wanted to talk to your friend during a lecture because you have some funny jokes but the teacher doesn't let you talk or use phones or otherwise communicate? This is a glove that lets you communicate through morse code with taps, and uses haptic feedback to relay messages between two people.",
+    "team_profiles": [
+        {
+            "username": "@aquinn",
+            "name": "@aquinn"
+        },
+        {
+            "username": "@jafinn",
+            "name": "@jafinn"
+        },
+        {
+            "username": "@sir",
+            "name": "@sir"
+        },
+        {
+            "username": "@eeschnei",
+            "name": "@eeschnei"
+        },
+        {
+            "username": "@aragura1",
+            "name": "@aragura1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Conductive thread",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sewing kit",
+            "cost": "$5.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gelante Wholesale 12 Gloves",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Proto board",
+            "cost": "$9.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wixel",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Vibration motor",
+            "cost": "$2.15",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "LilyPad Button Board",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "24"
+        },
+        {
+            "part": "TLV3701 Comparator",
+            "cost": "$3.19",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "Micro LiPo charger",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "3.7v 500mAh LiPo",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/465/0.jpg"
+    ]
+}

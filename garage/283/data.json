@@ -1,0 +1,24 @@
+{
+    "title": "\"Magic\" Card Shuffler",
+    "date": "07 Nov 2017",
+    "detail": "Hack the card shuffler to give the exact deck you want!",
+    "extended_details": "By connecting RFID tags to each card in a standard 52 deck of cards and building an electronic card shuffler with an RFID reader, our system will be able to deal the cards in the pairings/orderings the user wants. The user can use an app to control the deck he wants to receive from the shuffler or the cards he wants to deal to the other players.",
+    "team_profiles": [
+        {
+            "username": "@rjaising",
+            "name": "@rjaising"
+        },
+        {
+            "username": "@sgatuku",
+            "name": "@sgatuku"
+        },
+        {
+            "username": "@kgugle",
+            "name": "@kgugle"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/283/0.jpg"
+    ]
+}

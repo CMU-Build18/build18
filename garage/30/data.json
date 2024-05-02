@@ -1,0 +1,27 @@
+{
+    "title": "Holographic Receptionist",
+    "date": "27 Nov 2015",
+    "detail": "Our project brings Tank, the \"Roboceptionist\" in Newell Simon Hall, into a new dimension.",
+    "extended_details": "When you enter the front entrance of Newell-Simon Hall, you will typically be greeted by Tank, the \"roboceptionist\". He welcomes visitors, shares facts about CMU, and gives directions to places around campus. The guests simply type their queries into a keyboard, and Tank responds accordingly. We would like to take this concept one step further. We are designing a holographic version of Tank using the animation software Blender. Our receptionist will be able to take in verbal requests, rather than keyboard input, through Api.ai.",
+    "team_profiles": [
+        {
+            "username": "@istevens",
+            "name": "@istevens"
+        },
+        {
+            "username": "@winniel",
+            "name": "@winniel"
+        },
+        {
+            "username": "@bschmuck",
+            "name": "@bschmuck"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/30/0.jpg",
+        "garage/30/1.jpg",
+        "garage/30/2.jpg",
+        "garage/30/3.jpg"
+    ]
+}

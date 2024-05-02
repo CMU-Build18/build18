@@ -1,0 +1,87 @@
+{
+    "title": "Mind Controlled Sk8board",
+    "date": "26 Sep 2018",
+    "detail": "An electric skateboard... but mind controlled",
+    "extended_details": "He was a board...   \r\nShe was an electroencephalography system...\r\nCould I make it any more obvious?",
+    "team_profiles": [
+        {
+            "username": "@ncn",
+            "name": "@ncn"
+        },
+        {
+            "username": "@hweigle",
+            "name": "@hweigle"
+        },
+        {
+            "username": "@lortega",
+            "name": "@lortega"
+        },
+        {
+            "username": "@lwidmaye",
+            "name": "@lwidmaye"
+        },
+        {
+            "username": "@eseiler",
+            "name": "@eseiler"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "starter skate board",
+            "cost": "$23.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Neurosky EEG Headset",
+            "cost": "$80.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ardunio Nanos",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth Receiver",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "timing belts",
+            "cost": "$15.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MOTOR",
+            "cost": "$67.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tranceivers",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "battery",
+            "cost": "$47.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Transistors",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/391/0.jpg"
+    ]
+}

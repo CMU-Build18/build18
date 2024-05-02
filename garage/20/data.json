@@ -1,0 +1,172 @@
+{
+    "title": "RaspberryFarm",
+    "date": "27 Nov 2015",
+    "detail": "We are building a distributive computation farm out of Raspberry Pi Zeros.",
+    "extended_details": "The Raspberry Pi Zero puts all of the power of an actual Raspberry Pi in  a $5 form factor. This makes it the cheapest computing unit you can purchase, while still living within most of the comfort of the Raspberry Pi ecosystem. Following the lead of the likes of Google and Amazon, our goal is to turn a set of cheap computers into an ostensibly powerful single computer, via the power of distributed computing.\r\n\r\n\r\n\r\n\r\nOur target application is Merge Sort, Graphics Farm, BitCoin mine (we'll pick one). Ideally, we'll mask the entire system so that to the end user, it appears as though a single computer is being used. Either that, or some very thin set of functions that allow code to be easily distributed.\r\n\r\nImplementation plan:\r\n* Over winter break, create custom Arch Linux images to apply to all raspberry pi zero's.\r\n* Over winter break, explore communication protocols to identify best fit.\r\n* Obtain all parts\r\n* Construct housing for the raspberry pi zero's\r\n* Link together all device",
+    "team_profiles": [
+        {
+            "username": "@vasua",
+            "name": "@vasua"
+        },
+        {
+            "username": "@relong",
+            "name": "@relong"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi Zero ID: 2885 - $5.00 : Adafruit Industries, Unique & fun",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "17"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$8.13",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Digital Media Source MicroSD and MicroSDHC to SD Adapter f",
+            "cost": "$1.93",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: 10 PACK - SanDisk 8GB MicroSD HC Memory Card SDSDQAB-008G ",
+            "cost": "$19.68",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: uxcell AC110/220V DC5V 10A 50W LED Strip Light Switching P",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Monoprice HDMI Mini Connector Male to HDMI Connector Femal",
+            "cost": "$3.12",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: M2.5x6mm Hex Key Socket Head Knurl Cap Screws Bolts 100pcs",
+            "cost": "$6.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$4.52",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Cast Acrylic Sheet, Clear, 12\" x 12\" x 0.236\" Size (Pack o",
+            "cost": "$10.94",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: USB Cable, OKRAY 10 Pack 1ft/30CM Short Mini High Speed Mi",
+            "cost": "$9.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Sabrent 4-Port USB 2.0 Hub with Individual Power Switches ",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: Cooler Master CM Essentials 140 - Sleeve Bearing 140mm Blu",
+            "cost": "$8.58",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: C&E CNE28224 USB 2.0 A Female to Micro B Male Adapter Cabl",
+            "cost": "$0.85",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/20/0.jpg",
+        "garage/20/1.jpg",
+        "garage/20/2.jpg",
+        "garage/20/3.jpg",
+        "garage/20/4.jpg",
+        "garage/20/5.jpg",
+        "garage/20/6.jpg",
+        "garage/20/7.jpg",
+        "garage/20/8.jpg",
+        "garage/20/9.jpg",
+        "garage/20/10.jpg",
+        "garage/20/11.jpg",
+        "garage/20/12.jpg",
+        "garage/20/13.jpg",
+        "garage/20/14.jpg",
+        "garage/20/15.jpg",
+        "garage/20/16.jpg",
+        "garage/20/17.jpg",
+        "garage/20/18.jpg",
+        "garage/20/19.jpg",
+        "garage/20/20.jpg",
+        "garage/20/21.jpg",
+        "garage/20/22.jpg",
+        "garage/20/23.jpg",
+        "garage/20/24.jpg",
+        "garage/20/25.jpg",
+        "garage/20/26.jpg",
+        "garage/20/27.jpg",
+        "garage/20/28.jpg",
+        "garage/20/29.jpg",
+        "garage/20/30.jpg",
+        "garage/20/31.jpg",
+        "garage/20/32.jpg",
+        "garage/20/33.jpg",
+        "garage/20/34.jpg",
+        "garage/20/35.jpg",
+        "garage/20/36.jpg",
+        "garage/20/37.jpg",
+        "garage/20/38.jpg",
+        "garage/20/39.jpg",
+        "garage/20/40.jpg",
+        "garage/20/41.jpg",
+        "garage/20/42.jpg",
+        "garage/20/43.jpg",
+        "garage/20/44.jpg",
+        "garage/20/45.jpg",
+        "garage/20/46.jpg",
+        "garage/20/47.jpg",
+        "garage/20/48.jpg",
+        "garage/20/49.jpg",
+        "garage/20/50.jpg",
+        "garage/20/51.jpg",
+        "garage/20/52.jpg",
+        "garage/20/53.jpg",
+        "garage/20/54.jpg",
+        "garage/20/55.jpg",
+        "garage/20/56.jpg",
+        "garage/20/57.jpg",
+        "garage/20/58.jpg",
+        "garage/20/59.jpg",
+        "garage/20/60.jpg",
+        "garage/20/61.jpg",
+        "garage/20/62.jpg",
+        "garage/20/63.jpg",
+        "garage/20/64.jpg",
+        "garage/20/65.jpg",
+        "garage/20/66.jpg",
+        "garage/20/67.jpg"
+    ]
+}

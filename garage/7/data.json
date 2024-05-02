@@ -1,0 +1,85 @@
+{
+    "title": "Moball",
+    "date": "27 Nov 2015",
+    "detail": "We aim to create a spherical robot cabable of maneuvering around the Mobot course",
+    "extended_details": "We plan to start out with a passive system that will use an actuated weight to alter its path down a hill. We hope to do this using a servo as a pendulum or on a rail/linear gear in a 3D printed shell. After this, we hope to implement a path-planning system to enable the robot to traverse a course.",
+    "team_profiles": [
+        {
+            "username": "@hlyness",
+            "name": "@hlyness"
+        },
+        {
+            "username": "@iem",
+            "name": "@iem"
+        },
+        {
+            "username": "@mlongo",
+            "name": "@mlongo"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$12.06",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Stamped Aluminum L-Bracket for NEMA 17 Stepper Motors",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - DRV8825 Stepper Motor Driver Carrier, High Current",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Compatible Mega 2560 R3 ATMEGA2560 ATMEGA 16U2: Amazon.com: In",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Argos 1.75mm PLA (Clear)(Natural) MADE IN THE USA : 3D Printer Filamen",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Grade 2 Titanium Round Rod, Unpolished (Mill) Finish, Half",
+            "cost": "$5.18",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$7.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Stepper Motor with 28cm Lead Screw: Bipolar, 200 Steps/Rev, 4",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: EBL 840 9V Battery Charger with 4 Pack 600mAh Li-ion Recha",
+            "cost": "$23.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 2Pcs 2.1x5.5mm Male DC Power Plug to 9V Battery Button Con",
+            "cost": "$1.43",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/7/0.jpg"
+    ]
+}

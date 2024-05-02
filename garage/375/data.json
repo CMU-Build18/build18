@@ -1,0 +1,87 @@
+{
+    "title": "Whiteboard Printer",
+    "date": "15 Nov 2017",
+    "detail": "Robot that will print out your work onto a whiteboard",
+    "extended_details": "Robot car that will print out your work onto a whiteboard. So you can take a picture, erase your stuff but then it gets printed on your whiteboard later.",
+    "team_profiles": [
+        {
+            "username": "@hyallapa",
+            "name": "@hyallapa"
+        },
+        {
+            "username": "@dennisya",
+            "name": "@dennisya"
+        },
+        {
+            "username": "@dzeng",
+            "name": "@dzeng"
+        },
+        {
+            "username": "@ericchan",
+            "name": "@ericchan"
+        },
+        {
+            "username": "@gclu",
+            "name": "@gclu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Whiteboard",
+            "cost": "$25.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V Battery",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "OmniWheels",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Mounting Bracket",
+            "cost": "$6.55",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Servo",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Power Jack Adapter",
+            "cost": "$3.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speed Controller",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "12V DC Motor",
+            "cost": "$12.98",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Mounting Hub",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/375/0.jpg"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "the game of metago",
+    "date": "18 Oct 2021",
+    "detail": "play the ancient game of go with a visual, auditory, tactile, olfactory experience",
+    "extended_details": "The game of go (known as weiqi in mandarin),\r\nis a game that originated from ancient China.\r\n\r\nRecently, the korean TV show  \"Octopus Game\" went viral.\r\nFrom a theoretical standpoint, the game of Go's complexity cannot even be compared with \"Octopus Game\".\r\n\r\nTo better share this beautiful, ancient game, we would like to reshape what it means to play Go.\r\n\r\nWe will do this by redefining how each of the four human senses are factored into the game:\r\n\r\nvisual: \r\n\r\n- purchase beautiful go stones, machine them to serve as game pieces\r\n\r\n\r\nauditory: \r\n\r\n- use speakers to \r\n. recite the moves \r\n. and switch between different musical themes, depending on how tense the game is\r\n\r\ntactile\r\n- machine different stones to serve as the game pieces, giving players a different texture\r\n\r\nolfactory\r\n- buy some nicely scented perfumes, oil, and conditioners, and enable them to be dispensed depending on the situation of the game\r\n\r\n\r\nEngineering aspects:\r\n\r\n- set up a camera to live stream the pieces on the go board, such that the computer knows who's turn it is and where the places are\r\n\r\n- the software must analyze the situation of the game, and speak or play music, et. cetera, whenever appropriate",
+    "team_profiles": [
+        {
+            "username": "@arvinw",
+            "name": "@arvinw"
+        },
+        {
+            "username": "@ykallel",
+            "name": "@ykallel"
+        },
+        {
+            "username": "@alexx",
+            "name": "@alexx"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Phone Tripod",
+            "cost": "$24.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth Speaker",
+            "cost": "$130.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Go timer",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "scent diffuser",
+            "cost": "$37.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/700/0.jpg"
+    ]
+}

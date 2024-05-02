@@ -1,0 +1,53 @@
+{
+    "title": "Tranquilum",
+    "date": "21 Nov 2016",
+    "detail": "Wearable tech to measure and reduce stress",
+    "extended_details": "A wearable that will quantifiably monitor and measure paramters that help us determine stress levels the person is undergoing. The accompanying app will display this information and help the user reduce stress through the use of the wearable.",
+    "team_profiles": [
+        {
+            "username": "@raunaksg",
+            "name": "@raunaksg"
+        },
+        {
+            "username": "@armanh",
+            "name": "@armanh"
+        },
+        {
+            "username": "@oweiss",
+            "name": "@oweiss"
+        },
+        {
+            "username": "@cwurman",
+            "name": "@cwurman"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "FLORA 9-DOF Accelerometer/Gyroscope/Magnetometer - LSM9DS0 [v1.0] ID: ",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Heart Rate Educational Starter Pack with Polar Wireless Sensors ID: 10",
+            "cost": "$65.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "FLORA - Wearable electronic platform: Arduino-compatible [v3] ID: 659 ",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit HTU21D-F Temperature & Humidity Sensor Breakout Board ID: 189",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/200/0.jpg"
+    ]
+}

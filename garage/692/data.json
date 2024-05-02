@@ -1,0 +1,101 @@
+{
+    "title": "handE",
+    "date": "14 Oct 2021",
+    "detail": "If you want a simple and convenient handheld phone solution, think handE!",
+    "extended_details": "Our hand integrated cellular device, handE, will allow for easier text and calling communication. handE will enable a one hand controlled messaging interface by integrating a combination of flex and accelerometer sensors with a microcontroller. By reducing the \"unpocket and unlock it\" time needed for a traditional cellphone, handE provides a faster, easy to use, and accessible alternative while maintaining a secure platform.",
+    "team_profiles": [
+        {
+            "username": "@rashik",
+            "name": "@rashik"
+        },
+        {
+            "username": "@ckasuba",
+            "name": "@ckasuba"
+        },
+        {
+            "username": "@bwilhelm",
+            "name": "@bwilhelm"
+        },
+        {
+            "username": "@akasha",
+            "name": "@akasha"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RespberryPi Zero-W",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flex Sensors",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "ePaper Display",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ePaper Display extension",
+            "cost": "$1.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit FONA 3G Cellular Breakout",
+            "cost": "$79.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "24-pin 0.5mm FFC / FPC Extender",
+            "cost": "$0.86",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit eInk Feather Friend with 32KB SRAM",
+            "cost": "$8.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 1200mAh",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Slim Sticker-type GSM/Cellular Quad-Band Antenna - 3dBi uFL",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB LiIon/LiPoly charger - v1.2",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solderable Breadboard",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Soldering Iron",
+            "cost": "$46.74",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/692/0.jpg"
+    ]
+}

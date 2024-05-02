@@ -1,0 +1,77 @@
+{
+    "title": "Pin baller",
+    "date": "27 Oct 2019",
+    "detail": "A motion sensor pinball machine using hands",
+    "extended_details": "We're coming up with a pinball machine made with proximity sensors and controlled with hand gestures/motions using an Arduino.",
+    "team_profiles": [
+        {
+            "username": "@ajeng",
+            "name": "@ajeng"
+        },
+        {
+            "username": "@sophiali",
+            "name": "@sophiali"
+        },
+        {
+            "username": "@estoney",
+            "name": "@estoney"
+        },
+        {
+            "username": "@nstefano",
+            "name": "@nstefano"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Triple-Axis Accelerometer - \u00b12/4/8g @ 14-bit - MMA8451",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Adafruit METRO 328 - Arduino Compatible - with Headers - ATmega328",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Perma-Proto Half-sized Breadboard PCB - Single",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Dual Alphanumeric Display -Yellow 0.54\" Digit Height - Pack of 2",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Miniature 8x8 Blue LED Matrix",
+            "cost": "$11.90",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "HDMI 4 Pi: 5\" Display (no Touch) w/Mini Driver - 800x480 HDMI",
+            "cost": "$59.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultra Sonic Sensor",
+            "cost": "$8.98",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/597/0.jpg"
+    ]
+}

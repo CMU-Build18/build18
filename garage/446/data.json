@@ -1,0 +1,227 @@
+{
+    "title": "CodeBlox",
+    "date": "26 Oct 2018",
+    "detail": "Teach kids to code through blocks!.",
+    "extended_details": "Programming has traditionally been confined to a written form.  Because of this, coding is mostly only accessible to text-based learners.  We hope to solve this dilemma by liberating coding from its written medium through the use of tangible building blocks.  Kids will be able to connect these smart blocks together and build real programs that control a real robot!  This will better engage visual and kinesthetic learners and allow children to be introduced to the field of programming at a younger age.  Additionally, by freeing the process of programming from the personal computer's screen, we will make coding more collaborative and exciting.",
+    "team_profiles": [
+        {
+            "username": "@ewwong",
+            "name": "@ewwong"
+        },
+        {
+            "username": "@emaynard",
+            "name": "@emaynard"
+        },
+        {
+            "username": "@jyzhao",
+            "name": "@jyzhao"
+        },
+        {
+            "username": "@msli",
+            "name": "@msli"
+        },
+        {
+            "username": "@kchoy1",
+            "name": "@kchoy1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "10k ohm resistor +-5%",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "10k ohm resistor +- 1%",
+            "cost": "$0.04",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "6.2k ohm resistor 5% tolerance",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "Epoxy (pack of 2)",
+            "cost": "$9.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth transmitter (pack of 2)",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Custom PCB",
+            "cost": "$24.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red LED",
+            "cost": "$0.16",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "LED Green",
+            "cost": "$0.16",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "Washers SAE #6",
+            "cost": "$0.01",
+            "quantity": "\n",
+            "total": "1000"
+        },
+        {
+            "part": "270 ohm resistor 5% tolerance",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "Pogo pins (pack of 100)",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Roll of Copper Tape 2 Pack",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "30k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandth",
+            "cost": "$1.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "cube magnet",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "7.5k ohm resister +- 5%",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "Round Magnets",
+            "cost": "$11.04",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "56k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandths)",
+            "cost": "$1.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandths)",
+            "cost": "$1.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "820 ohm resistor 5% tolerance",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "18k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandths",
+            "cost": "$1.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2.2k resistor +- 5% precision",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "24k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandth",
+            "cost": "$1.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ATMEGA328p",
+            "cost": "$1.97",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "1.5k ohm resistor 5% tolerance",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "39k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandths)",
+            "cost": "$1.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3k resistor +- 5% precision",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "5.1k resistor +- 5% precision",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "3.9k resistor +- 5% precision",
+            "cost": "$0.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "12k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandths",
+            "cost": "$1.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "15k ohm resistor +-5% (WE NEED 100 but part cost can't do thousandths",
+            "cost": "$1.68",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/446/0.jpg",
+        "garage/446/1.jpg",
+        "garage/446/2.jpg",
+        "garage/446/3.jpg",
+        "garage/446/4.jpg",
+        "garage/446/5.jpg",
+        "garage/446/6.jpg",
+        "garage/446/7.jpg",
+        "garage/446/8.jpg",
+        "garage/446/9.jpg",
+        "garage/446/10.jpg",
+        "garage/446/11.jpg",
+        "garage/446/12.jpg",
+        "garage/446/13.jpg",
+        "garage/446/14.jpg"
+    ]
+}

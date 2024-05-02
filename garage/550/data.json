@@ -1,0 +1,47 @@
+{
+    "title": "P\u00c6THOS",
+    "date": "30 Sep 2019",
+    "detail": "Visualize and interactively explore your thoughts in virtual reality while wearing the custom-built P\u00e6thos headset.",
+    "extended_details": "P\u00e6thos uses EEG sensors from OpenBCI to collect brain activity measurements and uses the resulting data to build a server-side API. The online web client then takes this data and builds out a cognitive interactive experience with the A-Frame WebVR library.\r\n\r\nWe will use snap electrodes to record two frontal cortex readings, as well as standard leads to record temporal, parietal, and occipital measurements based on experimental results. These electrodes output real-time four-channel time-series voltages which we can read using the Ganglion Board. We then send this over a wireless connection to a node.js server which updates our A-Frame display.\r\n\r\nThe A-frame library allows us to build a virtual reality experience from the server with the universal webVR library. This method provides our website with support for any VR device (from as inexpensive as a phone in a Google Cardboard to a high-end system like the HTC Vive). We will be building in additional support for the recently released Oculus Quest and its controllers for demo purposes.",
+    "team_profiles": [
+        {
+            "username": "@nmamoon",
+            "name": "@nmamoon"
+        },
+        {
+            "username": "@carmenda",
+            "name": "@carmenda"
+        },
+        {
+            "username": "@jacobdil",
+            "name": "@jacobdil"
+        },
+        {
+            "username": "@grasskin",
+            "name": "@grasskin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "OpenBCI Ganglion Board",
+            "cost": "$249.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "OpenBCI EEG Headband Kit",
+            "cost": "$199.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "OpenBCI Dry EEG Comb Electrodes",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/550/0.jpg"
+    ]
+}

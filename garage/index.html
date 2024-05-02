@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build18 | Garage</title>
+    <link href="../output.css" rel="stylesheet">
+    <link rel="icon" href="../assets/build18-logo.png" type="image/x-icon">
+
+    <!-- HTML Meta Tags -->
+    <title>Build18 | Garage</title>
+    <meta name="description" content="Join us for the coolest build event at Carnegie Mellon University!">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://congenial-engine-pwr979rgp5xf9jg-5500.app.github.dev/index.html">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Build18">
+    <meta property="og:description" content="Join us for the coolest build event at Carnegie Mellon University!">
+    <meta property="og:image" content="https://i.imgur.com/sbokFjM.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="congenial-engine-pwr979rgp5xf9jg-5500.app.github.dev">
+    <meta property="twitter:url" content="https://congenial-engine-pwr979rgp5xf9jg-5500.app.github.dev/index.html">
+    <meta name="twitter:title" content="Build18">
+    <meta name="twitter:description" content="Join us for the coolest build event at Carnegie Mellon University!">
+    <meta name="twitter:image" content="https://i.imgur.com/sbokFjM.png">
+
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "m5mdsy528d");
+    </script>
+</head>
+
+<body>
+
+    <!-- Back to home page in top left -->
+    <a href="../index.html" class="absolute top-0 left-0 mt-4 ml-4 flex items-center">
+        <p class="pl-8 pt-8">
+            < Back to Home</p>
+    </a>
+    <section id="garage">
+
+        <div class="bg-[#faf7f5]  py-6 sm:py-8 lg:py-12 h-max">
+            <div class="mx-auto max-w-screen-2xl px-4 md:px-8 text-center">
+                <p
+                    class="text-6xl md:text-9xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.purple.400),theme(colors.purple.100),theme(colors.pink.300),theme(colors.orange.400),theme(colors.pink.300),theme(colors.purple.100),theme(colors.purple.400))] bg-[length:200%_auto] animate-gradient">
+                    GARAGE</p>
+                </p>
+
+                <label id="search-form"
+                    class="input input-bordered flex items-center gap-2 mt-8 max-w-md mx-auto pr-0 glass mb-12">
+                    <input type="text" class="grow" placeholder="Search..." id="search" />
+                    <button id="search-button" class="mx-5 hover:fill-orange-400">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24">
+                            <path
+                                d="M100-220.77v-60h391.15v60H100Zm0-195.77v-60h189.23v60H100Zm0-195.77v-60h189.23v60H100ZM817.85-220 663.08-373.62q-22.85 16.62-49.81 25.31-26.96 8.69-54.81 8.69-75.18 0-128.16-52.53-52.99-52.54-52.99-127.66 0-75.11 53.01-127.65Q483.34-700 558.55-700q75.22 0 128.14 52.54 52.92 52.54 52.92 127.46 0 27.85-8.69 54.81t-25.69 49.42L860-262.15 817.85-220ZM558.46-399.62q50.48 0 85.82-35 35.34-35 35.34-85.19T644.28-605q-35.34-35-85.82-35-50.48 0-85.82 35-35.33 35-35.33 85.19t35.33 85.19q35.34 35 85.82 35Z" />
+                        </svg>
+                    </button>
+                </label>
+                <br>
+                <br>
+                <div class="mb-4 grid grid-cols-2 gap-4 sm:grid-cols-3 md:mb-8 md:grid-cols-4 md:gap-6 xl:gap-8">
+                    <script>
+                        const tags = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 'built18', 'All'];
+                        tags.forEach(tag => {
+                            document.write(`<a href="#" id=${tag} class="tag tag-ghost">${tag}</a>`);
+                        });
+                        document.write('<br>');
+                    </script>
+                </div>
+
+                <div id="container"
+                    class="mt-12 mb-4 grid grid-cols-2 gap-4 sm:grid-cols-3 md:mb-8 md:grid-cols-4 md:gap-6 xl:gap-8">
+
+                    <script>
+                        let container = document.getElementById("container");
+
+                        // add click listeners to the tags
+                        document.getElementById("2015").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2015);
+                        });
+                        document.getElementById("2016").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2016);
+                        });
+                        document.getElementById("2017").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2017);
+                        });
+                        document.getElementById("2018").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2018);
+                        });
+                        document.getElementById("2019").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2019);
+                        });
+                        document.getElementById("2020").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2020);
+                        });
+                        document.getElementById("2021").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2021);
+                        });
+                        document.getElementById("2022").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2022);
+                        });
+                        document.getElementById("2023").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2023);
+                        });
+                        document.getElementById("2024").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects(2024);
+                        });
+                        document.getElementById("built18").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects("built18");
+                        });
+                        document.getElementById("All").addEventListener("click", () => {
+                            container.innerHTML = "";
+                            fetchProjects();
+                        });
+
+                        // add click listener to search button
+                        document.getElementById("search-button").addEventListener("click", () => {
+                            let search = document.getElementById("search").value;
+                            container.innerHTML = "";
+                            fetchProjects(null, search);
+                        });
+
+                        fetchProjects(2021);
+
+                        function fetchProjects(year = null, searchRequest = null) {
+                            let searchYear = year;
+                            let searchParameter = searchRequest;
+
+                            console.log(`Fetching projects for year: ${year}`);
+                            console.log(`Search request: ${searchRequest}`);
+
+                            // Count backwards to get most recent projects
+                            for (let i = 800; i >= 0; i--) {
+                                try {
+                                    let project = `${i}`;
+                                    let projectPath = `${project}/`;
+                                    let projectImage = projectPath + "0.jpg";
+
+                                    let projectDataPath = projectPath + "data.json";
+
+                                    console.log(`Fetching data from: ${projectDataPath}`);
+
+                                    fetch(projectDataPath)
+                                        .then(response => {
+                                            if (!response.ok) {
+                                                //throw new Error(`HTTP error! status: ${response.status}`);
+                                            }
+                                            return response.json();
+                                        })
+                                        .then(projectData => {
+                                            let projectTitle = projectData.title;
+                                            let projectDate = projectData.date;
+
+                                            let projectYear = projectDate.split(" ")[2];
+                                            console.log(`Project year: ${projectYear}`)
+
+                                            let projectDetail = projectData.detail;
+                                            console.log(`Fetched data: ${projectTitle}, ${projectDate}, ${projectDetail}`);
+
+                                            if (searchYear && String(searchYear) !== String(projectYear)) {
+                                                console.log(searchYear, projectYear)
+                                                return;
+                                            }
+                                            else if (searchParameter && !projectTitle.toLowerCase().includes(searchParameter.toLowerCase())) {
+                                                console.log('project title does not match')
+                                                return;
+                                            }
+                                            else {
+                                                console.log('project year matches')
+                                                let project_card = createTemplate(projectImage, projectTitle, projectTitle, projectDetail);
+                                                container.innerHTML += project_card;
+                                            }
+
+                                        }
+                                        )
+                                        .catch(error => {
+                                            console.error(`Error fetching data: ${error}`);
+                                        });
+                                } catch (error) {
+                                    console.error(`Error fetching data: ${error}`);
+                                }
+                            }
+                        }
+
+                        function createTemplate(imgSrc, altText, projectTitle, projectDetail) {
+
+                            let cardSize = Math.floor(Math.random() * 3) + 1;
+
+                            return `
+                                <a href="#" class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80 ">
+                                    <img src="${imgSrc}"
+                                        loading="lazy" alt="${altText}"
+                                        class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110 ${cardSize === 1 ? 'h-48' : cardSize === 2 ? 'h-64' : 'h-80'}" />
+                                    <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">${projectTitle}</span>
+                                </a>         
+                            `;
+                        }
+                    </script>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer py-4 bg-base-200 text-base-content max-h-16">
+        <nav class="flex justify-between pl-10">
+            <aside>
+                <a href="#landing">
+                    <img class="max-h-8 overflow-hidden" src="../assets/build18-logo.png">
+                </a>
+            </aside>
+            <p class="text-center justify-center mt-1">Build18 © 2024</p>
+        </nav>
+
+
+        <nav flex justify-between text-pretty text-center">
+
+            <!-- <a class="link link-hover pr-16">Competition Rules</a>
+                    <a class="link link-hover px-16">Privacy Policy</a>
+                    <a class="link link-hover px-16">Press Kit</a>
+                    <a class="link link-hover pl-16">Sponsor Packet</a> -->
+            <a href="#top" class="text-2xl text-orange-400 text-right">↑</a>
+
+        </nav>
+        <!-- <form>
+                    <h6 class="footer-title">Newsletter</h6>
+                    <fieldset class="form-control w-80">
+                        <div class="join">
+                            <input type="text" placeholder="@*cmu.edu" class="input input-bordered join-item" />
+                            <button class="btn btn-warning join-item">Subscribe</button>
+                        </div>
+                    </fieldset>
+                </form> -->
+
+        <!-- Arrow to top -->
+        <!-- Arrow key to jump to top -->
+    </footer>
+
+</body>
+
+</html>

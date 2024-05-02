@@ -1,0 +1,105 @@
+{
+    "title": "8d audio irl",
+    "date": "26 Oct 2019",
+    "detail": "imagine if you could see music..without drugs? sound crazy? little women are making it a reality; welcome to the future!",
+    "extended_details": "holographic music visualizer using acrylic sheets and a computer monitor. will connect to a flick board so the visuals can be controlled by hand motions",
+    "team_profiles": [
+        {
+            "username": "@ritaz",
+            "name": "@ritaz"
+        },
+        {
+            "username": "@ipdong",
+            "name": "@ipdong"
+        },
+        {
+            "username": "@daggarwa",
+            "name": "@daggarwa"
+        },
+        {
+            "username": "@maez",
+            "name": "@maez"
+        },
+        {
+            "username": "@sjying",
+            "name": "@sjying"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Spray Paint",
+            "cost": "$3.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Clear Scratch- and UV-Resistant Cast Acrylic Sheets",
+            "cost": "$15.78",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Foam PVC Black Sheet",
+            "cost": "$20.05",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB C to HDMI Adapter",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acer 24\" Widescreen LCD Monitor Display",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flick",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "#6 x 1-1/4\" Countersunk Wood Screws",
+            "cost": "$5.12",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "#6 x 3/4\" Countersunk Wood Screws",
+            "cost": "$3.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wood dowel",
+            "cost": "$3.14",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "poplar board",
+            "cost": "$4.20",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "wood board",
+            "cost": "$2.07",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/595/0.jpg"
+    ]
+}

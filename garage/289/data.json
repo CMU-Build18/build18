@@ -1,0 +1,85 @@
+{
+    "title": "Project PLAID: Target Detection System",
+    "date": "07 Nov 2017",
+    "detail": "Autonomous camera processing system to detect ground targets during high powered rocket launches",
+    "extended_details": "Carnegie Mellon Rocket Command is competing in the NASA Student Launch Initiative, in which 45 university teams design an build a rocket to fly one mile high while completing a technical challenge. Our rocket proposal is Project PLAID, for Precision Launch and Autonomous IDentification, and we will be competing in the Target Detection Challenge. Using an onboard camera and flight computer, our Target Detection System will autonomously activate at launch, scan the incoming video feed for the targets, and store images of detected targets to be recovered following landing.",
+    "team_profiles": [
+        {
+            "username": "@mmessers",
+            "name": "@mmessers"
+        },
+        {
+            "username": "@skaashya",
+            "name": "@skaashya"
+        },
+        {
+            "username": "@faristiz",
+            "name": "@faristiz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Micro SD Card",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Threaded Rods",
+            "cost": "$6.18",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "100 Nuts Package",
+            "cost": "$3.22",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "40 x 40 ft Tarp",
+            "cost": "$78.09",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Zilu Battery Pack",
+            "cost": "$14.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3B",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboard Jumper Wires",
+            "cost": "$6.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboard Jumper Wires",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Sense HAT",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mobius Wide Angle Action Camera",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/289/0.jpg"
+    ]
+}

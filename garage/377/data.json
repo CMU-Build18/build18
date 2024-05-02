@@ -1,0 +1,109 @@
+{
+    "title": "DataDigger",
+    "date": "15 Nov 2017",
+    "detail": "An Augmented Reality platform to parse text and other information in your environment.",
+    "extended_details": "We see all kinds of textual information in our environment every day. Posters about events happening around the place, notices, names of places etc. Most of this information is actually pretty irrelevant to any given person and therefore we become inattentionally blind to it. DataDigger is an Augmented Reality platform which seeks to change this. It parses textual information in the person\u2019s view and highlights the information which is important to the person. For example, I am a CS major and I am always looking for cool hackathons such as Build18 around campus. But the notice boards are mostly filled with information that is not important to me and therefore it is difficult for me look for cool information through all the clutter. With time, DataDigger will learn my preferences and be able to highlight the information about hackathons and CS courses - information important to me - after I have responded affirmatively to some of the text around me. This will be combined with an elegant interface in which the person using the AR device responds to textual blobs using blink gestures. Then, whatever information is parsed with the person\u2019s responses to the textual blobs, that information is communicated to a smart home device like Amazon Echo, and then the device will summarize the information that we gathered during the day and note interesting additional information gathered from the web related to the recorded information. In essence, DataDigger aims to sift through the mounds of data we see every day and deliver concise, curated information.",
+    "team_profiles": [
+        {
+            "username": "@abaweja",
+            "name": "@abaweja"
+        },
+        {
+            "username": "@peterw1",
+            "name": "@peterw1"
+        },
+        {
+            "username": "@justinj1",
+            "name": "@justinj1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SparkFun Beginner Parts Kit",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NPN transister",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "LED pack",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HC-SR04 Ultrasonic Sensor",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Half-size Breadboards",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "PowerBoost 1000 Charger",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Colored Buttons",
+            "cost": "$12.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Google Home",
+            "cost": "$79.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "female/female jumper wires (150mm)",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "male/male jumper wires (150mm)",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V Relay Module",
+            "cost": "$8.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino HC-06",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery (edited by officers)",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Mega ADK Rev3",
+            "cost": "$42.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/377/0.jpg"
+    ]
+}

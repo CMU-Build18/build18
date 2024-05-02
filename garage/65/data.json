@@ -1,0 +1,181 @@
+{
+    "title": "HMSTR",
+    "date": "28 Nov 2015",
+    "detail": "An elegant hamster for a more civilized age",
+    "extended_details": "HMSTR (Highly-Maneuverable Spherical Test Robot) will be an autonomous mobile robot housed inside a highly advanced off-the-shelf chassis:  a hamster ball.  Designed for companionship and fun, this robot will be be able to perform ball-related tasks.  Like rolling around.  And, uh, providing companionship.  Hey, it's a pet that doesn't poop, what else do want.\r\n\r\nOther attempts at building such a companion have focused on putting an omnidirectional robot inside the hamster ball (e.g. xkcd's pet).  We hope to reduce complexity and increase reliability by attaching the robot directly to the hamster ball.  The robot will drive a motor on a central axis of the sphere, allowing HMSTR to move in one direction only.  HMSTR will also have a weighted flywheel that will provide stability, and allow the robot to turn. By having the robot drive on one axis, and not requiring any wheels in contact with the inside surface of the ball, we expect HMSTR to perform as a worker and friend for hours.",
+    "team_profiles": [
+        {
+            "username": "@jessea",
+            "name": "@jessea"
+        },
+        {
+            "username": "@enumbers",
+            "name": "@enumbers"
+        },
+        {
+            "username": "@sbuckley",
+            "name": "@sbuckley"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Uno - R3 - DEV-11021 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.33",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$1.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Lee's Kritter Krawler Mini Exercise Ball, 5-Inch, Clear :",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.53",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Bluetooth Mate Silver - WRL-12576 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Duracell Procell 9 Volt Batteries, Pack of 12: Health & Pe",
+            "cost": "$15.87",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: uxcell 2 Pcs Black Plastic 9V Cells Battery Holder Case Bo",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Rocker Switch - SPST (round) - COM-11138 - SparkFun Electronics",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu Universal Aluminum Mounting Hub for 4mm Shaft, #4-40 Holes (2-P",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu 25D mm Metal Gearmotor Bracket Pair",
+            "cost": "$7.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Dual H-Bridge Motor Driver for DC or Steppers - 600mA - L293D ID: 807 ",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$23.21",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Machine Screw: #4-40, 5/16\" Length, Phillips (25-pack)",
+            "cost": "$0.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu - Machine Screw: #4-40, 1\" Length, Phillips (25-pack)",
+            "cost": "$1.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Machine Hex Nut: #4-40 (25-pack)",
+            "cost": "$0.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.77",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.74",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.51",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.51",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Amazon.com : Bullet Weights Disc Fishing Sinker (4-Pack), 4-Ounce : Sp",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$11.83",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.82",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Pololu - Machine Screw: #4-40, 1/2\" Length, Phillips (25-pack)",
+            "cost": "$0.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - 47:1 Metal Gearmotor 25Dx52L mm LP 6V",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com : Lee's Kritter Krawler Jumbo Exercise Ball, 10-Inch, Clear",
+            "cost": "$17.38",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/65/0.jpg"
+    ]
+}

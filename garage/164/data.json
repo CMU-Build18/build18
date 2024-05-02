@@ -1,0 +1,95 @@
+{
+    "title": "DrawBot",
+    "date": "20 Nov 2016",
+    "detail": "We want to create a robot that is programmed to draw pictures on a larger scale.",
+    "extended_details": "Our interest in robotics is growing, so we wanted to create one for Build 18 this year. However, we weren't sure what we wanted the robot to do. We love the idea of autonomy so we first looked into making our own Roomba. Then, that idea evolved into a robot that could clean shirts by detecting when there were colors out of place. Finally, we decided on making a robot that can draw pictures on a large scale based on what we drew on the computer. We are going to plot the x and y coordinates of the mouse as it draws, then tell the robot to follow the exact pattern. As it does that, it will drop the pen and start to draw. Also, there is some application for this robot. For example, members of booth can sketch a small picture on the computer, then have the robot draw it on a huge scale for them to put onto their booths. In the future, we would love for the robot to be able to draw pictures that you pull off of the internet.",
+    "team_profiles": [
+        {
+            "username": "@mmwagner",
+            "name": "@mmwagner"
+        },
+        {
+            "username": "@zpm",
+            "name": "@zpm"
+        },
+        {
+            "username": "@jmccambr",
+            "name": "@jmccambr"
+        },
+        {
+            "username": "@ppetraki",
+            "name": "@ppetraki"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit ID: 2348 -",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: Energizer MAX AA Batteries, Designed to Prevent Damaging L",
+            "cost": "$9.30",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Multi-Chassis - 4WD Kit (ATV) - ROB-12090 - SparkFun Electronics",
+            "cost": "$44.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro Gearmotor - 270 RPM (6-12V) - ROB-12125 - SparkFun Electronics",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$14.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: AmazonBasics Power Bank (10,000 mAh) and Lightning Cable (",
+            "cost": "$29.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$26.11",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 2.4A Switching Power Supply w/ 20AWG 6' MicroUSB Cable ID: 1995 - $",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gear - Hub Mount (76T; 1.0\" Bore) - ROB-12256 - SparkFun Electronics",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Staples White Poster Boards, 10-Pack, 22\" x 28\" : Office ",
+            "cost": "$6.49",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/164/0.jpg"
+    ]
+}

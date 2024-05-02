@@ -1,0 +1,78 @@
+{
+    "title": "RoboCurry",
+    "date": "27 Oct 2019",
+    "detail": "A ping pong ball launcher that's the best beer pong player in the world!",
+    "extended_details": "RoboCurry is a 1-foot tall semiautonomous launcher that uses computer vision and mathematical computations to locate the target Dixie cups and accurately throw ping pong balls into them. After receiving the location of the cups from a Raspberry Pi, an Arduino will in response adjust the launcher's horizontal angle, angle of elevation, and launching power. These factors will be set by a servomotor, a rack and pinion, and a pneumatic air pump system respectively. When ready, it will shoot out 1 ping pong ball in storage like a cannon. We plan to optimize its movements to make it incredibly speedy and precise. See \"Photos\" for a general depiction of the size and components necessary for RoboCurry.",
+    "team_profiles": [
+        {
+            "username": "@bcwang",
+            "name": "@bcwang"
+        },
+        {
+            "username": "@rngo",
+            "name": "@rngo"
+        },
+        {
+            "username": "@rhamdall",
+            "name": "@rhamdall"
+        },
+        {
+            "username": "@sjang1",
+            "name": "@sjang1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Pneumatic Air Pump",
+            "cost": "$45.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servomotors",
+            "cost": "$21.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Solenoid Valve",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MicroSD Card (64GB)",
+            "cost": "$13.62",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "10-ft, 1.5\" diameter PVC Pipe",
+            "cost": "$10.30",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V Power Supply",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/600/0.jpg",
+        "garage/600/1.jpg"
+    ]
+}

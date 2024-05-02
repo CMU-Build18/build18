@@ -1,0 +1,97 @@
+{
+    "title": "Tent-porary Mirage",
+    "date": "20 Nov 2016",
+    "detail": "Escape reality in a real-life Perkins' tent",
+    "extended_details": "We're going to use a wide variety of sensors to customize your experience in a tent with a whole lot more visual and auditory possibilities to explore than an ordinary one. It is a soft shelter facilitating two different modes of interaction (individual and collective creation).",
+    "team_profiles": [
+        {
+            "username": "@weiqiaoc",
+            "name": "@weiqiaoc"
+        },
+        {
+            "username": "@yishanz",
+            "name": "@yishanz"
+        },
+        {
+            "username": "@weimiaoc",
+            "name": "@weimiaoc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Half-size Perma-Proto Raspberry Pi Breadboard PCB Kit ID: 114",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "TMP36 - Analog Temperature sensor [TMP36] ID: 165 - $1.50 : Adafruit I",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Raspberry Pi Zero Budget Pack - Includes Pi Zero v1.3 ID: 2817 - $24.9",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.15",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Force Sensitive Resistor 0.5\" - SEN-09375 - SparkFun Electronics",
+            "cost": "$6.26",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Diffused RGB 5mm LED (25 pack) ID: 302 - $12.50 : Adafruit Industries,",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$84.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.74",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Photo cell (CdS photoresistor) ID: 161 - $0.95 : Adafruit Industries, ",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/165/0.jpg"
+    ]
+}

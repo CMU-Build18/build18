@@ -1,0 +1,93 @@
+{
+    "title": "Smarter Skateboard",
+    "date": "18 Oct 2021",
+    "detail": "A skateboard that's smarter than you (maybe)",
+    "extended_details": "A custom-built electric skateboard with remote control capabilities and obstacle detection - includes night light features for riding in darker environments. Our remote control uses \"novel technologies\" ranging from heart rate detection to the angle of the rider's hat to ultimately determine the skateboard's speed.\r\n\r\nParts List Draft: \r\n\r\nSkateboard\r\n\r\nMotor\r\n\r\nMotor Controller\r\n\r\nArduino + peripherals (distance sensors, Bluetooth module)\r\n\r\nBattery\r\n\r\nLEDs",
+    "team_profiles": [
+        {
+            "username": "@stevenwu",
+            "name": "@stevenwu"
+        },
+        {
+            "username": "@emai",
+            "name": "@emai"
+        },
+        {
+            "username": "@janicel2",
+            "name": "@janicel2"
+        },
+        {
+            "username": "@cudompan",
+            "name": "@cudompan"
+        },
+        {
+            "username": "@aaito",
+            "name": "@aaito"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "ESC",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HC-SR04 Ultrasonic Distance Sensor",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "2-pin JST SM Plug + Receptacle Cable Set",
+            "cost": "$0.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HM-10 Bluetooth Module",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor",
+            "cost": "$54.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$35.69",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "XT6- connectors for battery and esc",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Skateboard",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Belt + Motor Gear",
+            "cost": "$12.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery Charger",
+            "cost": "$38.69",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/701/0.jpg"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Sleepyhead",
+    "date": "13 Nov 2016",
+    "detail": "Sleep never sounded so good!",
+    "extended_details": "Bluetooth compatibility combined with state of the art sleep technology, it's a pillow unlike any you've experienced before~",
+    "team_profiles": [
+        {
+            "username": "@mbparker",
+            "name": "@mbparker"
+        },
+        {
+            "username": "@shassel",
+            "name": "@shassel"
+        },
+        {
+            "username": "@cio",
+            "name": "@cio"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "1712 Adafruit Industries LLC | Development Boards, Kits, Programmers |",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Audio, Microphone Pre-Amp Evaluation Board",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "DEV-11113 SparkFun Electronics | Development Boards, Kits, Programmers",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Bluetooth Audio Breakout - BC127 - WRL-11927 - SparkFun Elect",
+            "cost": "$40.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun FTDI Basic Breakout - 5V - DEV-09716 - SparkFun Electronics",
+            "cost": "$13.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Generic Low Voltage Dc 1.8v 3v 5v 6v 12v 2a Motor Speed Controller Pwm",
+            "cost": "$2.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$6.23",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AS04004PR-R PUI Audio, Inc. | Audio Products | DigiKey",
+            "cost": "$7.65",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/126/0.jpg"
+    ]
+}

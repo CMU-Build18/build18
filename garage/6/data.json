@@ -1,0 +1,108 @@
+{
+    "title": "Bottomless",
+    "date": "27 Nov 2015",
+    "detail": "You know that noise when you finish your drink, but you continue to slurp the straw? Never again.",
+    "extended_details": "When I'm at a restaurant, bar, coffee shop, or movie theater, I need to be quenched. The waiter/waitress needs to earn that tip. When my diet raspberry unsweetened low cal low ice tea with no sugar is empty, I am not happy: that is why our project exists. We are creating drink coasters with weight sensors on them that will relay how much liquid is remaining in the cups. The information will be sent to an app/website that displays a color gauge representing the amount of liquid remaining in the cup, and the table and seat number that the cup corresponds to. The display also presents what drink that person is drinking. This creation maximizes the waiter\u2019s time. Instead of walking to the table, asking who needs more to drink, walking back to the drink station, and then bringing the drinks back to the table, the waiter can simply check the screen and bring the necessary drinks to the table.",
+    "team_profiles": [
+        {
+            "username": "@mmwagner",
+            "name": "@mmwagner"
+        },
+        {
+            "username": "@zpm",
+            "name": "@zpm"
+        },
+        {
+            "username": "@jmccambr",
+            "name": "@jmccambr"
+        },
+        {
+            "username": "@ppetraki",
+            "name": "@ppetraki"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Breadboard - Mini Modular (Green) - PRT-12046 - SparkFun Electronics",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: Cork Sheets - Plain 24\" x 36\", 1/16\" thick: Home & Kitchen",
+            "cost": "$8.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$3.92",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$3.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electronix Express - Hook up Wire Kit (Stranded Wire Kit) 22 Gauge (25",
+            "cost": "$17.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Cast Acrylic Plexiglass Plastic Sheet 1/8\" x 12\" x 12\" - C",
+            "cost": "$4.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Resistor Kit - 1/4W (500 total) - COM-10969 - SparkFun Electronics",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Force Sensitive Resistor - Square - SEN-09376 - SparkFun Electronics",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Flexiforce Pressure Sensor - 25lbs (1\" area) - SEN-11207 - SparkFun El",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Adafruit Feather 32u4 Bluefruit LE ID: 2829 - $29.95 : Adafruit Indust",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 500mAh ID: 1578 - $7.95 : Adafruit ",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/6/0.jpg",
+        "garage/6/1.jpg",
+        "garage/6/2.jpg",
+        "garage/6/3.jpg",
+        "garage/6/4.jpg",
+        "garage/6/5.jpg",
+        "garage/6/6.jpg",
+        "garage/6/7.jpg"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Zip",
+    "date": "10 Nov 2021",
+    "detail": "a different kind of cable-driven robot.",
+    "extended_details": "Set it on a table, hook up a few cables, and let it go. \r\n\r\nAn entirely self-contained cable driven robot. Instead of having a big frame with motors at all the corners, I am going to put all the motors onto the center end-effector. An INVERSED cable driven robot! Zip will have all the ropes bundled up in its center; to set it up in a new environment, just pull those cables out and mount them to the edges of a table. My robot will only move on a flat surface (unlike the example pictures provided). \r\n\r\nThe mechanism has opportunities to be elegant beyond its portability. The cable winches will be mounted with encoders, so manually pulling the cables to the table edges during setup will automatically calibrate Zip to whatever surface size you choose. \r\n\r\nIt will definitely run slow in this first iteration, but my priority during the hackathon is to get precise and smooth motion down while having it be entirely self-contained. A secondary goal is to make it physically robust and and portable; to be specific, make the calibration and setup process smooth. \r\n\r\nThe biggest challenges I anticipate include the mechanical design to fit everything in a stable configuration in such a limited space, and to keep all the cables in tension as it moves. There are fantastic resources online for traditional cable-driven robot assemblies that I will take advantage of.",
+    "team_profiles": [
+        {
+            "username": "@ahakim",
+            "name": "@ahakim"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/734/0.jpg"
+    ]
+}

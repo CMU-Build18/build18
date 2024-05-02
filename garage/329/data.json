@@ -1,0 +1,28 @@
+{
+    "title": "ChessBot",
+    "date": "08 Nov 2017",
+    "detail": "Ever wanted to play chess with an AI but also wanted a physical board? We got you covered!",
+    "extended_details": "We will create a chess AI but also build a robotic arm that plays as the AI. We plan on using motors to move the arm and using photoresistors to keep track of which spots have pieces on them and when they are moved.",
+    "team_profiles": [
+        {
+            "username": "@jtsaw",
+            "name": "@jtsaw"
+        },
+        {
+            "username": "@elucero",
+            "name": "@elucero"
+        },
+        {
+            "username": "@rbao",
+            "name": "@rbao"
+        },
+        {
+            "username": "@youngwo1",
+            "name": "@youngwo1"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/329/0.jpg"
+    ]
+}

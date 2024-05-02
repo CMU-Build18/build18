@@ -1,0 +1,105 @@
+{
+    "title": "miniFighter",
+    "date": "21 Oct 2018",
+    "detail": "A giant midifighter on the wall for fun",
+    "extended_details": "A giant midifighter using a large conductive wall, and light bulbs/LEDs. The conductive wall will be made using conductive paint as well as acrylic/glass.",
+    "team_profiles": [
+        {
+            "username": "@cdgu",
+            "name": "@cdgu"
+        },
+        {
+            "username": "@shanelh",
+            "name": "@shanelh"
+        },
+        {
+            "username": "@qianyic",
+            "name": "@qianyic"
+        },
+        {
+            "username": "@dpratyus",
+            "name": "@dpratyus"
+        },
+        {
+            "username": "@shempton",
+            "name": "@shempton"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Wood (backboard)",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Hex Head Screw, 1/4\"-20 Thread Size, 2-1/2\" Long",
+            "cost": "$11.74",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Nylon-Insert Locknut, 1/4\"-20 Thread Size",
+            "cost": "$4.32",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "100-100 Plain Square Extrusion, 4 ft. length, Clear Satin Anodize",
+            "cost": "$10.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Spacer 3/8 OD x .257 ID x 3/4 Long",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic 2447 white 2 x 2 ft 1/8 inch",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED strips",
+            "cost": "$20.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Antrader Dowel Pins 50PCS 304 Stainless Steel Cylindrical Pin Locating",
+            "cost": "$10.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "100-329 Plastic End Cap",
+            "cost": "$0.55",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "200-305-HF 3-Way Gray Composite \u201cT\u201d Connector",
+            "cost": "$3.15",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Aluminum Spacer 3/8 OD x .257 ID x 3/4 Long",
+            "cost": "$0.96",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "ITO (Indium Tin Oxide) Coated PET Plastic - 100mm x 200mm",
+            "cost": "$8.96",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/438/0.jpg"
+    ]
+}

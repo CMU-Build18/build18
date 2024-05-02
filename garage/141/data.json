@@ -1,0 +1,93 @@
+{
+    "title": "CPR Asistance System",
+    "date": "19 Nov 2016",
+    "detail": "Improve the effectiveness in emergencies of non-CPR trained people, instantly.",
+    "extended_details": "CPR is a process that usually requires special training ahead of time to respond to an emergency effectively. Most of the time, CPR is not done properly, and this reduces the chances of successfully saving people's lives.\r\nTo improve the chances of an untrained person being effective, we thought that creating gloves that could give instant feedback on whether the force being applied is sufficient or not. This feedback can be in the way of instructions or visual cues indicating if the CPR is being done correctly, as well as the positioning of the hands.",
+    "team_profiles": [
+        {
+            "username": "@avictori",
+            "name": "@avictori"
+        },
+        {
+            "username": "@qianyic",
+            "name": "@qianyic"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit Trinket - Mini Microcontroller - 5V Logic ID: 1501 - $6.95 : ",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PowerBoost 500 Charger - Rechargeable 5V Lipo USB Boost @ 500mA+ ID: 1",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "NeoPixel Ring - 12 x 5050 RGB LED with Integrated Drivers ID: 1643 - $",
+            "cost": "$7.49",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 1200mAh ID: 258 - $9.95 : Adafruit ",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Electronix Express - Hook up Wire Kit (Stranded Wire Kit) 22 Gauge (25",
+            "cost": "$22.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Small Force Sensing Resistor | FlexiForce A301 Sensor | Tekscan",
+            "cost": "$49.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.68",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "E-Projects EPC-103 16 Value Resistor Kit, 10 Ohm - 1M Ohm (Pack of 400",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/141/0.jpg"
+    ]
+}

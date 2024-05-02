@@ -1,0 +1,33 @@
+{
+    "title": "Fuchsia",
+    "date": "24 Sep 2019",
+    "detail": "End to end music synthesis system",
+    "extended_details": "In recent years, music synthesis has increasingly sounded more realistic in part from advancements in AI. In order for synthesized music to sound as high-quality as possible, generated audio must sound good from speakers. This project aims to build a music synthesis system optimized with respect to both software and hardware.",
+    "team_profiles": [
+        {
+            "username": "@jl5",
+            "name": "@jl5"
+        },
+        {
+            "username": "@peterw1",
+            "name": "@peterw1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "DIY Speaker",
+            "cost": "$229.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sound-Absorbing Sheet with Adhesive Backing, 54\" Wide x 1\" Thick",
+            "cost": "$20.01",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/513/0.jpg"
+    ]
+}

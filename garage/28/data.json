@@ -1,0 +1,109 @@
+{
+    "title": "TeleScopic Quadcopter",
+    "date": "27 Nov 2015",
+    "detail": "Quadcopter that will be able to change it size, and balance objects.",
+    "extended_details": "Morphing quadcopter that has ability to change it shape. With new interest, and innovation in quadcopter technology this will help quadcopters be able to maneuver around tight corners. In search&rescue missions or disaster situations you never know where you have to drive through. This will allow it to carry heavy payload, and get through narrow areas.",
+    "team_profiles": [
+        {
+            "username": "@krcarter",
+            "name": "@krcarter"
+        },
+        {
+            "username": "@saclark",
+            "name": "@saclark"
+        },
+        {
+            "username": "@ngodbole",
+            "name": "@ngodbole"
+        },
+        {
+            "username": "@ilo1",
+            "name": "@ilo1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Hobbypower X525 V3 Quadcopter Foldable Kit 1000KV Motor KK",
+            "cost": "$114.86",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: TOMTOP RC B3 LiPo 2S-3S Battery Balancer Charger 7.4-11.1V",
+            "cost": "$9.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Floureon High Quality 11.1V 3000mAh 3S 30C Lipo RC Battery",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Hobbypower A2212 1000kv Brushless Motor + 30a ESC for Mult",
+            "cost": "$13.32",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: niceeshop(TM) High Quality Carbon Fiber Magnetic Propeller",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Integy C23212 Lipo Voltage Checker/Warning Buzzer: Toys & ",
+            "cost": "$2.57",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: OrangeRx R615X DSM2/DSMX Compatible 6Ch 2.4GHz Receiver w/",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Monoprice Fastening Tape 0.75inch One Wrap Hook & Loop Fas",
+            "cost": "$5.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 8\" Plastic Cable Zip Ties 100-Pack (Black): Home Improveme",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 63/37 Tin/Lead 0.8mm Rosin Flux Core Solder Wire Reel: Hom",
+            "cost": "$5.04",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: VEX Robotics Rack Gear (16-pack): Toys & Games",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Spektrum R5520  DX5e DSMX 5-Channel Transmitter Only Mode ",
+            "cost": "$63.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Steel Pan Head Machine Screw, Zinc Plated, Meets ASME B18.6.3, T25 Sta",
+            "cost": "$3.51",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/28/0.jpg",
+        "garage/28/1.jpg",
+        "garage/28/2.jpg"
+    ]
+}

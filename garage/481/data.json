@@ -1,0 +1,57 @@
+{
+    "title": "I am Mario",
+    "date": "29 Oct 2018",
+    "detail": "You controlled him earlier....... Now you will be 'him'",
+    "extended_details": "We will be playing Super Mario game and other common games but instead of using the normal controller, they will all be gesture based.",
+    "team_profiles": [
+        {
+            "username": "@naveenl",
+            "name": "@naveenl"
+        },
+        {
+            "username": "@rmuthaiy",
+            "name": "@rmuthaiy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Kinect Adapter for Windows 10 PC",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Xbox One Kinect Sensor",
+            "cost": "$99.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Jumper Wires",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "RaspberryPi",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Accelerometer",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Micro SD card",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/481/0.jpg"
+    ]
+}

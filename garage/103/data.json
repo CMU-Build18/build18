@@ -1,0 +1,149 @@
+{
+    "title": "Ducha Clean",
+    "date": "29 Nov 2015",
+    "detail": "A smart shower head that revolutionizes the showering experience.",
+    "extended_details": "A unique shower head attachment that slightly heats up the water before it exits. The showerhead will also feature LED lights that will make it appear as though the water has changed color and a speaker that can play music while a person is showering. The led lights can help indicate water temperature and shower time.  Also, some energy will be gathered from the flow of the water and the temperature difference between the air and water. However, we plan to have a backup USB input for charging.",
+    "team_profiles": [
+        {
+            "username": "@rbezbaru",
+            "name": "@rbezbaru"
+        },
+        {
+            "username": "@htran",
+            "name": "@htran"
+        },
+        {
+            "username": "@jokoro",
+            "name": "@jokoro"
+        },
+        {
+            "username": "@spersau1",
+            "name": "@spersau1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Electric Heating Pad - 10cm x 5cm ID: 1481 - $3.95 : Adafruit Industri",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Flora RGB Smart NeoPixel version 2 - Pack of 4 ID: 1260 - $7.95 : Adaf",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Lithium Ion Battery - 3.7v 2000mAh ID: 2011 - $12.50 : Adafruit Indust",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A [1000C] ",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Peltier Thermo-Electric Cooler Module - 5V 1A ID: 1331 - $14.95 : Adaf",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MagicShowerhead SH1026 7 LED Colors Fading Shower Head - Fixed Showerh",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Teensy 3.2 + header ID: 2756 - $19.95 : Adafruit Industries, Unique & ",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Waterproof DS18B20 Digital temperature sensor + extras ID: 381 - $9.95",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Micro Servo - High Powered, High Torque Metal Gear ID: 2307 - $11.95 :",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 4A (4000mA) switching power supply - UL Listed ID: 1466 - $14.95 : ",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Silicone Cover Stranded-Core Wire - 25ft 26AWG - Blue ID: 2514 - $4.95",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MCP9808 High Accuracy I2C Temperature Sensor Breakout Board ID: 1782 -",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sloan 3326009 MIX-60-A Mechanical Mixing Valve for Lavatory Faucet - F",
+            "cost": "$25.70",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Valterra W01-1400PB 3/8\" I.D. x 10' Clear Vinyl Tubing wit",
+            "cost": "$10.21",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : EcoPlus 728492 Eco 100 Submersible Pump, 100GPH : Pond Wa",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Foxnovo Female Wire Cables 40-pin Male to Male /Female to ",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solderless Plug-in BreadBoard, 830 tie-points, 2 Power lanes, 200PTS, ",
+            "cost": "$3.06",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DS18B20 Digital temperature sensor + extras ID: 374 - $3.95 : Adafruit",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "MicroSD card breakout board+ ID: 254 - $14.95 : Adafruit Industries, U",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/103/0.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "BagelBot",
+    "date": "13 Nov 2020",
+    "detail": "With the advent of cooking robots and the pandemic, what better way to have socially distanced meals than with BagelBot?",
+    "extended_details": "The BagelBot launches bagels.\r\n\r\nIt is a means of providing an enjoyable and safe method of food distribution, to avoid close contact and spread a basic necessity (and not a virus).",
+    "team_profiles": [
+        {
+            "username": "@kerenh",
+            "name": "@kerenh"
+        },
+        {
+            "username": "@ahzhao",
+            "name": "@ahzhao"
+        },
+        {
+            "username": "@mcrotty",
+            "name": "@mcrotty"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/677/0.jpg"
+    ]
+}

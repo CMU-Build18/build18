@@ -1,0 +1,48 @@
+{
+    "title": "Brakes for Buggy",
+    "date": "17 Nov 2016",
+    "detail": "Make brakes for a self driving buggy",
+    "extended_details": "Design and create functioning brakes for a self-driving buggy to be used in April. Caliper brakes will be controlled by a stepper and the system will be connected to a MicroPython board.",
+    "team_profiles": [
+        {
+            "username": "@emilliga",
+            "name": "@emilliga"
+        },
+        {
+            "username": "@cperry",
+            "name": "@cperry"
+        },
+        {
+            "username": "@yihanz",
+            "name": "@yihanz"
+        },
+        {
+            "username": "@zhengx",
+            "name": "@zhengx"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$20.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Sunlite Side Pull Brake Set, 61 - 79mm Reach, Silver : Bi",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$129.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/136/0.jpg",
+        "garage/136/1.jpg"
+    ]
+}

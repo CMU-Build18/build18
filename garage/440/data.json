@@ -1,0 +1,65 @@
+{
+    "title": "Robot Pet Dog",
+    "date": "23 Oct 2018",
+    "detail": "A dog, a friend, a follower to whatever end",
+    "extended_details": "We are going to make a pet dog that follows a clippable geo-tag. This dog will have sight (obstacle detection), be playful (random running around near the owner), turning capabilities, customizable barking (speaker), and play fetch.",
+    "team_profiles": [
+        {
+            "username": "@akong",
+            "name": "@akong"
+        },
+        {
+            "username": "@danielco",
+            "name": "@danielco"
+        },
+        {
+            "username": "@vgbhat",
+            "name": "@vgbhat"
+        },
+        {
+            "username": "@rlucht",
+            "name": "@rlucht"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Mega",
+            "cost": "$14.86",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Voltage regulator",
+            "cost": "$11.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker",
+            "cost": "$6.53",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servos",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Battery",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "IR receiver and transmitter",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/440/0.jpg"
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "title": "ARI",
+    "date": "27 Oct 2018",
+    "detail": "ARI, your mental health companion.",
+    "extended_details": "In a situation of high stress and frustration, people often forget to breathe, which can lead to an anxiety or panic attack. A gentle reminder to focus on the feelings of their body can help people relax and find peace in their mind. Currently, phone apps like Headspace and Calm provide mental health support passively. Users have to become aware of their symptom first before choosing to use these apps to address their discomfort. These apps do not provide real-time mitigation and relief, and are therefore only effective during the aftermath.\r\nAri presents a proactive solution that assists the users before they experience anxiety attack. Ari is a lamp with awareness. It blends in with the ambient environment by silently listens to a user\u2019s heart rate and level of activeness. Ari interacts with the user with its breathing light that effectively occupies user\u2019s peripheral attention and guides the user to match their breathing pattern with Ari.",
+    "team_profiles": [
+        {
+            "username": "@nprakas1",
+            "name": "@nprakas1"
+        },
+        {
+            "username": "@fandujar",
+            "name": "@fandujar"
+        },
+        {
+            "username": "@wxl",
+            "name": "@wxl"
+        },
+        {
+            "username": "@mengyinf",
+            "name": "@mengyinf"
+        },
+        {
+            "username": "@ier",
+            "name": "@ier"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "USB LiIon/LiPoly charger - v1.2",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 500mAh",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bluetooth 4.0 Wireless Fitness Heart Rate Monitor Smart Sensor Chest S",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NeoPixel Ring - 24 x 5050 RGB LED with Integrated Drivers",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Clear plastic ball",
+            "cost": "$24.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker - 40mm Diameter - 4 Ohm 3 Watt",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Multi-Colored Heat Shrink Pack - 3/32\" + 1/8\" + 3/16\" Diameters",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Triple-Axis Accelerometer - \u00b12/4/8g @ 14-bit - MMA8451",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Feather nRF52 Bluefruit LE - nRF52832",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Trinket - Mini Microcontroller - 5V Logic",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit LiIon/LiPoly Backpack Add-On for Pro Trinket/ItsyBitsy",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Flora neopixels (sewable)",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pulse Sensor Amped",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/448/0.jpg"
+    ]
+}

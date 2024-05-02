@@ -1,0 +1,20 @@
+{
+    "title": "GRASP",
+    "date": "13 Nov 2020",
+    "detail": "Have you ever needed an extra hand? Well, you are in luck! Now its within reach!",
+    "extended_details": "We hope to create a prototype robotic hand that will track a user's hand motion using gesture detection through Leap Motion and replicate it through image processing.",
+    "team_profiles": [
+        {
+            "username": "@rashik",
+            "name": "@rashik"
+        },
+        {
+            "username": "@ckasuba",
+            "name": "@ckasuba"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/673/0.jpg"
+    ]
+}

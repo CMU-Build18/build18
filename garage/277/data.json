@@ -1,0 +1,32 @@
+{
+    "title": "AR Yi-Gi-Oh",
+    "date": "06 Nov 2017",
+    "detail": "Kattobingu your friend in real life",
+    "extended_details": "Augmented Reality Yu-Gi-Oh trading card game with animated duel. Localized game environment once camera detected Yu-Gi-Oh mat, drew card using image detection, animated character in joystick selected monster/trap zone.",
+    "team_profiles": [
+        {
+            "username": "@sadom",
+            "name": "@sadom"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Yu-Gi-Oh mat",
+            "cost": "$23.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HoloKit",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/277/0.jpg",
+        "garage/277/1.jpg",
+        "garage/277/2.jpg",
+        "garage/277/3.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Dorm Bot",
+    "date": "31 Oct 2018",
+    "detail": "A simple robot to help with everyday tasks in your dorm",
+    "extended_details": "A portable robot that includes wireless charging capabilites to generally help with simple tasks such as lighting and alarm.  In addition, the robot will feature a heater and cooler for a beverage through the use of peltairs, fans, and heat sinks.",
+    "team_profiles": [
+        {
+            "username": "@rbezbaru",
+            "name": "@rbezbaru"
+        },
+        {
+            "username": "@htran",
+            "name": "@htran"
+        },
+        {
+            "username": "@spersau1",
+            "name": "@spersau1"
+        },
+        {
+            "username": "@mmessers",
+            "name": "@mmessers"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/490/0.jpg"
+    ]
+}

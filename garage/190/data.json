@@ -1,0 +1,212 @@
+{
+    "title": "Smart Ball",
+    "date": "21 Nov 2016",
+    "detail": "Did your ball fly over the fence? Just command it to return back.",
+    "extended_details": "Our project is a bouncing ball that can move forward, backward, and sideways. It does not require any physical contact, just a remote control.",
+    "team_profiles": [
+        {
+            "username": "@jaeeunl",
+            "name": "@jaeeunl"
+        },
+        {
+            "username": "@leehsu",
+            "name": "@leehsu"
+        },
+        {
+            "username": "@acedillo",
+            "name": "@acedillo"
+        },
+        {
+            "username": "@camin",
+            "name": "@camin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.01",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$28.71",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$6.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno Enclosure - Clear Plastic - PRT-12838 - SparkFun Electroni",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Dxg 100 Pack 6 Inch 2.5*150mm Self-locking Nylon Cable Tie",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Super Glue The Original Super Glue 15187, .07 Ounce, 12-pa",
+            "cost": "$5.77",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rocker Switch - SPST (round) - COM-11138 - SparkFun Electronics",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Breadboard-Friendly PCB Mount Mini Speaker - 8 Ohm 0.2W ID: 1898 - $1.",
+            "cost": "$1.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$8.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno - R3 - DEV-11021 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - 75:1 Metal Gearmotor 25Dx54L mm LP 6V with 48 CPR Encoder",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.83",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu 25D mm Metal Gearmotor Bracket Pair",
+            "cost": "$7.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Dual H-Bridge Motor Driver for DC or Steppers - 600mA - L293D ID: 807 ",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: uxcell 2 Pcs Black Plastic 9V Cells Battery Holder Case Bo",
+            "cost": "$2.84",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.27",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/190/0.jpg",
+        "garage/190/1.jpg",
+        "garage/190/2.jpg",
+        "garage/190/3.jpg",
+        "garage/190/4.jpg",
+        "garage/190/5.jpg",
+        "garage/190/6.jpg",
+        "garage/190/7.jpg",
+        "garage/190/8.jpg",
+        "garage/190/9.jpg",
+        "garage/190/10.jpg",
+        "garage/190/11.jpg",
+        "garage/190/12.jpg",
+        "garage/190/13.jpg",
+        "garage/190/14.jpg",
+        "garage/190/15.jpg",
+        "garage/190/16.jpg",
+        "garage/190/17.jpg",
+        "garage/190/18.jpg",
+        "garage/190/19.jpg",
+        "garage/190/20.jpg",
+        "garage/190/21.jpg",
+        "garage/190/22.jpg",
+        "garage/190/23.jpg",
+        "garage/190/24.jpg",
+        "garage/190/25.jpg",
+        "garage/190/26.jpg",
+        "garage/190/27.jpg",
+        "garage/190/28.jpg",
+        "garage/190/29.jpg",
+        "garage/190/30.jpg",
+        "garage/190/31.jpg",
+        "garage/190/32.jpg",
+        "garage/190/33.jpg",
+        "garage/190/34.jpg",
+        "garage/190/35.jpg",
+        "garage/190/36.jpg",
+        "garage/190/37.jpg",
+        "garage/190/38.jpg",
+        "garage/190/39.jpg",
+        "garage/190/40.jpg",
+        "garage/190/41.jpg",
+        "garage/190/42.jpg",
+        "garage/190/43.jpg",
+        "garage/190/44.jpg",
+        "garage/190/45.jpg",
+        "garage/190/46.jpg",
+        "garage/190/47.jpg",
+        "garage/190/48.jpg",
+        "garage/190/49.jpg",
+        "garage/190/50.jpg",
+        "garage/190/51.jpg",
+        "garage/190/52.jpg",
+        "garage/190/53.jpg",
+        "garage/190/54.jpg",
+        "garage/190/55.jpg",
+        "garage/190/56.jpg",
+        "garage/190/57.jpg",
+        "garage/190/58.jpg",
+        "garage/190/59.jpg",
+        "garage/190/60.jpg",
+        "garage/190/61.jpg",
+        "garage/190/62.jpg",
+        "garage/190/63.jpg"
+    ]
+}

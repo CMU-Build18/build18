@@ -1,0 +1,83 @@
+{
+    "title": "DevLight",
+    "date": "25 Oct 2019",
+    "detail": "DevLight intends to decrease the inequity in safety of the general population in developing countries",
+    "extended_details": "This will utilize body heat as a form of energy to create light. Its ergonomic design will be able to suit people of all walks of life.",
+    "team_profiles": [
+        {
+            "username": "@fandujar",
+            "name": "@fandujar"
+        },
+        {
+            "username": "@arojas2",
+            "name": "@arojas2"
+        },
+        {
+            "username": "@shreyara",
+            "name": "@shreyara"
+        },
+        {
+            "username": "@josegarc",
+            "name": "@josegarc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Premium Male/Male Jumper Wires - 40 x 6\" (150mm)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Battery Pack for Raspberry Pi - 5000mAh - 5V @ 2.1A",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Nth-Light Narrow LED Flexible Strip Light",
+            "cost": "$18.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Aluminum Heat Sink for Raspberry Pi 3 or 4 - 15 x 15 x 15mm",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Peltier Thermo-Electric Cooler Module - 5V 1A",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Peltier Thermo-Electric Cooler Module - 12V 5A",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Architectural 6063 Aluminum Bar",
+            "cost": "$22.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Flatback Heat Sink",
+            "cost": "$35.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Matrixes",
+            "cost": "$25.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/586/0.jpg"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Cubytes",
+    "date": "21 Nov 2016",
+    "detail": "Modular speakers that can be connected to each other for better volume",
+    "extended_details": "When buying speakers, people often have to make a tough choice.  One choice is to opt for small portable speakers that are convenient to carry, but do not have the range of volume to play for groups of more than two to three people.  The other choice is to get larger speakers that are great for groups and events, but often too expensive and bulky to really be practical for one person to buy.  \r\n\r\n\r\nOur solution, Cubytes, is a bundle of small modular speakers that communicate with one another.  The user can toggle between one and many units depending on the scale of audio they wish for the speakers to produce. This way, an individual user can buy just one affordable, portable unit for their personal use.  However, if the user requires more volume, then multiple units can be connected.  The speakers can then be adjusted to play the same audio at the same time to effectively multiply the sound output.  \r\n\r\n\r\nWe plan to build the speaker units and have them communicate with one another using a combination of Arduino, Bluetooth, and LEDs. The speakers\u2019 states can be controlled remotely using an app, and can be set to mimic the audio of another unit within a set Bluetooth radius.",
+    "team_profiles": [
+        {
+            "username": "@vaidehis",
+            "name": "@vaidehis"
+        },
+        {
+            "username": "@aarohip",
+            "name": "@aarohip"
+        },
+        {
+            "username": "@ericat1",
+            "name": "@ericat1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Arduino Uno R3 Microcontroller A000066: Computers & Access",
+            "cost": "$16.06",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$15.62",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Vktech 10pcs 4x6cm Double Side Prototype PCB Universal Pri",
+            "cost": "$3.33",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$12.68",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "microtivity IL111 5mm Diffused Red LED w/ Resistors (Pack of 30) - Led",
+            "cost": "$5.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Duracell MN1604 9 Volt, 4 Pack: Health & Personal Care",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$8.88",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$8.35",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/196/0.jpg",
+        "garage/196/1.jpg",
+        "garage/196/2.jpg",
+        "garage/196/3.jpg",
+        "garage/196/4.jpg",
+        "garage/196/5.jpg"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "title": "GunAR",
+    "date": "05 Nov 2017",
+    "detail": "GunAR is an interactive multiplayer game that brings laser tag from the arena to you! The arena beckons!",
+    "extended_details": "GunAR interfaces a user\u2019s phone camera with a machine learning algorithm to identify other players and register hits. A user\u2019s phone acts as a scope where players who enter the crosshairs of another player are susceptible to being shot. A phone app keeps track of player hits and other game information in real time. Players can change game settings such as the timer and max hit count as well as the appearance of their scope through the app to make the experience more customizable. A short cable connects the player\u2019s phone to a button embedded next to the gun\u2019s trigger to detect when the gun is fired. After a registered hit, a brief timer delay is implemented to prevent the shooter from repeatedly shooting the victim. GunAR does not rely on wifi to register hits, so players can use it without a wifi connection. However, playing with wifi allows phones to connect to one another so that each player can identify if they were hit and keep track of other players\u2019 scores.",
+    "team_profiles": [
+        {
+            "username": "@bpek",
+            "name": "@bpek"
+        },
+        {
+            "username": "@tkanchar",
+            "name": "@tkanchar"
+        },
+        {
+            "username": "@evannw",
+            "name": "@evannw"
+        },
+        {
+            "username": "@mkronove",
+            "name": "@mkronove"
+        },
+        {
+            "username": "@alexl3",
+            "name": "@alexl3"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "On/Off Switch",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Half-size breadboard",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Raspberry Pi",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Heatshrink",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Laser Pointers",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Budget Arduino Pack",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Battery Clip",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Compression Springs",
+            "cost": "$5.01",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Compression Springs",
+            "cost": "$5.01",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Compression Springs",
+            "cost": "$5.01",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9V Batteries",
+            "cost": "$9.49",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/274/0.jpg"
+    ]
+}

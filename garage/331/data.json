@@ -1,0 +1,28 @@
+{
+    "title": "Virtuoso",
+    "date": "08 Nov 2017",
+    "detail": "A piano that can play any piece of sheet music by itself.",
+    "extended_details": "We want to control an electric keyboard automatically. It would be amazing to also have a module that can read and interpret basic sheet music and have the piano play that.",
+    "team_profiles": [
+        {
+            "username": "@tstentz",
+            "name": "@tstentz"
+        },
+        {
+            "username": "@oweiss",
+            "name": "@oweiss"
+        },
+        {
+            "username": "@rastentz",
+            "name": "@rastentz"
+        },
+        {
+            "username": "@ishaang",
+            "name": "@ishaang"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/331/0.jpg"
+    ]
+}

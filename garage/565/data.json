@@ -1,0 +1,111 @@
+{
+    "title": "ASL Robotic Hand",
+    "date": "13 Oct 2019",
+    "detail": "A robotic hand that can translate speech into sign language",
+    "extended_details": "We want to create a robotic hand that can simulate the sign language alphabet as well as other simple one handed signs. This hand will be able to listen to voice command and sign based on these voice commands. We will also have a software component that will translate English into sign language and vice versa.",
+    "team_profiles": [
+        {
+            "username": "@nsivakum",
+            "name": "@nsivakum"
+        },
+        {
+            "username": "@jrlew",
+            "name": "@jrlew"
+        },
+        {
+            "username": "@sroongta",
+            "name": "@sroongta"
+        },
+        {
+            "username": "@svtam",
+            "name": "@svtam"
+        },
+        {
+            "username": "@avesco",
+            "name": "@avesco"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Compression Spring",
+            "cost": "$10.77",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor Driver",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Leap Motion Controller",
+            "cost": "$89.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro servo",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "Microphone",
+            "cost": "$19.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro SD card",
+            "cost": "$19.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Torsional Springs",
+            "cost": "$4.63",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "3D Printing Budget",
+            "cost": "$150.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Fishing line/string (8lb 110yd)",
+            "cost": "$6.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Motor Driver",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LCD screen",
+            "cost": "$14.02",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/565/0.jpg"
+    ]
+}

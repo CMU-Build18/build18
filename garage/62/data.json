@@ -1,0 +1,71 @@
+{
+    "title": "Gesture-controlled Robot Arm",
+    "date": "28 Nov 2015",
+    "detail": "The possible future of interaction between human and humanoid robots.",
+    "extended_details": "We are going to build a simple robot arm which is controlled by hand and arm gestures. Basically, the robot arm follows the gestures of one's hands and arms. It is a different way of human-machine interaction. Its application is vast: precision manufacturing, surgery, wearable robots (such as exo suits), etc. \r\nGeneral methodology: 1) get data of hand or arm motions with flex sensors attached to hand and arm; 2) process the data with RPi; 3) send data to the receiver of the robot arm and perform corresponding actions.",
+    "team_profiles": [
+        {
+            "username": "@zhengyup",
+            "name": "@zhengyup"
+        },
+        {
+            "username": "@hfang",
+            "name": "@hfang"
+        },
+        {
+            "username": "@yuliu2",
+            "name": "@yuliu2"
+        },
+        {
+            "username": "@zhiqig",
+            "name": "@zhiqig"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Mini Pushbutton Switch - COM-00097 - SparkFun Electronics",
+            "cost": "$0.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flex Sensor 4.5\" - SEN-08606 - SparkFun Electronics",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$21.43",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun XBee Explorer Dongle - WRL-11697 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "XBee 2mW PCB Antenna - Series 2 (ZigBee Mesh) - WRL-11217 - SparkFun E",
+            "cost": "$25.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Voltage Regulator - 5V - COM-00107 - SparkFun Electronics",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$119.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/62/0.jpg"
+    ]
+}

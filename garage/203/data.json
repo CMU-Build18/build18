@@ -1,0 +1,45 @@
+{
+    "title": "Real Life Snapchat Filters",
+    "date": "21 Nov 2016",
+    "detail": "Bring your favorite filters to life with facial projection mapping!",
+    "extended_details": "Snapchat\u2019s filters, or Lenses, have become a ubiquitous part of social media. Our project aims to bring them to life using a camera for face detection and real time tracking and a projector for 3d projection mapping directly onto faces. We will also incorporate several of our own mask designs and visuals.",
+    "team_profiles": [
+        {
+            "username": "@htomio",
+            "name": "@htomio"
+        },
+        {
+            "username": "@antonk",
+            "name": "@antonk"
+        },
+        {
+            "username": "@cneri",
+            "name": "@cneri"
+        },
+        {
+            "username": "@gyeongyk",
+            "name": "@gyeongyk"
+        },
+        {
+            "username": "@slall",
+            "name": "@slall"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$269.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Pro HD Webcam 1080P Widescreen Video with Microphone for W",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/203/0.jpg"
+    ]
+}

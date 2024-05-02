@@ -1,0 +1,63 @@
+{
+    "title": "AutoMailman - An Aerial Payload Delivery System",
+    "date": "11 Nov 2017",
+    "detail": "Our solution to the last mile delivery problem - autonomous drones that deliver a package right to your door.",
+    "extended_details": "We plan on building a small conceptual demo of what would be part of a larger autonomous delivery system. We will mount a computer vision system and package pickup claw to a standard drone in order to pickup and dropoff packages. Our system will be able to locate a colored packaged within a room, create a path to it, pick it up, and fly to another location with the package in hand - all completely autonomously.",
+    "team_profiles": [
+        {
+            "username": "@jbwood",
+            "name": "@jbwood"
+        },
+        {
+            "username": "@lsnow",
+            "name": "@lsnow"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Drone Props",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "3DR Pixhawk Mini Autopilot",
+            "cost": "$115.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "T plug LiPo Battery",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Module",
+            "cost": "$22.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Brushless Motor + ESC",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Distribution Board",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/341/0.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Synthesizer",
+    "date": "08 Nov 2017",
+    "detail": "We will be constructing our own synthesizer",
+    "extended_details": "We want to make a synthesizer to create our own musical sounds. We think it will be a good way to combine a lot of the different ECE areas that we have learned about so far.",
+    "team_profiles": [
+        {
+            "username": "@careed",
+            "name": "@careed"
+        },
+        {
+            "username": "@mmckinzi",
+            "name": "@mmckinzi"
+        },
+        {
+            "username": "@jertman",
+            "name": "@jertman"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/320/0.jpg"
+    ]
+}

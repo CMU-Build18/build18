@@ -1,0 +1,16 @@
+{
+    "title": "Plap",
+    "date": "15 Nov 2017",
+    "detail": "A Python programmable calculator",
+    "extended_details": "Sick and tired of programming your TI calculator using TI-basic? Why not use a C like programming language instead.",
+    "team_profiles": [
+        {
+            "username": "@oaramire",
+            "name": "@oaramire"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/363/0.jpg"
+    ]
+}

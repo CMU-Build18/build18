@@ -1,0 +1,53 @@
+{
+    "title": "TI-Net",
+    "date": "26 Oct 2019",
+    "detail": "A network adapter for TI-84's that gives them wireless communication capabilities",
+    "extended_details": "TI-84's are cool and all, with the graphs and the games and whatnot. But what if you could connect your TI to another or multiple others without any sort of link cable at all? What if your TI had... wireless networking capabilities! This project poses to create a flash drive-like device that would plug into the mini-USB port of a TI-83+/84+ calculator and give it the power of wireless communication, so you could play multiplayer games against multiple people at the same time, create and communicate in TI chat rooms, or even share files and programs, not-to-mention connecting your TI to other smart devices such as your smartphone or laptop or smart home [speaker], also giving it access to the internet, opening it up to the world of IoT - and even the possibility of TI cloud computing[/gaming] (ya never know).",
+    "team_profiles": [
+        {
+            "username": "@iie",
+            "name": "@iie"
+        },
+        {
+            "username": "@cchima",
+            "name": "@cchima"
+        },
+        {
+            "username": "@sbernal",
+            "name": "@sbernal"
+        },
+        {
+            "username": "@aqd",
+            "name": "@aqd"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Mini B USB cable",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "HC-05 Bluetooth Module",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "TI-84+ Calculator",
+            "cost": "$119.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Metro Mini 328",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/590/0.jpg"
+    ]
+}

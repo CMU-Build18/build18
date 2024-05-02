@@ -1,0 +1,32 @@
+{
+    "title": "Circuit Solver",
+    "date": "20 Oct 2021",
+    "detail": "Confounded by electrical circuits? New to graph theory?",
+    "extended_details": "> Need help with homework?\r\n\r\nThe best method to learn is to write / draw it ourselves. But for complex topics we might not get the proper intuition by just looking at a static picture. \r\n\r\nThis is where our project comes in!\r\n\r\nWe will convert hand drawn electrical circuits into a schematic by performing optical character recognition (with our model). A simulation is then run for the schematic to solve it and give a better intuition of the underlying concepts. \r\n\r\n<hr>\r\n\r\n<strong>ECE major ? </strong>Take a hand drawn circuit, convert it into a schematic and simulate it.<br>\r\n\r\n<strong>CS major ?   </strong>Take a hand drawn graph, find the MST, DFS, BFS, etc. and visualize it step by step.<br>\r\n\r\n<hr>\r\n\r\nThis can be a great learning aid to students who might not have access to other proprietary tools and help professionals make quick and dirty simulations\r\n\r\nThe project can be extended as an AR application.",
+    "team_profiles": [
+        {
+            "username": "@nbagree",
+            "name": "@nbagree"
+        },
+        {
+            "username": "@arjunsen",
+            "name": "@arjunsen"
+        },
+        {
+            "username": "@swariah",
+            "name": "@swariah"
+        },
+        {
+            "username": "@sohank",
+            "name": "@sohank"
+        },
+        {
+            "username": "@tasija",
+            "name": "@tasija"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/714/0.jpg"
+    ]
+}

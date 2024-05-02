@@ -1,0 +1,99 @@
+{
+    "title": "MirrorX",
+    "date": "07 Nov 2017",
+    "detail": "Who wouldn't like to know the weather and the time while they're washing their teeth?",
+    "extended_details": "MirrorX is a Raspberry Pi powered information center with facial recognition that will brighten up anyone's morning. We will use the Dark Sky API to get the weather, Google Calendar to get your daily meetings and pull popular news headlines and motivational quotes so that you can start of your day right.",
+    "team_profiles": [
+        {
+            "username": "@amarkelo",
+            "name": "@amarkelo"
+        },
+        {
+            "username": "@aykilinc",
+            "name": "@aykilinc"
+        },
+        {
+            "username": "@jgmiller",
+            "name": "@jgmiller"
+        },
+        {
+            "username": "@diegom",
+            "name": "@diegom"
+        },
+        {
+            "username": "@kaiwenw1",
+            "name": "@kaiwenw1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Charger",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "18\" x 24\" Acrylic See-Through Mirror, 3mm",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Microphone",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B Motherboard",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LE 20.0 M Pixel USB 6 LED Webcam Mic PC Laptop Camera",
+            "cost": "$5.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Mini Speaker",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "25-Pack 7/64\" Stainless Steel Screw Eye Rings",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "24\" EPDM Rubber Strap, 2 Pack",
+            "cost": "$3.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Duck Brand 299006 3/4-Inch by 60 Feet Utility Vinyl Electrical Tape wi",
+            "cost": "$4.07",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SanDisk Ultra 16GB Ultra Micro SDHC UHS-I/Class 10 Card with Adapter (",
+            "cost": "$9.28",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HP 24uh 24-inch LED Backlit Monitor",
+            "cost": "$115.34",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/297/0.jpg"
+    ]
+}

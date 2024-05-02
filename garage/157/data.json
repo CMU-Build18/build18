@@ -1,0 +1,47 @@
+{
+    "title": "Autonomous Racing Drone",
+    "date": "20 Nov 2016",
+    "detail": "Build and automate a racing quadcopter from scratch",
+    "extended_details": "Our goal for this project is to build a racing quadcopter from scratch. Racing drones differ from regular drones in that they have more of an emphasis on being fast and light. Regular drones, on the other hand, are usually bigger and heavier, and are able to support gear like cameras and gyroscopes. Once we've built the drone, we'll code an AI that uses sensors on the drone to virtually map its environment and navigate a racecourse.",
+    "team_profiles": [
+        {
+            "username": "@nikolasg",
+            "name": "@nikolasg"
+        },
+        {
+            "username": "@lkojiro",
+            "name": "@lkojiro"
+        },
+        {
+            "username": "@rlyster",
+            "name": "@rlyster"
+        },
+        {
+            "username": "@bgb",
+            "name": "@bgb"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$22.21",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$70.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PXFmini | Erle Robotics",
+            "cost": "$73.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/157/0.jpg"
+    ]
+}

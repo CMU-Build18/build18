@@ -1,0 +1,55 @@
+{
+    "title": "Brain-Controlled Wheelchair",
+    "date": "20 Nov 2016",
+    "detail": "The next phase of human-computer interaction",
+    "extended_details": "With the EEG headset the team has, we aim to build a wheelchair which can be maneuvered by brain-wave.\r\n\r\nOther than the EEG technologies, the project involves mechanical work to make the wheelchair move, speech recognition technologies to provide another way of interaction, a variety of sensors to ensure the safety of the wheelchair and other technologies so that the product can be smart and helpful.",
+    "team_profiles": [
+        {
+            "username": "@xiangs1",
+            "name": "@xiangs1"
+        },
+        {
+            "username": "@ruixuanl",
+            "name": "@ruixuanl"
+        },
+        {
+            "username": "@jieming1",
+            "name": "@jieming1"
+        },
+        {
+            "username": "@jmeola",
+            "name": "@jmeola"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$24.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$35.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Arduino Uno R3 Microcontroller A000066: Computers & Access",
+            "cost": "$16.06",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/155/0.jpg",
+        "garage/155/1.jpg",
+        "garage/155/2.jpg"
+    ]
+}

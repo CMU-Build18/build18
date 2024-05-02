@@ -1,0 +1,101 @@
+{
+    "title": "Light It Up",
+    "date": "28 Oct 2018",
+    "detail": "Get mesmerized by dancing lights controllable by MIDI",
+    "extended_details": "We're building an 8x8x8 RGB LED cube for a MIDI-input music visualizer. DotStar LEDs are used to be able to switch fast enough to generate strobing and shaping effects while still being individually addressable.",
+    "team_profiles": [
+        {
+            "username": "@echen2",
+            "name": "@echen2"
+        },
+        {
+            "username": "@rsli",
+            "name": "@rsli"
+        },
+        {
+            "username": "@bridgett",
+            "name": "@bridgett"
+        },
+        {
+            "username": "@deanyons",
+            "name": "@deanyons"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "8516K35 Acrylic Tubes 6ft",
+            "cost": "$8.27",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Striveday\u2122Flexible Silicone Wire",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mediabridge USB 2.0 - Micro-USB to USB Cable (10 Feet)",
+            "cost": "$5.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hot Glue Sticks",
+            "cost": "$5.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 10A Switching Power Supply",
+            "cost": "$37.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Styrofoam Sheets",
+            "cost": "$15.20",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5m White DotStar LED Strip",
+            "cost": "$99.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Masking Tape",
+            "cost": "$7.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Quad Level Shifter",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Break-away 0.1\" Header",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Teensy 3.6 Microcontroller",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Barrel Jack to Breadboard Connector",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/457/0.jpg"
+    ]
+}

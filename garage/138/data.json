@@ -1,0 +1,41 @@
+{
+    "title": "LED Matrix",
+    "date": "17 Nov 2016",
+    "detail": "LED board that you can play with to make a light show.",
+    "extended_details": "# Hardware\r\n\r\n- 1 64x96 LED board driven by a Raspberry Pi, purchased from Adafruit.\r\n\r\n- 1 leap motion\r\n\r\n- FPGA from the ECE labs\r\n\r\n- 1 web-capable touch screen device (like a phone!)\r\n\r\n# Software\r\n\r\n- We want to build a web app that lets you select a song from Spotify or YouTube, and then select what effects you'd like from a menu.\r\n\r\n- The Raspberry Pi listens to the network for these updates, then downloads the song and starts playing it, potentially using the FPGA for rendering complicated 3D image transforms.  We also want to be able to have effects synced live to BPM and maybe try to figure out where in the song we DROP THE BASS.\r\n\r\n- The Leap Motion provides input to the RPi, so you can tap the air and add additional effects.",
+    "team_profiles": [
+        {
+            "username": "@vik",
+            "name": "@vik"
+        },
+        {
+            "username": "@agotsis",
+            "name": "@agotsis"
+        },
+        {
+            "username": "@odb",
+            "name": "@odb"
+        },
+        {
+            "username": "@epnewman",
+            "name": "@epnewman"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "64x32 RGB LED Matrix - 6mm pitch ID: 2276 - $84.95 : Adafruit Industri",
+            "cost": "$84.95",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/138/0.jpg"
+    ]
+}

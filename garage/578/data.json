@@ -1,0 +1,32 @@
+{
+    "title": "Project Icarus",
+    "date": "23 Oct 2019",
+    "detail": "Become a bird using virtual reality",
+    "extended_details": "Using a VR headset and a FPV drone along with a few sensors, we hope to imitate the experience of being a bird.",
+    "team_profiles": [
+        {
+            "username": "@jnnguyen",
+            "name": "@jnnguyen"
+        },
+        {
+            "username": "@pingyac",
+            "name": "@pingyac"
+        },
+        {
+            "username": "@gtchuang",
+            "name": "@gtchuang"
+        },
+        {
+            "username": "@kacoba",
+            "name": "@kacoba"
+        },
+        {
+            "username": "@bjwu",
+            "name": "@bjwu"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/578/0.jpg"
+    ]
+}

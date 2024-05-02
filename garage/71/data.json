@@ -1,0 +1,47 @@
+{
+    "title": "Team Flanders",
+    "date": "28 Nov 2015",
+    "detail": "An N Puzzle game displayed on a bright LED matrix, which can be played using gestures!",
+    "extended_details": "A project that senses the users\u2019 body motions to recognize the type of dance they are performing and plays music accordingly. We were thinking of using a Kinect and Leap Motion for gesture and body motion recognition. Our software would employ classification techniques to decide what form of dance the user is performing, e.g Salsa, Bhangra, Waltz. This classification would involve average tempo, body movements, postures, etc, and would select music that matches. It would use machine-learning so that the device can decide songs for the future based on user\u2019s preferences.",
+    "team_profiles": [
+        {
+            "username": "@apremren",
+            "name": "@apremren"
+        },
+        {
+            "username": "@rds",
+            "name": "@rds"
+        },
+        {
+            "username": "@rsurana",
+            "name": "@rsurana"
+        },
+        {
+            "username": "@imanjarr",
+            "name": "@imanjarr"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "32x32 RGB LED Matrix Panel - 6mm pitch ID: 1484 - $39.95 : Adafruit In",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "5V 2A (2000mA) switching power supply - UL Listed ID: 276 - $7.95 : Ad",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Female DC Power adapter - 2.1mm jack to screw terminal block ID: 368 -",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/71/0.jpg"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Dance Dance Revolution",
+    "date": "07 Nov 2017",
+    "detail": "\"So you think you can dance?\"",
+    "extended_details": "This project is inspired by the dancing game, Dance Dance Revolution (DDR).  In DDR, players dance on a platform by stepping on colored arrows based on musical cues.  Players can dance to a variety of music and are judged based on their accuracy.\r\n\r\nWe will use some kind of microprocessor (Arduino or Raspberry Pi) and connect it to several pressure sensors laying under some material on the floor.  When a player steps on the material, the pressure sensors will send a signal to a computer program running the game, and tabulate the scores.  The computer may also be connected to a projected display for ease of game purposes.\r\n\r\n(Note: Pitch quote from television show: So You Think You Can Dance)",
+    "team_profiles": [
+        {
+            "username": "@ikoramba",
+            "name": "@ikoramba"
+        },
+        {
+            "username": "@cou",
+            "name": "@cou"
+        },
+        {
+            "username": "@suannc",
+            "name": "@suannc"
+        },
+        {
+            "username": "@ethrashe",
+            "name": "@ethrashe"
+        },
+        {
+            "username": "@kdave",
+            "name": "@kdave"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Pressure Sensor Fabric",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Black Wire",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red Wire",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Polycarbonate Sheet",
+            "cost": "$38.40",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Foam Tape",
+            "cost": "$3.49",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arduino Leonardo",
+            "cost": "$26.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Neopixel LED Light Strip",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "5V 2A switching power supply",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "MDF Panels",
+            "cost": "$26.83",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/287/0.jpg"
+    ]
+}

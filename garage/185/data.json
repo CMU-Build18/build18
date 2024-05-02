@@ -1,0 +1,81 @@
+{
+    "title": "Smart Billy Bass Fish",
+    "date": "21 Nov 2016",
+    "detail": "The future in smart home assistants, Billy Bass is Alexa gone horribly wrong",
+    "extended_details": "We want to take a \"Billy Bass Singing Fish\" and hack it to work alongside the Alexa smart home assistant.  Using a Raspberry Pi, an external microphone, an external speaker, and the Alexa API provided by Amazon's developer network, we would hack the inside of the fish so that it can respond to queries to Alexa.  Similarly to Alexa, users can ask the fish about the weather, playing music, etc.  The hack likely includes modifying the internal motor controllers to the fish to allow the Pi to control the movements, as well as determining an appropriate way to move the fish's mouth alongside Alexa.  If there is time, we would like to create a neat form factor for the design so that users can mount the fish on their wall.  Other additional aspects to the project we can add include interfacing the button on the fish to the Pi and adding features to Alexa on the Pi.\r\n\r\nThe project is based off the short youtube video:\r\nhttps://www.youtube.com/watch?v=vn4YlAlHn-Y",
+    "team_profiles": [
+        {
+            "username": "@vcl",
+            "name": "@vcl"
+        },
+        {
+            "username": "@hfbaker",
+            "name": "@hfbaker"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Break-away 0.1 2x20-pin Strip Dual Male Header ID: 2822 - $0.95 : Adaf",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB OTG Host Cable - MicroB OTG male to A female ID: 1099 - $2.50 : Ad",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Tiny OTG Adapter - USB Micro to USB ID: 2910 - $2.95 : Adafruit Indust",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Zero Budget Pack - Includes Pi Zero v1.3",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pibow Zero Case for Raspberry Pi Zero version 1.3",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Kinobo - USB 2.0 Mini Microphone \"Makio\" Mic for Laptop/De",
+            "cost": "$5.21",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$74.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$25.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Motor/Stepper/Servo Shield for Arduino v2 Kit [v2.3] ID: 1438",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/185/0.jpg"
+    ]
+}

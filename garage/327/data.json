@@ -1,0 +1,95 @@
+{
+    "title": "Recorder Robot",
+    "date": "08 Nov 2017",
+    "detail": "Do you like recorders? Have you ever played the robots? Do you have a special friend? Look fun fun fun fun fun fun fun.",
+    "extended_details": "This robot blows air into a recorder to play it at different pitches. Robot will be able to sing songs with the recorder.",
+    "team_profiles": [
+        {
+            "username": "@acpatel",
+            "name": "@acpatel"
+        },
+        {
+            "username": "@jpleung",
+            "name": "@jpleung"
+        },
+        {
+            "username": "@jharrima",
+            "name": "@jharrima"
+        },
+        {
+            "username": "@demorale",
+            "name": "@demorale"
+        },
+        {
+            "username": "@esargent",
+            "name": "@esargent"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Servos",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Splitter",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino mega",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Acrylic cutter",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic plexiglass, clear",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Flute pads",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Airline tubing",
+            "cost": "$3.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Recorders",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Acrylic plexiglass, green",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Air tank",
+            "cost": "$51.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/327/0.jpg",
+        "garage/327/1.jpg",
+        "garage/327/2.jpg"
+    ]
+}

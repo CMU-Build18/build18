@@ -1,0 +1,41 @@
+{
+    "title": "The Ultimate Defroster",
+    "date": "28 Nov 2015",
+    "detail": "Center of your frozen pizza still cold after heating it into the microwave? Never again.",
+    "extended_details": "By placing an infrared camera in a microwave, one can display a heat map of its contents. In so doing, users can determine (based on colors) the temperature their food is at, thereby eliminating any guesswork on whether their food is cooked!\r\n\r\nThis can be achieved by mounting an IR camera on the microwave, taking IR pictures every second or so. This data would be parsed by a wirelessly connected Raspberry Pi, which would display the temperature content on an LED matrix mounted on the front of the microwave. By lighting up selected LEDs at different colors, the LED matrix would effectively display a 2D heat map of the contents of the microwave.",
+    "team_profiles": [
+        {
+            "username": "@crwang",
+            "name": "@crwang"
+        },
+        {
+            "username": "@christok",
+            "name": "@christok"
+        },
+        {
+            "username": "@jcgoode",
+            "name": "@jcgoode"
+        },
+        {
+            "username": "@oelhirai",
+            "name": "@oelhirai"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "FLiR Dev Kit - KIT-13233 - SparkFun Electronics",
+            "cost": "$259.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 2 Model B Project Board - 1GB RAM - 900 MHz Q",
+            "cost": "$37.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/89/0.jpg"
+    ]
+}

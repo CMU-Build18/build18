@@ -1,0 +1,69 @@
+{
+    "title": "CMU Postal Services.. but better -- Post Malautomated",
+    "date": "17 Oct 2018",
+    "detail": "A fast, efficient, low-cost alternative to mainstream mailroom solutions.",
+    "extended_details": "Students often go to CMU postal services and try to pick up packages that either don\u2019t exist or haven\u2019t been processed by the service yet. This leads to massive confusion with people having to repeat their SMC numbers, leading to huge lines during rush hours. The employees also have to deal with the tedious task of validating the SMC number with the recipient\u2019s name. In addition, they have to manually sort the packages and place them in specific locations based on their size. When the user comes to pick up their package, employees must then go find these packages in their various locations. What if there was a way to reduce all this hassle? That is where CMUPSbb comes in.\r\n\r\nCMUPSbb is an AI-assisted system that uses state-of-the-art technologies. All the employees have to do is first take a picture of the packing label at a scanning station and place the package either in the current bin that they are working on or in an alphanumeric location for larger packages.  They don\u2019t need to sort out where the packages would go as CMUPSbb automatically tracks where the packages are being placed. When a student arrives to receive their package, they sign into an online queue and the employees will know the quantity and the precise location of the packages. Their search will be aided by lighting up LEDs next to the box where the packages were placed.",
+    "team_profiles": [
+        {
+            "username": "@ngandhi",
+            "name": "@ngandhi"
+        },
+        {
+            "username": "@rkjain",
+            "name": "@rkjain"
+        },
+        {
+            "username": "@vrajmoha",
+            "name": "@vrajmoha"
+        },
+        {
+            "username": "@jacheng",
+            "name": "@jacheng"
+        },
+        {
+            "username": "@rjwallac",
+            "name": "@rjwallac"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "HP 22\" Monitor with HDMI and VGA",
+            "cost": "$100.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 B+",
+            "cost": "$40.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Cable for Raspberry Pi",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Zero W with Headers",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Camera Module",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Neopixel LED Strip - 2m",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/431/0.jpg"
+    ]
+}

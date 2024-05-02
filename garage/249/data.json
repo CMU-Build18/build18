@@ -1,0 +1,101 @@
+{
+    "title": "Smart Exit Signs",
+    "date": "19 Oct 2017",
+    "detail": "Exit signs that intelligently redirect traffic during an emergency evacuation",
+    "extended_details": "<h1>Here's the Problem</h1>\r\n\r\nExits signs are dumb. They can lead evacuees to doorways filled with flames or create bottlenecks in areas with high traffic density. When the visibility of evacuees is impaired due to smoke, 81.8% look for exit signs to guide their way. Our project is simple: we are redesigning exit signs to prevent traffic jams during an emergency and direct evacuees to unobstructed exits.\r\n\r\n<h1>Our Plan</h1>\r\n\r\nThe first component of our project is a basic system of exit signs that guide evacuees away from a fire based on temperature inputs at each exit. Once this succeeds, we will expand the project to direct evacuee traffic based on the population density at each exit, which will be determined through computer vision analysis. We will base the second part of this project on a paper published by researchers at Yonsei University: \"An automated direction setting algorithm for a smart exit sign.\"\r\n\r\n<h1>Budget & Parts</h1>\r\n\r\nThis basic implementation of this project will cost approximately **$296**, which includes all essential parts. However, the full demonstration of our product will require a larger budget of **$847**.\r\n\r\nSpreadsheets containing a full breakdown of our parts are available for both [high-budget](https://docs.google.com/spreadsheets/d/1w0PBW0OASOfagG_EV8Ev2di0uPhAc6P_2oMeHb_dOnk/edit?usp=sharing) and [low-budget](https://docs.google.com/spreadsheets/d/1_CYa4V1oaKkUNuGJGuiP-rBpFPXGWgXvXdlGTJAHNc8/edit?usp=sharing) scenarios.",
+    "team_profiles": [
+        {
+            "username": "@jfeldgoi",
+            "name": "@jfeldgoi"
+        },
+        {
+            "username": "@hgronlun",
+            "name": "@hgronlun"
+        },
+        {
+            "username": "@jstrieb",
+            "name": "@jstrieb"
+        },
+        {
+            "username": "@vojha",
+            "name": "@vojha"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LED - Basic Red 5mm (25 pack)",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Power Adapter",
+            "cost": "$4.68",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Arduino UNO",
+            "cost": "$10.90",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Acrylic Sheets (SKU: 8505K742)",
+            "cost": "$27.97",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "12Ft USB-2.0 Cable (Type-A to Type-B)",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultrasonic Sensor - HC-SR04",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SanDisk Ultra 32GB microSD Card",
+            "cost": "$13.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MCP9808 High Accuracy I2C Temperature Sensor",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Hook up Wire Kit (Stranded Wire Kit) 22 Gauge",
+            "cost": "$20.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pack of 5 Cardboard Sheets (72\" x 24\")",
+            "cost": "$21.80",
+            "quantity": "\n",
+            "total": "10"
+        }
+    ],
+    "photos": [
+        "garage/249/0.jpg",
+        "garage/249/1.jpg",
+        "garage/249/2.jpg",
+        "garage/249/3.jpg",
+        "garage/249/4.jpg",
+        "garage/249/5.jpg",
+        "garage/249/6.jpg"
+    ]
+}

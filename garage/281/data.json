@@ -1,0 +1,104 @@
+{
+    "title": "Little Dipper",
+    "date": "07 Nov 2017",
+    "detail": "Personalized colored candles!",
+    "extended_details": "Remember that ombre candle you saw through the window of Yankee candles? Perhaps you didn\u2019t like the color scheme, or wanted something more than a generic, store bought candle. Well, look no further! The Little Dipper brings to Build18 2018 our very own, customizable candle designer! You pick and choose the colors you want your candle to be, and watch as the Little Dipper creates a custom candle right before you. \r\n\r\nThe Little Dipper consists of a rotating disk containing heated plates. Each plate contains molten wax of different colors. Alongside these hot plates is a tub of water. In the center of the rotating disk contains a robotic arm mechanism. The setup also contains a graphical interface on a laptop. The user can select their preference of colors and the order they want these colors to appear in, and then press a \u201cSend to Dipper\u201d button. \r\n\r\nWhen this button is pressed, the Little Dipper picks up a candle (provided!) and alternates between dipping it into the molten colored wax and the water. Once the coloring is done, the Little Dipper places the candle into a separate area from which the user can pick it up. \r\n\r\nEnjoy your personalized ombre candle!",
+    "team_profiles": [
+        {
+            "username": "@vaidehis",
+            "name": "@vaidehis"
+        },
+        {
+            "username": "@aarohip",
+            "name": "@aarohip"
+        },
+        {
+            "username": "@ericat1",
+            "name": "@ericat1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Candles",
+            "cost": "$17.46",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arm Motor",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Mounting Brackets",
+            "cost": "$7.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Beakers",
+            "cost": "$6.28",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "Lead Screw",
+            "cost": "$12.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic",
+            "cost": "$18.80",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Lead Screw (arm lateral)",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Transistor",
+            "cost": "$9.69",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Breadboard",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Warming Plate",
+            "cost": "$63.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Clips",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Colored Wax",
+            "cost": "$16.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/281/0.jpg",
+        "garage/281/1.jpg",
+        "garage/281/2.jpg",
+        "garage/281/3.jpg",
+        "garage/281/4.jpg",
+        "garage/281/5.jpg",
+        "garage/281/6.jpg",
+        "garage/281/7.jpg"
+    ]
+}

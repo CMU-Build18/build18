@@ -1,0 +1,129 @@
+{
+    "title": "Hagrid's Wild Ride\u2122",
+    "date": "26 Oct 2017",
+    "detail": "Virtual Reality Quidditch using a spring-based free motion haptic rig",
+    "extended_details": "Virtual Reality Quidditch using a custom haptic input system designed to create complete immersion.\r\n\r\nWe're using a mount made from automotive shock absorber springs, an IMU to create a realistic haptic broom mount for the user. A fan and VR goggles will supplement the haptic input to create complete immersion.\r\n\r\nFor a more detailed plan of our project: [Click Me!](https://docs.google.com/document/d/1ldJjw_6vqqxk1NOQCoSEDXLT8WIZv_m0kLeWgacer5g/edit?usp=sharing)\r\n\r\nFor additional parts for track 2 funding: [Click Me!](https://docs.google.com/a/andrew.cmu.edu/spreadsheets/d/1i1zd82mFI7ry2BlN5Uq5KbXEItAYUVCwlqSRgytv8ps/edit?usp=sharing)\r\n\r\nPhotos and stuff here! [http://tomscherlis.com/otw-portfolio/hagrids-wild-ride/](http://tomscherlis.com/otw-portfolio/hagrids-wild-ride/)",
+    "team_profiles": [
+        {
+            "username": "@tscherli",
+            "name": "@tscherli"
+        },
+        {
+            "username": "@avsethur",
+            "name": "@avsethur"
+        },
+        {
+            "username": "@ashek",
+            "name": "@ashek"
+        },
+        {
+            "username": "@ywu5",
+            "name": "@ywu5"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Robot Check",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$28.05",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$24.14",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Amazon.com: Hard-to-Find Fastener 014973100032 1/4-20-Inch x 3/4-Inch ",
+            "cost": "$8.70",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.66",
+            "quantity": "\n",
+            "total": "18"
+        },
+        {
+            "part": "Bike seat post for attachment",
+            "cost": "$11.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$19.09",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Higher K-value Spring",
+            "cost": "$24.60",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "2-1/2in 1/4-20 bolts for various fixtures",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$17.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Oculus Rift + Touch Virtual Reality System: pc: Video Game",
+            "cost": "$0.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: The Hillman Group 180147 Nylon Insert Lock Nut, 1/4-Inch b",
+            "cost": "$8.57",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bike Seat for comfort",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$24.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Prime-Line 9058365 Hex Bolt, 1/4 in-20 X 1-1/2 in, Zinc Pl",
+            "cost": "$10.11",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/256/0.jpg",
+        "garage/256/1.jpg",
+        "garage/256/2.jpg",
+        "garage/256/3.jpg",
+        "garage/256/4.jpg",
+        "garage/256/5.jpg",
+        "garage/256/6.jpg",
+        "garage/256/7.jpg",
+        "garage/256/8.jpg",
+        "garage/256/9.jpg",
+        "garage/256/10.jpg"
+    ]
+}

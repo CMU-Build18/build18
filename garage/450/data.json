@@ -1,0 +1,111 @@
+{
+    "title": "NFT Smart Hydroponics",
+    "date": "28 Oct 2018",
+    "detail": "Smart Nutrient Film Technique Hydroponics system that will grow Microgreens quickly and for a low cost.",
+    "extended_details": "The goal of this project is to create a hydroponic system that uses little power while growing Microgreens (small fast growing plants, usually herbs) quickly. The hydroponic system will use an Arduino to monitor and adjust the water level and temperature, and track plant growth over time. The Nutrient Film Technique (NFT) system should be able to grow around 150 plants at one time, with little maintenance. The system will be tested with basil.",
+    "team_profiles": [
+        {
+            "username": "@trgonzal",
+            "name": "@trgonzal"
+        },
+        {
+            "username": "@kbkramer",
+            "name": "@kbkramer"
+        },
+        {
+            "username": "@gmarkey",
+            "name": "@gmarkey"
+        },
+        {
+            "username": "@ealbergo",
+            "name": "@ealbergo"
+        },
+        {
+            "username": "@leheller",
+            "name": "@leheller"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Servos",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Caulk",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Thermometer",
+            "cost": "$4.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Camera",
+            "cost": "$26.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LED Lights",
+            "cost": "$11.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pump",
+            "cost": "$40.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Reflective Sheet",
+            "cost": "$7.09",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Wires",
+            "cost": "$17.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bread Board",
+            "cost": "$4.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Power Supply",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Depth Sensor",
+            "cost": "$40.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Water Level Sensor",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/450/0.jpg"
+    ]
+}

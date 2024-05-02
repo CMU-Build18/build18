@@ -1,0 +1,95 @@
+{
+    "title": "Smart Morning",
+    "date": "04 Dec 2016",
+    "detail": "Start your mornings right with a smart mirror and coffee cup",
+    "extended_details": "Smart Mirror - displays important information and reminders for your day - such as weather, schedule,etc - on your own mirror!\r\nSmart Coffee Mug - using RF technology, the LED's on a coffee mug will light up to notify you if your coffee is too hot or cold when you bring your hand near it!",
+    "team_profiles": [
+        {
+            "username": "@rfernau",
+            "name": "@rfernau"
+        },
+        {
+            "username": "@arath",
+            "name": "@arath"
+        },
+        {
+            "username": "@shreyag",
+            "name": "@shreyag"
+        },
+        {
+            "username": "@nflowers",
+            "name": "@nflowers"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: CanaKit 5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Ch",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Pro Mini 328 - 5V/16MHz - DEV-11113 - SparkFun Electronics",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$11.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Waterproof DS18B20 Digital temperature sensor + extras ID: 381 - $9.95",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$102.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 18\" x 24\" Acrylic See-Through Mirror, 1mm: Home & Kitchen",
+            "cost": "$34.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Break Away Headers - Straight - PRT-00116 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "13.56MHz RFID/NFC Leather Keychain Fob [1KB] ID: 1482 - $2.95 : Adafru",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "13.56MHz RFID/NFC Bracelet [1KB] ID: 921 - $3.95 : Adafruit Industries",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun FTDI Basic Breakout - 3.3V - DEV-09873 - SparkFun Electronics",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/236/0.jpg"
+    ]
+}

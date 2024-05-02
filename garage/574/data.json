@@ -1,0 +1,71 @@
+{
+    "title": "Mr. Clean",
+    "date": "20 Oct 2019",
+    "detail": "It's a dark and dirty world -- protect your shoes",
+    "extended_details": "https://youtu.be/V3INdJzxWMs - but automated (@nike pls sponsor thank)\r\n\r\nIOT connected robot preserves the longevity of recently acquired footwear through environmental interaction for protective purposes.\r\n\r\nBuild a mobile robot that distributes paper towels in a straight line based on the user's walking speed. It can be controlled with a mobile app. The user can keep their new shoes clean by stepping on the paper towels :)",
+    "team_profiles": [
+        {
+            "username": "@stevenwu",
+            "name": "@stevenwu"
+        },
+        {
+            "username": "@emai",
+            "name": "@emai"
+        },
+        {
+            "username": "@carolinl",
+            "name": "@carolinl"
+        },
+        {
+            "username": "@keyingw",
+            "name": "@keyingw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "5:1 Micro Metal Gearmotor HP 6V",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "150:1 Metal Gearmotor 37Dx57L mm (Helical Pinion)",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Multipurpose 6061 Aluminum 90\u00b0 Angles",
+            "cost": "$2.12",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Multipurpose Neoprene Rubber Tubes",
+            "cost": "$16.64",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Multipurpose 6061 Aluminum Rectangular Tubes",
+            "cost": "$53.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Duct/Gaffer's Tape",
+            "cost": "$24.67",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu Wheel 80\u00d710mm Pair - Black",
+            "cost": "$5.01",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/574/0.jpg"
+    ]
+}

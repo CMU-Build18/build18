@@ -1,0 +1,57 @@
+{
+    "title": "Rocket League IRL",
+    "date": "05 Dec 2016",
+    "detail": "We will create a version of soccer using RC cars, fully equipped with power-ups and abilities.",
+    "extended_details": "First we plan to construct the arduino car with bluetooth and motor drivers using a pre-made chassis. Next we will develop an android app to control the cars, including dash as well as various other maneuvering abilities. Through the app we will implement power-ups and other game mechanics. We will also create some type of field which the cars will play on.",
+    "team_profiles": [
+        {
+            "username": "@jpleung",
+            "name": "@jpleung"
+        },
+        {
+            "username": "@mlipari",
+            "name": "@mlipari"
+        },
+        {
+            "username": "@dhashe",
+            "name": "@dhashe"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com : 50-Pack KEVENZ 3-Star 40mm Table Tennis Balls (White, Pra",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.09",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/237/0.jpg",
+        "garage/237/1.jpg",
+        "garage/237/2.jpg"
+    ]
+}

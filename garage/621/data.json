@@ -1,0 +1,31 @@
+{
+    "title": "carTRIdge",
+    "date": "28 Oct 2019",
+    "detail": "Efficient letter-by-letter printing of Braille characters",
+    "extended_details": "Most commercial Braille embossers are expensive, and therefore inaccessible to the blind population. We want to make one ourselves and apply our diverse knowledge and backgrounds in coding and machining to optimize this process.",
+    "team_profiles": [
+        {
+            "username": "@ishaang",
+            "name": "@ishaang"
+        },
+        {
+            "username": "@ranil",
+            "name": "@ranil"
+        },
+        {
+            "username": "@tlaroia",
+            "name": "@tlaroia"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Lego Mindstorms EV3",
+            "cost": "$250.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/621/0.jpg"
+    ]
+}

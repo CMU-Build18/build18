@@ -1,0 +1,59 @@
+{
+    "title": "Quadcopter Person Surveillance",
+    "date": "07 Nov 2017",
+    "detail": "A Quadcopter that silently tracks a given person.",
+    "extended_details": "We will use smartphone sensors and digital signal processing to track a person in realtime from a quadcopter camera.  Could detect distress and alert a persons smartphone or call 911 if needed.  Use case for someone walking home late at night or maybe a soldier in battle.",
+    "team_profiles": [
+        {
+            "username": "@pgerma",
+            "name": "@pgerma"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "TRUE SPEC 1300MAH 14.8V 37A (4S)",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "New TS832 32Ch 5.8G 600mw 5km Wireless Audio/Video Transmitter for FPV",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flysky FS-i6X 10CH 2.4G RC Transmitter With iA10B Receiver for Drone Q",
+            "cost": "$59.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2 - 8 Megapixels",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Zero W Basic Pack - Includes Pi Zero W",
+            "cost": "$24.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MWC MultiWii SE V2.6 Flight Controller & GPS Bluetooth Module Combo fo",
+            "cost": "$51.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Turnigy nano-tech 1800mah 3S 65~130C Lipo Pack",
+            "cost": "$22.14",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/295/0.jpg"
+    ]
+}

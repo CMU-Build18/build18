@@ -1,0 +1,29 @@
+{
+    "title": "MultiView Structure for Motion",
+    "date": "28 Nov 2015",
+    "detail": "Think google maps car on a budget",
+    "extended_details": "This is an attempt to build a structure from motion system that can build 3d maps in real time",
+    "team_profiles": [
+        {
+            "username": "@tdecker",
+            "name": "@tdecker"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$192.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LIDAR-Lite v2 - SEN-13680 - SparkFun Electronics",
+            "cost": "$108.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/48/0.jpg"
+    ]
+}

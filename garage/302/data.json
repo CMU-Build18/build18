@@ -1,0 +1,121 @@
+{
+    "title": "Shake 'n Wake",
+    "date": "07 Nov 2017",
+    "detail": "A bed that shakes you to wake you up in the morning as an alternative to an alarm clock",
+    "extended_details": "Many people have trouble getting up in the morning, whether it's because of the suffocating allure of the snooze button or because they simply, yet inexplicably, sleep through their alarm. Well with this neat little thingamabob, we can all kiss our alarm clock hating ways goodbye! This device will rouse you from your slumber by shaking you with increasing violence, making it impossible to go back to sleep! Never again will you raise your fists in the air and curse the world after missing your final! Never again will your violently throw your bleeping phone across the room before your regrettably early 8:30 class! You'll be able to rest easy knowing that you won't rest *too* easy when the morning comes around.",
+    "team_profiles": [
+        {
+            "username": "@jtunis",
+            "name": "@jtunis"
+        },
+        {
+            "username": "@showard",
+            "name": "@showard"
+        },
+        {
+            "username": "@vmitta",
+            "name": "@vmitta"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "XL Series Lightweight Timing Belt Pulley 1.75\" OD",
+            "cost": "$8.20",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ball Bearing Trade No. R8, for 1/2\" Shaft Diameter, 1-1/8\" OD",
+            "cost": "$6.04",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Rotary Shaft 12L14 Carbon Steel, 5/16\" Diameter, 8\" Long",
+            "cost": "$8.04",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Dust-Free Timing Belt XL Series, 3/8\" Wide, Number XL037Kx328  1840K1",
+            "cost": "$2.49",
+            "quantity": "\n",
+            "total": "13"
+        },
+        {
+            "part": "Ball Bearing for 5/16\" Shaft Diameter, 7/8\" OD",
+            "cost": "$5.21",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Rotary Shaft 12L14 Carbon Steel, 3/16\" Diameter, 4\" Long",
+            "cost": "$3.70",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "XL Series Lightweight Timing Belt Pulley 3.8\" OD",
+            "cost": "$17.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": ".7\" Digital Alarm Clock",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AC motor- Century GF2034, General Purpose 1725 RPM 115 Volts",
+            "cost": "$77.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wall Adapter Power Supply - 6V DC 2A (Barrel Jack)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Timing Belt Pulley XL Series, 0.929\" OD, 10 Teeth",
+            "cost": "$11.40",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Set Screw Shaft Coupling Black-Oxide Steel, for 1/2\" Diameter Keyed Sh",
+            "cost": "$14.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun IMU Breakout - MPU-9250",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Relay SPDT Sealed - 20A",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "7/16 in. x 48 in. x 8ft. Oriented Strand Board",
+            "cost": "$16.25",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/302/0.jpg",
+        "garage/302/1.jpg",
+        "garage/302/2.jpg",
+        "garage/302/3.jpg",
+        "garage/302/4.jpg",
+        "garage/302/5.jpg",
+        "garage/302/6.jpg"
+    ]
+}

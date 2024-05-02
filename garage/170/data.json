@@ -1,0 +1,63 @@
+{
+    "title": "Mir",
+    "date": "21 Nov 2016",
+    "detail": "ML mirror that tracks your fashion style and provides you data visualization / recommendations",
+    "extended_details": "Smart mirror that tracks your outfits everyday, and provide you data visualization on various subjects. For example, how many times you wore that outfit, what your color palette is in your wardrobe, etc.",
+    "team_profiles": [
+        {
+            "username": "@raghavgo",
+            "name": "@raghavgo"
+        },
+        {
+            "username": "@daniellh",
+            "name": "@daniellh"
+        },
+        {
+            "username": "@aravisha",
+            "name": "@aravisha"
+        },
+        {
+            "username": "@nhouglan",
+            "name": "@nhouglan"
+        },
+        {
+            "username": "@abilgin",
+            "name": "@abilgin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$4.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: BenQ GL2760H 27-inch HDMI LED-lit Monitor: Computers & Acc",
+            "cost": "$129.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$24.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 24\" x 36\" Acrylic See-Through Mirror, 3mm: Home & Kitchen",
+            "cost": "$89.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/170/0.jpg"
+    ]
+}

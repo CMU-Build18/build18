@@ -1,0 +1,39 @@
+{
+    "title": "Project Mapped Smart Home",
+    "date": "10 Oct 2019",
+    "detail": "Augmented reality by mapping attention to physical space",
+    "extended_details": "PARTS LIST:\r\nhttps://www.amazon.com/hz/wishlist/ls/11VZUGWIBDNQ7?ref_=wl_share\r\n\r\nUsing projecting mapping, give the user information about their home, integrated seamlessly in the home. Using cameras and thermal imaging, data will be taken over time on things like temperature, gas usage, and water usage, and presented through Processing and projection mapping.",
+    "team_profiles": [
+        {
+            "username": "@gltang",
+            "name": "@gltang"
+        },
+        {
+            "username": "@efinnera",
+            "name": "@efinnera"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Jetson Compatible Camera",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Intel RealSense Depth Camera D415",
+            "cost": "$150.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PARTS LIST",
+            "cost": "$0.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/559/0.jpg"
+    ]
+}

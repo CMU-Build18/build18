@@ -1,0 +1,83 @@
+{
+    "title": "Project Monarch",
+    "date": "19 Oct 2018",
+    "detail": "It's actually birds now oops",
+    "extended_details": "Webster's Dictionary defines \"butterfly\" as \"(verb) split (a piece of meat) almost in two and spread it out flat,\" as well as \"(noun) an insect with two pairs of large wings that are covered with tiny scales, usually brightly colored, and typically held erect when at rest. Butterflies fly by day, have clubbed or dilated antennae, and usually feed on nectar.\"\r\n\r\nSince before the big-bang or even Neil deGrasse Tyson discovered \"time,\" butterflies have fascinated mankind and various species of bee alike. \"You like jazz?\" remarked one such bee, in response to a question about whether robotic autonomous butterflies could be created by some college students in 2019. Anyways, we're closing the cycle by copying nature itself to revolutionize and disrupt the uber of aerospace industries via synergistic TechCrunch keynotes located in third-world emerging nations.\r\n\r\nWe are promoting advancement in inter-species pollination efforts that have long stumped scientists, engineers, and Michael's many friends from Seattle. By introducing robotically optimized butter-based organisms, we plan to fully displace Big Pollen and overtake Lockheed Martin and AirHogs as the top-dogs in the aerospace industry.",
+    "team_profiles": [
+        {
+            "username": "@mcli",
+            "name": "@mcli"
+        },
+        {
+            "username": "@tscherli",
+            "name": "@tscherli"
+        },
+        {
+            "username": "@avsethur",
+            "name": "@avsethur"
+        },
+        {
+            "username": "@jaewoonc",
+            "name": "@jaewoonc"
+        },
+        {
+            "username": "@ebourcar",
+            "name": "@ebourcar"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Batteries",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "nano frsky receiver",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "CF Sheet 1.5mm thickness",
+            "cost": "$12.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CF rod 1.5mmx750mm",
+            "cost": "$0.65",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Servos",
+            "cost": "$38.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "CF rod 1mmx750mm",
+            "cost": "$1.46",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "FPV cam and vTx",
+            "cost": "$22.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CF rod 2mmx750mm",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/435/0.jpg",
+        "garage/435/1.jpg",
+        "garage/435/2.jpg"
+    ]
+}

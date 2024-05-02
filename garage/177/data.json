@@ -1,0 +1,71 @@
+{
+    "title": "Self-Playing Cello",
+    "date": "21 Nov 2016",
+    "detail": "Building a cello that plays itself!",
+    "extended_details": "A cello that plays itself! It will have a mechanism that moves the bow and another mechanism to press the strings",
+    "team_profiles": [
+        {
+            "username": "@viveksri",
+            "name": "@viveksri"
+        },
+        {
+            "username": "@abhinans",
+            "name": "@abhinans"
+        },
+        {
+            "username": "@sreidy",
+            "name": "@sreidy"
+        },
+        {
+            "username": "@cwee",
+            "name": "@cwee"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Crystalcello BW100C 1/2 Size Rosewood Cello Bow: Musical I",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit ID: 2348 -",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Timing Belt GT2 Profile - 2mm pitch - 6mm wide 1164mm long ID: 1184 - ",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Raspberry Pi Zero Budget Pack - Includes Pi Zero v1.3",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Full Set High Quality Cello Strings Size 4/4 & 3/4 Cello S",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum GT2 Timing Pulley - 6mm Belt - 36 Tooth - 5mm Bore ID: 1253 -",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Stepper Motor with Cable - ROB-09238 - SparkFun Electronics",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/177/0.jpg"
+    ]
+}

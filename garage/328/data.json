@@ -1,0 +1,87 @@
+{
+    "title": "Raindrop, Droptop",
+    "date": "08 Nov 2017",
+    "detail": "Using water as an art medium",
+    "extended_details": "Creating a curtain of falling water with LEDs that makes a light show of shapes and art from user input.",
+    "team_profiles": [
+        {
+            "username": "@asekar",
+            "name": "@asekar"
+        },
+        {
+            "username": "@she2",
+            "name": "@she2"
+        },
+        {
+            "username": "@kbanh",
+            "name": "@kbanh"
+        },
+        {
+            "username": "@gshandar",
+            "name": "@gshandar"
+        },
+        {
+            "username": "@sandraj",
+            "name": "@sandraj"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Waterproof Sealant",
+            "cost": "$4.84",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "PVC Pipe",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "15"
+        },
+        {
+            "part": "Waterproof LEDs",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Water pump",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PVC Tee",
+            "cost": "$0.21",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "PVC Elbow 90 degrees",
+            "cost": "$0.17",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "PVC plug",
+            "cost": "$0.37",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Electrical tape",
+            "cost": "$5.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solenoid valves",
+            "cost": "$7.49",
+            "quantity": "\n",
+            "total": "20"
+        }
+    ],
+    "photos": [
+        "garage/328/0.jpg"
+    ]
+}

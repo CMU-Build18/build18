@@ -1,0 +1,109 @@
+{
+    "title": "Scratch Radio",
+    "date": "28 Nov 2015",
+    "detail": "We're building a radio. From scratch. Lets see what happens!",
+    "extended_details": "The goal of our project is to build a radio completely from scratch. This means creating AM/FM variable demodulation, coiling the speakers ourselves, and 3D printing a casing at the minimum. After that, we'll see what fun things we can think up to build the best radio you've ever seen!",
+    "team_profiles": [
+        {
+            "username": "@jrtick",
+            "name": "@jrtick"
+        },
+        {
+            "username": "@rdioso",
+            "name": "@rdioso"
+        },
+        {
+            "username": "@yichingl",
+            "name": "@yichingl"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "OPA2134PA Texas Instruments | Integrated Circuits (ICs) | DigiKey",
+            "cost": "$3.90",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Ceramic Magnets C8 Dia 3\"X0.5\" Hard Ferrite Magnets 2-Count: Industria",
+            "cost": "$9.92",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno - R3 - DEV-11021 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Magnet Wire Kit - PRT-11363 - SparkFun Electronics",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rocker Switch - SPST (round) - COM-11138 - SparkFun Electronics",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Rocker Switch - Round w/ Blue LED - COM-11155 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Solder-able Breadboard - PRT-12070 - SparkFun Electronics",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Solder-able Breadboard - Mini - PRT-12702 - SparkFun Electron",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Tactile Button Assortment - COM-10302 - SparkFun Electronics",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rotary Potentiometer - 10k Ohm, Linear - COM-09939 - SparkFun Electron",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Black Metal Knob - 14x24mm - COM-10002 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Audio Cable 2.5mm 8\" - CAB-10159 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Slide Pot - Medium (10k Linear Taper) - COM-11621 - SparkFun Electroni",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: uxcell Pair 62.5cm 4 Section Telescopic Stainless Steel AM",
+            "cost": "$4.48",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/91/0.jpg"
+    ]
+}

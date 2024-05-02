@@ -1,0 +1,65 @@
+{
+    "title": "BB8",
+    "date": "28 Nov 2015",
+    "detail": "A semi-autonomous recreation of the BB-8 droid featured in Star Wars.",
+    "extended_details": "This robot will use computer vision to detect and avoid objects and use a variety of sensors to provide localization information.\r\n\r\nWe plan on using a Surface tablet inside the base to run the CV and ML programs and provide wireless joystick support for the user.",
+    "team_profiles": [
+        {
+            "username": "@skfu",
+            "name": "@skfu"
+        },
+        {
+            "username": "@christoh",
+            "name": "@christoh"
+        },
+        {
+            "username": "@njog",
+            "name": "@njog"
+        },
+        {
+            "username": "@ngothosk",
+            "name": "@ngothosk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.62",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.10",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.33",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$11.37",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Lexan Sheet - Polycarbonate - .030\" - 1/32\" Thick, Clear, ",
+            "cost": "$21.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 2 Model B Project Board - 1GB RAM - 900 MHz Q",
+            "cost": "$37.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/93/0.jpg"
+    ]
+}

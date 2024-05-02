@@ -1,0 +1,69 @@
+{
+    "title": "Project Mirror",
+    "date": "21 Nov 2016",
+    "detail": "Smart Mirror in your dreams",
+    "extended_details": "Wake up and feel fresh with your personal assistant! Our Smart Mirror will display useful information like the weather, upcoming events, news headlines, and more! It will integrate Amazon Echo for enhanced user interaction and customization.",
+    "team_profiles": [
+        {
+            "username": "@mbankole",
+            "name": "@mbankole"
+        },
+        {
+            "username": "@sunghol",
+            "name": "@sunghol"
+        },
+        {
+            "username": "@cassandc",
+            "name": "@cassandc"
+        },
+        {
+            "username": "@jxgong",
+            "name": "@jxgong"
+        },
+        {
+            "username": "@bridgett",
+            "name": "@bridgett"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: iXCC 3 Feet Extra Long MicroUSB to USB(2.0) Cable, A Male ",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 3 - DEV-13825 - SparkFun Electronics",
+            "cost": "$40.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon Echo - Amazon Official Site - Alexa-Enabled",
+            "cost": "$179.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Cablelera High Speed HDMI with Ethernet, Male/Male, 25' Bl",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$14.96",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/184/0.jpg"
+    ]
+}

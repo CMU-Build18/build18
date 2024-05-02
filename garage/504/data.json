@@ -1,0 +1,16 @@
+{
+    "title": "Bartendo",
+    "date": "04 Nov 2018",
+    "detail": "Bartending robot, makes drinks",
+    "extended_details": "No job is safe from automation. This robot will mix liquids in desired quantities with a system of bottles, valves, and tubes.",
+    "team_profiles": [
+        {
+            "username": "@cvsmith",
+            "name": "@cvsmith"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/504/0.jpg"
+    ]
+}

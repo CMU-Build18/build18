@@ -1,0 +1,98 @@
+{
+    "title": "One Wheel From Two",
+    "date": "19 Oct 2021",
+    "detail": "If you can't afford a One Wheel like those grad students outside CIC who let you ride it, just convert a hoverboard!",
+    "extended_details": "Turned a cheap hoverboard into a One Wheel by reconfiguring parts and machining new ones. Its so slow you can't possibly get hurt! Will include some speed and range mods for those with a bigger budget hehe ;)",
+    "team_profiles": [
+        {
+            "username": "@apenney",
+            "name": "@apenney"
+        },
+        {
+            "username": "@dbarajas",
+            "name": "@dbarajas"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "The Frame",
+            "cost": "$28.03",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "The Tire",
+            "cost": "$29.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "The Tube",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "The Foot Sensor",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "The Backup Wheels",
+            "cost": "$3.60",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "The hoverboard",
+            "cost": "$155.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "The power",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "The Grip",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/705/0.jpg",
+        "garage/705/1.jpg",
+        "garage/705/2.jpg",
+        "garage/705/3.jpg",
+        "garage/705/4.jpg",
+        "garage/705/5.jpg",
+        "garage/705/6.jpg",
+        "garage/705/7.jpg",
+        "garage/705/8.jpg",
+        "garage/705/9.jpg",
+        "garage/705/10.jpg",
+        "garage/705/11.jpg",
+        "garage/705/12.jpg",
+        "garage/705/13.jpg",
+        "garage/705/14.jpg",
+        "garage/705/15.jpg",
+        "garage/705/16.jpg",
+        "garage/705/17.jpg",
+        "garage/705/18.jpg",
+        "garage/705/19.jpg",
+        "garage/705/20.jpg",
+        "garage/705/21.jpg",
+        "garage/705/22.jpg",
+        "garage/705/23.jpg",
+        "garage/705/24.jpg",
+        "garage/705/25.jpg",
+        "garage/705/26.jpg",
+        "garage/705/27.jpg",
+        "garage/705/28.jpg",
+        "garage/705/29.jpg"
+    ]
+}

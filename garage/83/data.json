@@ -1,0 +1,28 @@
+{
+    "title": "Physical RN-Jesus",
+    "date": "28 Nov 2015",
+    "detail": "Ever wanted a perfect solution to the imperfect random number generation on today's computers?",
+    "extended_details": "A USB-attached robot that generates perfect randomness and feeds results into the computer.  \r\nUses a Raspberry Pi to control die-rolling robot and webcam for reading results of roll.  Will come with basic video game that will use our implementation of random numbers.",
+    "team_profiles": [
+        {
+            "username": "@mmartone",
+            "name": "@mmartone"
+        },
+        {
+            "username": "@azz",
+            "name": "@azz"
+        },
+        {
+            "username": "@tkern",
+            "name": "@tkern"
+        },
+        {
+            "username": "@sadkins",
+            "name": "@sadkins"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/83/0.jpg"
+    ]
+}

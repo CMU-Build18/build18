@@ -1,0 +1,125 @@
+{
+    "title": "Tea Time",
+    "date": "27 Nov 2015",
+    "detail": "Are you tired of ordering milk tea all the time to only find it to be too sweet or lack tea flavor?",
+    "extended_details": "An automated milk tea machine which dispenses your custom ratio of tea, fresh milk, and sugar, with a companion iPhone app to customize your tea wirelessly. The only way to get good milk tea in Pittsburgh is to make it yourself. \r\nCheck out our code at:\r\nhttps://github.com/starsword829/MTM",
+    "team_profiles": [
+        {
+            "username": "@ehcho",
+            "name": "@ehcho"
+        },
+        {
+            "username": "@kylow",
+            "name": "@kylow"
+        },
+        {
+            "username": "@jaimechu",
+            "name": "@jaimechu"
+        },
+        {
+            "username": "@tchiang",
+            "name": "@tchiang"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Update International BM-125 1.25 Qt. Bain Marie / Inset Pa",
+            "cost": "$7.48",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "AGPtek Stainless Steel PT100 RTD Thermistor Sensor Probe (Temperature ",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Instant Immersion Heater Portable Beverage Warmer Coffee Water - Heati",
+            "cost": "$7.37",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$10.70",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Dc12v Peristaltic Dosing Pump Tygon LFL 6mm(id) Tube and Can Deliver 5",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: 12v 30a Dc Universal Regulated Switching Power Supply 360w",
+            "cost": "$23.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com | Winco BAMC-1.25 Cover, 1.25-Quart: All Pans: Mixed Drinkw",
+            "cost": "$6.82",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: TEC1-12706 Thermoelectric Peltier Cooler 12 Volt 92 Watt: ",
+            "cost": "$6.85",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: VonShef 3 L Double Walled Insulated Stainless Steel Ice Bu",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com | Desktop Coffee / Tea Mug Warmer - Candle, Wax and Oil War",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solid State Relay - 40A (3-32V DC Input) - COM-13015 - SparkFun Electr",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu - Force-Sensing Resistor: 1.5\u2033 Square",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/8/0.jpg",
+        "garage/8/1.jpg",
+        "garage/8/2.jpg",
+        "garage/8/3.jpg",
+        "garage/8/4.jpg",
+        "garage/8/5.jpg",
+        "garage/8/6.jpg",
+        "garage/8/7.jpg",
+        "garage/8/8.jpg",
+        "garage/8/9.jpg",
+        "garage/8/10.jpg",
+        "garage/8/11.jpg",
+        "garage/8/12.jpg",
+        "garage/8/13.jpg",
+        "garage/8/14.jpg",
+        "garage/8/15.jpg",
+        "garage/8/16.jpg",
+        "garage/8/17.jpg",
+        "garage/8/18.jpg",
+        "garage/8/19.jpg",
+        "garage/8/20.jpg",
+        "garage/8/21.jpg",
+        "garage/8/22.jpg",
+        "garage/8/23.jpg",
+        "garage/8/24.jpg"
+    ]
+}

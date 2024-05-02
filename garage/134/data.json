@@ -1,0 +1,41 @@
+{
+    "title": "Phased Array Sonar",
+    "date": "17 Nov 2016",
+    "detail": "Use sound to interact with people!",
+    "extended_details": "Use a phased array sonar to interact with people and the environment!",
+    "team_profiles": [
+        {
+            "username": "@ebbarret",
+            "name": "@ebbarret"
+        },
+        {
+            "username": "@dgronlun",
+            "name": "@dgronlun"
+        },
+        {
+            "username": "@akalaba",
+            "name": "@akalaba"
+        },
+        {
+            "username": "@eharber",
+            "name": "@eharber"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "UT-1640K-TT-2-R PUI Audio, Inc. | Sensors, Transducers | DigiKey",
+            "cost": "$4.46",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "UR-1640K-TT-2-R PUI Audio, Inc. | Sensors, Transducers | DigiKey",
+            "cost": "$4.46",
+            "quantity": "\n",
+            "total": "25"
+        }
+    ],
+    "photos": [
+        "garage/134/0.jpg"
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "title": "Self-Playing Otamatone",
+    "date": "21 Nov 2016",
+    "detail": "Machine learning meets the Otamatone",
+    "extended_details": "The Otamatone is an electronic musical instrument toy that creates \"singing\" sounds resembling that of a synthesizer. Our project will involve creating hardware for a self-performing Otamatone that learns to play original tunes using machine learning.",
+    "team_profiles": [
+        {
+            "username": "@zkearney",
+            "name": "@zkearney"
+        },
+        {
+            "username": "@dasimon",
+            "name": "@dasimon"
+        },
+        {
+            "username": "@tstentz",
+            "name": "@tstentz"
+        },
+        {
+            "username": "@melodyt",
+            "name": "@melodyt"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Single Channel - 90 Degree Angle - ROB-12175 - SparkFun Electronics",
+            "cost": "$1.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Channel - 6.0\" - ROB-12164 - SparkFun Electronics",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Standard Gripper Kit B - Straight Mount - ROB-13175 - SparkFun Electro",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Actobotics Kit - Channel Slider Kit - ROB-13140 - SparkFun Electronics",
+            "cost": "$119.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor with Cable - ROB-09238 - SparkFun Electronics",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Actobotics Channel Mount - Arduino (pair) - ROB-13049 - SparkFun Elect",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Machine Screw - Socket Head (6-32 ; 1/4\"; 25 pack) - ROB-12517 - Spark",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.06",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Nut - Metal (6-32, 25 pack) - PRT-12917 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tool Kit - Screwdriver and Bit Set - TOL-10865 - SparkFun Electronics",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Standard servo - TowerPro SG-5010 [5010] ID: 155 - $12.00 : Adafruit I",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Otamatone Deluxe from Maywa Denki - Special English Versio",
+            "cost": "$47.02",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Extension Cable - 30cm / 12 long - ID: 972 - $1.95 : Adafruit In",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/193/0.jpg"
+    ]
+}

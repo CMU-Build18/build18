@@ -1,0 +1,39 @@
+{
+    "title": "Solid state Tesla coil",
+    "date": "21 Nov 2016",
+    "detail": "Play audio on a Tesla coil",
+    "extended_details": "Control a Tesla coil to play music and audio files. Preprocess the audio file into a series of tones that can be played on the Tesla coil. The device will feature solid state control using an H bridge to control the current through the primary coil instead of the traditional spark gap.",
+    "team_profiles": [
+        {
+            "username": "@ejglaser",
+            "name": "@ejglaser"
+        },
+        {
+            "username": "@jkonopka",
+            "name": "@jkonopka"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "KBU3510-G Comchip Technology | Discrete Semiconductor Products | DigiK",
+            "cost": "$2.33",
+            "quantity": "\n",
+            "total": "0"
+        },
+        {
+            "part": "FGH40N60SMD ON Semiconductor/Fairchild | Discrete Semiconductor Produc",
+            "cost": "$4.24",
+            "quantity": "\n",
+            "total": "0"
+        },
+        {
+            "part": "600230 CNC Tech | Magnetics - Transformer, Inductor Components | DigiK",
+            "cost": "$72.18",
+            "quantity": "\n",
+            "total": "0"
+        }
+    ],
+    "photos": [
+        "garage/191/0.jpg"
+    ]
+}

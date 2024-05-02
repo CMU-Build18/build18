@@ -1,0 +1,51 @@
+{
+    "title": "dessert(er)",
+    "date": "10 Nov 2021",
+    "detail": "Guided Dessert Creation Experience",
+    "extended_details": "Want to make something sweet but stuck on what? Don't have the motivation to find a recipe that only uses the ingredients you have? \r\n\r\nFear not! Simply input whatever ingredients you have into dessert(er). dessert(er) will find a recipe that you can make and guide you step by step creating the batter and set a timer for baking. Making desserts has never been easier\r\n\r\ndessert(er) consists mainly of a stand mixer. The user interacts with dessert(er) through an app running on their phone. The stand mixer is augmented to have a holder for your phone. \r\n\r\nAfter the user selects a recipe, the phone will display step by step instructions to create the batter. With the help of the stand mixer, all the user needs to do is add the proper amount of ingredients.\r\n\r\nThe system also consists of a smart load scale connected to the phone app. The user simply adds the ingredient to the scale and the app will indicate when there is enough",
+    "team_profiles": [
+        {
+            "username": "@rdhesika",
+            "name": "@rdhesika"
+        },
+        {
+            "username": "@rkjain",
+            "name": "@rkjain"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Stand Mixer",
+            "cost": "$249.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Load Cell Amplifier",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Kitchen Scale",
+            "cost": "$9.84",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ESP32 board",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "acrylic sheet",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/730/0.jpg"
+    ]
+}

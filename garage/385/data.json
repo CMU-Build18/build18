@@ -1,0 +1,65 @@
+{
+    "title": "A Buggy Time",
+    "date": "21 Nov 2017",
+    "detail": "Want to push objects up hills and time yourself doing it? We got you covered.",
+    "extended_details": "Push practice happens late in the night and often it is a battle against the elements. At times there are mistakes made in timing and this could be detrimental to the team when choosing or training their pushers. This project aims to leverage existing RFID/IR technology that is used in marathons and apply it to timing pushers.",
+    "team_profiles": [
+        {
+            "username": "@ronitb",
+            "name": "@ronitb"
+        },
+        {
+            "username": "@jameszha",
+            "name": "@jameszha"
+        },
+        {
+            "username": "@kdevince",
+            "name": "@kdevince"
+        },
+        {
+            "username": "@boyaoy",
+            "name": "@boyaoy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SparkFun XBee Shield",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "XBee Pro Module - Series 1 - 60mW with Wire Antenna - XBP24-AWI-001",
+            "cost": "$37.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "AT&T External Battery Pack for Smartphones - Retail Packaging - Black",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Dycem Non-Slip Material Roll, Black, 8\" X 3.25 ft",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun XBee Explorer Dongle",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Extra-long force-sensitive resistor (FSR) - Interlink 408",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/385/0.jpg"
+    ]
+}

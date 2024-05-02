@@ -1,0 +1,87 @@
+{
+    "title": "Mood Machine",
+    "date": "28 Nov 2015",
+    "detail": "The mood machine chooses songs, scents and lighting to match the mood of its surroundings",
+    "extended_details": "Mood Machine is built using an Arduino and connects to your \r\nAndroid phone via Bluetooth. It picks up sound waves from its surroundings with a sound detector and analyzes the mood of the waves using NLP. Based on the input, it chooses and plays a song, creates LED lighting patterns and releases scents to match the mood. (ft taylor swift)",
+    "team_profiles": [
+        {
+            "username": "@npmurali",
+            "name": "@npmurali"
+        },
+        {
+            "username": "@rsiewhew",
+            "name": "@rsiewhew"
+        },
+        {
+            "username": "@akluk",
+            "name": "@akluk"
+        },
+        {
+            "username": "@tushitag",
+            "name": "@tushitag"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SparkFun MP3 Player Shield - DEV-12660 - SparkFun Electronics",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Sound Detector - SEN-12642 - SparkFun Electronics",
+            "cost": "$11.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno - R3 - DEV-11021 - SparkFun Electronics",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Bluetooth Modem - BlueSMiRF Gold - WRL-12582 - SparkFun Elect",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Rainbow Pack - 5mm PTH - COM-12903 - SparkFun Electronics",
+            "cost": "$3.00",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Amazon.com: Febreze Air Effects Air Refresher - Meadows & Rain - 9.7 o",
+            "cost": "$10.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$27.02",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Monoprice 3-Inch Powered Portable Monitor Speakers with Pr",
+            "cost": "$89.03",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/78/0.jpg",
+        "garage/78/1.jpg",
+        "garage/78/2.jpg",
+        "garage/78/3.jpg",
+        "garage/78/4.jpg"
+    ]
+}

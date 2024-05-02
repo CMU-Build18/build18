@@ -1,0 +1,24 @@
+{
+    "title": "SuperCharger",
+    "date": "20 Oct 2021",
+    "detail": "Have you ever been too lazy to charge your phone? we have the perfect solution for you here",
+    "extended_details": "We want to build a table with a built-in wireless charger that can find where your phone is placed and move to it to charge. To do this, we plan on using an overhead camera to detect where the phone is placed and 2 stepper motors to move the wireless charger to the phone. Since the wireless charger may not be strong enough to charge through a table we plan on making a hollowed-out table with components inside. This way, we can have a thin layer of glass and see all our cool electrical components inside.  To control this table we want to use an Arduino with motor controllers to power the stepper motors.",
+    "team_profiles": [
+        {
+            "username": "@jak2",
+            "name": "@jak2"
+        },
+        {
+            "username": "@yucongw",
+            "name": "@yucongw"
+        },
+        {
+            "username": "@yixuanl2",
+            "name": "@yixuanl2"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/712/0.jpg"
+    ]
+}

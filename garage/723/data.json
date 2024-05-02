@@ -1,0 +1,73 @@
+{
+    "title": "Thrust Vectoring Rocket",
+    "date": "02 Nov 2021",
+    "detail": "Fins: Gone. We're taking model rocketry to another galaxy",
+    "extended_details": "We are building a finless model rocket controlled by servos with a control feedback loop instead of aerodynamic stabilization. Utilizing servos, 3d printing, an Arduino, and a gyroscope we are taking off the fins and going rogue. See you in the skies.",
+    "team_profiles": [
+        {
+            "username": "@iturner",
+            "name": "@iturner"
+        },
+        {
+            "username": "@esech",
+            "name": "@esech"
+        },
+        {
+            "username": "@cbhess",
+            "name": "@cbhess"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Micro Servo",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "MPU-6050",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1 Ah Battery",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Parachute",
+            "cost": "$13.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RedBoard Artemitis Nano",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Estes E12-4 Engines",
+            "cost": "$27.26",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Fuse",
+            "cost": "$14.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rocket Body Tube - 4\"",
+            "cost": "$5.86",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/723/0.jpg"
+    ]
+}

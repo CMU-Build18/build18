@@ -1,0 +1,63 @@
+{
+    "title": "Simulator Tabletop",
+    "date": "19 Nov 2016",
+    "detail": "Like \"Tabletop Simulator\", but reversed...",
+    "extended_details": "Play games on a table that has an integrated display and touch interface.",
+    "team_profiles": [
+        {
+            "username": "@gdellagr",
+            "name": "@gdellagr"
+        },
+        {
+            "username": "@jbogomol",
+            "name": "@jbogomol"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Resistive Touchscreen Overlay - 7 diag. 165mm x 105mm - 4 Wire ID: 167",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Resistive Touch Screen Controller - STMPE610 ID: 1571 - $9.95 : Adafru",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: SCEPTRE 32\" LED 1080p 60Hz HDTV | X325BV-FMDR: Electronics",
+            "cost": "$169.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: (4 Pack) (200cm - 6Foot - 2M) USB 2.0 A to Mini 5 pin B Ca",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$4.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Protronix 4 Port USB 3.0 Hub with 5V/2A Power Adapter: Com",
+            "cost": "$10.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: USB Wifi Adapter , AVOTCH USB Wifi 150mbps Wireless Adapte",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/140/0.jpg"
+    ]
+}

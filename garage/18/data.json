@@ -1,0 +1,52 @@
+{
+    "title": "Rock-n-Roller Congo Charger",
+    "date": "27 Nov 2015",
+    "detail": "Villagers in Congo need electricity, which they can generate on their daily water run!",
+    "extended_details": "This project will build a water-roller-powered battery charger for home lighting and cell phone charging.  Since women and children throughout Sub-Saharan Africa must walk an average of 6 km to get water, we will prototype a battery charger that they can power during this commute, spinning the shaft of a DC motor (acting as a generator) while they push water along the ground in a roller.\r\n\r\n\r\nThe charged battery will then be able to UV purify the water inside the roller as well as light homes to let children study in the evening, support adults working at night, and charge cell phones for the whole family.",
+    "team_profiles": [
+        {
+            "username": "@jthornbu",
+            "name": "@jthornbu"
+        },
+        {
+            "username": "@jlien",
+            "name": "@jlien"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Streetwize WaterHog LWACC48 Water Carrier 51.5 L with Pull Handle: Ama",
+            "cost": "$108.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Camelbak All Clear Purifier Bottle (750ml/25oz, Pure Blue",
+            "cost": "$69.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Camelbak All Clear Bottle Pre-Filter (6-Liter/20-Ounce) :",
+            "cost": "$13.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "WADI Shop - WADI",
+            "cost": "$51.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 150mAh Ni-MH Battery SportDog FR200, SD-400, SD-800: Sport",
+            "cost": "$7.28",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/18/0.jpg",
+        "garage/18/1.jpg"
+    ]
+}

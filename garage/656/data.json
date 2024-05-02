@@ -1,0 +1,41 @@
+{
+    "title": "Self Aligning Dart Board",
+    "date": "30 Oct 2019",
+    "detail": "Dart board moves so you get a bullseye every time",
+    "extended_details": "We will construct a carriage able to move in both axes, similar to a 3D printer carriage, using stepper motors and timing belts, and mount a dart board to it. Then using two webcams and CV, we will track the throw of a dart and move the board accordingly to make this a bullseye.",
+    "team_profiles": [
+        {
+            "username": "@albyrnes",
+            "name": "@albyrnes"
+        },
+        {
+            "username": "@ncalzola",
+            "name": "@ncalzola"
+        },
+        {
+            "username": "@borgera",
+            "name": "@borgera"
+        },
+        {
+            "username": "@rkinsell",
+            "name": "@rkinsell"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit Stepper Motor",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "CNBTR Horizontal Linear Motion Ball Bearing Slide Bushing 8mm Dia &Sha",
+            "cost": "$29.57",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/656/0.jpg"
+    ]
+}

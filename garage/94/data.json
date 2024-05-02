@@ -1,0 +1,83 @@
+{
+    "title": "ChairWare",
+    "date": "28 Nov 2015",
+    "detail": "Have you ever wasted time on work because of your physical   environment? ChairWare is the answer",
+    "extended_details": "ChairWare is going to be an integrated chair/couch system that has outlets, reclining chairs, customizable table, heating, and a touch screen display to control the entire system. Using this system you won't be annoyed with setting up your equipment and trying to stay comfortable. The goal is to eliminate any interruptions  and just focus on your task.",
+    "team_profiles": [
+        {
+            "username": "@randaya",
+            "name": "@randaya"
+        },
+        {
+            "username": "@eodria",
+            "name": "@eodria"
+        },
+        {
+            "username": "@mzc",
+            "name": "@mzc"
+        },
+        {
+            "username": "@efrainb",
+            "name": "@efrainb"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$21.60",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Star Wars Rogue Squadron II: Rogue Leader: Gamecube: Video",
+            "cost": "$9.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$31.59",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Arduino Uno Rev 3: Electronics",
+            "cost": "$21.43",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$6.37",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$18.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Turnigy 2200mAh 3S 20C Lipo Pack: Toys & Games",
+            "cost": "$16.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Traxxas 2935 2-3 Cell LiPO Balance Charger: Toys & Games",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/94/0.jpg"
+    ]
+}

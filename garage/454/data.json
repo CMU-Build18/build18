@@ -1,0 +1,49 @@
+{
+    "title": "Autonomous Agriculture Drone",
+    "date": "28 Oct 2018",
+    "detail": "Drone that autonomously sprays crops with water",
+    "extended_details": "The aim of this project is to make a drone that will autonomously spray an area defined by using 4 balloon markers. The drone will be controlled using a Raspberry Pi and the sensing of the environment will be done using a camera. The drone will be able to carry 100 mL of water and will only spray water when it is in the area defined by the balloon markers.",
+    "team_profiles": [
+        {
+            "username": "@ukhera",
+            "name": "@ukhera"
+        },
+        {
+            "username": "@jdropkin",
+            "name": "@jdropkin"
+        },
+        {
+            "username": "@sgirdhar",
+            "name": "@sgirdhar"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "PXFMini",
+            "cost": "$78.43",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Nozzle",
+            "cost": "$17.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$29.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "quadcopter kit",
+            "cost": "$114.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/454/0.jpg"
+    ]
+}

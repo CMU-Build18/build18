@@ -1,0 +1,28 @@
+{
+    "title": "Blind Long Jumper Guide",
+    "date": "29 Oct 2019",
+    "detail": "A headband that uses vibrations to notify visually disabled long jumpers when they are off path.",
+    "extended_details": "Around the world, many athletes overcome visual disabilities to compete in track and field.  In the long jump, a guide claps at the end of the runway to steer the athlete in the right direction.  However, the separation at the beginning of the run can cause difficulties hearing, and the athletes have little hope of practicing independently.  Our proposed solution is a set of sensors that can be placed down the runway and communicate an athletes position and direction via a headband on the jumper.",
+    "team_profiles": [
+        {
+            "username": "@varunnar",
+            "name": "@varunnar"
+        },
+        {
+            "username": "@jkiefel",
+            "name": "@jkiefel"
+        },
+        {
+            "username": "@aadeoye",
+            "name": "@aadeoye"
+        },
+        {
+            "username": "@dkhannan",
+            "name": "@dkhannan"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/655/0.jpg"
+    ]
+}

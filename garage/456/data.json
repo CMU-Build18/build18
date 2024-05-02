@@ -1,0 +1,71 @@
+{
+    "title": "Automated Garden--Garden Bed \"Elevator\"",
+    "date": "28 Oct 2018",
+    "detail": "A garden bed manipulation system to maximize vertical gardening efficiency",
+    "extended_details": "During last Build18, we created a 2D CNC gardening system for autonomous watering of a garden bed. But one CNC per garden bed is not most efficient. This Build18, we will implement an \"elevator\" tower to move our garden bed to and from the CNC set up to a tower of garden beds. This autonomous system will use motorized pulleys to move a conveyor belt vertically, another set of motors to displace the conveyors, and actuating the conveyor itself.",
+    "team_profiles": [
+        {
+            "username": "@chunminz",
+            "name": "@chunminz"
+        },
+        {
+            "username": "@ezeng",
+            "name": "@ezeng"
+        },
+        {
+            "username": "@vdai",
+            "name": "@vdai"
+        },
+        {
+            "username": "@rreolfi",
+            "name": "@rreolfi"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Round-Groove Conveyor Roller",
+            "cost": "$17.84",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Zinc-Aluminum-Coated Alloy Steel Socket Head Screw",
+            "cost": "$5.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Chemical Resistant Round Belt--54 in and 24 in",
+            "cost": "$18.33",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Galvanized Steel Hammer-on Hook-Style Lacing",
+            "cost": "$46.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Medium-Strength Steel Nylon-Insert Locknut",
+            "cost": "$4.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Brown Neoprene Rubber Belting",
+            "cost": "$65.40",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Roller Wheel for 30mm and 40mm High Single Rail T-Slotted Framing",
+            "cost": "$10.05",
+            "quantity": "\n",
+            "total": "8"
+        }
+    ],
+    "photos": [
+        "garage/456/0.jpg"
+    ]
+}

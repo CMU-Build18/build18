@@ -1,0 +1,140 @@
+{
+    "title": "Apollo",
+    "date": "28 Nov 2015",
+    "detail": "Medical Disaster Aid",
+    "extended_details": "A medical first responder device that allows volunteers to record patient identification information, take vitals such as heart pulse rate, and take pictures of the patient and injuries. The information is then sent to a server where doctors and medics around the world can login and help diagnose and sort patients to appropriate tents. Tent information and ID number are sent back to the device to allow volunteers to guide the patient. The server also keeps track of medical supplies and logistics at each tent and redirects patients towards empty tents should a specific tent become full.",
+    "team_profiles": [
+        {
+            "username": "@bcao",
+            "name": "@bcao"
+        },
+        {
+            "username": "@smanian",
+            "name": "@smanian"
+        },
+        {
+            "username": "@ayeheyis",
+            "name": "@ayeheyis"
+        },
+        {
+            "username": "@oolukoya",
+            "name": "@oolukoya"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$7.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solderless Plug-in BreadBoard, 830 tie-points, 2 Power lanes, 200PTS, ",
+            "cost": "$3.06",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Small Reduction Stepper Motor - 12VDC 32-Step 1/16 Gearing ID: 918 - $",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Continuous Rotation Servo [FeeTech FS5103R] ID: 154 - $11.95 : Adafrui",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arduino Yun - DEV-12053 - SparkFun Electronics",
+            "cost": "$74.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "TMP36 - Analog Temperature sensor [TMP36] ID: 165 - $1.50 : Adafruit I",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Membrane 3x4 Matrix Keypad + extras [3x4] ID: 419 - $3.95 : Adafruit I",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16mm Illuminated Pushbutton - Red Momentary ID: 1439 - $1.50 : Adafrui",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pulse Sensor Amped ID: 1093 - $25.00 : Adafruit Industries, Unique & f",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16mm Illuminated Pushbutton - Green Momentary ID: 1440 - $1.50 : Adafr",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboard trim potentiometer [10K] ID: 356 - $1.25 : Adafruit Industr",
+            "cost": "$1.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Toy / Hobby Motor - 130 Size ID: 711 - $1.95 : Adafruit Industries,",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Logitech HD Webcam C270, 720p Widescreen Video Calling and",
+            "cost": "$22.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Sandisk 4GB MicroSDHC Memory Card with SD Adapter: Compute",
+            "cost": "$7.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Standard LCD 20x4 + extras [white on blue] ID: 198 - $17.95 : Adafruit",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Kalevel\u00ae 120pcs Multicolored 40pin Male to Female, 40pin M",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/85/0.jpg",
+        "garage/85/1.jpg",
+        "garage/85/2.jpg",
+        "garage/85/3.jpg",
+        "garage/85/4.jpg",
+        "garage/85/5.jpg",
+        "garage/85/6.jpg",
+        "garage/85/7.jpg",
+        "garage/85/8.jpg",
+        "garage/85/9.jpg"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Lazier Dim Sum",
+    "date": "17 Oct 2021",
+    "detail": "Have you ever thought dim sum was too much work? Did you ever wish the food would come right to you? Now it can!!!",
+    "extended_details": "Our project is to create a system that improves the dim sum experience by making sure that you no longer have to spin an entire lazy susan. Dim sum is an interactive meal where you and your friends sit around a table of dishes and spin the turntable to retrieve the food you want. By adding QR codes to the bottom of dishes along with computer vision and a motor at the center of the table, you can quickly and easily have food brought right to you!",
+    "team_profiles": [
+        {
+            "username": "@joeym",
+            "name": "@joeym"
+        },
+        {
+            "username": "@junhanch",
+            "name": "@junhanch"
+        },
+        {
+            "username": "@clille",
+            "name": "@clille"
+        },
+        {
+            "username": "@nikhilp",
+            "name": "@nikhilp"
+        },
+        {
+            "username": "@ayh2",
+            "name": "@ayh2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Uno",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Glass Turntable",
+            "cost": "$154.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Camera",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Servo",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "QR Code Sticker",
+            "cost": "$33.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Strip Lights",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CDX Grade Plywood Sheet, 3/8\" Thick, 36\" Long x 48\" Wide",
+            "cost": "$31.39",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/697/0.jpg",
+        "garage/697/1.jpg",
+        "garage/697/2.jpg",
+        "garage/697/3.jpg",
+        "garage/697/4.jpg",
+        "garage/697/5.jpg",
+        "garage/697/6.jpg",
+        "garage/697/7.jpg",
+        "garage/697/8.jpg",
+        "garage/697/9.jpg",
+        "garage/697/10.jpg",
+        "garage/697/11.jpg",
+        "garage/697/12.jpg"
+    ]
+}

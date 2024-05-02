@@ -1,0 +1,119 @@
+{
+    "title": "EEG-Controlled Co-op Game",
+    "date": "04 Nov 2018",
+    "detail": "2-player mind-controlled co-op game",
+    "extended_details": "We will build two simple wireless EEG hats. The users wearing the EEG hats will be able to control blocks on a computer screen in a 2-player co-op game through actions like concentrating, opening/closing eyes (which increases the pattern of different waves in the brain). The intensity of the alpha, beta wave components is translated into movement directions on-screen.\r\n\r\nGuide:\r\nhttps://www.instructables.com/id/DIY-EEG-and-ECG-Circuit/",
+    "team_profiles": [
+        {
+            "username": "@ramgopav",
+            "name": "@ramgopav"
+        },
+        {
+            "username": "@wz2",
+            "name": "@wz2"
+        },
+        {
+            "username": "@krv",
+            "name": "@krv"
+        },
+        {
+            "username": "@abaddepu",
+            "name": "@abaddepu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "TL084CN",
+            "cost": "$0.61",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "20nF capacitors",
+            "cost": "$0.18",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "220nF capacitors",
+            "cost": "$0.61",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "100nF capacitors",
+            "cost": "$0.44",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "3.5mm Cable Jack",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1uF capacitors",
+            "cost": "$0.25",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "10nF capacitors",
+            "cost": "$2.41",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Breadboard/Jumper Wires",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electrodes",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electrode Gel",
+            "cost": "$9.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "10uF capacitors",
+            "cost": "$0.84",
+            "quantity": "\n",
+            "total": "20"
+        },
+        {
+            "part": "Assorted Resistors",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9V Batteries",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AD620AN Instrumentation Amplifier",
+            "cost": "$10.64",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Assorted Capacitors",
+            "cost": "$18.47",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/496/0.jpg"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "title": "holo picto",
+    "date": "04 Nov 2017",
+    "detail": "an editable hologram projection",
+    "extended_details": "Creating a hologram that we use a set of cameras to take a model of an object and allow a user to draw on the projection.",
+    "team_profiles": [
+        {
+            "username": "@cdgu",
+            "name": "@cdgu"
+        },
+        {
+            "username": "@qianyic",
+            "name": "@qianyic"
+        },
+        {
+            "username": "@ahebbar",
+            "name": "@ahebbar"
+        },
+        {
+            "username": "@dtom",
+            "name": "@dtom"
+        },
+        {
+            "username": "@dpratyus",
+            "name": "@dpratyus"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Acrylic Sheet",
+            "cost": "$13.75",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Table",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Television",
+            "cost": "$209.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic Glue",
+            "cost": "$7.33",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/269/0.jpg"
+    ]
+}

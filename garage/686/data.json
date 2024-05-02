@@ -1,0 +1,44 @@
+{
+    "title": "Firebot",
+    "date": "13 Nov 2020",
+    "detail": "Autonomous Robot Firefighter",
+    "extended_details": "Wildfires in the western United States are getting worse. While fire is a natural and essential part of these ecosystems, warming temperatures and drying soils\u2014both tied to human-caused climate change\u2014have contributed to observed increases in wildfire activity. As of Wednesday, October 28, at least 50 large fires were burning in the West, including 18 in California, where dry, windy conditions and record-breaking high temperatures have been fueling flames for weeks. Fires burning in Oregon have destroyed more than 1 million acres in the state. A large part of this is due to the difficulty of containing wildfires once they start. Firefighters must directly risk their lives and equipment to enter danger zones in order to create firebreaks, or gaps in vegetation and combustible materials.\r\n \r\nWe believe an effective way to suppress wildfires is to contain them by having a system that can enter these dangerous areas and stop the fires from crossing highways. Firebot is a prototype of an autonomous system that is intended to drive along a road and intelligently spray water at burning areas, in order to create and preserve fire breaks along existing infrastructure.\r\n\r\nFirebot is a robot designed to autonomously fight fires using computer vision. It is made of a camera, a water reservoir, a hose and nozzle mounted on a pair of servos that support tilt and pan motions for the hose.\r\n\r\nWe will use a Raspberry Pi to control 2 DC motors that steer the robot. We will use a camera to perform computer vision using color thresholding to detect locations of fire. Then the Raspberry will steer the robot towards the fire and aim the water gun towards the flame. The robot will spray the water until the fire is no longer visible in the camera.",
+    "team_profiles": [
+        {
+            "username": "@rastentz",
+            "name": "@rastentz"
+        },
+        {
+            "username": "@ishaang",
+            "name": "@ishaang"
+        },
+        {
+            "username": "@ranil",
+            "name": "@ranil"
+        },
+        {
+            "username": "@tlaroia",
+            "name": "@tlaroia"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/686/0.jpg",
+        "garage/686/1.jpg",
+        "garage/686/2.jpg",
+        "garage/686/3.jpg",
+        "garage/686/4.jpg",
+        "garage/686/5.jpg",
+        "garage/686/6.jpg",
+        "garage/686/7.jpg",
+        "garage/686/8.jpg",
+        "garage/686/9.jpg",
+        "garage/686/10.jpg",
+        "garage/686/11.jpg",
+        "garage/686/12.jpg",
+        "garage/686/13.jpg",
+        "garage/686/14.jpg",
+        "garage/686/15.jpg",
+        "garage/686/16.jpg"
+    ]
+}

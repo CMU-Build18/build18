@@ -1,0 +1,123 @@
+{
+    "title": "Backpack Charger",
+    "date": "15 Nov 2017",
+    "detail": "Imagine never having to worry about finding the nearest outlet!",
+    "extended_details": "Since students are always carrying their backpacks and always in need of outlets to charge their electronic devices, our plan is to design a backpack charger. This backpack will have built in chargers that use a gyroscope or kinetic energy (of students walking to or from class) in order to supply power.",
+    "team_profiles": [
+        {
+            "username": "@madelynl",
+            "name": "@madelynl"
+        },
+        {
+            "username": "@vekhlas",
+            "name": "@vekhlas"
+        },
+        {
+            "username": "@slohier",
+            "name": "@slohier"
+        },
+        {
+            "username": "@eisonc",
+            "name": "@eisonc"
+        },
+        {
+            "username": "@jimola",
+            "name": "@jimola"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Click to open expanded view DAOKI DAOKI ESP8266 WiFi Web Server Shiel",
+            "cost": "$15.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Travelers Club Luggage Merit 20 inch Expandable Softside Carry-on, Bla",
+            "cost": "$31.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "15 Pieces - 27mm Piezo Disc Elements with 4\" Leads - Acoustic Pickup C",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "uxcell 56mm x 38mm 7 Segments Red Light LED Numeric Display Common Ano",
+            "cost": "$4.11",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Shoes8teen Shoes 18 Womens Canvas Shoes Lace up Sneakers 18 Colors Ava",
+            "cost": "$2.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lot Of 5 Elmers Krazy Glue Original Crazy Super Glue All Purpose Insta",
+            "cost": "$7.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Monoprice Hook & Loop Fastening Tape 5 yard/roll, 0.75-inch - Black (1",
+            "cost": "$5.72",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12 Baseline Battery AA NI-MH Rechargeable Batteries 600mAh NIMH for So",
+            "cost": "$11.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GY-521 MPU-6050 MPU6050 3 Axis Accelerometer Gyroscope Module 6 DOF 6-",
+            "cost": "$5.07",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Mini Spy Hidden Camera,NIYPS 1080P Portable Small HD Nanny Cam with Ni",
+            "cost": "$36.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Project Motor Genetator",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "403-1085-ND",
+            "cost": "$58.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Elegoo EL-CK-002 Electronic Fun Kit Bundle with Breadboard Cable Resis",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Travel Emergency Sewing Kit Bundle with Scissors, Thimble, Thread, Nee",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Elmers/X-Acto 950021 Foamboard, 11-Inch x 14-Inch x .1875-Inch, White,",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/366/0.jpg"
+    ]
+}

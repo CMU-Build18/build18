@@ -1,0 +1,115 @@
+{
+    "title": "Frogger",
+    "date": "13 Nov 2016",
+    "detail": "Real life frogger game",
+    "extended_details": "Mechanical implementation of the classic arcade game frogger \ud83d\udc38 \ud83d\ude97",
+    "team_profiles": [
+        {
+            "username": "@kpandit",
+            "name": "@kpandit"
+        },
+        {
+            "username": "@rrudolph",
+            "name": "@rrudolph"
+        },
+        {
+            "username": "@alyssame",
+            "name": "@alyssame"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Coin Acceptor - Programmable (3 coin types) - COM-11719 - SparkFun Ele",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Photocell - SEN-09088 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.17",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Arcade Joystick - Short Handle - COM-09182 - SparkFun Electronics",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$15.24",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ZMA00A150L04PC C&K | Switches | DigiKey",
+            "cost": "$0.73",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$2.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.40",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Concave Button - Red - COM-09336 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/127/0.jpg"
+    ]
+}

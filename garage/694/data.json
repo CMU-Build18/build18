@@ -1,0 +1,113 @@
+{
+    "title": "Party Drone",
+    "date": "17 Oct 2021",
+    "detail": "A drone that flies around via RC, listens to whatever music is playing, and pulses its lights to the beat",
+    "extended_details": "We want to create a remote-controlled drone that listens to music playing in its environment and reacts by pulsing its lights along to the beat. The drone will be controlled through wifi. There will be a microphone attached to the drone that will listen to music and the microcontroller will perform fast Fourier transforms to determine the bpm and signal the lights to flash accordingly.\r\n\r\n[Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/3BWFF14K13SDG?ref_=wl_share)\r\n\r\n[Digikey Item - GPS](https://www.digikey.com/en/products/detail/adafruit-industries-llc/746/5353613)\r\n\r\n[Adafruit Item - Mic](https://www.adafruit.com/product/1063)\r\n\r\n[Spaaaaark Fun](http://sfe.io/w166251)",
+    "team_profiles": [
+        {
+            "username": "@osavkur",
+            "name": "@osavkur"
+        },
+        {
+            "username": "@szzhang",
+            "name": "@szzhang"
+        },
+        {
+            "username": "@jongwony",
+            "name": "@jongwony"
+        },
+        {
+            "username": "@xhe2",
+            "name": "@xhe2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Hobbypower XXD A2212 1000KV Brushless Motor + 30A ESC for Multicopter",
+            "cost": "$42.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electret Microphone Amplifier - MAX4466 with Adjustable Gain",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Strip Individually Addressable RGB LED Pixels",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ESP8266 ESP-12E Development Board WiFi WLAN Wireless Module",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "11.1V 3S 1500mAh Lipo Battery with XT60 Plug and Charger",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RF Link Transmitter - 434MHz",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RF Link Receiver - 4800bps (434MHz)",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RAYCorp 1245 12x4.5 Propellers",
+            "cost": "$14.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "iFlight SucceX-D F7 TwinG Dual ICM20689 Flight Controller F7",
+            "cost": "$74.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PLA Filament 1.75mm",
+            "cost": "$20.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "YoungRC F450 Drone Frame Kit",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Thumb Joystick",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Thumb Joystick Breakout",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "GPS BREAKOUT 66CH W/10HZ UPDATES",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/694/0.jpg"
+    ]
+}

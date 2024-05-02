@@ -1,0 +1,16 @@
+{
+    "title": "Automated Measurement Checker",
+    "date": "04 Nov 2018",
+    "detail": "A system that can automatically check the dimensions of various products",
+    "extended_details": "Automated dimension verifier that can model the distribution of dimensions of sizes from given samples of common goods",
+    "team_profiles": [
+        {
+            "username": "@mleppla",
+            "name": "@mleppla"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/500/0.jpg"
+    ]
+}

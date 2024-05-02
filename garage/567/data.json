@@ -1,0 +1,87 @@
+{
+    "title": "buddybots",
+    "date": "14 Oct 2019",
+    "detail": "robots that can move around",
+    "extended_details": "hello. thank you for taking the time out of your day to read the project description for buddybots. we hope that you don't find it a waste of your time. we will now proceed to explain what buddybots are.\r\n\r\nbuddybots will be friendly little robots that follow you around. they will also talk to each other to make sure they don't bump in to each other while they follow you around.\r\n\r\nthanks for reading and we hope you have a nice day.\r\n\r\np.s. if you like buzzwords, here are a few: buddybots will be (relatively) low-cost robots communicating with each other through the ultra wideband frequency. the unique value proposition of uwb is that, in addition to transfer of data, uwb-equipped devices are capable of multilateration through the use of time-of-flight calculations, simplifying the implementation of things such as swarm robotics and self-driving car networks. in this project, we plan on implementing trilateration with stationary beacons, then adding the ability to move to a specific point in space, and then finally adding communication ability between robots to avoid interference (likely through a simple control system to minimize distance between the destination point and the robot's position, but also to maximize distance between other robots).",
+    "team_profiles": [
+        {
+            "username": "@bpek",
+            "name": "@bpek"
+        },
+        {
+            "username": "@mmx",
+            "name": "@mmx"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "MTCH101",
+            "cost": "$0.37",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SWD to USB module",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultra wideband module development board",
+            "cost": "$39.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultra wideband module",
+            "cost": "$22.43",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Robot chassis kit",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Motor driver (option 1)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Battery charger",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Voltage regulator",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "10 Capacitors",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor driver (option 2)",
+            "cost": "$0.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/567/0.jpg"
+    ]
+}

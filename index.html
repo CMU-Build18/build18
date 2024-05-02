@@ -6,10 +6,1301 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Build18</title>
     <link href="./output.css" rel="stylesheet">
+
+    <link rel="icon" href="assets/build18-logo.png" type="image/x-icon">
+
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "m5mdsy528d");
+    </script>
+
+    <!-- Alpine Plugins -->
+    <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+    <!-- Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+
+    <script type="module">
+        const firebaseConfig = {
+            apiKey: "AIzaSyDe1rwShoj5OXQQBndtnkM2gbBJmG0i_jY",
+            authDomain: "build18-7c01e.firebaseapp.com",
+            projectId: "build18-7c01e",
+            storageBucket: "build18-7c01e.appspot.com",
+            messagingSenderId: "531582224158",
+            appId: "1:531582224158:web:c1864dd5259e7c9857ab0f",
+            measurementId: "G-R1KHW2JFKG"
+        };
+
+        // Initialize Firebase
+        var app = firebase.initializeApp(firebaseConfig);
+        const analytics = firebase.analytics(app);
+
+        const provider = new firebase.auth.GoogleAuthProvider();
+        const auth = firebase.auth();
+        provider.setCustomParameters({
+            'login_hint': '@*.cmu.edu'
+        });
+
+        // Add event listener to registration-button
+        document.addEventListener('DOMContentLoaded', (event) => {
+
+            document.getElementById('register-button').addEventListener('click', () => {
+
+                firebase.auth().signInWithRedirect(provider)
+                    .then((result) => {
+                        // This gives you a Google Access Token. You can use it to access the Google API.
+                        const credential = firebase.auth.GoogleAuthProvider.credentialFromResult(result);
+                        const token = credential.accessToken;
+                        console.log(credential);
+                        console.log(token);
+
+                        // The signed-in user info.
+                        const user = result.user;
+                        console.log(user);
+                        if (user) { // Check if user is not undefined
+                            const email = user.email;
+                            console.log('User is signed in as ' + email);
+
+                        } else {
+                            console.log('User is not signed in');
+                        }
+                    }).catch((error) => {
+                        // Handle Errors here.
+                        const errorCode = error.code;
+                        const errorMessage = error.message;
+                        // The email of the user's account used.
+                        const email = error.email;
+                        // The AuthCredential type that was used.
+                        const credential = error.credential; // Use error.credential instead of firebase.auth.GoogleAuthProvider.credentialFromError(error)
+
+                        console.log(errorCode);
+                        console.log(errorMessage);
+                        console.log('User is signed in as' + email);
+
+                        // ...
+                    });
+
+
+                console.log(credential);
+                console.log(token);
+                console.log('User is signed in as' + email);
+            });
+
+            // listen for a user sign-in
+            firebase.auth().onAuthStateChanged((user) => {
+                if (user) {
+                    // User is signed in.
+                    const displayName = user.displayName;
+                    const email = user.email;
+                    const emailVerified = user.emailVerified;
+                    const photoURL = user.photoURL;
+                    const isAnonymous = user.isAnonymous;
+                    const uid = user.uid;
+                    const providerData = user.providerData;
+                    console.log('User is signed in as' + email);
+
+                    // Delete registration form
+                    document.getElementById('register-form').remove();
+                } else {
+                    // User is signed out.
+                    // ...
+                }
+            });
+        });
+
+    </script>
 </head>
 
 <body>
-    <h1>Hello, world!</h1>
+    <!-- nav -->
+    <div id="nav"
+        class="fixed top-1/2 transform -translate-y-1/2 bg-slate-50 bg-opacity-30 z-10 rounded-lg transition-opacity duration-500 ease-in-out"
+        x-data="{ scrolled: false, lastScroll: 0, timer: null }" :class="{ 'opacity-0': scrolled }"
+        @scroll.window="clearTimeout(timer); scrolled = (window.pageYOffset > lastScroll && window.pageYOffset > 0); lastScroll = window.pageYOffset; timer = setTimeout(() => { scrolled = false }, 3500)">
+
+        <ul class="menu w-fit rounded-box">
+            <li>
+                <a href="#top" class="lg:tooltip lg:tooltip-right" data-tip="Home">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="#ff8236" viewBox="0 -960 960 960"
+                        stroke="#ff8236">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M240-200h133.85v-237.69h212.3V-200H720v-360L480-740.77 240-560v360Zm-60 60v-450l300-225.77L780-590v450H526.15v-237.69h-92.3V-140H180Zm300-330.38Z" />
+                    </svg>
+
+                </a>
+            </li>
+            <li>
+                <a href="#about" class="lg:tooltip lg:tooltip-right" data-tip="About">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="#ff8236" viewBox="0 -960 960 960"
+                        stroke="#ff8236">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M162.31-130q-29.83 0-51.07-21.24Q90-172.48 90-202.31v-613.46l57 57 66-67 67 67 67-67 66 67 67-67 67 67 66-67 67 67 67-67 66 67 57-57v613.46q0 29.83-21.24 51.07Q827.52-130 797.69-130H162.31Zm0-60H450v-260H150v247.69q0 5.39 3.46 8.85t8.85 3.46ZM510-190h287.69q5.39 0 8.85-3.46t3.46-8.85V-290H510v100Zm0-160h300v-100H510v100ZM150-510h660v-143.85H150V-510Z" />
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="#faq" class="lg:tooltip lg:tooltip-right" data-tip="FAQs">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="#ff8236" viewBox="0 -960 960 960"
+                        stroke="#ff8236">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M500-114.62 493.85-220H460q-133.54 0-226.77-93.23Q140-406.46 140-540q0-133.54 93.23-226.77Q326.46-860 460-860q66.77 0 124.81 24.96 58.04 24.96 101.65 68.58 43.62 43.61 68.58 101.65Q780-606.77 780-540q0 68.08-21.23 130.73-21.23 62.65-58.35 117.23-37.11 54.58-88.5 99.69-51.38 45.12-111.92 77.73ZM560-226q71-60 115.5-140.5T720-540q0-109-75.5-184.5T460-800q-109 0-184.5 75.5T200-540q0 109 75.5 184.5T460-280h100v54Zm-99.85-103.08q14.7 0 24.97-10.27 10.26-10.27 10.26-24.96 0-14.69-10.26-24.96-10.27-10.27-24.97-10.27-14.69 0-24.96 10.27-10.27 10.27-10.27 24.96 0 14.69 10.27 24.96 10.27 10.27 24.96 10.27Zm-23.23-122h47.69q.77-27.3 7.74-40.46 6.96-13.15 37.8-44 17.62-17.61 28.66-37.08 11.04-19.46 11.04-43.07 0-47.16-32.2-72.27-32.19-25.12-76.88-25.12-40.54 0-68.42 22.39-27.89 22.38-39.89 53.92l44.46 17.38q6.54-17.38 21.31-32.92 14.77-15.54 42.54-15.54 30.46 0 45.31 16.73 14.84 16.74 14.84 36.66 0 18.54-10.19 32.23-10.19 13.69-25.34 28.85-31.93 27.69-40.2 46.53-8.27 18.85-8.27 55.77ZM460-513Z" />
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="#team" class="lg:tooltip lg:tooltip-right" data-tip="Team">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="#ff8236" viewBox="0 -960 960 960"
+                        stroke="#ff8236">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M20-248.46v-48.77q0-39.92 41.69-65.58 41.7-25.65 108.7-25.65 11.07 0 22.3.69t22.62 2.69q-11.69 18.7-17.35 38.81-5.65 20.12-5.65 41.27v56.54H20Zm240 0v-55q0-28.09 15.77-51.35 15.77-23.27 45.46-40.57 29.69-17.31 70.16-25.96 40.46-8.66 88.46-8.66 48.92 0 89.38 8.66 40.46 8.65 70.15 25.96 29.7 17.3 45.16 40.57Q700-331.55 700-303.46v55H260Zm507.69 0v-56.42q0-22.57-5.34-42.54-5.35-19.96-16.04-37.66 11.77-2 22.5-2.69t21.19-.69q67 0 108.5 25.35 41.5 25.34 41.5 65.88v48.77H767.69Zm-444.61-60h314.46v-4.23q-6.15-24.23-51.08-40.77Q541.54-370 480-370q-61.54 0-106.46 16.54-44.93 16.54-50.46 40.77v4.23Zm-152.8-118.85q-28.28 0-48.32-20.11t-20.04-48.35q0-28.61 20.12-48.34 20.11-19.73 48.35-19.73 28.61 0 48.53 19.73 19.93 19.73 19.93 48.46 0 27.88-19.72 48.11-19.71 20.23-48.85 20.23Zm619.72 0q-28 0-48.23-20.23-20.23-20.23-20.23-48.11 0-28.73 20.23-48.46t48.3-19.73q28.93 0 48.66 19.73 19.73 19.73 19.73 48.34 0 28.24-19.68 48.35-19.68 20.11-48.78 20.11ZM480.14-460q-43.22 0-73.6-30.29-30.38-30.28-30.38-73.55 0-44.14 30.28-73.99 30.29-29.86 73.56-29.86 44.13 0 73.99 29.82 29.85 29.81 29.85 73.89 0 43.21-29.81 73.6Q524.21-460 480.14-460Zm.05-60q18.35 0 31-12.84 12.66-12.85 12.66-31.2 0-18.34-12.61-31-12.61-12.65-31.24-12.65-18.15 0-31 12.61-12.85 12.6-12.85 31.24 0 18.15 12.85 31Q461.85-520 480.19-520Zm.43 211.54ZM480-563.84Z" />
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <!-- landing -->
+    <section id="home ">
+        <div class="h-screen  bg-[#faf7f5] ">
+            <img src="assets/build18-breadboard.svg" class="min-w-full max-h-screen object-cover sm:min-h-full">
+            <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 items-center">
+                <div class="text-center">
+                    <p
+                        class="text-6xl md:text-9xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.purple.400),theme(colors.purple.100),theme(colors.pink.300),theme(colors.orange.400),theme(colors.pink.300),theme(colors.purple.100),theme(colors.purple.400))] bg-[length:200%_auto] animate-gradient">
+                        APPLY FOR BUILD18!</p>
+
+                    </p>
+                    <label id="register-form"
+                        class="input input-bordered flex items-center gap-2 mt-8 max-w-md mx-auto pr-0 glass">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                            class="w-4 h-4 opacity-70">
+                            <path
+                                d="M2.5 3A1.5 1.5 0 0 0 1 4.5v.793c.026.009.051.02.076.032L7.674 8.51c.206.1.446.1.652 0l6.598-3.185A.755.755 0 0 1 15 5.293V4.5A1.5 1.5 0 0 0 13.5 3h-11Z" />
+                            <path
+                                d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" />
+                        </svg>
+                        <input type="text" class="grow" placeholder="*cmu.edu" id="email-placeholder" />
+                        <button id="register-button" class="mx-5 hover:fill-orange-400"><svg
+                                xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24">
+                                <path
+                                    d="M212.31-140Q182-140 161-161q-21-21-21-51.31v-535.38Q140-778 161-799q21-21 51.31-21h252.3v60h-252.3q-4.62 0-8.46 3.85-3.85 3.84-3.85 8.46v535.38q0 4.62 3.85 8.46 3.84 3.85 8.46 3.85h535.38q4.62 0 8.46-3.85 3.85-3.84 3.85-8.46v-252.3h60v252.3Q820-182 799-161q-21 21-51.31 21H212.31Zm176.46-206.62-42.15-42.15L717.85-760H560v-60h260v260h-60v-157.85L388.77-346.62Z" />
+                            </svg>
+                            <!-- on click, open firebase auth -->
+
+                        </button>
+
+                    </label>
+
+                </div>
+            </div>
+            <!-- Bouncing arrow down -->
+            <div class="absolute bottom-0 left-1/2 transform -translate-x-1/2 mb-64 animate-bounce">
+                <a href="#about">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48">
+                        <path d="M480-358.46 253.85-584.62 296-626.77l184 184 184-184 42.15 42.15L480-358.46Z" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- about -->
+    <section id="about">
+        <div class="h-max bg-white">
+            <div class="bg-white py-6 sm:py-8 lg:py-12">
+                <div class="mx-auto max-w-screen-xl px-4 md:px-8 pt-12">
+                    <!-- text - start -->
+                    <div class="mb-10 md:mb-16">
+                        <h2 class="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">WHO ARE WE?
+                        </h2>
+
+                        <p class="mx-auto max-w-screen-xl text-center text-gray-500 md:text-lg italic">"Build18 is where
+                            creativity, curiosity and engineering intersect. It's a chance for every innovator at
+                            Carnegie Mellon — every student and faculty member
+                            with a passion for invention — to make and break things together in pursuit of new ideas." -
+                            Cyrus Tabrizi
+                        </p>
+
+                        <p class="mx-auto max-w-screen-xl text-center text-gray-500 md:text-lg pt-8">We are an annual
+                            engineering festival held by the Electrical and Computer Engineering
+                            department and run by students. Build18 was founded out of the
+                            belief that curriculum is too structured - there just isn't enough room for simply
+                            tinkering with electronics and making cool stuff. Hope to see you soon!</p>
+                    </div>
+                </div>
+
+
+                <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:gap-6 xl:gap-8 px-12">
+                    <a href="https://www.flickr.com/photos/cmu-ece/albums/72177720314674377/with/53519407335"
+                        target="_blank"
+                        class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
+                        <img src="assets/project-001.jpg" loading="lazy" alt="Yinz Bus"
+                            class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+
+                        <div
+                            class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
+                        </div>
+
+                        <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Yinz
+                            Bus</span>
+                    </a>
+                    <a href="https://www.flickr.com/photos/cmu-ece/albums/72177720314674377/with/53519407335"
+                        target="_blank"
+                        class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
+                        <img src="assets/project-002.jpg" loading="lazy" alt="Matless DDR"
+                            class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+
+                        <div
+                            class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
+                        </div>
+
+                        <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Matless
+                            DDR</span>
+                    </a>
+                    <a href="https://www.flickr.com/photos/cmu-ece/albums/72177720314674377/with/53519407335"
+                        target="_blank"
+                        class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
+                        <img src="assets/project-003.jpg" loading="lazy" alt="Flex 'em Wrecks 'em Robots!"
+                            class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+
+                        <div
+                            class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
+                        </div>
+
+                        <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Flex 'em
+                            Wrecks 'em Robots!</span>
+                    </a>
+                    <a href="https://www.flickr.com/photos/cmu-ece/albums/72177720314674377/with/53519407335"
+                        target="_blank"
+                        class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
+                        <img src="assets/project-004.jpg" loading="lazy" alt="Guitar That Only Plays Wonderwall"
+                            class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110 sm:w-screen sm:h-auto" />
+
+                        <div
+                            class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
+                        </div>
+
+                        <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Guitar That
+                            Only Plays Wonderwall</span>
+                    </a>
+                </div>
+
+            </div>
+            <div class="relative group max-w-max mx-auto">
+                <div
+                    class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt">
+                </div>
+                <a href="/garage">
+                    <div class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">
+                        PROJECT
+                        GARAGE</div>
+                </a>
+            </div><br>
+            <br>
+        </div>
+
+    </section>
+
+
+    <!-- faqs -->
+    <section id="faq">
+        <div class="h-max bg-[#faf7f5]">
+            <div class="mx-auto max-w-screen-xl px-4 md:px-8 pt-24">
+                <!-- text - start -->
+                <div class="mb-10 md:mb-16">
+                    <h2 class="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">Frequently Asked
+                        Questions (FAQs)
+                    </h2>
+
+                    <p class="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">Have more questions? Contact
+                        an officer or send
+                        us an email! Join us on our socials @build.18 for the latest information.</p>
+                </div>
+
+            </div>
+
+
+            <div x-data="{ 
+                activeAccordion: '', 
+                setActiveAccordion(id) { 
+                    this.activeAccordion = (this.activeAccordion == id) ? '' : id 
+                } 
+            }" class="relative w-full max-w-screen-xl mx-auto text-l">
+
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>When can I start registering?</span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            You can make your account now! Look for follow-up emails in the Fall semester to propose
+                            your project.
+                        </div>
+                    </div>
+                </div>
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>What's the maximum team size? </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            5 people.
+                        </div>
+                    </div>
+                </div>
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>What's the minimum team size?
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            2 people.
+                        </div>
+                    </div>
+                </div>
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>Do I have to be an ECE major to participate?
+
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            Nope! We allow and encourage multidisciplinary teams. Teams may be composed of any major.
+
+                        </div>
+                    </div>
+                </div>
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>How many people are allowed to participate?
+
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            We allow as many teams as we have funding for. In the past, we have had around 100 teams of
+                            2-5 people each.
+
+                        </div>
+                    </div>
+                </div>
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>
+                            Are there any project restrictions?
+
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            As long as it does not break any laws or cause people harm you should be good to go.
+                            However, if your project uses dangerous chemicals, high powered lasers, etc, then the
+                            officers may place extra restrictions on your team in order to ensure safety during build
+                            week. In general, however, projects are not restricted to a certain theme or field.
+
+
+                        </div>
+                    </div>
+                </div>
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>What's the maximum project budget?
+
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            Historically, the budget has been $250, with an additional $50 bonus if all the parts are
+                            ordered from preferred vendors. If your project needs additional funding, consider applying
+                            for an advanced track.
+
+                        </div>
+                    </div>
+                </div>
+
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>How are budgets calculated by the officers?
+
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            When your team submits parts, you are expected to list the price before shipping and tax.
+                            Both shipping and tax are covered by the officers. Naturally, the budget after this is
+                            simply the sum of the price of each of your parts.
+
+                            One slight complication arises from the fact that the prices of parts from some vendors can
+                            vary wildly over time (e.g. Amazon). In general, the officers will try to respect the price
+                            of the part at the time you submitted it on the parts list. So, your team won't be on the
+                            hook if the price of your part changes between the time you submitted it and when the
+                            officers ordered the part.
+
+                        </div>
+                    </div>
+                </div>
+
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>
+                            Can I order my own parts?
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            We strongly encourage teams to order parts through the officers, as the reimbursement
+                            process is long and painful for both the teams and officers. However, you are welcome to
+                            provide your own parts. If you want to order parts on your own, then you are responsible for
+                            making sure you stay within budget, and the cost of tax and shipping is not covered by the
+                            officers. Additionally, ordering on your own will void any preferred vendor bonus.
+
+                        </div>
+                    </div>
+                </div>
+
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>
+                            How does the reimbursement process work?
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            If you chose to order parts on your own, or need to reimbursed for any other reason, then
+                            the process works as follows. After Build Week ends, the officers will send out a
+                            reimbursement form for your team to fill out. Through this form, you will submit copies of
+                            your itemized receipts of your purchases. In order to be fully reimbursed, you must submit
+                            an itemized receipt for each of your purchases. This means that the receipt cannot simply be
+                            a total; it must contain an amount for each item on the receipt. Failure to follow these
+                            guidelines may result in your team not receiving a reimbursement.
+
+                        </div>
+                    </div>
+                </div>
+                <div x-data="{ id: $id('accordion') }"
+                    :class="{ 'border-neutral-200/60 text-neutral-800' : activeAccordion==id, 'border-transparent text-neutral-600 hover:text-neutral-800' : activeAccordion!=id }"
+                    class="duration-200 ease-out bg-white border rounded-md cursor-pointer group" x-cloak>
+                    <button @click="setActiveAccordion(id)"
+                        class="flex items-center justify-between w-full px-5 py-4 font-semibold text-left select-none">
+                        <span>What if I need to order parts after the parts list submission deadline?
+
+                        </span>
+                        <div :class="{ 'rotate-90': activeAccordion==id }"
+                            class="relative flex items-center justify-center w-2.5 h-2.5 duration-300 ease-out">
+                            <div class="absolute w-0.5 h-full bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                            <div :class="{ 'rotate-90': activeAccordion==id }"
+                                class="absolute w-full h-0.5 ease duration-500 bg-neutral-500 group-hover:bg-neutral-800 rounded-full">
+                            </div>
+                        </div>
+                    </button>
+                    <div x-show="activeAccordion==id" x-collapse x-cloak>
+                        <div class="p-5 pt-0 opacity-70">
+                            For whatever reason, either because you forgot some parts, your parts broke while you were
+                            building project, or some other unforeseen reason, your team may need to order parts after
+                            the submission deadline. If this is the case, be sure to reach out to the officers ASAP. The
+                            officers may be able to rush order you the parts so that you can complete your project on
+                            time. These are handled on a case by case basis, but generally, the price of the part will
+                            simply be taken out of your budget.
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div
+                class="pt-12 container mx-auto max-w-screen-xl px-4 md:px-8 text-center flex items-center justify-center w-full pb-10">
+                <ul class="timeline text-white pt-12">
+                    <li>
+                        <div class="timeline-start timeline-box">Registration Opens</div>
+                        <div class="timeline-middle">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#ff8236" class="w-5 h-5">
+                                <path fill-rule="evenodd"
+                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                                    clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                        <hr />
+                    </li>
+                    <li>
+                        <hr />
+                        <div class="timeline-middle">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#000000" class="w-5 h-5">
+                                <path fill-rule="evenodd"
+                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                                    clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                        <div class="timeline-end timeline-box">Team Formation</div>
+                        <hr />
+                    </li>
+                    <li>
+                        <hr />
+                        <div class="timeline-start timeline-box">Project Proposal</div>
+                        <div class="timeline-middle">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#000000" class="w-5 h-5">
+                                <path fill-rule="evenodd"
+                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                                    clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                        <hr />
+                    </li>
+                    <li>
+                        <hr />
+                        <div class="timeline-middle">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#000000" class="w-5 h-5">
+                                <path fill-rule="evenodd"
+                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                                    clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                        <div class="timeline-end timeline-box">Parts List & Budget</div>
+                        <hr />
+                    </li>
+                    <li>
+                        <hr />
+                        <div class="timeline-start timeline-box">Build!</div>
+                        <div class="timeline-middle">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#000000" class="w-5 h-5">
+                                <path fill-rule="evenodd"
+                                    d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                                    clip-rule="evenodd" />
+                            </svg>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- team -->
+    <section id="team">
+        <div class="h-max bg-white">
+
+            <div class="bg-white py-6 sm:py-8 lg:py-12">
+                <div class="mx-auto max-w-screen-xl px-4 md:px-8 pt-24">
+                    <!-- text - start -->
+                    <div class="mb-10 md:mb-16">
+                        <h2 class="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">The Team
+                        </h2>
+
+                        <p class="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">Our board works
+                            year-round to plan the event for yinz! If you are interested in sponsoring, please get in
+                            touch :)</p>
+                    </div>
+                </div>
+
+                <div
+                    class="block container mx-auto max-w-screen-xl px-4 md:px-8 text-center flex items-center justify-center w-full">
+
+                    <!-- Current / Alumni Selector -->
+                    <div x-data="{
+                tabSelected: 1,
+                tabId: $id('tabs'),
+                tabButtonClicked(tabButton){
+                    this.tabSelected = tabButton.id.replace(this.tabId + '-', '');
+                    this.tabRepositionMarker(tabButton);
+                },
+                tabRepositionMarker(tabButton){
+                    this.$refs.tabMarker.style.width=tabButton.offsetWidth + 'px';
+                    this.$refs.tabMarker.style.height=tabButton.offsetHeight + 'px';
+                    this.$refs.tabMarker.style.left=tabButton.offsetLeft + 'px';
+                },
+                tabContentActive(tabContent){
+                    return this.tabSelected == tabContent.id.replace(this.tabId + '-content-', '');
+                },
+                tabButtonActive(tabContent){
+                    const tabId = tabContent.id.split('-').slice(-1);
+                    return this.tabSelected == tabId;
+                }
+            }" x-init="tabRepositionMarker($refs.tabButtons.firstElementChild);"
+                        class="relative w-full max-w-screen-lg">
+
+                        <div x-ref="tabButtons"
+                            class="relative inline-grid items-center justify-center w-full h-10 grid-cols-2 p-1 text-gray-500 bg-white border border-gray-100 rounded-lg select-none">
+                            <button :id="$id(tabId)" @click="tabButtonClicked($el);" type="button"
+                                :class="{ 'bg-gray-100 text-gray-700' : tabButtonActive($el) }"
+                                class="relative z-20 inline-flex items-center justify-center w-full h-8 px-3 text-sm font-medium transition-all rounded-md cursor-pointer whitespace-nowrap">Officers</button>
+                            <button :id="$id(tabId)" @click="tabButtonClicked($el);" type="button"
+                                :class="{ 'bg-gray-100 text-gray-700' : tabButtonActive($el) }"
+                                class="relative z-20 inline-flex items-center justify-center w-full h-8 px-3 text-sm font-medium transition-all rounded-md cursor-pointer whitespace-nowrap">Alumni</button>
+                            <div x-ref="tabMarker" class="absolute left-0 z-10 w-1/2 h-full duration-300 ease-out"
+                                x-cloak>
+                                <div class="w-full h-full bg-gray-100 rounded-md shadow-sm"></div>
+                            </div>
+                        </div>
+                        <div
+                            class="relative flex items-center justify-center w-full p-5 mt-2 text-xs text-gray-400 border rounded-md content border-gray-200/70">
+                            <div :id="$id(tabId + '-content')" x-show="tabContentActive($el)" class="relative">
+                                <div class="bg-white py-6 sm:py-8 lg:py-12">
+                                    <div class="mx-auto max-w-screen-xl px-4 md:px-8">
+                                        <div class="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4 lg:gap-8">
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/perrin-tong.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Perrin
+                                                        Tong</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Co-President</p>
+                                                    <div class="flex justify-center">
+                                                        <div class="flex gap-4">
+
+                                                            <a href="https://www.linkedin.com/in/perrintong"
+                                                                target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 24 24" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                                </svg>
+                                                            </a>
+                                                            <a href="https://github.com/perrintong325" target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 98 96" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="m48.9 0c-27.1 0-48.9 22-48.9 49.2 0 21.8 14 40.2 33.4 46.7 2.4 0.5 3.3-1.1 3.3-2.4 0-1.1-0.1-5-0.1-9.1-13.5 3-16.4-5.8-16.4-5.8-2.2-5.8-5.4-7.2-5.4-7.2-4.4-3 0.3-3 0.3-3 5 0.3 7.5 5 7.5 5 4.4 7.5 11.5 5.4 14.3 4.1 0.4-3.2 1.7-5.4 3.1-6.6-10.9-1.1-22.3-5.4-22.3-24.3 0-5.4 2-9.8 5-13.2-0.5-1.2-2.2-6.3 0.5-13 0 0 4.1-1.3 13.4 5q1.5-0.4 3-0.7 1.6-0.3 3.1-0.5 1.5-0.2 3.1-0.3 1.5-0.1 3.1-0.1c4.1 0 8.3 0.6 12.2 1.6 9.3-6.3 13.4-5 13.4-5 2.7 6.7 1 11.8 0.5 13 3.1 3.4 5 7.8 5 13.2 0 18.9-11.4 23.1-22.3 24.3 1.8 1.5 3.3 4.5 3.3 9.1 0 6.6-0.1 11.9-0.1 13.5 0 1.3 0.9 2.9 3.3 2.4 19.4-6.5 33.4-24.9 33.4-46.7 0.1-27.2-21.8-49.2-48.7-49.2z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/varun-kumar.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Varun
+                                                        Kumar</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Co-President</p>
+                                                    <div class="flex justify-center">
+                                                        <div class="flex gap-4">
+
+                                                            <a href="https://www.linkedin.com/in/varunkumar314/"
+                                                                target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 24 24" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/jeffery-john.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Jeffery
+                                                        John</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Website</p>
+                                                    <div class="flex justify-center">
+                                                        <div class="flex gap-4">
+
+                                                            <a href="https://www.linkedin.com/in/jefferyjohn"
+                                                                target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 24 24" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                                </svg>
+                                                            </a>
+                                                            <a href="https://github.com/jefferyjohn" target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 98 96" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="m48.9 0c-27.1 0-48.9 22-48.9 49.2 0 21.8 14 40.2 33.4 46.7 2.4 0.5 3.3-1.1 3.3-2.4 0-1.1-0.1-5-0.1-9.1-13.5 3-16.4-5.8-16.4-5.8-2.2-5.8-5.4-7.2-5.4-7.2-4.4-3 0.3-3 0.3-3 5 0.3 7.5 5 7.5 5 4.4 7.5 11.5 5.4 14.3 4.1 0.4-3.2 1.7-5.4 3.1-6.6-10.9-1.1-22.3-5.4-22.3-24.3 0-5.4 2-9.8 5-13.2-0.5-1.2-2.2-6.3 0.5-13 0 0 4.1-1.3 13.4 5q1.5-0.4 3-0.7 1.6-0.3 3.1-0.5 1.5-0.2 3.1-0.3 1.5-0.1 3.1-0.1c4.1 0 8.3 0.6 12.2 1.6 9.3-6.3 13.4-5 13.4-5 2.7 6.7 1 11.8 0.5 13 3.1 3.4 5 7.8 5 13.2 0 18.9-11.4 23.1-22.3 24.3 1.8 1.5 3.3 4.5 3.3 9.1 0 6.6-0.1 11.9-0.1 13.5 0 1.3 0.9 2.9 3.3 2.4 19.4-6.5 33.4-24.9 33.4-46.7 0.1-27.2-21.8-49.2-48.7-49.2z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/jeff-kim.jpg" loading="lazy" alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Jongyup
+                                                        (Jeff) Kim</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Sponsorship & Event Planning</p>
+                                                    <div class="flex justify-center">
+                                                        <div class="flex gap-4">
+
+                                                            <a href="https://www.linkedin.com/in/jongyup-kim-7397571b5/"
+                                                                target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 24 24" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/michelle-heo.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Michelle
+                                                        Heo</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Logistics, Internal Communications, Website</p>
+                                                    <div class="flex justify-center">
+                                                        <div class="flex gap-4">
+
+                                                            <a href="https://www.linkedin.com/in/michelleaheo/"
+                                                                target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 24 24" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/mm-demangone.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">MM
+                                                        Demangone</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Event Planning & External Communications</p>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/nicole-feng.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Nicole
+                                                        Feng</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Website & Sponsorship</p>
+                                                </div>
+                                                <div class="flex justify-center">
+                                                    <div class="flex gap-4">
+
+                                                        <a href="https://linkedin.com/in/nvfeng/" target="_blank"
+                                                            class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                            <svg class="h-5 w-5" width="24" height="24"
+                                                                viewBox="0 0 24 24" fill="currentColor"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/quinn-roberts.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Quinn
+                                                        Roberts</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Website & Creative Media</p>
+                                                </div>
+                                                <div class="flex justify-center">
+                                                    <div class="flex gap-4">
+
+                                                        <a href="https://www.linkedin.com/in/quinn-roberts-805933287/"
+                                                            target="_blank"
+                                                            class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                            <svg class="h-5 w-5" width="24" height="24"
+                                                                viewBox="0 0 24 24" fill="currentColor"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/sebastian-perez.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">
+                                                        Sebastian Perez</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Tech Talks & Parts Ordering</p>
+                                                </div>
+                                                <div class="flex justify-center">
+                                                    <div class="flex gap-4">
+
+                                                        <a href="https://www.linkedin.com/in/saperezv/" target="_blank"
+                                                            class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                            <svg class="h-5 w-5" width="24" height="24"
+                                                                viewBox="0 0 24 24" fill="currentColor"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/siddharth-singh.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">
+                                                        Siddharth Singh</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Tech Talks & Parts Ordering</p>
+                                                </div>
+                                                <div class="flex justify-center">
+                                                    <div class="flex gap-4">
+
+                                                        <a href="https://www.linkedin.com/in/sidsingh2903/"
+                                                            target="_blank"
+                                                            class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                            <svg class="h-5 w-5" width="24" height="24"
+                                                                viewBox="0 0 24 24" fill="currentColor"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/siena-lee.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">
+                                                        Siena Lee</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Sponsorship & Parts Ordering</p>
+                                                </div>
+                                                <div class="flex justify-center">
+                                                    <div class="flex gap-4">
+
+                                                        <a href="https://www.linkedin.com/in/sienahlee/" target="_blank"
+                                                            class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                            <svg class="h-5 w-5" width="24" height="24"
+                                                                viewBox="0 0 24 24" fill="currentColor"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/bill-nace.jpg" loading="lazy"
+                                                        alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">
+                                                        Bill Nace</div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        Faculty Mentor</p>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div :id="$id(tabId + '-content')" x-show="tabContentActive($el)" class="relative" x-cloak>
+                                <div class="bg-white py-6 sm:py-8 lg:py-12">
+                                    <div class="mx-auto max-w-screen-xl px-4 md:px-8">
+                                        <div class="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4 lg:gap-8">
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/ben-sun.jpg" loading="lazy" alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">Ben Sun
+                                                    </div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        2023
+                                                    </p>
+                                                    <div class="flex justify-center">
+                                                        <div class="flex gap-4">
+
+                                                            <a href="https://www.linkedin.com/in/ben-sun-3287b5248/"
+                                                                target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 24 24" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+                                            <!-- person - start -->
+                                            <div class="flex flex-col items-center rounded-lg bg-gray-100 p-4 lg:p-8">
+                                                <div
+                                                    class="mb-2 h-24 w-24 overflow-hidden rounded-full bg-gray-200 shadow-lg md:mb-4 md:h-32 md:w-32">
+                                                    <img src="assets/team/david-wu.jpg" loading="lazy" alt="team-member"
+                                                        class="h-full w-full object-cover object-center" />
+                                                </div>
+
+                                                <div>
+                                                    <div class="text-center font-bold text-gray-600 md:text-lg">David Wu
+                                                    </div>
+                                                    <p
+                                                        class="mb-3 text-center text-sm text-gray-500 md:mb-4 md:text-base">
+                                                        2023
+                                                    </p>
+                                                    <div class="flex justify-center">
+                                                        <div class="flex gap-4">
+
+                                                            <a href="https://www.linkedin.com/in/david-wu-cmu2024/"
+                                                                target="_blank"
+                                                                class="text-gray-400 transition duration-100 hover:text-gray-500 active:text-gray-600">
+                                                                <svg class="h-5 w-5" width="24" height="24"
+                                                                    viewBox="0 0 24 24" fill="currentColor"
+                                                                    xmlns="http://www.w3.org/2000/svg">
+                                                                    <path
+                                                                        d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- person - end -->
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="bg-white py-6 sm:py-8 lg:py-12">
+        <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
+            <h2 class="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-8 lg:text-3xl">Help us train the next
+                generation of engineers!</h2>
+
+            <div class="grid grid-cols-2 gap-6 rounded-lg bg-gray-100 p-6 sm:h-40 sm:content-evenly md:grid-cols-4">
+                <!-- logo - start -->
+                <div class="flex justify-center text-gray-400">
+                    <img src="assets/logos/Sandia_National_Laboratories.png" alt="Sandia National Laboratories"
+                        class="h-auto w-auto sm:h-10 lg:h-12 object-" />
+                </div>
+                <!-- logo - end -->
+
+                <!-- logo - start -->
+                <div class="flex justify-center text-gray-400">
+                    <img src="assets/logos/General_Motors.png" alt="Sandia National Laboratories"
+                        class="h-auto w-auto sm:h-10 lg:h-12" />
+
+                </div>
+                <!-- logo - end -->
+
+                <!-- logo - start -->
+                <div class="flex justify-center text-gray-400">
+                    <img src="assets/logos/Caterpillar_logo 1.png" alt="Sandia National Laboratories"
+                        class="h-auto w-auto sm:h-10 lg:h-12" />
+                </div>
+                <!-- logo - end -->
+
+                <!-- logo - start -->
+                <div class="flex justify-center text-gray-400">
+                    <img src="assets/logos/SpaceX-Logo 1.png" alt="Sandia National Laboratories"
+                        class="h-auto w-auto sm:h-10 lg:h-12" />
+                </div>
+                <!-- logo - end -->
+            </div>
+        </div>
+    </div>
+    <!-- footer -->
+    <footer class="footer py-4 bg-base-200 text-base-content max-h-16">
+        <nav class="flex justify-between pl-10">
+            <aside>
+                <a href="#home">
+                    <img class="max-h-8 overflow-hidden" src="assets/build18-logo.png">
+                </a>
+            </aside>
+            <p class="text-center justify-center mt-1">Build18 © 2024</p>
+        </nav>
+
+
+        <nav flex justify-between text-pretty text-center">
+
+            <!-- <a class="link link-hover pr-16">Competition Rules</a>
+            <a class="link link-hover px-16">Privacy Policy</a>
+            <a class="link link-hover px-16">Press Kit</a>
+            <a class="link link-hover pl-16">Sponsor Packet</a> -->
+            <a href="#top" class="text-2xl text-orange-400 text-right">↑</a>
+
+        </nav>
+        <!-- <form>
+            <h6 class="footer-title">Newsletter</h6>
+            <fieldset class="form-control w-80">
+                <div class="join">
+                    <input type="text" placeholder="@*cmu.edu" class="input input-bordered join-item" />
+                    <button class="btn btn-warning join-item">Subscribe</button>
+                </div>
+            </fieldset>
+        </form> -->
+
+        <!-- Arrow to top -->
+        <!-- Arrow key to jump to top -->
+    </footer>
+
 </body>
 
 </html>

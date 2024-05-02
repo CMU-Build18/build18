@@ -1,0 +1,24 @@
+{
+    "title": "Lazy Laundry",
+    "date": "27 Oct 2018",
+    "detail": "Our motorized laundry basket will conveniently and automatically follow you and notify you when your laundry's done!",
+    "extended_details": "A motorized laundry basket that will follow the user using a tracking device. For example, if the user is wearing an ankle bracelet that lights up, the robot will follow. The robot will be able to circumvent obstacles and aid the average college student who is not in close proximity to a communal laundry room. It incorporates a programmable timer that will notify the user when laundry is done with fun visual/audio feedback.",
+    "team_profiles": [
+        {
+            "username": "@ebedoyan",
+            "name": "@ebedoyan"
+        },
+        {
+            "username": "@vccheng",
+            "name": "@vccheng"
+        },
+        {
+            "username": "@yunchiew",
+            "name": "@yunchiew"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/449/0.jpg"
+    ]
+}

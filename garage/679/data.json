@@ -1,0 +1,32 @@
+{
+    "title": "Robotic Bartender",
+    "date": "13 Nov 2020",
+    "detail": "Are you missing your favorite mixed drinks but completely lost on how to make them? We have the perfect robot for you!",
+    "extended_details": "We are building a bartending robot. This robot will mix different quantities of liquids by using a pulley system and a stepper motor to move a cup between the suspended bottles. We will also incoporate a frother to mix the final drink. An iOS app will be designed to interface with an Aduino which will allow you to select the drink that you want to be made for you.",
+    "team_profiles": [
+        {
+            "username": "@nsivakum",
+            "name": "@nsivakum"
+        },
+        {
+            "username": "@jrlew",
+            "name": "@jrlew"
+        },
+        {
+            "username": "@sroongta",
+            "name": "@sroongta"
+        },
+        {
+            "username": "@svtam",
+            "name": "@svtam"
+        },
+        {
+            "username": "@avesco",
+            "name": "@avesco"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/679/0.jpg"
+    ]
+}

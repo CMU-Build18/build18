@@ -1,0 +1,107 @@
+{
+    "title": "Chickens on Chairs",
+    "date": "04 Nov 2018",
+    "detail": "A system for sensor-based chicken care & monitoring",
+    "extended_details": "We want to automate some of the less interesting aspects of raising our chickens. Feed quantity remaining, water supply and temperature (relevant in winter), closing the roost door after the chickens have returned to the roost at the end of the day, and finally, determining if they have laid eggs, how many, and by which chicken.",
+    "team_profiles": [
+        {
+            "username": "@plima",
+            "name": "@plima"
+        },
+        {
+            "username": "@meribyte",
+            "name": "@meribyte"
+        },
+        {
+            "username": "@egarbade",
+            "name": "@egarbade"
+        },
+        {
+            "username": "@eeb",
+            "name": "@eeb"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Water Heater",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PoE Hat",
+            "cost": "$37.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Chicken Water Heater Dynamo",
+            "cost": "$30.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Outer Coop Camera",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pi Camera",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Food Scale",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro USB Power Supply & Raspberry Pi 3B+",
+            "cost": "$48.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro SD Card",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Water Sensor",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pedro Did Good. Pedro Deserves a Treat.",
+            "cost": "$0.19",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Solar Panel for Feed, Water Solenoids",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pi/Internal Coop Camera Extender Ribbon",
+            "cost": "$3.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Water Solenoid",
+            "cost": "$7.49",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/497/0.jpg"
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "title": "Automated Garden",
+    "date": "08 Nov 2017",
+    "detail": "A smart garden is all you need to survive (off the grid)",
+    "extended_details": "Powered by solar, the Arduino-based smart garden will have a sprinkler that moves in 2-d space the automatically water plants with the ability to collect plant data.",
+    "team_profiles": [
+        {
+            "username": "@searly",
+            "name": "@searly"
+        },
+        {
+            "username": "@chunminz",
+            "name": "@chunminz"
+        },
+        {
+            "username": "@bhlee",
+            "name": "@bhlee"
+        },
+        {
+            "username": "@ezeng",
+            "name": "@ezeng"
+        },
+        {
+            "username": "@eazheng",
+            "name": "@eazheng"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Ball Bushing Linear Motion 8mm x 15mm x 24mm Double Sealed 10 Pcs",
+            "cost": "$11.16",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Borescope camera",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Zinc-Aluminum-Coated Alloy Steel Socket Head Screw M3 x 0.5 mm Thread",
+            "cost": "$5.28",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Zinc-Plated Steel Hex Nut Low-Strength, M1.6 x 0.35 mm Thread",
+            "cost": "$8.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sandisk 8GB SD Card",
+            "cost": "$9.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "6061 Aluminum 8 mm Diameter 3 ft",
+            "cost": "$3.03",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "2.5W 5V/500mAh Mini Encapsulated Solar Cell Epoxy Solar Panel",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Spiral Wire Manager",
+            "cost": "$7.84",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5 Meters GT2 2mm Pitch 6mm Wide Timing Belt for 3D Printer CNC",
+            "cost": "$7.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino 3 motor shield",
+            "cost": "$10.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3b",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB A to B cable",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Black-Oxide Alloy Steel Socket Head Screw M1.6 x 0.35 mm Thread, 12 mm",
+            "cost": "$7.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Lithium Ion Battery Pack - 3.7V 6600mAh",
+            "cost": "$34.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GT2 Timing Belt Pulley 5PCs",
+            "cost": "$10.89",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/323/0.jpg"
+    ]
+}

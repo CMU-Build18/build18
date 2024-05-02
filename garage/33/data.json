@@ -1,0 +1,101 @@
+{
+    "title": "Mjolnir",
+    "date": "27 Nov 2015",
+    "detail": "Thor's Hammer (yep, actual magic hammer here)",
+    "extended_details": "Magic (also known as strong electromagnets, some control circuitry, and an RFID sensor) will allow only the worthy to pick up this hammer. The primary objective is getting the hammer itself functioning, but we would like to embed the RFID chip inside a bracelet or watch to make the trickery more subtle if we have time. Inspired by a love of comics and superhero movies and this guy: https://www.youtube.com/watch?v=0_8Xhzt5YQI",
+    "team_profiles": [
+        {
+            "username": "@ntweir",
+            "name": "@ntweir"
+        },
+        {
+            "username": "@vcl",
+            "name": "@vcl"
+        },
+        {
+            "username": "@jrocha",
+            "name": "@jrocha"
+        },
+        {
+            "username": "@pzubiri",
+            "name": "@pzubiri"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com : Gamma Leather Replacement Grip : Tennis Racket Grips : Sp",
+            "cost": "$11.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Worldwide Sourcing 1x10 Pipe Nipple, 1\" X 10\", Black - Pipe Fittings -",
+            "cost": "$8.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Pro Mini 328 - 5V/16MHz - DEV-11113 - SparkFun Electronics",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Marvel's Avengers Thor Hammer, Brown/Silver: Adult Sized C",
+            "cost": "$11.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CMS Series SIP Solid State Relay 10A 60VDC: Amazon.com: Industrial & S",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Muellar #521-605HC 1\" Black Floor Flange: Industrial Pipe Fittings: Am",
+            "cost": "$7.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stainless Steel 304 Cast Pipe Fitting, Half Coupling, Class 150, 1\" NP",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RFID Button - 16mm (125kHz) - SEN-09417 - SparkFun Electronics",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: LG Electronics 6170W1D052Z Microwave Oven High Vol: Home I",
+            "cost": "$74.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: ExpertPower EXP1250  12V 5Ah Home Alarm Battery with F1 Te",
+            "cost": "$17.47",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun RFID Starter Kit - KIT-13198 - SparkFun Electronics",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com : Suddora Arm Sweatband - Athletic Cotton Armband for Sport",
+            "cost": "$2.99",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/33/0.jpg"
+    ]
+}

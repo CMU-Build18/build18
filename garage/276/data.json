@@ -1,0 +1,59 @@
+{
+    "title": "Draw Booth",
+    "date": "06 Nov 2017",
+    "detail": "You know those photo booth things people go to with their friends? What if it drew the picture instead?? :O",
+    "extended_details": "We would like to streamline and automate a process for drawing pictures of people in a fun and interactive way.  Users take a picture with their friends, the system saves the image and converts it into a drawable format.  Then, either a 3-D printer, drawing machine, or custom rig will draw the image and users can keep the drawn output as a souvenir.",
+    "team_profiles": [
+        {
+            "username": "@jbgoldst",
+            "name": "@jbgoldst"
+        },
+        {
+            "username": "@hfbaker",
+            "name": "@hfbaker"
+        },
+        {
+            "username": "@pzubiri",
+            "name": "@pzubiri"
+        },
+        {
+            "username": "@eescando",
+            "name": "@eescando"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Backdrop Poles",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shutter Shades",
+            "cost": "$5.65",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Backdrop",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tablet tripod attachment",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2-D Pen Plotter",
+            "cost": "$229.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/276/0.jpg"
+    ]
+}

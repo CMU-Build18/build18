@@ -1,0 +1,94 @@
+{
+    "title": "V.O.I.D - Virtual Operated Intelligent Dorm",
+    "date": "26 Oct 2017",
+    "detail": "You won't even realize it's there ...",
+    "extended_details": "Do you struggle with juggling schoolwork, activities, and life with newfound home chores like cooking and cleaning? Have you ever been locked out of your own dorm without your phone or card? Well look no further. The CS/ECE team at Rez has tackled this problem by upgrading their room to complement their lifestyles while having a fun time learning about and working with AI, Computer Vision, sensors, and more! We emailed the plan for Track 2!",
+    "team_profiles": [
+        {
+            "username": "@slade",
+            "name": "@slade"
+        },
+        {
+            "username": "@leonc",
+            "name": "@leonc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "ESP8266 Boards (Pack of 3)",
+            "cost": "$11.78",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "ESP8266 ESP-01S Remote Serial Port WIFI Transceiver Wireless Module",
+            "cost": "$2.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Materials (Need to ask)",
+            "cost": "$39.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "TowerPro MG958 High Torque Servoes (4x)",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC 6V 105RPM Micro DC Gear Motor Gear Box Motor",
+            "cost": "$5.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini PIR",
+            "cost": "$2.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AA batteries (high performance) (48x)",
+            "cost": "$11.87",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ESP32 WiFi + Bluetooth Module with 18650 holder",
+            "cost": "$10.40",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "18650 (4x)",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "DHT22",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AA battery holder",
+            "cost": "$1.29",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/254/0.jpg",
+        "garage/254/1.jpg"
+    ]
+}

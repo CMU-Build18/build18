@@ -1,0 +1,16 @@
+{
+    "title": "mkUltra",
+    "date": "08 Nov 2017",
+    "detail": "make a mind reading video game.",
+    "extended_details": "use non invasive brain-machine interface to read brain waves and control a simple game (possibly flappy bird). We will use computer vision to read mind as backup.",
+    "team_profiles": [
+        {
+            "username": "@yiluny",
+            "name": "@yiluny"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/335/0.jpg"
+    ]
+}

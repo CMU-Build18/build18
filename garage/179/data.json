@@ -1,0 +1,33 @@
+{
+    "title": "Heat Beat",
+    "date": "21 Nov 2016",
+    "detail": "What does heat sound like",
+    "extended_details": "A generative music application that leverages thermal data from a mobile phone camera. The end-goal is to create a new way for users to interact with and create music using their environment.",
+    "team_profiles": [
+        {
+            "username": "@bhy",
+            "name": "@bhy"
+        },
+        {
+            "username": "@cpederso",
+            "name": "@cpederso"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Leap Motion Controller for Mac or PC (Retail Packaging and",
+            "cost": "$64.22",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$217.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/179/0.jpg"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Chocolate Thunder From Down Under",
+    "date": "19 Oct 2021",
+    "detail": "Ever thought 3d printing was boring?  Us too.  Add some chocolate and its fun!",
+    "extended_details": "Our project is a 3d printer that builds with chocolate rather than plastic. We have cool ideas and even cooler chocolate because it won\u2019t be melted by the time we\u2019re done with it.\r\n\r\nHopefully we can modify an existing FDM printer or do some fancy SLS ideas. We\u2019ll need to add some fancy thermal management features and a ton of tuning to get our chocolate to print. We also want to see how much chocolate we can fit in our budget before we raise suspicion with the Build18 exec board.\r\n\r\nA few buzzwords: blockchain, ML, AI, deep learning, 3D printing, quantum computing\r\n\r\nParts list in parts section and here: https://docs.google.com/spreadsheets/d/1-nRvLrxdAhHTV4br6_4L0fjZedhTALCgCPtYoUkiV6U/edit#gid=0",
+    "team_profiles": [
+        {
+            "username": "@edwardli",
+            "name": "@edwardli"
+        },
+        {
+            "username": "@kjnewman",
+            "name": "@kjnewman"
+        },
+        {
+            "username": "@ntalvare",
+            "name": "@ntalvare"
+        },
+        {
+            "username": "@gxgao",
+            "name": "@gxgao"
+        },
+        {
+            "username": "@jxli",
+            "name": "@jxli"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "500 mL Syringe",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Heater Fabric",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Space Blanket",
+            "cost": "$5.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ender 3",
+            "cost": "$189.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Relays",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Thermistors",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Power Supply",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Coupler and Lead Screw",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Extra Fans",
+            "cost": "$6.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Candy",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/709/0.jpg",
+        "garage/709/1.jpg",
+        "garage/709/2.jpg",
+        "garage/709/3.jpg",
+        "garage/709/4.jpg",
+        "garage/709/5.jpg",
+        "garage/709/6.jpg",
+        "garage/709/7.jpg",
+        "garage/709/8.jpg",
+        "garage/709/9.jpg",
+        "garage/709/10.jpg",
+        "garage/709/11.jpg",
+        "garage/709/12.jpg",
+        "garage/709/13.jpg"
+    ]
+}

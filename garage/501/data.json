@@ -1,0 +1,75 @@
+{
+    "title": "Blow my Head",
+    "date": "04 Nov 2018",
+    "detail": "Ever wanted your hair to magically curl around the wand with no effort at all? blow dry without a brush? Use no heat?",
+    "extended_details": "This hair curler uses the coanda effect to guide each strand of hair around its blow-drying wand. It doesn't require heat, both hands, or hair damage.",
+    "team_profiles": [
+        {
+            "username": "@mbossard",
+            "name": "@mbossard"
+        },
+        {
+            "username": "@jhlee2",
+            "name": "@jhlee2"
+        },
+        {
+            "username": "@sarahk1",
+            "name": "@sarahk1"
+        },
+        {
+            "username": "@mjwang",
+            "name": "@mjwang"
+        },
+        {
+            "username": "@ltan1",
+            "name": "@ltan1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Nichrome Wire",
+            "cost": "$8.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mica Board",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9 Volt Battery Pack of 8",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum 1/2 Inch",
+            "cost": "$27.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Rubber",
+            "cost": "$12.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor (stronger)",
+            "cost": "$15.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor (Weaker)",
+            "cost": "$15.98",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/501/0.jpg"
+    ]
+}

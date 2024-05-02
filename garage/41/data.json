@@ -1,0 +1,55 @@
+{
+    "title": "Course Following",
+    "date": "27 Nov 2015",
+    "detail": "Lights! Camera! Guide me!",
+    "extended_details": "This project works to develop computer vision for navigation on a course. This project will guide a person through a course. Our two main methods will be positioning between lines and moving towards a pre-programed scene. We will be using OpenCV\u2019s implementation of Hough Lines and Cascade Classifiers.",
+    "team_profiles": [
+        {
+            "username": "@yilinz",
+            "name": "@yilinz"
+        },
+        {
+            "username": "@bwarwick",
+            "name": "@bwarwick"
+        },
+        {
+            "username": "@jkagie",
+            "name": "@jkagie"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit METRO 328 with Headers [ATmega328] ID: 2488 - $19.50 : Adafru",
+            "cost": "$19.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "u-Box High Power 9200 Lumens Cree XM-L 7 X T6 LED Bulb Lamp Flashlight",
+            "cost": "$50.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Pololu - Power HD High-Torque Servo 1501MG",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Zero ID: 2885 - $5.00 : Adafruit Industries, Unique & fun",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini HDMI Plug to Standard HDMI Jack Adapter ID: 2819 - $2.95 : Adafru",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/41/0.jpg"
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "title": "Carnegie Mellon Baseing ft. all your base are belong to CMR - a wireless base station for Carnegie Mellon Racing",
+    "date": "24 Oct 2017",
+    "detail": "The coolest mobile base station for race-ops this school has ever seen",
+    "extended_details": "Carnegie Mellon Racing makes really cool racecars. We need to send data into and get data out of said racecars while they are doing racecar things. Rather than have some hodge-podge of equipment and batteries, this project aims to create the ultimate base station that will serve the organization well for years to come. Features include: proper two-way radio setup, powerful mobile energy solution, integrated laptop mount, computer/remote control of all hardware, waterproof/transportation safe enclosure. \r\n\r\nA detailed explanation of implementation to be discussed in Track 2 presentation materials.",
+    "team_profiles": [
+        {
+            "username": "@gdellagr",
+            "name": "@gdellagr"
+        },
+        {
+            "username": "@jbogomol",
+            "name": "@jbogomol"
+        },
+        {
+            "username": "@mlutwak",
+            "name": "@mlutwak"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "https://www.hamradio.com/detail.cfm?pid=H0-006297",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PL-259 Patch Cable",
+            "cost": "$14.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Yaesu FT-8900R Radio",
+            "cost": "$329.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Kaizen Knife | Foam Accessories | The Pelican Store",
+            "cost": "$6.11",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Audio Cable for Headset",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pelican 1560 Case | Medium Equipment Cases | The Pelican Store",
+            "cost": "$194.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RJ12 Breakout",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Audio cable for radio",
+            "cost": "$5.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Panel Mount SMA Female connectors",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SMA Male Connectors",
+            "cost": "$7.91",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Pro",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "6 Conductor Cable",
+            "cost": "$4.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RG-174 Coax",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "IEC Mains Connection Terminal",
+            "cost": "$5.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RJ12 Connectors",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood Glue",
+            "cost": "$3.78",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Panel Mount Headphone Jack",
+            "cost": "$2.27",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Panel Mount RJ11 Connector",
+            "cost": "$10.05",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "900 MHz Antenna",
+            "cost": "$32.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood for Laser Cutter",
+            "cost": "$60.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Team Companion Radios",
+            "cost": "$104.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Track Headset",
+            "cost": "$40.49",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/253/0.jpg"
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "title": "Piezoelectric Dance Floor",
+    "date": "24 Oct 2018",
+    "detail": "A dance floor that lights up based on the kinetic energy from dancing",
+    "extended_details": "We will build a dance floor lights up from kinetic energy harvested from people dancing. Dancers power how lit the party is!\r\n\r\nPhoto: https://www.flickr.com/photos/jasoneppink/2781498435",
+    "team_profiles": [
+        {
+            "username": "@amilford",
+            "name": "@amilford"
+        },
+        {
+            "username": "@ozz",
+            "name": "@ozz"
+        },
+        {
+            "username": "@clementw",
+            "name": "@clementw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Rack for Gear",
+            "cost": "$28.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gear",
+            "cost": "$23.73",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Compression Spring",
+            "cost": "$10.06",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic Plexiglass Plastic Sheet",
+            "cost": "$53.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Panasonic Batteries",
+            "cost": "$24.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1N5819 schottky diodes",
+            "cost": "$0.41",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$24.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Strip",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$13.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "15F supercapacitor",
+            "cost": "$9.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1N4733 5.1V zener diode",
+            "cost": "$0.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Half-size breadboard",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "330 ohm resistor",
+            "cost": "$0.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "0.1uF capacitor",
+            "cost": "$0.23",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "100 ohm resistor",
+            "cost": "$0.10",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/443/0.jpg"
+    ]
+}

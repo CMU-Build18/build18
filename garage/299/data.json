@@ -1,0 +1,147 @@
+{
+    "title": "Pretti Spinni Boi ShineMaster\u2122",
+    "date": "07 Nov 2017",
+    "detail": "Pretty pretti, pretty spinni, 100% ShineMaster\u2122",
+    "extended_details": "The Pretti Spinni Boi ShineMaster\u2122 is a high resolution Persistance of Vision LED display. By deftly twirling a high density LED light strip at 800 RPM, this Boi will create a whirlpool of color displaying a two foot diameter circular image. Curious passerby can interact with this formidable ShineMaster\u2122 through a web application, and watch as their drawings dance through thin air, powered by his vortex of liquid light.",
+    "team_profiles": [
+        {
+            "username": "@aperley",
+            "name": "@aperley"
+        },
+        {
+            "username": "@jchernak",
+            "name": "@jchernak"
+        },
+        {
+            "username": "@aakent",
+            "name": "@aakent"
+        },
+        {
+            "username": "@cvsmith",
+            "name": "@cvsmith"
+        },
+        {
+            "username": "@eporat",
+            "name": "@eporat"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "9.7:1 Metal Gearmotor 25Dx48L mm HP 12V with 48 CPR Encoder",
+            "cost": "$36.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Metal Pushbutton - Latching (16mm, Blue)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Texas Instruments CD4022BE",
+            "cost": "$0.51",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Cytron 10A Bi-directional DC Motor Driver, 5-30V, 30A peak",
+            "cost": "$14.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mounting Hub",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sandisk Ultra - Flash memory card - 16 GB - MicroSDHC UHS-I",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ball Bearing",
+            "cost": "$5.77",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Shaft Coupler - 1/4\" to 1/4\"",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shaft Coupler - 1/4\" to 4mm\"",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Plastic Gear - 14 1/2 Pressure angle",
+            "cost": "$6.87",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $35.00 : Adafr",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Slip Ring with Flange - 22mm diameter, 6 wires, max 240V @ 2A ID: 736 ",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit DotStar Digital LED Strip - Black 144 LED/m - One Meter [BLAC",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Perma-Proto HAT for Pi Mini Kit - No EEPROM",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Plastic Gear - 14-1/2 Degree Pressure Angle",
+            "cost": "$9.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GRAY acrylic for tower - PLEASE ORDER GRAY COLOR",
+            "cost": "$18.80",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Clear Acrylic - 12x24x1/8\" sheet",
+            "cost": "$15.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1ft 0.035\" Wall Thickness, 1/4\" OD Aluminum Tubing",
+            "cost": "$5.61",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic Weld On",
+            "cost": "$8.55",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/299/0.jpg"
+    ]
+}

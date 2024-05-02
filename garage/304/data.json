@@ -1,0 +1,23 @@
+{
+    "title": "CAN Bike",
+    "date": "08 Nov 2017",
+    "detail": "The power of a motor scooter meets the portablity of a bicycle",
+    "extended_details": "We will be creating the drive train system for an electric bicycle with serious power. Using a network of CAN connected custom devices, we will be able to create a modular system that can be co-opted for a range of two wheeled vehicles.\r\n\r\nExpanded proposal here:\r\nhttps://docs.google.com/a/andrew.cmu.edu/document/d/1xq8idQ5TElgAFIL09rDWm55WfTQZ9obmh2swXlSRi3E/edit?usp=sharing\r\n\r\nAddendum: Phase II SURG proposal here:\r\nhttps://docs.google.com/a/andrew.cmu.edu/document/d/1t7y8wXHB8i9a9z_QQghJH8i_7sLvpJCIHgPT0zeJ7mQ/edit?usp=sharing",
+    "team_profiles": [
+        {
+            "username": "@bvyates",
+            "name": "@bvyates"
+        },
+        {
+            "username": "@mbankole",
+            "name": "@mbankole"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/304/0.jpg",
+        "garage/304/1.jpg",
+        "garage/304/2.jpg",
+        "garage/304/3.jpg"
+    ]
+}

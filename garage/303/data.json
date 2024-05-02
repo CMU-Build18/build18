@@ -1,0 +1,93 @@
+{
+    "title": "SleepyCity",
+    "date": "08 Nov 2017",
+    "detail": "Pittsburgh wasn't built in one night",
+    "extended_details": "A physical visualization of your sleep goals. Preset how much you want to sleep each night, put your phone down, and SleepyCity will raise a neighborhood of Pittsburgh according to if you achieve that goal or not on a physical model of the city where three rivers meet. A fun way to visualize your sleep wellness and encourage positive sleep habits for all ages.",
+    "team_profiles": [
+        {
+            "username": "@descando",
+            "name": "@descando"
+        },
+        {
+            "username": "@ryano",
+            "name": "@ryano"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "High Power LED",
+            "cost": "$9.80",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "LED Matrix Display",
+            "cost": "$11.88",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "OLED Display",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Orange Pi",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Power Meter",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Flash Drive",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Felt",
+            "cost": "$13.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Balsa Sheet",
+            "cost": "$11.97",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Balsa Sheet",
+            "cost": "$8.55",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Nylon Mesh",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Craft Paint",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/303/0.jpg"
+    ]
+}

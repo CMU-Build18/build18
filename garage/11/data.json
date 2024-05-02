@@ -1,0 +1,136 @@
+{
+    "title": "A.B.C. / BagPet",
+    "date": "27 Nov 2015",
+    "detail": "A tiny device that helps you carry your luggage and follows your steps!",
+    "extended_details": "Autonomous Baggage Carrier\r\nThe goal of this project is to build an autonomous baggage carrier that could be quickly installed at the bottom of any baggage and carry it around following the owner. It is mainly expected to be applied at airports, train stations and hotels, especially for the convenience of the disabled.",
+    "team_profiles": [
+        {
+            "username": "@huayunh",
+            "name": "@huayunh"
+        },
+        {
+            "username": "@rwan",
+            "name": "@rwan"
+        },
+        {
+            "username": "@jiexie",
+            "name": "@jiexie"
+        },
+        {
+            "username": "@xiaoruil",
+            "name": "@xiaoruil"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Infrared Proximity Sensor Long Ranges GP2Y0A02YK0F 20-150CM Replace Fo",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Vishay TSSP58038 IR Detector Module, 38kHz, Fixed Gain (3-Pac",
+            "cost": "$2.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: WYPH 16mm Ultrasonic Transducer Receiver Transmitter R and",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Amazon.com: Vktech 5PCS 9x15cm Prototype Paper Boards PCB Blank Printe",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rover 5 Robot Platform - ROB-10336 - SparkFun Electronics",
+            "cost": "$59.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Source One Premium 1/4 Clear Acrylic PlexiGlass Sheet 12 ",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arduino Mega 2560 R3 - DEV-11061 - SparkFun Electronics",
+            "cost": "$45.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 8 \"AA\" Battery Holder: Computers & Accessories",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: CJRSLRB\u00ae HC-06 Bluetooth to UART Converter COM Serial Comm",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Kalevel\u00ae 120pcs Multicolored 40pin Male to Female, 40pin M",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Gikfun L298N DC Stepper Motor Drive Controller Board for A",
+            "cost": "$11.96",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Loctite 233841 2-Gram Instant Glass Glue - General Purpose Glues - Ama",
+            "cost": "$2.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Duracell Procell AA 24 Pack PC1500BKD09: Industrial & Scie",
+            "cost": "$10.64",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPS Receiver - EM-506 (48 Channel) - GPS-12751 - SparkFun Electronics",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Infrared Sensor Jumper Wire - 3-Pin JST - SEN-08733 - SparkFun Electro",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "10pcs NE556N NE556 556 Dual Bipolar Timer IC: Amazon.com: Industrial &",
+            "cost": "$1.51",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: 5 pairs Infrared Diode LED IR Emission and Receiver: Home ",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/11/0.jpg",
+        "garage/11/1.jpg",
+        "garage/11/2.jpg",
+        "garage/11/3.jpg",
+        "garage/11/4.jpg",
+        "garage/11/5.jpg"
+    ]
+}

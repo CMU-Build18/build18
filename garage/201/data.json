@@ -1,0 +1,58 @@
+{
+    "title": "Alexa, help me be lazy",
+    "date": "21 Nov 2016",
+    "detail": "Using Alexa, control home automation away from or at home using body measurements",
+    "extended_details": "Using a fitbit to monitor heart rate and activity while at home, write a custom skill for Alexa (the Amazon AI) to adjust my home according to the current state. Alexa will read from my past and current fitbit data, time of day, and weather to adjust home heating and ventilation. \r\n\r\nWhile not at home, query alexa to return (through another custom skill) the state of my home. The major feature for me is knowing if my door is closed, as I can never remember if I closed it or not, so having an intelligent service give me piece of mind anywhere (with large room for advancement in the future) is a strong want I have in my life.",
+    "team_profiles": [
+        {
+            "username": "@rweng",
+            "name": "@rweng"
+        },
+        {
+            "username": "@vrazdan",
+            "name": "@vrazdan"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit HUZZAH ESP8266 Breakout ID: 2471 - $9.95 : Adafruit Industrie",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Magnetic contact switch (door sensor) ID: 375 - $3.95 : Adafruit Indus",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$199.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 500mAh ID: 1578 - $7.95 : Adafruit ",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: AmazonBasics Portable Power Bank - 10,000 mAh: Cell Phones",
+            "cost": "$23.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/201/0.jpg",
+        "garage/201/1.jpg"
+    ]
+}

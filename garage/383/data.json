@@ -1,0 +1,69 @@
+{
+    "title": "Autonomous RC Car",
+    "date": "17 Nov 2017",
+    "detail": "Join us for a legal street racing :D",
+    "extended_details": "We want to explore autonomous driving technologies but developing and testing on a real car is beyond our budgets.  We believe by implementing a self-driving RC car in a simplified environment still allows us to gain significant insights. Meanwhile, the system we plan to build (Self-driving RC car + physical models of roads and buildings) could be used in the future for further explorations which are not only limited to autonomous driving.\r\n\r\nThe project involves mainly three parts, building a model of the world, customizing the RC car with sensors, and implementing a driving algorithm. We plan to purchase an RC car off the shelf. For the model, we plan to build it using cardboard and possibly off-the-shelf toy models such as toy traffic lights or toy people. We plan to use a raspberry pi on the RC car to collect sensor data and pass them to a laptop via wireless connection. Then we would implement a driving algorithm possibly in python to give out commands to the car. In the end, we wish with our implementation the car could drive around following traffic rules and responding to unexpected obstacles.",
+    "team_profiles": [
+        {
+            "username": "@siliangl",
+            "name": "@siliangl"
+        },
+        {
+            "username": "@zhichul",
+            "name": "@zhichul"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LIDAR-Lite v3",
+            "cost": "$150.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit DS3231 Precision RTC Breakout",
+            "cost": "$13.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Mount",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper shield",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Pro Trinket - 5V 16MHz",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit NeoPixel NeoMatrix - 64 RGBW - Cool White - ~6000K",
+            "cost": "$44.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/383/0.jpg"
+    ]
+}

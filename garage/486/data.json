@@ -1,0 +1,16 @@
+{
+    "title": "One Hand Show",
+    "date": "29 Oct 2018",
+    "detail": "Desk mounted robotic arm",
+    "extended_details": "Will build mini, desk-mounted robotic arm capable of picking up small items and moving them around. Arm will be user controlled, using computer or game controller.",
+    "team_profiles": [
+        {
+            "username": "@rjanczak",
+            "name": "@rjanczak"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/486/0.jpg"
+    ]
+}

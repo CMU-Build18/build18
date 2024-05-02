@@ -1,0 +1,97 @@
+{
+    "title": "Laser Tag, but Ender's Game",
+    "date": "14 Nov 2017",
+    "detail": "The enemy's gate is down!",
+    "extended_details": "Laser tag that follows the rules of the battle room in Ender\u2019s Game. You will be frozen where you are hit!",
+    "team_profiles": [
+        {
+            "username": "@cassandc",
+            "name": "@cassandc"
+        },
+        {
+            "username": "@jtraiger",
+            "name": "@jtraiger"
+        },
+        {
+            "username": "@auy",
+            "name": "@auy"
+        },
+        {
+            "username": "@reckert",
+            "name": "@reckert"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Haptic motors",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Haptic motor controller",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "IR Sensor",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "20"
+        },
+        {
+            "part": "555 timers (pack of ten)",
+            "cost": "$3.67",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "220 Ohm resistors",
+            "cost": "$0.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Velcro",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "IR LED's (25 pack)",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Capacitor",
+            "cost": "$1.14",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Dowels",
+            "cost": "$2.98",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Ratchet Joint",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Linear Actuator",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/355/0.jpg",
+        "garage/355/1.jpg",
+        "garage/355/2.jpg"
+    ]
+}

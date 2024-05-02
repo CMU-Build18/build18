@@ -1,0 +1,16 @@
+{
+    "title": "Rock Show 2.0",
+    "date": "29 Oct 2018",
+    "detail": "Motion/sound controlled stage effects",
+    "extended_details": "Using either computer vision or FFT processing we will track sound and/or movements of performers to initiate stage effects",
+    "team_profiles": [
+        {
+            "username": "@wclark",
+            "name": "@wclark"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/487/0.jpg"
+    ]
+}

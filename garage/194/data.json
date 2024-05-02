@@ -1,0 +1,63 @@
+{
+    "title": "Sonic Haptic Feedback Device",
+    "date": "21 Nov 2016",
+    "detail": "High-resolution, high-frequency haptic feedback using sound",
+    "extended_details": "I really just want to figure out what Ultrahaptics (http://spectrum.ieee.org/view-from-the-valley/consumer-electronics/gadgets/tiny-bubbles-and-force-fields-feeling-the-virtual-world-with-ultrasound) are doing and want to explore the space of using sound (ultrasonic or tactile) to generate haptic feeback.\r\n\r\nDoing some more research into this now, will have a clearer picture when I figure out my parts",
+    "team_profiles": [
+        {
+            "username": "@rmehndir",
+            "name": "@rmehndir"
+        },
+        {
+            "username": "@akuntz",
+            "name": "@akuntz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "UCAM-II 4D Systems Pty Ltd | Sensors, Transducers | DigiKey",
+            "cost": "$49.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "UR-1640K-TT-2-R PUI Audio, Inc. | Sensors, Transducers | DigiKey",
+            "cost": "$4.46",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "EPA160025-P5-SZ CUI Inc. | Power Supplies - External/Internal (Off-Boa",
+            "cost": "$11.54",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "UT-1640K-TT-2-R PUI Audio, Inc. | Sensors, Transducers | DigiKey",
+            "cost": "$4.46",
+            "quantity": "\n",
+            "total": "38"
+        },
+        {
+            "part": "EK-10M08E144 Altera | Development Boards, Kits, Programmers | DigiKey",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LM248N Texas Instruments | Integrated Circuits (ICs) | DigiKey",
+            "cost": "$0.60",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "FMP200JR-52-3K3 Yageo | Resistors | DigiKey",
+            "cost": "$0.17",
+            "quantity": "\n",
+            "total": "10"
+        }
+    ],
+    "photos": [
+        "garage/194/0.jpg"
+    ]
+}

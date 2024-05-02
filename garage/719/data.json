@@ -1,0 +1,16 @@
+{
+    "title": "LaundroBot3000",
+    "date": "24 Oct 2021",
+    "detail": "Taking Care of your laundry needs",
+    "extended_details": "The user lays out the cloth flat, and the robot simulates a series of movements to fold the clothing similar to how a clothes folder operates. The machine is going to be a platform that allows movement on the entire platform itself and on certain parts of it allowing it to push up certain corners if and when needed. Our end goal is to take a piece of clothing, fold it and then place it in a laundry basket for you so all you need to do after that is place it in your cupboard :)",
+    "team_profiles": [
+        {
+            "username": "@devanka",
+            "name": "@devanka"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/719/0.jpg"
+    ]
+}

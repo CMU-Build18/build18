@@ -1,0 +1,87 @@
+{
+    "title": "Head Snap",
+    "date": "14 Nov 2016",
+    "detail": "The future of gameified social wearables.",
+    "extended_details": "We want to build a wearable game that can be played simply by moving your head and wearing a santa-esque hat (the ones many people wear in the winter). If you see someone else wearing the hat, you snap your head forward so that the top of that hat, the dangling part, snaps forward towards the direction of the other person. If your aim is good, the other person will register a hit and their hat will vibrate to indicate having been struck. Now we engage in battle.",
+    "team_profiles": [
+        {
+            "username": "@nnilakan",
+            "name": "@nnilakan"
+        },
+        {
+            "username": "@pbernits",
+            "name": "@pbernits"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit Pro Trinket LiIon/LiPoly Backpack Add-On ID: 2124 - $4.95 : A",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Triple-axis Magnetometer (Compass) Board - HMC5883L ID: 1746 - $9.95 :",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$0.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: SanDisk 16GB Class 4 SDHC Memory Card, Frustration-Free Pa",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates [Version 3",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Mini Metal Speaker w/ Wires - 8 ohm 0.5W ID: 1890 - $1.50 : Adafruit I",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Lithium Ion Battery - 1Ah - PRT-13813 - SparkFun Electronics",
+            "cost": "$8.96",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: McDonalds Happy Meal 2008 Star Wars The Clone Wars #4 C-3P",
+            "cost": "$0.01",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "Amazon.com: Industry Park 2Pcs TF Card U Disk Mini MP3 Player Audio Vo",
+            "cost": "$9.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Particle Photon with Headers ID: 2721 - $19.00 : Adafruit Industries, ",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Vibrating Mini Motor Disc ID: 1201 - $1.95 : Adafruit Industries, Uniq",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/130/0.jpg"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "FISH ROBOT",
+    "date": "10 Nov 2021",
+    "detail": "you ever wanted a goldfish but had way too much money to spend on it? let's make you a robot fish instead!",
+    "extended_details": "we aim to make a waterproof, jellyfish-like robot that can move throughout the water in various ways using a mechanical arms system and liquid pump for steering. this will be an interesting robotics/controls and mechanical project. water robot. very cool.\r\n\r\nrudimentary parts list posted, further parts available upon request (but we plan to try and prototype some ideas before buying, so may prefer to get the rest reimbursed)",
+    "team_profiles": [
+        {
+            "username": "@tanvib",
+            "name": "@tanvib"
+        },
+        {
+            "username": "@gmoyer",
+            "name": "@gmoyer"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "5v Motor",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Feather",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Feather RPi Version",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power supply",
+            "cost": "$10.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Accelerometer",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/732/0.jpg"
+    ]
+}

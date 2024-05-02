@@ -1,0 +1,65 @@
+{
+    "title": "Big Mouth Billy Bassistant",
+    "date": "20 Nov 2016",
+    "detail": "An intelligent re-imagined talking fish",
+    "extended_details": "Bringing the classic Big Mouth Billy Bass talking fish toy back to life.",
+    "team_profiles": [
+        {
+            "username": "@mmartone",
+            "name": "@mmartone"
+        },
+        {
+            "username": "@azz",
+            "name": "@azz"
+        },
+        {
+            "username": "@tkern",
+            "name": "@tkern"
+        },
+        {
+            "username": "@sadkins",
+            "name": "@sadkins"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi Zero - Version 1.3 ID: 2885 - $5.00 : Adafruit Industries",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: SanDisk Ultra 16GB Ultra Micro SDHC UHS-I/Class 10 Card wi",
+            "cost": "$8.30",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$29.35",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size ",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: CanaKit 5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Ch",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/169/0.jpg"
+    ]
+}

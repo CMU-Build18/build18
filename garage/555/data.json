@@ -1,0 +1,51 @@
+{
+    "title": "4 Wheels Robot",
+    "date": "07 Oct 2019",
+    "detail": "Virtually connected single wheel robots in a set of four. Let's see what can be empowered by teamwork of wheels.",
+    "extended_details": "virtually connected single wheel robots in a set of four. Will it be able to handle delivery, assist with moving, or carry you on a Segway mode and show you around our campus? Let's see what can be empowered by a teamwork of wheels.",
+    "team_profiles": [
+        {
+            "username": "@fyan1",
+            "name": "@fyan1"
+        },
+        {
+            "username": "@jialeil",
+            "name": "@jialeil"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 3 Model B+",
+            "cost": "$37.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Magnetic Encoder Pair Kit for Micro Metal Gearmotors, 12 CPR, 2.7-18V",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Balboa 32U4 Control Board",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "50:1 Micro Metal Gearmotor HPCB 6V with Extended Motor Shaft",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Pololu Universal Aluminum Mounting Hub for 3mm Shaft, M3 Holes (2-Pack",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/555/0.jpg"
+    ]
+}

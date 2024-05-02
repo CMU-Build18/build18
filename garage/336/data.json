@@ -1,0 +1,87 @@
+{
+    "title": "Smart Curtains",
+    "date": "08 Nov 2017",
+    "detail": "Smart curtains are the future.",
+    "extended_details": "Smart curtains with programmable lights and modes. We are planning on making several modes, a blackout curtain, daytime mode, and programmable light mode for different moods.",
+    "team_profiles": [
+        {
+            "username": "@swyu",
+            "name": "@swyu"
+        },
+        {
+            "username": "@agao",
+            "name": "@agao"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "servos motor",
+            "cost": "$12.09",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "blackout curtain",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "arduino ethernet shield",
+            "cost": "$32.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ethernet cable",
+            "cost": "$5.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "rgb led strip",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "solderless cables",
+            "cost": "$7.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "craft adhesive",
+            "cost": "$9.46",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "breadboard",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "rubber band",
+            "cost": "$9.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "heavy duty zip ties",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/336/0.jpg"
+    ]
+}

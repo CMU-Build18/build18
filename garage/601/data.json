@@ -1,0 +1,53 @@
+{
+    "title": "Hogwarts Duel Tournaments",
+    "date": "27 Oct 2019",
+    "detail": "Harry Potter fantasies come to life through the synergistic combination of both hardware and software.",
+    "extended_details": "Our proposed project draws inspiration from the Harry Potter magic system, simulating the characters\u2019 wand magic through the intersection of hardware and software in a packaged magic dueling game. Using computer vision techniques, a laptop\u2019s built-in webcam will detect wand motion created by the user, and based on this particular movement pattern, will display the corresponding spell on the laptop screen and trigger the user's wand to emit the appropriate color for the spell used. These spells will translate into attacks against the current NPC the user is battling within the game. This mingling of hardware and software creates a dynamic and engaging user experience, deepening the player\u2019s immersion into the game\u2019s simulated Harry Potter universe.",
+    "team_profiles": [
+        {
+            "username": "@ykallel",
+            "name": "@ykallel"
+        },
+        {
+            "username": "@alexx",
+            "name": "@alexx"
+        },
+        {
+            "username": "@dongkyuk",
+            "name": "@dongkyuk"
+        },
+        {
+            "username": "@devanka",
+            "name": "@devanka"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Nvidia Jetson AI Supercomputer YEEET",
+            "cost": "$98.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wands",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Kinect",
+            "cost": "$99.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "accelerometer",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/601/0.jpg"
+    ]
+}

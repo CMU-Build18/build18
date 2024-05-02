@@ -1,0 +1,168 @@
+{
+    "title": "Emotional Flower",
+    "date": "27 Nov 2015",
+    "detail": "A robotic flower that responds to the overall mood of the room",
+    "extended_details": "We propose building essentially a robotic flower that reacts to the tone of voice (angry, neutral, pleased) of the users around it, either blooming or wilting depending on the mood. The flower itself will be CAD-designed & 3D printed, have an embedded microphone and contain small actuators that give it the behavior. These actuators will be controlled by an arduino at the base of the flower.  To detect overall mood of the room, we will classify the strongest frequencies present in peoples' voices using simple thresholds or a more complex weighting or learning algorithm.  An ARM-based Teensy 3.2 board will run an FFT on the microphone output, which will then be classified onboard as a tone of voice.  The Teensy will send this information to the Arduino to change the flower state.\r\n\r\nGithub repo here: https://github.com/jmaccarl/Build-18-2016-Emotional_Flower",
+    "team_profiles": [
+        {
+            "username": "@npol",
+            "name": "@npol"
+        },
+        {
+            "username": "@wpe",
+            "name": "@wpe"
+        },
+        {
+            "username": "@jmaccarl",
+            "name": "@jmaccarl"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Wall Adapter Power Supply - 9VDC 650mA - TOL-00298 - SparkFun Electron",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 16-Channel 12-bit PWM/Servo Driver - I2C interface [PCA9685] ",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo - Generic Metal Gear (Micro Size) - ROB-10333 - SparkFun Electro",
+            "cost": "$10.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Arduino Uno - R3 SMD - DEV-11224 - SparkFun Electronics",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MCP3008 - 8-Channel 10-Bit ADC With SPI Interface ID: 856 - $3.75 : Ad",
+            "cost": "$3.75",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "NeoPixel Mini PCB - Pack of 5 ID: 1612 - $4.95 : Adafruit Industries, ",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "5V 2A (2000mA) switching power supply - UL Listed ID: 276 - $7.95 : Ad",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Teensy 3.2 + header ID: 2756 - $19.95 : Adafruit Industries, Unique & ",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Female DC Power adapter - 2.1mm jack to screw terminal block ID: 368 -",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Audio Adapter Board for Teensy 3.0 & 3.1 ID: 1780 - $17.50 : Adafruit ",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$17.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electret Microphone Amplifier - MAX4466 with Adjustable Gain ID: 1063 ",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.84",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Adafruit Silicon MEMS Microphone Breakout - SPW2430 ID: 2716 - $4.95 :",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB OTG Host Cable - MicroB OTG male to A female ID: 1099 - $2.50 : Ad",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: eBerry\u00ae Plug and Play Home Studio Adjustable USB Desktop M",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Zero ID: 2885 - $5.00 : Adafruit Industries, Unique & fun",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Kingston 4 GB microSDHC Class 10 UHS-1 Memory Card with Ad",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.21",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.37",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.18",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.30",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/13/0.jpg",
+        "garage/13/1.jpg",
+        "garage/13/2.jpg",
+        "garage/13/3.jpg",
+        "garage/13/4.jpg",
+        "garage/13/5.jpg"
+    ]
+}

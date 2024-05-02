@@ -1,0 +1,119 @@
+{
+    "title": "iTouchMyHead : Aural Arousal",
+    "date": "28 Nov 2015",
+    "detail": "Headphones with an integrated touchscreen!",
+    "extended_details": "The goal is to create a set of headphones that come with a touchscreen attached to the right headphone that gives control over stopping, starting, and volume. Additionally, users may swipe through their music selection to select the next piece to play. The use case is for quick access to control over your music playing without having to pull out your phone.",
+    "team_profiles": [
+        {
+            "username": "@mnshaw",
+            "name": "@mnshaw"
+        },
+        {
+            "username": "@rweng",
+            "name": "@rweng"
+        },
+        {
+            "username": "@vrazdan",
+            "name": "@vrazdan"
+        },
+        {
+            "username": "@xka",
+            "name": "@xka"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "2.8 TFT Touch Shield for Arduino with Resistive Touch Screen ID: 1651 ",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Intel\u00ae Edison w/ Mini Breakout Board ID: 2111 - $74.95 : Adafruit Indu",
+            "cost": "$74.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 1200mAh ID: 258 - $9.95 : Adafruit ",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MAX5486EUG+ Maxim Integrated | Integrated Circuits (ICs) | DigiKey",
+            "cost": "$2.47",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SP-3501 CUI Inc. | Connectors, Interconnects | DigiKey",
+            "cost": "$2.16",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "770-10040-00050 CNC Tech | Cable Assemblies | DigiKey",
+            "cost": "$1.73",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SJ1-3523N CUI Inc. | Connectors, Interconnects | DigiKey",
+            "cost": "$0.97",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "VS1053 Codec + MicroSD Breakout - MP3/WAV/MIDI/OGG Play + Record [v4] ",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: AmazonBasics Over-Ear Headphones: Electronics",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB LiIon/LiPoly charger [v1.2] ID: 259 - $12.50 : Adafruit Industries",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ASE04508MR-LW150-R PUI Audio, Inc. | Audio Products | DigiKey",
+            "cost": "$9.10",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "ASE03008MR-LW150-R PUI Audio, Inc. | Audio Products | DigiKey",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "MakerBot PLA Filament, 1.75 mm Diameter, Small Spool, Neon Green: Amaz",
+            "cost": "$17.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Acrylic Cast Acrylic Clear Sheet 1/8\" x 12\" x 24\": Industr",
+            "cost": "$4.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PIC12F1822-I/SN Microchip Technology | Integrated Circuits (ICs) | Dig",
+            "cost": "$1.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/74/0.jpg"
+    ]
+}

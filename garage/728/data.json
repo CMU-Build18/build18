@@ -1,0 +1,81 @@
+{
+    "title": "Magic Bin",
+    "date": "10 Nov 2021",
+    "detail": "A smarter recycling bin that sorts the trash for you",
+    "extended_details": "Magic Bin is a self-sorting recycling bin that detects the item through Google Cloud Vision and accordingly directs the item towards the correct recycling bin depending on the item\u2019s material.",
+    "team_profiles": [
+        {
+            "username": "@shingk",
+            "name": "@shingk"
+        },
+        {
+            "username": "@minjunes",
+            "name": "@minjunes"
+        },
+        {
+            "username": "@jongminy",
+            "name": "@jongminy"
+        },
+        {
+            "username": "@lblackwe",
+            "name": "@lblackwe"
+        },
+        {
+            "username": "@sajansha",
+            "name": "@sajansha"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM",
+            "cost": "$129.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi camera",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "usb wifi dongle",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5v 2a power supply",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "pi camera extension cable 18 inch",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "servo motor",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "servo cable extension 12 inch",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit 16-Channel PWM / Servo HAT for Raspberry Pi - Mini Kit",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/728/0.jpg"
+    ]
+}

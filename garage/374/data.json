@@ -1,0 +1,99 @@
+{
+    "title": "Flipbook Drawing Machine (formerly Grain-sketching Machine)",
+    "date": "15 Nov 2017",
+    "detail": "Flip through reality with our electromechanical drawing machine!",
+    "extended_details": "We'll use a set of lead screws and stepper motors, along with some computer vision and RGB LEDs, to create a colorful experience in which user submit gifs/video clips and our drawing machine sketches out each frame of the gif during a visual extravaganza. The result is a rainbow lightshow and a custom flipbook.",
+    "team_profiles": [
+        {
+            "username": "@foropeza",
+            "name": "@foropeza"
+        },
+        {
+            "username": "@vgadh",
+            "name": "@vgadh"
+        },
+        {
+            "username": "@arako",
+            "name": "@arako"
+        },
+        {
+            "username": "@jaburns",
+            "name": "@jaburns"
+        },
+        {
+            "username": "@qingyuaw",
+            "name": "@qingyuaw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LED Color Ring",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Acrylic Sheet",
+            "cost": "$33.08",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flexible Coupling",
+            "cost": "$7.90",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Higher Quality Pens",
+            "cost": "$14.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper motor",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Bulks Pen",
+            "cost": "$9.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Linear Motion Ball Bearing",
+            "cost": "$9.88",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Linear Motion 8 mm Shaft",
+            "cost": "$15.18",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Lead Screw",
+            "cost": "$8.97",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Mid-range pens",
+            "cost": "$21.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bearings",
+            "cost": "$9.53",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/374/0.jpg"
+    ]
+}

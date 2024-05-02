@@ -1,0 +1,77 @@
+{
+    "title": "Telepresence Poker",
+    "date": "15 Nov 2017",
+    "detail": "Play poker with your friends, no matter where they are on the globe.",
+    "extended_details": "With telepresence poker, we want to provide players a way to add someone to their table, no matter where they are. The table will include both a card scan system, in order to allow the remote player to know which cards are in play and in their hand, and actuators that will allow the remote player to physically move chips in order to bet. In addition, we may include a camera system that allows both the remote player and the players at the table to share their poker faces.",
+    "team_profiles": [
+        {
+            "username": "@abhinans",
+            "name": "@abhinans"
+        },
+        {
+            "username": "@bschmuck",
+            "name": "@bschmuck"
+        },
+        {
+            "username": "@amolakn",
+            "name": "@amolakn"
+        },
+        {
+            "username": "@swadwani",
+            "name": "@swadwani"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Illuminated Button",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "16-Channel PWM Driver",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Poker Table Top",
+            "cost": "$45.32",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera",
+            "cost": "$22.89",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Servos",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "Poker Chip Set",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Pan-tilt Kit",
+            "cost": "$19.47",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/368/0.jpg"
+    ]
+}

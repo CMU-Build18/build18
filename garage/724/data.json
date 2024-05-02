@@ -1,0 +1,100 @@
+{
+    "title": "Digits",
+    "date": "08 Nov 2021",
+    "detail": "Need to be contactless due to COVID? Or take a picture without taking out your phone? We have you covered!",
+    "extended_details": "We want to build a system that connects the digital world to the physical, allowing the user to project and use various applications, like a calculator or photo gallery, onto a surface (i.e. the wall, a hand). This system is intuitive, portable, and versatile, allowing you to use the world around you as your digital playground. The world is your canvas. All you need is what has always been right in front of you: your DIGITS.",
+    "team_profiles": [
+        {
+            "username": "@aduong",
+            "name": "@aduong"
+        },
+        {
+            "username": "@tsethi2",
+            "name": "@tsethi2"
+        },
+        {
+            "username": "@ankitac",
+            "name": "@ankitac"
+        },
+        {
+            "username": "@nvfeng",
+            "name": "@nvfeng"
+        },
+        {
+            "username": "@sanshu",
+            "name": "@sanshu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Red LED Sequin",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Coloured tape",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Projector",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Light Sensor",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Mirror",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Webcam",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mirror 2",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Blue LED Sequin",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/724/0.jpg",
+        "garage/724/1.jpg",
+        "garage/724/2.jpg",
+        "garage/724/3.jpg",
+        "garage/724/4.jpg",
+        "garage/724/5.jpg",
+        "garage/724/6.jpg",
+        "garage/724/7.jpg",
+        "garage/724/8.jpg",
+        "garage/724/9.jpg",
+        "garage/724/10.jpg",
+        "garage/724/11.jpg",
+        "garage/724/12.jpg",
+        "garage/724/13.jpg",
+        "garage/724/14.jpg",
+        "garage/724/15.jpg",
+        "garage/724/16.jpg",
+        "garage/724/17.jpg",
+        "garage/724/18.jpg",
+        "garage/724/19.jpg"
+    ]
+}

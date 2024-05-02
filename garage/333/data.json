@@ -1,0 +1,57 @@
+{
+    "title": "BuildTBD",
+    "date": "08 Nov 2017",
+    "detail": "Will be determined later.",
+    "extended_details": "To be determined later. We will update this soon, with great details. This project will be great and we will put good information here.",
+    "team_profiles": [
+        {
+            "username": "@mpamin",
+            "name": "@mpamin"
+        },
+        {
+            "username": "@karenjoh",
+            "name": "@karenjoh"
+        },
+        {
+            "username": "@pbannai",
+            "name": "@pbannai"
+        },
+        {
+            "username": "@sasikalm",
+            "name": "@sasikalm"
+        },
+        {
+            "username": "@afmeyer",
+            "name": "@afmeyer"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Guess Who Game",
+            "cost": "$22.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acryllic slabs",
+            "cost": "$22.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "led lights",
+            "cost": "$22.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "female jumper wires",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/333/0.jpg"
+    ]
+}

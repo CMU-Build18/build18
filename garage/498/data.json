@@ -1,0 +1,41 @@
+{
+    "title": "Automated Sewing Machine Feeder",
+    "date": "04 Nov 2018",
+    "detail": "A machine that feeds into a sewing machine in order to make it a hands-free procedure.",
+    "extended_details": "In order to sew currently, a human needs to hold the fabric in place; however, this project would transform the current process to speed up the process and create an automated system.",
+    "team_profiles": [
+        {
+            "username": "@ssill",
+            "name": "@ssill"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Refurbsished Samsung Galaxy(Camera)",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Motors",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Fabric",
+            "cost": "$5.08",
+            "quantity": "\n",
+            "total": "20"
+        }
+    ],
+    "photos": [
+        "garage/498/0.jpg"
+    ]
+}

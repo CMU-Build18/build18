@@ -1,0 +1,107 @@
+{
+    "title": "BeverageBot",
+    "date": "07 Nov 2017",
+    "detail": "The ultimate couch potato tool... as long as you refill it occasionally",
+    "extended_details": "BeverageBot is an automated localized drink delivery system that utilizes embedded systems, computer vision, and deep learning in order to optimize your drink enjoyment. It's basically the _____ of _______. (Insert more buzzwords here)",
+    "team_profiles": [
+        {
+            "username": "@mcli",
+            "name": "@mcli"
+        },
+        {
+            "username": "@jemedina",
+            "name": "@jemedina"
+        },
+        {
+            "username": "@smontiel",
+            "name": "@smontiel"
+        },
+        {
+            "username": "@jshayes",
+            "name": "@jshayes"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "L293D Motor Shield",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Parallax PAM-7Q GPS Module",
+            "cost": "$41.42",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HMC5883L Compass Module",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sheherd Hardware 9610 6-in Wheels",
+            "cost": "$9.56",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Breadboard 3-pack",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "KEDSUM HC-06 Bluetooth RF Module",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HC-SRO4 Ultrasonic sensor x 5",
+            "cost": "$9.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Igloo Ice Cube Roller Cooler (60 quart)",
+            "cost": "$24.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "FEETECH FS90R Continuous Servo x2",
+            "cost": "$10.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "A000079 Motor Shield",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Futaba S3003 Standard Servo",
+            "cost": "$12.72",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/298/0.jpg"
+    ]
+}

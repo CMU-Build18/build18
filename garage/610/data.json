@@ -1,0 +1,75 @@
+{
+    "title": "Nanobot",
+    "date": "27 Oct 2019",
+    "detail": "Personal, desktop robot powered by a Jetson Nano",
+    "extended_details": "A robot that you can talk to ala Vector, but with a few twists. Look forward to some wizardry with audio manipulation, robotic motion, and other fun surprises!",
+    "team_profiles": [
+        {
+            "username": "@sir",
+            "name": "@sir"
+        },
+        {
+            "username": "@ppwilson",
+            "name": "@ppwilson"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Wifi Antennae",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Controller",
+            "cost": "$19.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mic",
+            "cost": "$19.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Brushless DC Motors",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Wifi Module",
+            "cost": "$21.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker Module",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pixy Camera",
+            "cost": "$59.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LCD Screen",
+            "cost": "$33.10",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/610/0.jpg"
+    ]
+}

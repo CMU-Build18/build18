@@ -1,0 +1,133 @@
+{
+    "title": "BB-8",
+    "date": "28 Nov 2015",
+    "detail": "Recreating the adorable robot from Star Wars Episode VII!",
+    "extended_details": "We plan to build a fully functional BB-8 replica by separating the design into two independent robots: one handling the balancing of the head using an IMU and the second controlling the rolling main body.",
+    "team_profiles": [
+        {
+            "username": "@cmartin1",
+            "name": "@cmartin1"
+        },
+        {
+            "username": "@jkubiak",
+            "name": "@jkubiak"
+        },
+        {
+            "username": "@gshen",
+            "name": "@gshen"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Smoothfoam Balls Crafts Foam for Modeling, 6-Inch, White: ",
+            "cost": "$4.09",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: PlastiKote 469 Plastic Primer Enamel - 12 Oz.: Automotive",
+            "cost": "$6.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Sargent Art 22-2314 8-Ounce Acrylic Paint, Orange",
+            "cost": "$4.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: DecoArt 2-Ounce Black Gloss Crafter's Acrylic Paint: Elect",
+            "cost": "$0.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.26",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$16.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Pololu - Tamiya 75026 Mini Motor Set",
+            "cost": "$3.49",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: Elenco  11\" Desktop Political Globe: Toys & Games",
+            "cost": "$22.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$14.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Ball Caster with 1/2\u2033 Plastic Ball",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Element 14 BeagleBone Black Rev C - 4GB - Pre-installed Debian [Elemen",
+            "cost": "$55.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Wii Nunchuk Cord Free Wireless Adaptor: Video Games",
+            "cost": "$18.87",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "WiiChuck Adapter - DEV-09281 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Sargent Art 22-2396 8-Ounce Acrylic Paint, White",
+            "cost": "$4.85",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Arduino MEGA 2560 R3: Computers & Accessories",
+            "cost": "$37.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/60/0.jpg"
+    ]
+}

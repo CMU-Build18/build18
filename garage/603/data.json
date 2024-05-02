@@ -1,0 +1,75 @@
+{
+    "title": "PhoneCar",
+    "date": "27 Oct 2019",
+    "detail": "A case for the phone with wheels that it can control.",
+    "extended_details": "A smartphone case or holder that has wheels. The phone can interface with the wheels and move around, using its camera and other sensors for navigation.",
+    "team_profiles": [
+        {
+            "username": "@lgeng",
+            "name": "@lgeng"
+        },
+        {
+            "username": "@cmwalker",
+            "name": "@cmwalker"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 4 Model B - 4G RAM",
+            "cost": "$55.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "UBEC DC/DC Step-Down (Buck) Converter - 5V @ 3A output",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hobby Motor and Encoder Kit",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Battery - 18650 Cell (2600mAh)",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Tenergy T4s Intelligent Universal Charger - 4-Bay",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Molex 0687860003",
+            "cost": "$20.43",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flange-Mount Ball Transfer",
+            "cost": "$12.26",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Clear Cast Acrylic Sheet",
+            "cost": "$16.55",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/603/0.jpg"
+    ]
+}

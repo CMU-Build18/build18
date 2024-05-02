@@ -1,0 +1,24 @@
+{
+    "title": "Ballbot",
+    "date": "13 Nov 2020",
+    "detail": "We are building a robot that can balance on a ball!",
+    "extended_details": "Our robot can balance on a ball and travel through spaces with small a footprint! It also has a friendly look.",
+    "team_profiles": [
+        {
+            "username": "@denisey",
+            "name": "@denisey"
+        },
+        {
+            "username": "@xinyuwa3",
+            "name": "@xinyuwa3"
+        },
+        {
+            "username": "@paganza",
+            "name": "@paganza"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/683/0.jpg"
+    ]
+}

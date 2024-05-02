@@ -1,0 +1,46 @@
+{
+    "title": "Zeus",
+    "date": "15 Oct 2019",
+    "detail": "2-in-1 projector and camera that extends your desktop with interactive hand gestures to read and write documents.",
+    "extended_details": "Here's our planning document: https://docs.google.com/document/d/1vz_umay1eLXL5tGXMTOSIxZ5o1DLXbPKxsMlIA-qzuk/edit?usp=sharing\r\n\r\nHere's our parts list for Track 2: https://docs.google.com/spreadsheets/d/1v303HRUUoE95JLIqufuAfeLlAhh5fVwcP_Fu5txwiOM/edit?usp=sharing",
+    "team_profiles": [
+        {
+            "username": "@ashek",
+            "name": "@ashek"
+        },
+        {
+            "username": "@ramgopav",
+            "name": "@ramgopav"
+        },
+        {
+            "username": "@vedantp",
+            "name": "@vedantp"
+        },
+        {
+            "username": "@yyue1",
+            "name": "@yyue1"
+        },
+        {
+            "username": "@kwang2",
+            "name": "@kwang2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "AAXA LED Pico Pocket Projector",
+            "cost": "$109.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Intel\u00ae RealSense\u2122 Depth Camera D415 - Starter Kit",
+            "cost": "$140.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/568/0.jpg",
+        "garage/568/1.jpg"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Phased Array Radar",
+    "date": "26 Oct 2017",
+    "detail": "It's like sonar, but with radar!",
+    "extended_details": "An X-Band Phased Array Radar that allows for multiple simultaneous target acquisitions, all using the magic of 10 GHz microwave radiation!\r\n\r\nAKA \"How can we burn the most amount of money in the least amount of time with a questionable chance of success?\"\r\n\r\nWhat people are saying about this project:\r\n\r\n    \"We're basically a defense contractor!  My dreams are coming true!\" \r\n-David\r\n\r\n    \"I am ashamed to contribute to the military industrial complex.\r\nNo more questions.\" \r\n-Sam\r\n\r\n    \"Have you considered the long term carcinogenic effects of high power\r\n10 GHz radiation?\"\r\n-Griffin",
+    "team_profiles": [
+        {
+            "username": "@swestenb",
+            "name": "@swestenb"
+        },
+        {
+            "username": "@dgronlun",
+            "name": "@dgronlun"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/257/0.jpg",
+        "garage/257/1.jpg"
+    ]
+}

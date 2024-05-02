@@ -1,0 +1,119 @@
+{
+    "title": "Gesture Drone",
+    "date": "17 Oct 2017",
+    "detail": "The next generation of easy-control drone",
+    "extended_details": "We are going to diy a quadcoptor. The main feature we going to implement is to allow people to control it by simple gestures. We are also going to add on FPV to enhance the user experience and automatic obstacle avoidance to guarantee safety.",
+    "team_profiles": [
+        {
+            "username": "@ruixuanl",
+            "name": "@ruixuanl"
+        },
+        {
+            "username": "@hengruiz",
+            "name": "@hengruiz"
+        },
+        {
+            "username": "@zheyaoz",
+            "name": "@zheyaoz"
+        },
+        {
+            "username": "@jzou1",
+            "name": "@jzou1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Raspberry Pi Camera Module V2 - 8 Megapixel,1080p: Compute",
+            "cost": "$26.37",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flex Cable for Raspberry Pi Camera - 300mm / 12 ID: 1648 - $1.95 : Ada",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Flycolor Fairly 12A ESC + MT2204 Motor + 5045 Propeller Po",
+            "cost": "$79.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Keywish 5PCS HC-SR04 Ultrasonic Module Kit Distance Senso",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "arduino pro mini",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "usb cable",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPIO connection wire",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "cc3d receive cable set",
+            "cost": "$8.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "arduino kit",
+            "cost": "$34.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wire",
+            "cost": "$6.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "30A ESC",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Leap Motion Controller, Gesture Motion Control for PC or M",
+            "cost": "$68.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "circuit board",
+            "cost": "$8.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "pin header",
+            "cost": "$5.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Accelerometer",
+            "cost": "$5.09",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/244/0.jpg"
+    ]
+}

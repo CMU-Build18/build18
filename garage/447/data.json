@@ -1,0 +1,67 @@
+{
+    "title": "Leaf Me Alone",
+    "date": "26 Oct 2018",
+    "detail": "The plant screams at you if you touch it.",
+    "extended_details": "Using a single electrode placed in the soil, the plant can recognize where you are touching. It can register multiple inputs, turning an ordinary plant into something much more interactive.",
+    "team_profiles": [
+        {
+            "username": "@iwl",
+            "name": "@iwl"
+        },
+        {
+            "username": "@cmanaog",
+            "name": "@cmanaog"
+        },
+        {
+            "username": "@kimberll",
+            "name": "@kimberll"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Planter Box",
+            "cost": "$20.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "\"Music Maker\" MP3 Shield for Arduino",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Soil",
+            "cost": "$14.72",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Belkin RockStar 5-Jack Multi Headphone Audio Splitter (Black)",
+            "cost": "$10.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "128 GB Micro SD Card",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Cable - Standard A-B - 3 ft/1m",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Capacitive Touch Sensor",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/447/0.jpg"
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "title": "WHAC (We Have A Car)",
+    "date": "27 Sep 2019",
+    "detail": "An indoor navigation robot that uses SLAM and LIDAR to plan a path through a known environment",
+    "extended_details": "We\u2019re lazy human beings and we want to have a robot do all our menial tasks. Wouldn\u2019t it be amazing if a robot could go from one place in a building to another place, carrying whatever you wanted it to. Like maybe carrying packages from the post office to roboclub? Or delivering food to consumers at Tepper?\r\nOur primary goal is to map the entirety of the bottom floor of the UC and perfect the navigation of our robot in this area. We also plan to make a simple UI where users can select the destination of the robot and have it instantly plan a path to get there. We plan to split the work by the different systems that are detailed below, and then integrate them through ROS. If this goes according to plan, we aim to expand the map beyond the UC and potentially be able to map different areas, such as the first floor of the UC or the first floor of Tepper.",
+    "team_profiles": [
+        {
+            "username": "@mdesoto",
+            "name": "@mdesoto"
+        },
+        {
+            "username": "@ngandhi",
+            "name": "@ngandhi"
+        },
+        {
+            "username": "@rkjain",
+            "name": "@rkjain"
+        },
+        {
+            "username": "@sgirdhar",
+            "name": "@sgirdhar"
+        },
+        {
+            "username": "@rjwallac",
+            "name": "@rjwallac"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Mega 2560 R3",
+            "cost": "$44.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ZED Mini",
+            "cost": "$449.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu 5V, 5A Step-Down Voltage Regulator D24V50F5",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "INIU Power Bank",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RoboClaw 2x15A Motor Controller (V5E)",
+            "cost": "$89.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AmazonBasics 4 Port USB to USB 3.0 Hub with 5V/2.5A power adapter",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "#6-32 x 1/2\" Screw (50-pack)",
+            "cost": "$4.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "#8-32 x 1/2\" Screw (100-pack)",
+            "cost": "$7.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Metal C-Channel Pack 1x2x25 (6-pack)",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Vex Battery",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Vex Motor",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "3.25\" Omni-Directional Wheel (4-Pack)",
+            "cost": "$43.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gears",
+            "cost": "$14.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Optical Encoders",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/548/0.jpg"
+    ]
+}

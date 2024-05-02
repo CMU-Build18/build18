@@ -1,0 +1,24 @@
+{
+    "title": "Musical Tesla Coil",
+    "date": "17 Oct 2017",
+    "detail": "Musical Tesla Coil singing with the beautiful sounds of ECE",
+    "extended_details": "We're going to build a Tesla coil that will play music.  Maybe with some extra visual flair around it.",
+    "team_profiles": [
+        {
+            "username": "@nikolasg",
+            "name": "@nikolasg"
+        },
+        {
+            "username": "@lkojiro",
+            "name": "@lkojiro"
+        },
+        {
+            "username": "@eug",
+            "name": "@eug"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/247/0.jpg"
+    ]
+}

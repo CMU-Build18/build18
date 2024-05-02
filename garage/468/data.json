@@ -1,0 +1,107 @@
+{
+    "title": "Harry Potter Duel...IRL!",
+    "date": "29 Oct 2018",
+    "detail": "A real life 1v1 wizard duel in which players chant incantations and motion their wands to fire spells at their opponents",
+    "extended_details": "This project features an IOT system consisting of two wands, two sensor vests, and a central hub.\r\n\r\nSpells:\r\nThe duel game will feature a variety of different spells that deal damage to the opponent, defend against attacks, and much more. Casting a spell involves chanting the correct incantation, making the correct wand motion, and aiming at the opponent.\r\n\r\nWands:\r\nEach wand uses a 9 DOF IMU to perform the odometry needed to determine the kind of \"spell\" a player is casting. The wands will have laser pointers in their tip to target the opponent. They will also feature vibration motors for user feedback.\r\n\r\nVests:\r\nThe vests will be dotted with ir sensors, visible light led's, and vibration motors. Each vest will also include a microphone in the lapel to sense voice feedback.\r\n\r\nHub:\r\nThe central hub (likely a raspberry pi or laptop computer) will communicate with the wands and vests over wifi. It will be responsible for coordinating each game instance, keeping track of player stats, and displaying the outcome of each match in real time on a monitor display.\r\n\r\nStage:\r\nGiven enough time, we plan on building out a small \"battle stage\" on which players will duel. The stage will emit fog using a fog machine in order to have the wand laser light be visible.",
+    "team_profiles": [
+        {
+            "username": "@lmoiseye",
+            "name": "@lmoiseye"
+        },
+        {
+            "username": "@clairec1",
+            "name": "@clairec1"
+        },
+        {
+            "username": "@arkar1",
+            "name": "@arkar1"
+        },
+        {
+            "username": "@agarcias",
+            "name": "@agarcias"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "2 laser pointers",
+            "cost": "$10.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Coin Cell",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Photoresistors",
+            "cost": "$5.90",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Fog Machine",
+            "cost": "$33.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Particle Photon",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "FLORA",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "BNO055 Breakout Board",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Phone Vibration Motor",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Raspberry Pi Zero W",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Conductive Thread",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electret breakout board",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "conducting thread",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electret Microphone",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/468/0.jpg"
+    ]
+}

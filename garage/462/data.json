@@ -1,0 +1,95 @@
+{
+    "title": "R2 DRINK2U",
+    "date": "29 Oct 2018",
+    "detail": "R2D2 Drink Delivery Service",
+    "extended_details": "Indoor localization project with R2D2 drinks-holder on a iRobot Create base that can deliver drinks indoors",
+    "team_profiles": [
+        {
+            "username": "@abhaa",
+            "name": "@abhaa"
+        },
+        {
+            "username": "@rzh1",
+            "name": "@rzh1"
+        },
+        {
+            "username": "@vnbhatia",
+            "name": "@vnbhatia"
+        },
+        {
+            "username": "@rkudtar1",
+            "name": "@rkudtar1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LEDs",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Battery",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "White Spray Paint",
+            "cost": "$8.73",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "R2D2 Base",
+            "cost": "$20.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Red Acrylic Paint",
+            "cost": "$7.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Blue Acrylic Paint",
+            "cost": "$9.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "White Acrylic Paint",
+            "cost": "$9.29",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Red Spray Paint",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Blue Spray Paint",
+            "cost": "$3.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Speaker",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/462/0.jpg"
+    ]
+}

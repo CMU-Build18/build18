@@ -1,0 +1,36 @@
+{
+    "title": "FriendlessFoosball",
+    "date": "13 Nov 2020",
+    "detail": "Play foosball with no friends!",
+    "extended_details": "Reinforcement learning is very hard.\r\n\r\nand blender is weird as well\r\n\r\nneed more characters for character limit",
+    "team_profiles": [
+        {
+            "username": "@edwardli",
+            "name": "@edwardli"
+        },
+        {
+            "username": "@kjnewman",
+            "name": "@kjnewman"
+        },
+        {
+            "username": "@osavkur",
+            "name": "@osavkur"
+        },
+        {
+            "username": "@ntalvare",
+            "name": "@ntalvare"
+        },
+        {
+            "username": "@gxgao",
+            "name": "@gxgao"
+        },
+        {
+            "username": "@gsfan",
+            "name": "@gsfan"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/680/0.jpg"
+    ]
+}

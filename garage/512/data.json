@@ -1,0 +1,49 @@
+{
+    "title": "Eye In The Sky",
+    "date": "20 Sep 2019",
+    "detail": "Swarm Convergence and Tracking: Autonomous Vehicles which optimize path to target based on real time video analysis",
+    "extended_details": "Using an HD camera and multiple robotic ground vehicles, simulating a city or \"maze\" environment, the ground bots can converge at a point, and can track a moving target in real time in an efficient and optimized manner. This is done using computer vision and swarm robotics principles. The robots communicate wirelessly to a central hub, as well as each other, allowing efficient route mapping as well as collision avoidance. \r\n\r\nThe situation is analogous to an autonomous police car chase, or area of attention that has an \"eye in the sky\" acting as overwatch.",
+    "team_profiles": [
+        {
+            "username": "@danielco",
+            "name": "@danielco"
+        },
+        {
+            "username": "@vgbhat",
+            "name": "@vgbhat"
+        },
+        {
+            "username": "@ahhuang",
+            "name": "@ahhuang"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Mini 3-Layer Round Robot Chassis Kit - 2WD with DC Motors",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Raspberry Pi Zero W",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Adafruit TB6612 1.2A DC/Stepper Motor Driver Breakout Board",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "SparkFun Line Sensor Breakout - QRE1113 (Digital)",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "20"
+        }
+    ],
+    "photos": [
+        "garage/512/0.jpg"
+    ]
+}

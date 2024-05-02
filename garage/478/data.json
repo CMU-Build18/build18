@@ -1,0 +1,77 @@
+{
+    "title": "The Real Megatron",
+    "date": "29 Oct 2018",
+    "detail": "Robotic wide receiver that runs preprogrammed football routes to catch a thrown pass",
+    "extended_details": "The robot will run a choice of pre-programmed routes so a quarterback can throw a football into a net that is attached to it.  When the ball is thrown, the bot will use computer vision to adjust it's route in order to catch the ball.",
+    "team_profiles": [
+        {
+            "username": "@albyrnes",
+            "name": "@albyrnes"
+        },
+        {
+            "username": "@ncalzola",
+            "name": "@ncalzola"
+        },
+        {
+            "username": "@lbarhai",
+            "name": "@lbarhai"
+        },
+        {
+            "username": "@jpbelard",
+            "name": "@jpbelard"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "National Hardware N179-804 4005BC Smooth Rods in Zinc, 1/2\" x 36\"",
+            "cost": "$12.28",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Ball Caster with 1/2\" Plastic Ball",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "35 Roller Chain 5 Feet with Free 1 Connecting Link for GO Kart, Mini B",
+            "cost": "$13.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Koch 7535040 Roller Chain Connector Link, 4-Pack, 35",
+            "cost": "$35.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "FLOUREON 4S 14.8V 2200mAh 45C Lipo RC Battery with T Plug for RC Evade",
+            "cost": "$52.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wheels 8-inch diameter",
+            "cost": "$50.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "1/2\" Bore Zinc Plated Shaft Collars Solid Steel Set Screws Style (4 PC",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Cytron 13amp, 30V, DC Motor Controller",
+            "cost": "$13.82",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/478/0.jpg"
+    ]
+}

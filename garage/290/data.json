@@ -1,0 +1,157 @@
+{
+    "title": "Smart Hamper",
+    "date": "07 Nov 2017",
+    "detail": "We want to create a hamper that has smart features built into it to make doing laundry a bit easier",
+    "extended_details": "https://docs.google.com/a/andrew.cmu.edu/document/d/1MnN1Eano0sFtI6vGz6fOOa43m3RSQ49k922iz4XX6JQ/edit?usp=sharing",
+    "team_profiles": [
+        {
+            "username": "@mmwagner",
+            "name": "@mmwagner"
+        },
+        {
+            "username": "@zpm",
+            "name": "@zpm"
+        },
+        {
+            "username": "@ppetraki",
+            "name": "@ppetraki"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Stepper Motor - 125 oz.in (200 steps/rev, 600mm Wire)",
+            "cost": "$23.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/8 inch Thick Acrylic",
+            "cost": "$26.39",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Iris Big Screws",
+            "cost": "$5.02",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Iris Small Screws",
+            "cost": "$3.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bearing",
+            "cost": "$12.28",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/4 inch Thick Acrylic",
+            "cost": "$37.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Screws for bearing",
+            "cost": "$5.47",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shaft",
+            "cost": "$12.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Nuts for bearing screws",
+            "cost": "$9.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hex shaft",
+            "cost": "$3.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Nuts for big screws",
+            "cost": "$2.92",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Big Easy Driver",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hamper",
+            "cost": "$21.65",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Infrared Sensor Jumper Wire",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "1/16 inch Thick Acrylic",
+            "cost": "$15.03",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Break Away Headers - Straight",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Screw Terminals 3.5mm Pitch (2-Pin)",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Jumper Wires Standard 7\" (30 pack)",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun RGB Light Sensor - ISL29125",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboard",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Infrared Proximity Sensor",
+            "cost": "$13.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Jumper Wires Premium 6\" M/M - 20 AWG (10 Pack)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/290/0.jpg"
+    ]
+}

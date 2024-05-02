@@ -1,0 +1,119 @@
+{
+    "title": "Delivery bot",
+    "date": "27 Oct 2019",
+    "detail": "A bot that will deliver things to you on your request!",
+    "extended_details": "Sick of eating on campus food but don't have time to go off campus? This delivery bot will bring goods to you!",
+    "team_profiles": [
+        {
+            "username": "@estherj",
+            "name": "@estherj"
+        },
+        {
+            "username": "@xinyil1",
+            "name": "@xinyil1"
+        },
+        {
+            "username": "@sdchua",
+            "name": "@sdchua"
+        },
+        {
+            "username": "@xinyuwa3",
+            "name": "@xinyuwa3"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Uno Rev 3",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mounting Hub",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboard",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Swivel Caster",
+            "cost": "$4.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPS Receiver Module",
+            "cost": "$33.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2 in. x 4 in. x 8 ft. #2 Ground Contact Pressure-Treated Lumber",
+            "cost": "$3.47",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Servo",
+            "cost": "$18.86",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Portable battery",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB cable",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Compas Board",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth module",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Driver",
+            "cost": "$6.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Wheel",
+            "cost": "$4.49",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/612/0.jpg"
+    ]
+}

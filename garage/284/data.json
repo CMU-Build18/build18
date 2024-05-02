@@ -1,0 +1,91 @@
+{
+    "title": "Wall - E",
+    "date": "07 Nov 2017",
+    "detail": "Building Life Size Version of Wall -E",
+    "extended_details": "Build Life-Size version of Wall-E first work on the aesthetic of Wall-E, and then the motion of Wall-E",
+    "team_profiles": [
+        {
+            "username": "@krcarter",
+            "name": "@krcarter"
+        },
+        {
+            "username": "@iem",
+            "name": "@iem"
+        },
+        {
+            "username": "@saclark",
+            "name": "@saclark"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "T-Slotted Framing - Single Rail, Silver, 1\" High x 1\" Wide, Solid",
+            "cost": "$6.49",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Connecting Link for ANSI Number 35 Single Strand Roller Chain",
+            "cost": "$0.82",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "UPG UB1250 Sealed Lead Acid Batteries",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adding Link for ANSI Number 35 Single Strand Roller Chain",
+            "cost": "$0.70",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Add & Connect Link for ANSI #35 Single Strand Roller Chain",
+            "cost": "$1.78",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Elegoo MEGA 2560",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker 3in D 8 Ohm 1 Watt",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Servo",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "T-Slotted Framing Compact End-Feed Fastener, for 1\" High Single Rail",
+            "cost": "$1.85",
+            "quantity": "\n",
+            "total": "20"
+        },
+        {
+            "part": "Adafruit Audio FX Sound Board",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Roller Chain - 8ft",
+            "cost": "$31.20",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/284/0.jpg"
+    ]
+}

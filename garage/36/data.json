@@ -1,0 +1,24 @@
+{
+    "title": "Mobile Vision",
+    "date": "27 Nov 2015",
+    "detail": "smart automobile safety system.",
+    "extended_details": "Auto safety system\r\n    Platform: cell phone (android or ios) \r\n    Functions: \r\n        Using computer vision algorithm (CNN) to detect vehicle, people, stop sign, speed limit, traffic light and etc. People and vehicle information will be used in the calculation of collision warning program. Stop sign and other secondary detection can be used to update general information regarding specific road and alert other drivers.The program will also be able to send back real time traffic condition so that other drivers can avoid certain road and reach their destination faster.",
+    "team_profiles": [
+        {
+            "username": "@tl1",
+            "name": "@tl1"
+        },
+        {
+            "username": "@hanlind",
+            "name": "@hanlind"
+        },
+        {
+            "username": "@xiangxu",
+            "name": "@xiangxu"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/36/0.jpg"
+    ]
+}

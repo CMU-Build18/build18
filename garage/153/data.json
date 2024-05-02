@@ -1,0 +1,83 @@
+{
+    "title": "Orient Express",
+    "date": "20 Nov 2016",
+    "detail": "A bento vending machine powered by Venmo \ud83c\udf71",
+    "extended_details": "Bento vending machine that takes payment through Venmo and texts receipt to phone (using Venmo API). Vending machine is an insulated container with many locked flaps like a mailbox, with LED indicators above each flap. Choose the bento from a touch monitor and Venmo the account provided by the vendor. Machine will unlock a flap that allows customer to get bento after customer has paid.\r\nCentral controls and touch monitor will be in one module, with wires that can be easily attached to stackable modular insulated containers.\r\n\r\nUpdate: Venmo switched to Stripe due to Venmo API deprecation and compatibility issues.",
+    "team_profiles": [
+        {
+            "username": "@tchiang",
+            "name": "@tchiang"
+        },
+        {
+            "username": "@yiluny",
+            "name": "@yiluny"
+        },
+        {
+            "username": "@karleunt",
+            "name": "@karleunt"
+        },
+        {
+            "username": "@apnayak",
+            "name": "@apnayak"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$13.02",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 3 Model B Motherboard: Computers & Accessorie",
+            "cost": "$37.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$67.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Pacon Foam Board, 22\" X 28\", White (5557), Set of 5 : Off",
+            "cost": "$14.88",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$10.05",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Mega 2560 R3 (Atmega2560 - assembled) [Mega!] ID: 191 - $45.95",
+            "cost": "$45.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 5pcs Genuine Mini SG90 9g Servo For RC Helicopter Airplane",
+            "cost": "$11.38",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Foxnovo Mini Cabinet Hinges Connectors - 30pcs (Golden) - - Amazon.com",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com : Coleman 48 Quart Performance Cooler Holds 63 Cans, Blue :",
+            "cost": "$24.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/153/0.jpg"
+    ]
+}

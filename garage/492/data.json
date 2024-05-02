@@ -1,0 +1,63 @@
+{
+    "title": "Smart MIDI Music Controller",
+    "date": "31 Oct 2018",
+    "detail": "An all-in-one music creation device for real-time performances",
+    "extended_details": "A lot of music making depends on the hardware, so we want to make that process smarter. We want to build a standalone MIDI-compatible device for making music, rather than a simple button-mashing instrument that most MIDI instruments are.  The device will allow for on-board sampling of audio for creating music in real-time from real-world sounds and instruments.  This will make the music industry more creative.",
+    "team_profiles": [
+        {
+            "username": "@jbdurham",
+            "name": "@jbdurham"
+        },
+        {
+            "username": "@sayanc",
+            "name": "@sayanc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Rotary Encoder",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Stereo Speakers",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "RaspBerry Pi (part of starter kit)",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino MKR WiFi 1010",
+            "cost": "$29.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini USB Microphone",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NeoPixel Mini PCB - Pack of 5",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Arcade Button - 30mm Translucent Clear",
+            "cost": "$5.36",
+            "quantity": "\n",
+            "total": "17"
+        }
+    ],
+    "photos": [
+        "garage/492/0.jpg"
+    ]
+}

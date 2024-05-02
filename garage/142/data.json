@@ -1,0 +1,95 @@
+{
+    "title": "Drift Board",
+    "date": "19 Nov 2016",
+    "detail": "An Electric Skateboard with Tilt Detection",
+    "extended_details": "An electric skateboard that accelerates and decelerates according to the weight distribution of the user. Extra features include collision-detection, easily replaceable parts and rechargeable battery.",
+    "team_profiles": [
+        {
+            "username": "@cdgu",
+            "name": "@cdgu"
+        },
+        {
+            "username": "@rtf",
+            "name": "@rtf"
+        },
+        {
+            "username": "@ahebbar",
+            "name": "@ahebbar"
+        },
+        {
+            "username": "@dtom",
+            "name": "@dtom"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: iMAX B6 OEM Battery Balance Charger For 1-6 cell Lipo, Li-",
+            "cost": "$21.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: HOODDEAL 30pcs Mini Cabinet Drawer Butt Hinges Multifuctio",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Force Sensitive Resistor - Square: Computers & Accessories",
+            "cost": "$17.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com : Volador 42inch Freeride Longboard ( Drop Through Camber D",
+            "cost": "$56.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Turnigy Aerodrive SK3 - 5055-280kv Brushless Outrunner Motor",
+            "cost": "$50.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "\r\n\tProduct | Designatronics Store | Stock Drive Products/Sterling Inst",
+            "cost": "$11.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ZIPPY Flightmax 5000mAh 3S1P 20C",
+            "cost": "$25.16",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Ocr 10pcs Heated Bed Compression Spring 7.5mm For 3D Print",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "\r\n\tProduct | Designatronics Store | Stock Drive Products/Sterling Inst",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "\r\n\tProduct | Designatronics Store | Stock Drive Products/Sterling Inst",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/142/0.jpg"
+    ]
+}

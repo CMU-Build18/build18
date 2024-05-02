@@ -1,0 +1,71 @@
+{
+    "title": "Local weather analyzer",
+    "date": "27 Nov 2015",
+    "detail": "Crowd sourcing weather data collection for more accurate local weather predictions.",
+    "extended_details": "We will use the Particle prototype, and sensors that collect data relevant to weather analysing to build a module that can collect weather data, without ever running out of charge for years. Once data is collected, it will be sent to a server to be analysed. Multiple modules would be used in an area as a sensory array to provide more accurate and local on the spot weather data to meteorology centers worldwide. With enough sensors, a machine learning algorithm can be used to help predict weather in a certain area.",
+    "team_profiles": [
+        {
+            "username": "@lanbos",
+            "name": "@lanbos"
+        },
+        {
+            "username": "@cersoz",
+            "name": "@cersoz"
+        },
+        {
+            "username": "@haowensh",
+            "name": "@haowensh"
+        },
+        {
+            "username": "@zixul",
+            "name": "@zixul"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Particle Photon Kit - KIT-13345 - SparkFun Electronics",
+            "cost": "$29.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Barometric Pressure Sensor Breakout - BMP180 - SEN-11824 - Sp",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Soil Moisture Sensor - SEN-13322 - SparkFun Electronics",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "2 pack Olight 2600mah Protected 18650 Rechargeable Li-ion Batteries - ",
+            "cost": "$19.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Small Solar Panel 4.0V 50mA with wires - 2 pack: Industria",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Humidity and Temperature Sensor - RHT03 - SEN-10167 - SparkFun Electro",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Buy some Sugru | Sugru",
+            "cost": "$22.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/4/0.jpg"
+    ]
+}

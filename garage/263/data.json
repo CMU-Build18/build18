@@ -1,0 +1,93 @@
+{
+    "title": "Stutterbot",
+    "date": "03 Nov 2017",
+    "detail": "No talking allowed here",
+    "extended_details": "A mobile robot that uses computer vision to detect people and shut them up using delayed auditory feedback!",
+    "team_profiles": [
+        {
+            "username": "@ozz",
+            "name": "@ozz"
+        },
+        {
+            "username": "@mskubala",
+            "name": "@mskubala"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Shotgun Mic",
+            "cost": "$22.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Parametric Speaker Kit",
+            "cost": "$128.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "High-Torque Servo",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Sound adapter",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro SD Card",
+            "cost": "$7.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Power Jack",
+            "cost": "$1.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Battery Pack",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V NiMH Battery Pack",
+            "cost": "$15.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Boost Regulator",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Continuous Servo",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/263/0.jpg"
+    ]
+}

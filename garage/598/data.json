@@ -1,0 +1,59 @@
+{
+    "title": "Baba is You For Real",
+    "date": "27 Oct 2019",
+    "detail": "Recreating the game \"Baba is You\" as a physical game",
+    "extended_details": "We are making a physical version of the puzzle game \"Baba is You.\" The game involves changing properties of the game's board to win. Examples include changing who the main player is as well as changing properties of other obstacles on the board.",
+    "team_profiles": [
+        {
+            "username": "@agotsis",
+            "name": "@agotsis"
+        },
+        {
+            "username": "@cassandc",
+            "name": "@cassandc"
+        },
+        {
+            "username": "@jtraiger",
+            "name": "@jtraiger"
+        },
+        {
+            "username": "@auy",
+            "name": "@auy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Multicolored Paint and brushes",
+            "cost": "$9.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Black Paint",
+            "cost": "$4.47",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wooden Dowel",
+            "cost": "$4.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Color Sensor",
+            "cost": "$7.16",
+            "quantity": "\n",
+            "total": "18"
+        },
+        {
+            "part": "Vector Robot",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/598/0.jpg"
+    ]
+}

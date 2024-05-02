@@ -1,0 +1,102 @@
+{
+    "title": "Knock Knock, Who\u2019s There?",
+    "date": "26 Oct 2019",
+    "detail": "A knocking detection device that frees up your attention and helps the hearing impaired know someone\u2019s at the door.",
+    "extended_details": "Our project will have two parts. There will be a device that adheres to the door and detects knocking. Once it detects knocking, a wirelessly connected robot will visually notify the homeowner that someone is at the door. The robot will help distinguish between strangers and friends by providing different visual cues to the homeowner. The homeowner can then decide how to respond to the visitor.",
+    "team_profiles": [
+        {
+            "username": "@schu2",
+            "name": "@schu2"
+        },
+        {
+            "username": "@yuqizhou",
+            "name": "@yuqizhou"
+        },
+        {
+            "username": "@hyuh",
+            "name": "@hyuh"
+        },
+        {
+            "username": "@epena",
+            "name": "@epena"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "plywood",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Pan-Tilt Kit - Assembled with Micro Servos",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Large Enclosed Piezo Element w/Wires",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Small Enclosed Piezo w/Wires",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "CMOS Sensor Camera Module SCCB",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HC-06 Bluetooth Serial Pass-Through Module",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ARDUINO UNO R3 [A000066]",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Budget Pack for Metro 328 - with Assembled Metro ATmega328P",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Light Strips",
+            "cost": "$16.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "battery pack",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3b",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "HDMI 4 Pi: 5\" Display (no Touch) w/Mini Driver - 800x480 HDMI",
+            "cost": "$59.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/588/0.jpg",
+        "garage/588/1.jpg"
+    ]
+}

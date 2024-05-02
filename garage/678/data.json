@@ -1,0 +1,24 @@
+{
+    "title": "PacerCar",
+    "date": "13 Nov 2020",
+    "detail": "An Arduino Pacing Car to help runners stay on track to their goal pace.",
+    "extended_details": "An Arduino Car that runs around a track at the desired pace the runner input in an android app. Utilizes simple computer vision to help the car stay centered on the track to have more accurate pacing.",
+    "team_profiles": [
+        {
+            "username": "@jhchen2",
+            "name": "@jhchen2"
+        },
+        {
+            "username": "@echuei",
+            "name": "@echuei"
+        },
+        {
+            "username": "@karenson",
+            "name": "@karenson"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/678/0.jpg"
+    ]
+}

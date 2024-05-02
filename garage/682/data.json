@@ -1,0 +1,32 @@
+{
+    "title": "Doom Over Oscilloscope Monitor",
+    "date": "13 Nov 2020",
+    "detail": "People play doom on everything, why not on oscilloscopes?",
+    "extended_details": "We're planning on taking the game doom and porting it so that it can be displayed on an oscilloscope. This means that we need to take doom and turn it into an audio signal that can be drawn on the oscilloscope.",
+    "team_profiles": [
+        {
+            "username": "@jdropkin",
+            "name": "@jdropkin"
+        },
+        {
+            "username": "@alicel",
+            "name": "@alicel"
+        },
+        {
+            "username": "@ziyizuo",
+            "name": "@ziyizuo"
+        },
+        {
+            "username": "@jnnguyen",
+            "name": "@jnnguyen"
+        },
+        {
+            "username": "@bwgraham",
+            "name": "@bwgraham"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/682/0.jpg"
+    ]
+}

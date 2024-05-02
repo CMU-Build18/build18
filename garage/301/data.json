@@ -1,0 +1,137 @@
+{
+    "title": "Electric Longboard",
+    "date": "07 Nov 2017",
+    "detail": "Building a powerful electric longboard from first principles",
+    "extended_details": "An electric longboard can be decoupled into 5 subsystems: the LiPo batteries which deliver power, the ESC which controls the Brushless DC Motor, a controller to adjust the speed, a motor to turn electrical energy into mechanical energy, and a powertrain to deliver that mechanical energy to the ground. In this project, we will build our own electric longboard from first principles. Projected cost $1000",
+    "team_profiles": [
+        {
+            "username": "@mbankole",
+            "name": "@mbankole"
+        },
+        {
+            "username": "@sgamboa",
+            "name": "@sgamboa"
+        },
+        {
+            "username": "@xinzed",
+            "name": "@xinzed"
+        },
+        {
+            "username": "@jkonopka",
+            "name": "@jkonopka"
+        },
+        {
+            "username": "@dpallerl",
+            "name": "@dpallerl"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Micro USB Breakout Board",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "STX882 Transmitter, SRX882 Receiver",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "OP Amp + ATiny Housing",
+            "cost": "$0.19",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "ATTINY85-20PU (Microcontroller IC)",
+            "cost": "$1.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NE5534 Texas Instruments OP Amp",
+            "cost": "$1.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wii Nunchuk",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LiPo charging module",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "190 kV motor Longboard Motor",
+            "cost": "$90.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Individually Addressable LED RGB Strip",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Waterproof Wood Protector",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red Reflective Tape",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Headlight",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LiPo Batteries + Charger",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "VESC (Vedder Electronic Speed Controller)",
+            "cost": "$175.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electric Longboard Drivetrain",
+            "cost": "$300.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Nano",
+            "cost": "$33.55",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/301/0.jpg",
+        "garage/301/1.jpg",
+        "garage/301/2.jpg"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "TARTAN (Telemetry Assisted Return Through Autonomous Navigation)",
+    "date": "26 Oct 2019",
+    "detail": "System that can be installed in RC aircraft to allow for full autopilot & autonomous Return To Home (RTH) functionality.",
+    "extended_details": "Through intelligent tracking of aircraft telemetry, TARTAN will be a system that allows for any radio controlled aircraft powerful enough to carry it to support autopilot and RTH and landing functionality. This will result in much safer loss-of-signal scenarios which can be dangerous and costly with conventional RC aircraft.",
+    "team_profiles": [
+        {
+            "username": "@astrasse",
+            "name": "@astrasse"
+        },
+        {
+            "username": "@tcbates",
+            "name": "@tcbates"
+        },
+        {
+            "username": "@amberger",
+            "name": "@amberger"
+        },
+        {
+            "username": "@bmekonne",
+            "name": "@bmekonne"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Flite Test Water-Resistant Foam Board By Adams (25 Pack)",
+            "cost": "$78.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "FMS 20-Amp Brushless ESC",
+            "cost": "$17.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flite Test \"Radial\" 2218B 1180kV Brushless Motor",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SIM28 Arduino GPS Shield",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Turnigy 2200mAh 3S 30C Lipo Pack",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3-Blade - 8x6 Propeller",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit BMP280 I2C or SPI Barometric Pressure & Altitude Sensor",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/589/0.jpg"
+    ]
+}

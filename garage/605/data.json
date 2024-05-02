@@ -1,0 +1,79 @@
+{
+    "title": "RoboHand",
+    "date": "27 Oct 2019",
+    "detail": "Do you want three hands? Here's your third one?",
+    "extended_details": "A robotic hand that mirrors physical hand motion that can be controlled wirelessly using LeapMotion and Arduino.",
+    "team_profiles": [
+        {
+            "username": "@jak2",
+            "name": "@jak2"
+        },
+        {
+            "username": "@janicel2",
+            "name": "@janicel2"
+        },
+        {
+            "username": "@cudompan",
+            "name": "@cudompan"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Motor Shield for Arduino",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Battery",
+            "cost": "$13.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno R3",
+            "cost": "$15.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Other Grabber Hand",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Breadboard kit for Arduino",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro servo motors",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "LeapMotion Controller with SDK",
+            "cost": "$89.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "grabber hand",
+            "cost": "$8.90",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Battery Box",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/605/0.jpg"
+    ]
+}

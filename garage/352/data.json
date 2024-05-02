@@ -1,0 +1,57 @@
+{
+    "title": "ECE Signage Board",
+    "date": "14 Nov 2017",
+    "detail": "Providing easily updatable signage in front of major ECE classrooms.",
+    "extended_details": "ECE does not have signage like in University Center or the Gates Building that provide information about events occurring in a given room. Therefore, ECE should develop its own signage system.  The system would be easy to configure, use, and update.  The system will display fields such as time, event name, speaker name, class number if applicable, additional comments.  The system will be wirelessly controllable. There will be a user interface that a user can add new events as needed and the system will display events as they occur.",
+    "team_profiles": [
+        {
+            "username": "@robertd1",
+            "name": "@robertd1"
+        },
+        {
+            "username": "@skesari",
+            "name": "@skesari"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SD card",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Touchscreen",
+            "cost": "$70.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Micro USB Charger",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Touchscreen Case",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Touchscreen Adjustable Case",
+            "cost": "$28.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/352/0.jpg"
+    ]
+}

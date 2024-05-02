@@ -1,0 +1,47 @@
+{
+    "title": "Mirror, Mirror on the Wall",
+    "date": "02 Dec 2015",
+    "detail": "A system that detects if a person is dressed appropriately, using computer vision.",
+    "extended_details": "Remember that project presentation when you walked in front of the room in a terrible mess because you couldn't sleep during finals week? This project aims to make a mirror that saves you from such embarrassing situations. When you look into a mirror, sleeplessly or sleepily, red-eyed and with minimum attention, this mirror will warn you to dress appropriately!  The project will use a Raspberry Pi attached to one or more cameras that will track different aspects of your dress and will give audio feedback of whether you are ready to go. The project will involve custom data collection for different kinds of scenarios such as wearing a clean, buttoned shirt, image processing and machine learning, and perhaps even stereo vision to deal with a variety of dressing problems.\r\n[Photo source : http://www.buzzfeed.com/ariellecalderon/tips-to-make-your-day-magical-at-the-wizarding-world?sub=3404668_3520458#.rb2DLNAeal]",
+    "team_profiles": [
+        {
+            "username": "@euboweja",
+            "name": "@euboweja"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Logitech HD Portable 1080p Webcam C615 with Autofocus: Ele",
+            "cost": "$44.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: CanaKit Raspberry Pi 2 Complete Starter Kit with WiFi (Lat",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: HDE Plug and Play Home Studio Adjustable USB Desktop Micro",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi Portable Speaker by The Pi Hut: Computers & A",
+            "cost": "$18.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$16.89",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/111/0.jpg"
+    ]
+}

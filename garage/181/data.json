@@ -1,0 +1,44 @@
+{
+    "title": "Tuition Run",
+    "date": "21 Nov 2016",
+    "detail": "Run for your life in an immersive VR experience with the goal of paying off your tuition.",
+    "extended_details": "Tuition Run is a Carnegie Mellon themed adventure that utilizes the Kinect and Oculus Rift to provide users with an immersive 3D runner experience, as they run for their lives to pay off their tuition. Built with the Unity game engine, it includes 3D models of major Carnegie Mellon landmarks, including Hamerschlag Hall, Walking to the Sky, and more.\r\n\r\nGithub:\r\nhttps://github.com/bschmuck/TuitionRun",
+    "team_profiles": [
+        {
+            "username": "@mmcelwai",
+            "name": "@mmcelwai"
+        },
+        {
+            "username": "@bschmuck",
+            "name": "@bschmuck"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Amazon.com: Thrustmaster T80 RS PS4/PS3 Officially Licensed Racing Whe",
+            "cost": "$102.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/181/0.jpg",
+        "garage/181/1.jpg",
+        "garage/181/2.jpg",
+        "garage/181/3.jpg",
+        "garage/181/4.jpg",
+        "garage/181/5.jpg"
+    ]
+}

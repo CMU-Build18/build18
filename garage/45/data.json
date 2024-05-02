@@ -1,0 +1,101 @@
+{
+    "title": "Service Rover",
+    "date": "27 Nov 2015",
+    "detail": "A bot to help people navigate and explore spaces",
+    "extended_details": "Basically, the idea is to create a simple rover coupled with obstacle sensors and a mobile app that provides haptic (and visual) feedback to help people navigate complicated spaces. We're designing this for situations where service dogs aren't viable (spaces where they aren't allowed or spaces where they just don't work well) and generally small spaces. At the very least, we're building a mobile webcam- something that, for example, can go around a room and explore it on command to allow someone else to explore the space vicariously (or navigate it).\r\n\r\nImplementation: first Arduino/RPi, Omniwheels, hc-sr04's, mobile app; then add cameras, figure out exploration algorithms, more sensors.\r\n\r\nTeam: rmehndir, vrramesh, vrbahl, parunapu",
+    "team_profiles": [
+        {
+            "username": "@vrbahl",
+            "name": "@vrbahl"
+        },
+        {
+            "username": "@rmehndir",
+            "name": "@rmehndir"
+        },
+        {
+            "username": "@vrramesh",
+            "name": "@vrramesh"
+        },
+        {
+            "username": "@parunapu",
+            "name": "@parunapu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Raspberry Pi 2 Model B Project Board - 1GB RAM - 900 MHz Q",
+            "cost": "$42.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Arrela\u00ae 5 packs Hc-sr04 Arduino Ultrasonic Distance Measu",
+            "cost": "$10.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Sony PlayStation Eye Camera (Bulk Packaging): Video Games",
+            "cost": "$4.89",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: Medog UNO R3 Board Atmega328p Atmega16u2 with USB Cable fo",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Plugable USB Bluetooth 4.0 Low Energy Micro Adapter (Windo",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Make: Motor Shield: Toys & Games",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Plastic Gearhead Motor | Wicked Device Shop",
+            "cost": "$5.96",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Cat-Trak Transwheel | Wicked Device Shop",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Flick / Servo Cable | Wicked Device Shop",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Amazon.com : Super Pet Run-About 7\" Hamster Exercise Ball, Moon Glow :",
+            "cost": "$8.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Bluetooth USB for the Raspberry Pi: Computers & Accessorie",
+            "cost": "$7.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$14.80",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/45/0.jpg"
+    ]
+}

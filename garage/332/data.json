@@ -1,0 +1,20 @@
+{
+    "title": "Fish Feeder",
+    "date": "08 Nov 2017",
+    "detail": "We want to feed hungry fish \ud83d\udc1f",
+    "extended_details": "We want to create an automatic fish feeder for the poor fish who get forgotten about for weeks on end and get so hungry that they attempt to eat algae from the side of the tank! Definitely not speaking from experience or anything.\r\nIn theory the fish feeder could be loaded up with fish and attached to the side of the tank near the feeding-hole. You would be able to tell it how often you want the fish to be fed (e.g. once every couple days) and it would automatically dispense food into the tank at those intervals.",
+    "team_profiles": [
+        {
+            "username": "@agotsis",
+            "name": "@agotsis"
+        },
+        {
+            "username": "@epnewman",
+            "name": "@epnewman"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/332/0.jpg"
+    ]
+}

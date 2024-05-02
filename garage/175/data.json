@@ -1,0 +1,141 @@
+{
+    "title": "eTrunk",
+    "date": "21 Nov 2016",
+    "detail": "Connected furniture for at home and on the go.",
+    "extended_details": "The project entails upgrading a trunk that I have to have internet of things capabilities. The goal is to add mobile connectivity, a battery system, and improve the audio capabilities of the trunk.",
+    "team_profiles": [
+        {
+            "username": "@bvyates",
+            "name": "@bvyates"
+        },
+        {
+            "username": "@ouk",
+            "name": "@ouk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Robot Check",
+            "cost": "$16.33",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RFID Reader ID-12LA (125 kHz) - SEN-11827 - SparkFun Electronics",
+            "cost": "$26.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Piezo Vibration Sensor - Large with Mass - SEN-09197 - SparkFun Electr",
+            "cost": "$2.66",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Voltage Regulator - 3.3V - COM-00526 - SparkFun Electronics",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Magnetic Door Switch Set - COM-13247 - SparkFun Electronics",
+            "cost": "$2.66",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$29.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "8195 Radial Magnet Inc. | Sensors, Transducers | DigiKey",
+            "cost": "$0.16",
+            "quantity": "\n",
+            "total": "100"
+        },
+        {
+            "part": "SparkFun EL Escudo Dos - COM-10878 - SparkFun Electronics",
+            "cost": "$22.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$8.86",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Blue Sea Systems 2315 MiniBus 100 Ampere Common BusBar (4",
+            "cost": "$13.55",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$37.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Heatsink TO-220 - PRT-00121 - SparkFun Electronics",
+            "cost": "$0.86",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$15.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "N-Channel MOSFET 60V 30A - COM-10213 - SparkFun Electronics",
+            "cost": "$0.86",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "SUPERNIGHT (TM) 16.4FT SMD 5050 Waterproof 300LEDs RGB Flexible LED St",
+            "cost": "$15.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.89",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/175/0.jpg"
+    ]
+}

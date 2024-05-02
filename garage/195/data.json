@@ -1,0 +1,28 @@
+{
+    "title": "Tangible Reality Computing",
+    "date": "21 Nov 2016",
+    "detail": "Physical feedback for AR/VR.",
+    "extended_details": "We're planning to do something in the realm of tangible computing to create more physical/responsive/feedback-ish systems for AR or VR. Currently a lot of these experiences suffer from not providing good feedback. This makes it hard for the user to know when and how interaction is occurring, despite the system's accuracy of reading the user's interaction being quite good. There's a good amount of prior art [see links] in the realm of tangible computing, but not a whole lot of that research has been applied to AR/VR.",
+    "team_profiles": [
+        {
+            "username": "@nhiehle",
+            "name": "@nhiehle"
+        },
+        {
+            "username": "@she2",
+            "name": "@she2"
+        },
+        {
+            "username": "@cburgess",
+            "name": "@cburgess"
+        },
+        {
+            "username": "@jbaiad",
+            "name": "@jbaiad"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/195/0.jpg"
+    ]
+}

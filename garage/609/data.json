@@ -1,0 +1,53 @@
+{
+    "title": "Is Hunt Library Full?",
+    "date": "27 Oct 2019",
+    "detail": "We hate walking all the way to Hunt just to find that it's packed. You probably do as well. Let's change that.",
+    "extended_details": "Using a camera feed and CV, we will build a web app that gives useful information to students on whether or not Hunt Library/others spaces are full.",
+    "team_profiles": [
+        {
+            "username": "@nravi",
+            "name": "@nravi"
+        },
+        {
+            "username": "@dsanmigu",
+            "name": "@dsanmigu"
+        },
+        {
+            "username": "@iej",
+            "name": "@iej"
+        },
+        {
+            "username": "@abellomo",
+            "name": "@abellomo"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Tripod",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Action Camera for Added Features (How Full is Gym)",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flexible Tripod for Varied Mounting",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Video Camera",
+            "cost": "$63.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/609/0.jpg"
+    ]
+}

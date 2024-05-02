@@ -1,0 +1,123 @@
+{
+    "title": "Daft Punk Helmets",
+    "date": "21 Nov 2016",
+    "detail": "Music visualization // Speech to text // Music synthesis",
+    "extended_details": "Using a motorcycle helmet with flexible LED array to create a wearable audio-synthesizing helmet that matches tunes to visuals (hopefully).",
+    "team_profiles": [
+        {
+            "username": "@akkamat",
+            "name": "@akkamat"
+        },
+        {
+            "username": "@msfernan",
+            "name": "@msfernan"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit Perma-Proto Small Mint Tin Size Breadboard PCB - 3 pack ID: 1",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Barrel Jack Adapter - Female - PRT-10288 - SparkFun Electronics",
+            "cost": "$2.66",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Electret Microphone Amplifier - MAX9814 with Auto Gain Control ID: 171",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "3.5mm (1/8) 4-Pole (TRRS) Audio Jack Terminal Block ID: 2915 - $2.50 :",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$8.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Barrel Jack Adapter - USB to 5.5mm - TOL-08639 - SparkFun Electronics",
+            "cost": "$2.66",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Pro Trinket - 5V 16MHz ID: 2000 - $9.95 : Adafruit Industries",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flexible LED Matrix - WS2812B (8x32 Pixel) - COM-13304 - SparkFun Elec",
+            "cost": "$89.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Motorcycle Street Bike Matt Black Full Face Helmet + Two V",
+            "cost": "$44.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: ExpertPower 20,000mAh Power Bank / Portable Charger for Sm",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3.5mm (1/8) 4-Pole (TRRS) Audio Plug Terminal Block ID: 2914 - $2.50 :",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Particle Photon (Headers) - WRL-13774 - SparkFun Electronics",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Plantronics Explorer 50 Bluetooth Headset - Retail Packagi",
+            "cost": "$18.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: kenable Natural Cable Ties 4.8mm x 300mm 30cm (~1 foot) 1F",
+            "cost": "$4.74",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/180/0.jpg"
+    ]
+}

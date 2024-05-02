@@ -1,0 +1,93 @@
+{
+    "title": "Wireless Luggage Follower",
+    "date": "27 Oct 2019",
+    "detail": "The luggage is wirelessly connected to a user's phone, and follows the user without the need to push it",
+    "extended_details": "This project is aimed at making travel experience much more convenient for people with physical impairment. We want to make it much more energy efficient rather than just using bluetooth connection.\r\n\r\nWe want to make the device as an extension that users can purchase, rather than a specific luggage brand. This puts the quality of luggage on existing brands, while we focus on the quality, strength and durability of the extension.",
+    "team_profiles": [
+        {
+            "username": "@chaoli2",
+            "name": "@chaoli2"
+        },
+        {
+            "username": "@scleong",
+            "name": "@scleong"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Robot Base",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Op Amp",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Zumo 32U4 Robot Chasis",
+            "cost": "$149.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Protoboard",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Resistors",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Driver",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "RF Transmitter - 434MHz",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Receiver module 434 MHz",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RF Receiver - 315MHz",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Capacitors",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RF Transmitter - 315MHz",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Operational Amplifiers",
+            "cost": "$2.70",
+            "quantity": "\n",
+            "total": "10"
+        }
+    ],
+    "photos": [
+        "garage/599/0.jpg"
+    ]
+}

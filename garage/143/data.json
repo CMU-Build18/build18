@@ -1,0 +1,24 @@
+{
+    "title": "\ud83d\udd25 Rubik's Cube",
+    "date": "20 Nov 2016",
+    "detail": "Rubik's cube with \ud83d\udd25 pieces that can change color.",
+    "extended_details": "We are going to make a Rubik's cube with LED pieces that can change color, allowing us to automatically scramble the puzzle with a press of a button.",
+    "team_profiles": [
+        {
+            "username": "@skfu",
+            "name": "@skfu"
+        },
+        {
+            "username": "@christoh",
+            "name": "@christoh"
+        },
+        {
+            "username": "@njog",
+            "name": "@njog"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/143/0.jpg"
+    ]
+}

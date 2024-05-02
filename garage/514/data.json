@@ -1,0 +1,73 @@
+{
+    "title": "Space Fountain",
+    "date": "25 Sep 2019",
+    "detail": "A supportless alternative to the space elevator",
+    "extended_details": "The space elevator is not happening. The idea of a superstructure stretching miles into the sky has always been impossible, hindered by the lack of a material strong enough to hold itself up.\r\n\r\nThe space fountain is a proposed 2-platform system that magnetically propels metal balls from a ground platform to a floating platform, which catches their kinetic energy and shoots them back down to the ground to generate lift. The benefit of the space fountain is that no super-strong structure is needed, meaning it can be done with existing technology. \r\n\r\nHowever, there has never been a proof-of-concept implementation of the space fountain. We would like to change that.",
+    "team_profiles": [
+        {
+            "username": "@akong",
+            "name": "@akong"
+        },
+        {
+            "username": "@denisey",
+            "name": "@denisey"
+        },
+        {
+            "username": "@jdropkin",
+            "name": "@jdropkin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SCR 1200V 172A TO-94 TO-209AC",
+            "cost": "$46.61",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5/16\" ball bearings",
+            "cost": "$9.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Capacitors",
+            "cost": "$26.86",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "IGBT",
+            "cost": "$10.66",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Better Diodes",
+            "cost": "$1.02",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "22 AWG, 750 ft spool of motor wire",
+            "cost": "$41.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bridge Rectifier",
+            "cost": "$17.17",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Diodes",
+            "cost": "$2.34",
+            "quantity": "\n",
+            "total": "8"
+        }
+    ],
+    "photos": [
+        "garage/514/0.jpg"
+    ]
+}

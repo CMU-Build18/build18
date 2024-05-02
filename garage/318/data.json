@@ -1,0 +1,87 @@
+{
+    "title": "Pacman IRL",
+    "date": "08 Nov 2017",
+    "detail": "Pacman in real life!",
+    "extended_details": "We will use two+ line followers, a line maze, and a BLE Android app to recreate Pacman in real life.",
+    "team_profiles": [
+        {
+            "username": "@odeng",
+            "name": "@odeng"
+        },
+        {
+            "username": "@atyang",
+            "name": "@atyang"
+        },
+        {
+            "username": "@habaker",
+            "name": "@habaker"
+        },
+        {
+            "username": "@mghuang",
+            "name": "@mghuang"
+        },
+        {
+            "username": "@jgkerr",
+            "name": "@jgkerr"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Robot Chassis",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SFH235FA",
+            "cost": "$0.67",
+            "quantity": "\n",
+            "total": "60"
+        },
+        {
+            "part": "Color Sensor",
+            "cost": "$9.25",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Blue LEDs",
+            "cost": "$6.63",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino 101",
+            "cost": "$52.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Ultrasonic sensor",
+            "cost": "$9.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NE555P",
+            "cost": "$0.37",
+            "quantity": "\n",
+            "total": "60"
+        },
+        {
+            "part": "MF1/2LCT52R121J",
+            "cost": "$0.15",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "PCB Board",
+            "cost": "$7.54",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/318/0.jpg"
+    ]
+}

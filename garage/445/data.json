@@ -1,0 +1,57 @@
+{
+    "title": "Phi Delt",
+    "date": "25 Oct 2018",
+    "detail": "We're making a robotic quarterback that identifies receivers and hits them with a perfect pass.",
+    "extended_details": "We're making a robotic quarterback that identifies receivers and hits them with a perfect pass. This is a huge improvement over the current Juggs machine which only throws to stationary objects. It will use cameras to detect position of players and control the motors to adjust for depth. We'll limit how far the machine can throw the ball so that Aaron Rodgers doesn't feel bad.",
+    "team_profiles": [
+        {
+            "username": "@jyli1",
+            "name": "@jyli1"
+        },
+        {
+            "username": "@hansk",
+            "name": "@hansk"
+        },
+        {
+            "username": "@csomani",
+            "name": "@csomani"
+        },
+        {
+            "username": "@seswarac",
+            "name": "@seswarac"
+        },
+        {
+            "username": "@rmarmol",
+            "name": "@rmarmol"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "DC Worm Gear Motor 12V High Torque Reduction Gear",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Baseball Pitching Machine",
+            "cost": "$199.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SUPERNIGHT 5M/16.4 Ft SMD 3528 RGB 300 LED Color Changing Kit",
+            "cost": "$13.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Dart board",
+            "cost": "$35.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/445/0.jpg"
+    ]
+}

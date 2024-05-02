@@ -1,0 +1,59 @@
+{
+    "title": "Majora's Mask",
+    "date": "28 Nov 2015",
+    "detail": "Real life Majora's mask! It spins, attacks, lights up, and shoots things at you as you battle it!",
+    "extended_details": "We will dress up a Parrot drone with a shell to look like Majora's mask and add tentacles to it. \r\n\r\nAt the very least, the mask will look pretty and follow you around, lighting up and making noises as its tentacles billow in the drones gust.\r\n\r\nWe will spend our own money on some parts.\r\n\r\nHopefully, we'll also accomplish the following:\r\nThe drone will autonomously target \"Link\" via his green hat using CV. Link will use his (sword XOR bow) AND shield to take on the mask. \r\nLink's weapons will have sensors to communicate his actions.\r\nLink will wear a smart band on his arm that communicates with the mask, telling it when he attacks and telling him his HP.\r\nThe mask will have a variety of attack patterns, noises, and change colors as the battle goes on.\r\nThe mask will possibly have an onboard rubber band gun that fires via a servo motor at the player during attacks.\r\nThe mask will dodge and move when the player attacks.",
+    "team_profiles": [
+        {
+            "username": "@kguske",
+            "name": "@kguske"
+        },
+        {
+            "username": "@jlore",
+            "name": "@jlore"
+        },
+        {
+            "username": "@kwtsai",
+            "name": "@kwtsai"
+        },
+        {
+            "username": "@dalvarad",
+            "name": "@dalvarad"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: OSOYOO Mini USB Arduino Nano V3.0 ATMEGA328P Module CH340G",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Parrot AR Drone 2.0 Power Edition Remote Flying Quad-Prope",
+            "cost": "$269.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Photo cell (CdS photoresistor) ID: 161 - $0.95 : Adafruit Industries, ",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "microtivity IL612 5mm Diffused RGB Controllable LED, Common Anode (Pac",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Laser Diode - 5mW 650nm Red ID: 1054 - $5.95 : Adafruit Industries, Un",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/77/0.jpg"
+    ]
+}

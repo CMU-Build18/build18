@@ -1,0 +1,107 @@
+{
+    "title": "Nerf Shooting, Autonomously",
+    "date": "19 Oct 2019",
+    "detail": "It's nerf, or nothing",
+    "extended_details": "A roaming bot that uses facial recognition to identify and eliminate targets using a nerf gun. It will roam until it identifies a face, and shoots the nerf gun at the face.",
+    "team_profiles": [
+        {
+            "username": "@chunminz",
+            "name": "@chunminz"
+        },
+        {
+            "username": "@smontiel",
+            "name": "@smontiel"
+        },
+        {
+            "username": "@lamblard",
+            "name": "@lamblard"
+        },
+        {
+            "username": "@ijaffer",
+            "name": "@ijaffer"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Flange-Mount Ball Transfer",
+            "cost": "$3.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Standard Size - High Torque - Metal Gear Servo",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Continuous Rotation Servo Wheel",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Continuous Rotation Servo - FeeTech FS5103R",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Samsung 64GB 100MB/s (U3) MicroSDXC EVO Select Memory Card with Full-S",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Module V2-8 Megapixel,1080p",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Megalodon Nerf N-Strike Mega Toy Blaster with 20 Official Mega Whistle",
+            "cost": "$29.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "OVERTURE PLA Filament 1.75mm with 3D Build Surface 200mm \u00d7 200mm 3D Pr",
+            "cost": "$14.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16-Channel 12-bit PWM Servo Driver with I2C Interface",
+            "cost": "$17.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Nerf N-Strike Elite Disruptor",
+            "cost": "$9.74",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Glarks 1191Pcs 2.54mm Pitch 1 2 3 4 5 6 7 8 9 10 Pin Housing Connector",
+            "cost": "$17.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Waveshare AC8265 Wireless NIC Module for Jetson Nano Supports 2.4GHz /",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/573/0.jpg"
+    ]
+}

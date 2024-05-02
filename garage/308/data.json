@@ -1,0 +1,16 @@
+{
+    "title": "Interactive Visuals",
+    "date": "08 Nov 2017",
+    "detail": "Use your hands to create and shape 2D graphics",
+    "extended_details": "We will use Max/MSP with a Leap Motion and Kinect to identify and track hand gestures using machine learning. These movements will be used to render images.",
+    "team_profiles": [
+        {
+            "username": "@slakshma",
+            "name": "@slakshma"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/308/0.jpg"
+    ]
+}

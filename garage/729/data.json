@@ -1,0 +1,33 @@
+{
+    "title": "Supercapacitor Smartphone",
+    "date": "10 Nov 2021",
+    "detail": "Charging your iPhone to 100% in under 1 minute",
+    "extended_details": "Scientists have been claiming for years that advances in technology will result in supercapacitors in our phones, which would let your smartphone charge almost instantaneously. However, they never actually do it!\r\n\r\nI'm here to construct an iPhone that runs off a supercapacitor with comparable energy to the lithium battery that they currently use. This involves the charging mount and the modification of an actual iPhone to run off a supercap, which has a voltage range of 0-2.8V instead of a LiPo's usual 4.2-3.6V.\r\n\r\nI have an old iPhone 6s, which has a 6.55Wh battery. To charge that in a minute takes (6.55Wh*60mins/1hr) = 393 Watts for 1 minute. Since the supercaps peak around 2.7-3V, this will draw >100 amps from my power source! Tons of power! I'm using either several 2S lipos in parallel or a high power DC source I have.\r\n\r\niPhone modification is easy, or at least the phone battery repair youtube channels make it look that way.",
+    "team_profiles": [
+        {
+            "username": "@tscherli",
+            "name": "@tscherli"
+        },
+        {
+            "username": "@akong",
+            "name": "@akong"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LiPos",
+            "cost": "$33.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Supercaps",
+            "cost": "$26.52",
+            "quantity": "\n",
+            "total": "8"
+        }
+    ],
+    "photos": [
+        "garage/729/0.jpg"
+    ]
+}

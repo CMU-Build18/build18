@@ -1,0 +1,73 @@
+{
+    "title": "Smart LED Table",
+    "date": "31 Oct 2018",
+    "detail": "A smart table that reacts to your environment and house appliances",
+    "extended_details": "We're building an arduino-based smart table that uses a variety of environmental sensors (pressure, touch, light, sound and vibration) to control a series of LED strips around the outside of the coffee table. It will also serve as a mainframe for connecting and displaying the status of other appliances around the house.",
+    "team_profiles": [
+        {
+            "username": "@nflowers",
+            "name": "@nflowers"
+        },
+        {
+            "username": "@vmitta",
+            "name": "@vmitta"
+        },
+        {
+            "username": "@jolshan",
+            "name": "@jolshan"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "On/Off switch",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$27.20",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Power Supply",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lexan Tabletop (clear)",
+            "cost": "$65.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solderable breadboards",
+            "cost": "$12.78",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Strip",
+            "cost": "$9.66",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Joystick Controller",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Pressure Sensor",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/489/0.jpg"
+    ]
+}

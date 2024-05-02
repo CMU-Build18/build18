@@ -1,0 +1,34 @@
+{
+    "title": "Buggy Collision Avoidance",
+    "date": "20 Nov 2016",
+    "detail": "This is a proof of concept for using automotive ultrasonic sensors to detect curbs and other buggies",
+    "extended_details": "Ultrasonics have been growing in popularity in the automotive industry for use in driver assistance tools (i.e. blind-spot car detection, parallel parking assistance).  Ultrasonics have a reputation for being noisy and difficult, but we believe that automotive ultrasonics could be utilized for obstacle detection on buggies due to their low cost and high durability.",
+    "team_profiles": [
+        {
+            "username": "@sbuckley",
+            "name": "@sbuckley"
+        },
+        {
+            "username": "@adevienn",
+            "name": "@adevienn"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "\n\t             Small Form Factor Evaluation Module for Ultrasonic Sens",
+            "cost": "$49.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "\n\t             PGA450Q1EVM - Ultrasonic IC Sensor Signal Conditioner E",
+            "cost": "$199.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/160/0.jpg",
+        "garage/160/1.jpg"
+    ]
+}

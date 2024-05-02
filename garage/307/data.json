@@ -1,0 +1,45 @@
+{
+    "title": "CommunityDJ",
+    "date": "08 Nov 2017",
+    "detail": "An easy way for a crowd to suggest, play, and control the music over a network.",
+    "extended_details": "Power to the listeners. People on a network will be able to suggest songs and collectively control the music form their own devices. Our platform will be implemented using a raspberry pi and speaker. It will allow members of the network to suggest, skip, and view the songs playing allowing a crowd to control the music rather than just one DJ.",
+    "team_profiles": [
+        {
+            "username": "@wjmitche",
+            "name": "@wjmitche"
+        },
+        {
+            "username": "@ecompton",
+            "name": "@ecompton"
+        },
+        {
+            "username": "@jmoore1",
+            "name": "@jmoore1"
+        },
+        {
+            "username": "@egoebel",
+            "name": "@egoebel"
+        },
+        {
+            "username": "@jkalapos",
+            "name": "@jkalapos"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition.",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "A portable, Bluetooth, rechargeable battery powered, real speaker",
+            "cost": "$149.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/307/0.jpg"
+    ]
+}

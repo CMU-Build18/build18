@@ -1,0 +1,81 @@
+{
+    "title": "Sight to Sound Glasses",
+    "date": "08 Nov 2017",
+    "detail": "Glasses that convert visual greyscale data into sound, to help blind people see with sound.",
+    "extended_details": "vOICe glasses, glasses that parse visual data from left to right, converting it to an audio recording, has been shown in tests to help blind people \"hear\" textures. According to www.seeingwithsound.com, the tech has even helped at least one blind person see not just textures. \r\n\r\nFor our project, we would be making a similar product, except that the mapping from visual space to audio space would be a Hilbert curve. We would map the 2d visual points onto the Hilbert curve that fills it. Then, each point on the curve corresponds to a different frequency. The intensity of each frequency would be the intensity of the pixel in greyscale. We chose a Hilbert curve, because it has the property that it is adaptable  to any size of 2d input, without causing the mapping to vary greatly.",
+    "team_profiles": [
+        {
+            "username": "@xguan",
+            "name": "@xguan"
+        },
+        {
+            "username": "@jl5",
+            "name": "@jl5"
+        },
+        {
+            "username": "@blairc",
+            "name": "@blairc"
+        },
+        {
+            "username": "@ramgopav",
+            "name": "@ramgopav"
+        },
+        {
+            "username": "@wz2",
+            "name": "@wz2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi Camera Board v2 - 8 Megapixels ID: 3099 - $29.95 : Adafru",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Sorry! Something went wrong!",
+            "cost": "$7.80",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "Raspberry Pi Zero W Basic Pack - Includes Pi Zero W",
+            "cost": "$24.50",
+            "quantity": "\n",
+            "total": "11"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 3 Model B Motherboard: Computers & Accessorie",
+            "cost": "$34.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Battery Pack for Raspberry Pi - 10000mAh - 2 x 5V outputs ID: 1566",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Silicon Power 64GB MicroSDXC UHS-1 Memory Card Limited Edi",
+            "cost": "$21.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Raspberry Pi Camera Board Case with 1/4 Tripod Mount ID: 3253",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: AmazonBasics Lightweight On-Ear Headphones - Black: Home A",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/313/0.jpg"
+    ]
+}

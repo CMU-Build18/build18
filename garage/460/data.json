@@ -1,0 +1,77 @@
+{
+    "title": "BMO",
+    "date": "29 Oct 2018",
+    "detail": "Are you too lazy to get off your couch to play video games?",
+    "extended_details": "A recreation of BMO from adventure time, where he can move to the user. He has many fun games that you can play, and makes fun sounds based on user interaction.",
+    "team_profiles": [
+        {
+            "username": "@melhag",
+            "name": "@melhag"
+        },
+        {
+            "username": "@thomasa1",
+            "name": "@thomasa1"
+        },
+        {
+            "username": "@janyanti",
+            "name": "@janyanti"
+        },
+        {
+            "username": "@catavera",
+            "name": "@catavera"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Button",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Kit",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Battery Pack",
+            "cost": "$25.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Touchscreen display",
+            "cost": "$89.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rechargeable battery pack",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wheel",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Motor",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/460/0.jpg"
+    ]
+}

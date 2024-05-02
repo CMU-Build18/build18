@@ -1,0 +1,114 @@
+{
+    "title": "The Determinator",
+    "date": "28 Nov 2015",
+    "detail": "Intelligent football that can figure out who's using it!",
+    "extended_details": "A smart football (American) that uses physical information (rotation speed, force, etc) and machine learning to determine who threw the ball. Will also include features to track how far it was thrown, and leds on the outside that light up green or red according to the quality of throw",
+    "team_profiles": [
+        {
+            "username": "@jsafer",
+            "name": "@jsafer"
+        },
+        {
+            "username": "@aakapadi",
+            "name": "@aakapadi"
+        },
+        {
+            "username": "@rsajjad",
+            "name": "@rsajjad"
+        },
+        {
+            "username": "@etseng",
+            "name": "@etseng"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SparkFun XBee Explorer Dongle - WRL-11697 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "XBee Pro 60mW Wire Antenna - Series 1 (802.15.4) - WRL-08742 - SparkFu",
+            "cost": "$37.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "50 Pcs 5mm Round Head Common Cathode RGB Light LED Emitting Diodes - L",
+            "cost": "$3.09",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$14.79",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "SparkFun 6 Degrees of Freedom IMU Digital Combo Board - ITG3200/ADXL34",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2 - SEN-11084 - S",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Break Away Headers - Straight - PRT-00116 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Arduino Pro Mini 328 - 3.3V/8MHz - DEV-11114 - SparkFun Electronics",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breakout Board for XBee Module - BOB-08276 - SparkFun Electronics",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "2mm 10pin XBee Socket - PRT-08272 - SparkFun Electronics",
+            "cost": "$1.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "SparkFun LiPo Charger Basic - Micro-USB - PRT-10217 - SparkFun Electro",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Polymer Lithium Ion Battery - 850mAh - PRT-00341 - SparkFun Electronic",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Zero ID: 2885 - $5.00 : Adafruit Industries, Unique & fun",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/66/0.jpg",
+        "garage/66/1.jpg"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Untitled Steam Powered Goose Robot",
+    "date": "30 Oct 2019",
+    "detail": "Goose robot that bothers you when you're trying to do work and shits on your laptop",
+    "extended_details": "C                                                                                                                                                       h a o s",
+    "team_profiles": [
+        {
+            "username": "@fbasit",
+            "name": "@fbasit"
+        },
+        {
+            "username": "@lmplotte",
+            "name": "@lmplotte"
+        },
+        {
+            "username": "@rhsin",
+            "name": "@rhsin"
+        },
+        {
+            "username": "@ibhuiyan",
+            "name": "@ibhuiyan"
+        },
+        {
+            "username": "@kfrey",
+            "name": "@kfrey"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Speaker",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gooseneck",
+            "cost": "$9.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red LEDs",
+            "cost": "$3.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Motors",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$38.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Motor Drivers/Controller",
+            "cost": "$12.75",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Breadboard wires (female/female)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mecanum wheels",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wifi Module",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "100:1 Gearmotor",
+            "cost": "$21.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Breadboard wires (male/male)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/657/0.jpg",
+        "garage/657/1.jpg",
+        "garage/657/2.jpg",
+        "garage/657/3.jpg",
+        "garage/657/4.jpg",
+        "garage/657/5.jpg",
+        "garage/657/6.jpg",
+        "garage/657/7.jpg"
+    ]
+}

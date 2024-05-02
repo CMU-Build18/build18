@@ -1,0 +1,77 @@
+{
+    "title": "Can You Sit With Us?",
+    "date": "27 Nov 2015",
+    "detail": "System of sensors that monitor room occupancy from any location",
+    "extended_details": "We will use small pressure sensors placed on the seats in the target area, which don\u2019t intrude on the privacy of the occupants. These units will communicate with a central hub, which will then send its data to an online database. There will be a web interface that pulls from the database to display live room occupancy information.",
+    "team_profiles": [
+        {
+            "username": "@zkearney",
+            "name": "@zkearney"
+        },
+        {
+            "username": "@edryer",
+            "name": "@edryer"
+        },
+        {
+            "username": "@richardz",
+            "name": "@richardz"
+        },
+        {
+            "username": "@nserafin",
+            "name": "@nserafin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Particle Photon Kit - KIT-13345 - SparkFun Electronics",
+            "cost": "$29.00",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Force Sensitive Resistor - Small - SEN-09673 - SparkFun Electronics",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Temperature Sensor - TMP36 - SEN-10988 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "SparkFun Photon Battery Shield - DEV-13626 - SparkFun Electronics",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Polymer Lithium Ion Battery - 400mAh - PRT-10718 - SparkFun Electronic",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Raspberry Pi 2 - Model B - ARMv7 with 1G RAM ID: 2358 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Miniature WiFi (802.11b/g/n) Module: For Raspberry Pi and more ID: 814",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AK669/2-30-BLACK Assmann WSW Components | Cable Assemblies | DigiKey",
+            "cost": "$4.81",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/27/0.jpg"
+    ]
+}

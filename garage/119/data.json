@@ -1,0 +1,49 @@
+{
+    "title": "Self-Powered Mouse",
+    "date": "15 Oct 2016",
+    "detail": "Our goal is to design and implement a mouse powered by you!",
+    "extended_details": "We want to eliminate the step of having to charge a wireless mouse's battery and create one powered by the user through thermal conduction from contact with the user.",
+    "team_profiles": [
+        {
+            "username": "@slakshma",
+            "name": "@slakshma"
+        },
+        {
+            "username": "@ikoramba",
+            "name": "@ikoramba"
+        },
+        {
+            "username": "@tmedirat",
+            "name": "@tmedirat"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.90",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$40.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$23.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$6.94",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/119/0.jpg"
+    ]
+}

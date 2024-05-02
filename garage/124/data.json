@@ -1,0 +1,69 @@
+{
+    "title": "Wall-d",
+    "date": "12 Nov 2016",
+    "detail": "Wall-e, just an earlier version.",
+    "extended_details": "Wall-e, just an earlier version. Also, he doesn't compact trash. Yet.\r\n\r\nThe plan:\r\nA miniature replica of Wall-e that can roll around and move his arms/eyes. Most of the machinery will be contained within his body, hence the inability to compact trash.\r\n\r\nWe plan to make Wall-d capable of object detection so that he can be expressive in his human-robot and plant-robot interactions.",
+    "team_profiles": [
+        {
+            "username": "@joell",
+            "name": "@joell"
+        },
+        {
+            "username": "@graceg",
+            "name": "@graceg"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Graphic LCD 84x48 - Nokia 5110 - LCD-10168 - SparkFun Electronics",
+            "cost": "$8.96",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Lithium Ion Battery - 2200mAh 7.4v - PRT-11856 - SparkFun Electronics",
+            "cost": "$14.36",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Webcam - USB  - SEN-13873 - SparkFun Electronics",
+            "cost": "$14.36",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "iMAX B6 OEM Battery Balance Charger For 1-6 cell Lipo, Li-ion, LiFe",
+            "cost": "$21.42",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo - Hitec HS-422 (Standard Size) - ROB-11884 - SparkFun Electronic",
+            "cost": "$8.96",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Pololu - FEETECH FS90 Micro Servo",
+            "cost": "$4.25",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu - Dagu Rover 5 Tracked Chassis with Encoders",
+            "cost": "$59.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/124/0.jpg"
+    ]
+}

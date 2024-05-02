@@ -1,0 +1,39 @@
+{
+    "title": "Just Heat It",
+    "date": "28 Oct 2017",
+    "detail": "Dance to keep your microwave working",
+    "extended_details": "The goal of this project is to hack together a microwave that requires body movement to operate. We aim to develop a kinect application that suggests dance moves and track whether the user is dancing, much like a Just Dance xbox game. We are looking into hacking the touchpad of a microwave\u2019s start/stop/pause button. In the case that we are unsuccessful at hacking the touchpad, we will use a powertail to \u201cunplug\u201d the microwave, when the user does not dance as instructed. \r\n\r\nWe wish to use a xbox kinect and the kinect SDK on visual studios. The application will run on a computer that is attached to the kinect. The powertail is connected to an arduino, which is connected to the computer (in a separate USB port from the kinect). The arduino will receive a serial signal from the kinect program to switch off power through the powertail, which in turn will \u201cunplug\u201d the microwave. \r\n\r\nFor the code, we will start with the Shapes demo and work from there using C# and Visual Studios. This is an [demo of the Shapes game](https://www.youtube.com/watch?v=Z4RiA1Gk36Y)\r\n\r\nSome reach-goals: \r\n\r\n* have the kinect application play music when expecting the user to dance.\r\n\r\n* Customize the song and dance moves to the duration of the microwave use. i.e. microwaving something for 20 seconds will have a different song/dance than microwaving something for 2 minutes.",
+    "team_profiles": [
+        {
+            "username": "@iwl",
+            "name": "@iwl"
+        },
+        {
+            "username": "@awlin1",
+            "name": "@awlin1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: Xbox One Kinect Sensor: Video Games",
+            "cost": "$50.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED RGB Strip",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Xbox Kinect Adapter for Xbox One S and Windows 10 PC: Vide",
+            "cost": "$40.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/258/0.jpg"
+    ]
+}

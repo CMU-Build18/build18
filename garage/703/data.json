@@ -1,0 +1,43 @@
+{
+    "title": "Guard Bot",
+    "date": "18 Oct 2021",
+    "detail": "A guard robot that patrols the building and sends alerts upon encountering suspicious strangers",
+    "extended_details": "A robot that is programmed to\r\n1) patrolling a building\r\n2) send alerts to servo when it discovers suspicious strangers is \r\n3) send warnings during emergencies\r\n4) possibly more fun functions!",
+    "team_profiles": [
+        {
+            "username": "@yunqingy",
+            "name": "@yunqingy"
+        },
+        {
+            "username": "@zhehuax",
+            "name": "@zhehuax"
+        },
+        {
+            "username": "@yichuanl",
+            "name": "@yichuanl"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "robot",
+            "cost": "$149.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Freenove Ultimate Starter Kit for Raspberry Pi",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 4 Model B",
+            "cost": "$100.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/703/0.jpg"
+    ]
+}

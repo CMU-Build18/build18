@@ -1,0 +1,72 @@
+{
+    "title": "CMUCar",
+    "date": "12 Oct 2019",
+    "detail": "A self-driving car capable of driving around CMU's campus",
+    "extended_details": "We plan to design a self-driving racecar capable of driving around CMU's campus. Using GPS as localization and LIDAR for obstacle avoidance, the end-goal of this project is to navigate from waypoints predetermined on campus. A camera for additional obstacle avoidance will be added, time-permitting.\r\n\r\nParts wish list:\r\nhttps://docs.google.com/spreadsheets/d/12dJJd1rGwWoDmxVZ-WzkafLXldYq_HABJ7xWEtCwFOA/edit?usp=sharing",
+    "team_profiles": [
+        {
+            "username": "@rdudhagr",
+            "name": "@rdudhagr"
+        },
+        {
+            "username": "@jefftan",
+            "name": "@jefftan"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "USB Wifi Adapter",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sparkfun LS9DS1",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "0"
+        },
+        {
+            "part": "Sparkfun GPS Breakout",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NVIDIA Jetson Nano",
+            "cost": "$99.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RPLidar",
+            "cost": "$99.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Strip",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "DC Power Jack",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Barrel Jack extension cable",
+            "cost": "$1.75",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/562/0.jpg",
+        "garage/562/1.jpg",
+        "garage/562/2.jpg",
+        "garage/562/3.jpg"
+    ]
+}

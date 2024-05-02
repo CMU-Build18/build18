@@ -1,0 +1,81 @@
+{
+    "title": "Alexa, let me in!",
+    "date": "22 Nov 2016",
+    "detail": "A better web enabled lock, control your front door lock with GroupMe and Amazon Echo!",
+    "extended_details": "A lock with dynamic ACLs based on GroupMe group membership as well as Amazon Echo skill integration for both controlling membership and the lock itself.\r\n\r\nHere is a list of the planned features:\r\n-Dynamic Access Control integrated into a GroupMe Group so that members who are added to or removed from the Door Lock GroupMe group are also added to or removed from having lock access.\r\n-Amazon Echo Provisioning, allowing you to say something like \"Alexa, add John Smith to the house whitelist\" or \"Alexa, ban Bob Thompson from the house\"\r\n-Easy remote house access and 1 time access\r\n-Amazon Echo greets people who enter the house with messages from other users.\r\n- And More!",
+    "team_profiles": [
+        {
+            "username": "@meribyte",
+            "name": "@meribyte"
+        },
+        {
+            "username": "@jcmertz",
+            "name": "@jcmertz"
+        },
+        {
+            "username": "@egarbade",
+            "name": "@egarbade"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$58.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$37.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Schlage BE365VCAM716 Camelot Keypad Deadbolt, Aged Bronze - Door Dead ",
+            "cost": "$96.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "All-New Amazon Echo Dot - Add Alexa to any room",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "8195 Radial Magnet Inc. | Sensors, Transducers | DigiKey",
+            "cost": "$0.21",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Zero Budget Pack - Includes Pi Zero v1.3",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$11.03",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/210/0.jpg",
+        "garage/210/1.jpg",
+        "garage/210/2.jpg"
+    ]
+}

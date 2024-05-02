@@ -1,0 +1,35 @@
+{
+    "title": "LIDAR SLAM on a Drone",
+    "date": "20 Nov 2016",
+    "detail": "Pseudo-autonomous navigation with a quadcopter.",
+    "extended_details": "SLAM(Simultaneous Localization and Mapping) on Micro Aerial Vehicles have been a much pursued objective for many years, with numerous diverse approaches of varying complexity and robustness. The problem of MAV navigation in indoor or GPS-denied environments have spawned SLAM algorithms of increasing complexity and computational cost with reliance on high cost sensor suites in pursuit of ever more robust and precise estimations. While higher precision and robustness against environmental complexities are highly desirable features for a SLAM method, there are costs to such high performance. In addition to the mass, monetary, and computational costs of these sophisticated approaches, in the event of an unexpected failure of such high level SLAM algorithms, it may be desirable to also possess a less sophisticated but low cost, low weight, and low latency SLAM system to act as a secondary backup. The goal of this research project is to construct a SLAM system on an MAV with low cost, low weight LIDAR sensors as well as on more stringent computational resources. It would be running entirely on the MAV platform itself without external guidance for the purpose of serving as a backup system in MAVs with multiple SLAM methods.",
+    "team_profiles": [
+        {
+            "username": "@kapolo",
+            "name": "@kapolo"
+        },
+        {
+            "username": "@pkhokhlo",
+            "name": "@pkhokhlo"
+        },
+        {
+            "username": "@jerryy",
+            "name": "@jerryy"
+        },
+        {
+            "username": "@tjjohans",
+            "name": "@tjjohans"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RPLIDAR A2 - Low Cost 360 Degree Laser Range Scanner Development Kit -",
+            "cost": "$300.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/149/0.jpg"
+    ]
+}

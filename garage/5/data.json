@@ -1,0 +1,90 @@
+{
+    "title": "Magnetic Sorry",
+    "date": "27 Nov 2015",
+    "detail": "A physical version of the board game Sorry, controlled by magnets!",
+    "extended_details": "An automatic version of Sorry, where the players enter their moves into a control panel and the moves are carried out by the board, which is a magnetic grid that moves the pieces around using electromagnets. \r\n\r\nThe board is a grid of electromagnets, and by turning on sequences of electromagnets we can move the pieces around the board. The pieces can also be held still on the board while other pieces move around them.",
+    "team_profiles": [
+        {
+            "username": "@viveksri",
+            "name": "@viveksri"
+        },
+        {
+            "username": "@abhinans",
+            "name": "@abhinans"
+        },
+        {
+            "username": "@sreidy",
+            "name": "@sreidy"
+        },
+        {
+            "username": "@cwee",
+            "name": "@cwee"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$30.84",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Sorry: Toys & Games",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SS9012HBU Fairchild Semiconductor | Discrete Semiconductor Products | ",
+            "cost": "$0.09",
+            "quantity": "\n",
+            "total": "300"
+        },
+        {
+            "part": "SN74HC595N Texas Instruments | Integrated Circuits (ICs) | DigiKey",
+            "cost": "$0.49",
+            "quantity": "\n",
+            "total": "40"
+        },
+        {
+            "part": "22 AWG Gauge Stranded Hook Up Wire, 100 ft Length, White, 0.0253\" Diam",
+            "cost": "$10.35",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: OSOYOO 3.5 Inches Touch Screen for Raspberry Pi Display Mo",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 2 Model B Project Board - 1GB RAM - 900 MHz Q",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: AVAWO\u00ae 12V 10A DC 120W Switching Power Supply Transformer ",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$23.21",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 5 Magnetic Sheets of 8\" x 10\" Adhesive 20 mil Magnet",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/5/0.jpg",
+        "garage/5/1.jpg"
+    ]
+}

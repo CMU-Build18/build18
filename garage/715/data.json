@@ -1,0 +1,106 @@
+{
+    "title": "Livelift",
+    "date": "20 Oct 2021",
+    "detail": "You will no longer die from your deadlift with Livelift!",
+    "extended_details": "Livelift monitors your posture while you are deadlifting. It will alarm you if you are destroying your lower back by not having a correct posture!",
+    "team_profiles": [
+        {
+            "username": "@mgang",
+            "name": "@mgang"
+        },
+        {
+            "username": "@zhichun2",
+            "name": "@zhichun2"
+        },
+        {
+            "username": "@aicheny",
+            "name": "@aicheny"
+        },
+        {
+            "username": "@chig",
+            "name": "@chig"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "3-axis accelerometer",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Flex Sensor 4.5\"",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Vibration Motor",
+            "cost": "$2.15",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Redboard",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Qwiic Cable Kit",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Qwiic Cable - 500mm",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "USB micro b cable",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Red LED button",
+            "cost": "$4.25",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Green LED button",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "SparkFun Qwiic Alphanumeric Kit",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9v rechargeable battery",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9v battery clip",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/715/0.jpg",
+        "garage/715/1.jpg",
+        "garage/715/2.jpg",
+        "garage/715/3.jpg",
+        "garage/715/4.jpg",
+        "garage/715/5.jpg"
+    ]
+}

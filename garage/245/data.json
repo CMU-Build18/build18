@@ -1,0 +1,45 @@
+{
+    "title": "Rotary CNC Milling Machine",
+    "date": "17 Oct 2017",
+    "detail": "A low-budget but fully functional CNC milling machine... with a twist.",
+    "extended_details": "A 3-axis CNC mill that has one rotational and two linear degrees of freedom for making non-axisymmetric round parts.",
+    "team_profiles": [
+        {
+            "username": "@mmartone",
+            "name": "@mmartone"
+        },
+        {
+            "username": "@azz",
+            "name": "@azz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Delrin Stock for Machinign",
+            "cost": "$22.18",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "End Mill",
+            "cost": "$11.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CNC Motor/Controller/Power Supply Kit",
+            "cost": "$175.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Drill",
+            "cost": "$39.98",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/245/0.jpg"
+    ]
+}

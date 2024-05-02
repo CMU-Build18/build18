@@ -1,0 +1,59 @@
+{
+    "title": "Poolmaster",
+    "date": "28 Nov 2015",
+    "detail": "Giving the players helpful information using image processing",
+    "extended_details": "By collecting data at each point in a pool game through a camera placed above the table, our project will display to the players important information such as which balls are most difficult to hit and at which angle to hit them with what spin. Also, we will give users live feedback on their positioning using sensors on the stick.",
+    "team_profiles": [
+        {
+            "username": "@rishubj",
+            "name": "@rishubj"
+        },
+        {
+            "username": "@ildook",
+            "name": "@ildook"
+        },
+        {
+            "username": "@varunsha",
+            "name": "@varunsha"
+        },
+        {
+            "username": "@ibiala",
+            "name": "@ibiala"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com : LimoStudio Photo Video Studio 10Ft Adjustable Muslin Back",
+            "cost": "$35.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Abdtech 130\" Mini LED Projector 1000 Lumens Portable Home ",
+            "cost": "$85.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 2 Model B Project Board - 1GB RAM - 900 MHz Q",
+            "cost": "$37.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Raspberry Pi Zero ID: 2885 - $5.00 : Adafruit Industries, Unique & fun",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Laser Diode - 5mW 650nm Red ID: 1054 - $5.95 : Adafruit Industries, Un",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/79/0.jpg"
+    ]
+}

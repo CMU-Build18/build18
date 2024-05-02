@@ -1,0 +1,67 @@
+{
+    "title": "Build sk18",
+    "date": "25 Oct 2019",
+    "detail": "This skateboard lights up differently depending on how hard you kick and push.",
+    "extended_details": "This skateboard lights up differently depending on how hard you kick and push. Using a microprocessor to interface with an accelerometer and led strips, the skateboard lights will be different depending on how fast you speed up and slow down. Long exposure photos of a skate session will be taken at night to achieve light painting with the skateboard.",
+    "team_profiles": [
+        {
+            "username": "@iwl",
+            "name": "@iwl"
+        },
+        {
+            "username": "@aavondet",
+            "name": "@aavondet"
+        },
+        {
+            "username": "@jrx",
+            "name": "@jrx"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit USB Battery Pack",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Barrel Jack Adapter - USB to 5.5mm",
+            "cost": "$6.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Triple Axis Accelerometer Breakout - ADXL345",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Female DC Power adapter - 2.1mm jack to screw terminal block",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Arduino Nano",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit LED Strip",
+            "cost": "$49.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Female Pin Headers - Black",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/581/0.jpg"
+    ]
+}

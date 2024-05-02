@@ -1,0 +1,51 @@
+{
+    "title": "drawing app with peripherals",
+    "date": "29 Nov 2017",
+    "detail": "we are making the worlds next best drawing app with peripherals.",
+    "extended_details": "Ever wanted to use two pencils? Where is my other pencil! \r\n\r\nYou need drawing app with peripherals.",
+    "team_profiles": [
+        {
+            "username": "@lbo",
+            "name": "@lbo"
+        },
+        {
+            "username": "@cburgess",
+            "name": "@cburgess"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Copper Tape",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Samsung Tablet",
+            "cost": "$159.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Conductive Filament",
+            "cost": "$46.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "capacitive tip",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Grey Filament",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/389/0.jpg"
+    ]
+}

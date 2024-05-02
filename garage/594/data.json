@@ -1,0 +1,32 @@
+{
+    "title": "uART",
+    "date": "26 Oct 2019",
+    "detail": "Explore a dynamic, interactive art experience; use your body position to create your own masterpiece!",
+    "extended_details": "We will map body positions to components of a personal, dynamic art installation using sensors and a Twister-style interface. Users can explore the wide space of possible creations and make their own art piece. As chef Auguste Gusteaus says, \u201cAnyone can art!\u201d And with our project, YOU art!",
+    "team_profiles": [
+        {
+            "username": "@tanvib",
+            "name": "@tanvib"
+        },
+        {
+            "username": "@akager",
+            "name": "@akager"
+        },
+        {
+            "username": "@jasoncha",
+            "name": "@jasoncha"
+        },
+        {
+            "username": "@cyoustra",
+            "name": "@cyoustra"
+        },
+        {
+            "username": "@gmoyer",
+            "name": "@gmoyer"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/594/0.jpg"
+    ]
+}

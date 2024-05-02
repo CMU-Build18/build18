@@ -1,0 +1,135 @@
+{
+    "title": "Spaceteam",
+    "date": "28 Nov 2015",
+    "detail": "A physical hardware hot-pluggable version of the popular mobile game Spaceteam.",
+    "extended_details": "This is a 3-player hardware implementation of the cooperative multiplayer mobile game Spaceteam (https://en.wikipedia.org/wiki/Spaceteam). Each player has a console with 3 dial, button, or switch controls and a screen that displays commands. The players must work together to keep up with the commands and set the controls to the correct settings. This project will also allow the controls to be hot plugged and rearranged dynamically between games. Each control will be mounted on a prototype board and have an LCD that displays the control's name and current value, the control itself (a button, toggle switch, or potentiometer), and an ATtiny84. The controls will fit in to a larger console with an LCD that displays instructions. All controls will communicate with a master Arduino Uno over an i2c bus to allow for dynamic reconfiguration of the game layout.",
+    "team_profiles": [
+        {
+            "username": "@aperley",
+            "name": "@aperley"
+        },
+        {
+            "username": "@nhiehle",
+            "name": "@nhiehle"
+        },
+        {
+            "username": "@jchernak",
+            "name": "@jchernak"
+        },
+        {
+            "username": "@aakent",
+            "name": "@aakent"
+        },
+        {
+            "username": "@zen",
+            "name": "@zen"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Standard LCD 16x2 + extras [white on blue] ID: 181 - $9.95 : Adafruit ",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "Standard LCD 20x4 + extras [white on blue] ID: 198 - $17.95 : Adafruit",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "AVR 14 Pin 20MHz 8K 12A/D - ATtiny84 - COM-11232 - SparkFun Electronic",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "A14-LC-TT Assmann WSW Components | Connectors, Interconnects | DigiKey",
+            "cost": "$0.21",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Adafruit Perma-Proto Half-sized Breadboard PCB - Single ID: 1609 - $4.",
+            "cost": "$4.05",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Slide Pot - Medium (10k Linear Taper) - COM-11621 - SparkFun Electroni",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Rotary Potentiometer - 10k Ohm, Linear - COM-09939 - SparkFun Electron",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Toggle Switch and Cover - Illuminated (Red) - COM-11310 - SparkFun Ele",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LED Tactile Button - Blue - COM-10443 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LED Tactile Button - Green - COM-10440 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LED Tactile Button - Red - COM-10442 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LED Tactile Button - Orange - COM-10441 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "\n\tInvalid Request\n",
+            "cost": "$0.06",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Ribbon Cable - 6 wire (15ft) - CAB-10646 - SparkFun Electronics",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "\n\tInvalid Request\n",
+            "cost": "$0.54",
+            "quantity": "\n",
+            "total": "16"
+        },
+        {
+            "part": "\n\tInvalid Request\n",
+            "cost": "$0.11",
+            "quantity": "\n",
+            "total": "100"
+        },
+        {
+            "part": "Large Enclosed Piezo Element w/Wires ID: 1739 - $0.95 : Adafruit Indus",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/47/0.jpg"
+    ]
+}

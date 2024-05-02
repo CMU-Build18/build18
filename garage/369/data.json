@@ -1,0 +1,75 @@
+{
+    "title": "The Deep Copy",
+    "date": "15 Nov 2017",
+    "detail": "You see it..., you want it..., you scan it..., we print it... in 3D.",
+    "extended_details": "The Deep Copy is essentially a 3D scanner that takes multiple snapshots of any 3D object and then creates an exact digital replica of said object. This replica can then be used to make 3D prints, enabling the user to recreate/ duplicate whatever their heart desires.",
+    "team_profiles": [
+        {
+            "username": "@cfulton1",
+            "name": "@cfulton1"
+        },
+        {
+            "username": "@lld",
+            "name": "@lld"
+        },
+        {
+            "username": "@dtoussai",
+            "name": "@dtoussai"
+        },
+        {
+            "username": "@aattipoe",
+            "name": "@aattipoe"
+        },
+        {
+            "username": "@oadubor",
+            "name": "@oadubor"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "80-20 Extruded Beam",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "One channel Relay",
+            "cost": "$2.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SE TL10 10-Piece Test Lead Set with Alligator Clips",
+            "cost": "$5.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "uxcell DC 12V 30RPM Gear Motor High Torque Electric Reduction Gearbox",
+            "cost": "$14.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V Tenergy 300mA AC Plug Charger for 6.0V - 9.6V NiMH Batteries with",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9.6V 2000mAh Nunchuck NiMH Battery Pack w/ Mini Tamiya Connector",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno R3 Microcontroller A000066",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/369/0.jpg"
+    ]
+}

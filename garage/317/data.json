@@ -1,0 +1,60 @@
+{
+    "title": "A Doll's Glove",
+    "date": "08 Nov 2017",
+    "detail": "Sensor glove driven puppet",
+    "extended_details": "We are going to build a sensor glove able to record finger movements. With  it on hand, one will be able to perform tricks like controlling a virtual puppet.\r\nFull of possibilities, and a lot of fun!",
+    "team_profiles": [
+        {
+            "username": "@fyan1",
+            "name": "@fyan1"
+        },
+        {
+            "username": "@qingyid",
+            "name": "@qingyid"
+        },
+        {
+            "username": "@xinrany",
+            "name": "@xinrany"
+        },
+        {
+            "username": "@ziyuez",
+            "name": "@ziyuez"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino R3 pack",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "flex sensor",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "12"
+        }
+    ],
+    "photos": [
+        "garage/317/0.jpg",
+        "garage/317/1.jpg",
+        "garage/317/2.jpg",
+        "garage/317/3.jpg",
+        "garage/317/4.jpg",
+        "garage/317/5.jpg",
+        "garage/317/6.jpg",
+        "garage/317/7.jpg",
+        "garage/317/8.jpg",
+        "garage/317/9.jpg",
+        "garage/317/10.jpg",
+        "garage/317/11.jpg",
+        "garage/317/12.jpg",
+        "garage/317/13.jpg",
+        "garage/317/14.jpg",
+        "garage/317/15.jpg",
+        "garage/317/16.jpg",
+        "garage/317/17.jpg",
+        "garage/317/18.jpg",
+        "garage/317/19.jpg"
+    ]
+}

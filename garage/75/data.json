@@ -1,0 +1,76 @@
+{
+    "title": "Destination Constellation",
+    "date": "28 Nov 2015",
+    "detail": "Unique designs drawn onto beverages while you watch creates a branded experience.",
+    "extended_details": "This robot is designed to be placed at a coffee shop or other point of sale. It will draw directly onto beverages, giving each can and bottle purchased a unique appearance.\r\n\r\n\r\nWinner of the Most Innovative Award (2016) from Lockheed Martin & the Sponsors' Choice Award (2016).",
+    "team_profiles": [
+        {
+            "username": "@tke",
+            "name": "@tke"
+        },
+        {
+            "username": "@amarsten",
+            "name": "@amarsten"
+        },
+        {
+            "username": "@wlohne",
+            "name": "@wlohne"
+        },
+        {
+            "username": "@sdemetri",
+            "name": "@sdemetri"
+        },
+        {
+            "username": "@cdesaull",
+            "name": "@cdesaull"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.36",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "The Original Egg-Bot! - Deluxe Kit! ID: 304 - $220.00 : Adafruit Indus",
+            "cost": "$220.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: LASCO 02-1048E Rubber Sheet, 6X6-Inch and 1/16-Inch Thick:",
+            "cost": "$2.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$18.80",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/75/0.jpg",
+        "garage/75/1.jpg"
+    ]
+}

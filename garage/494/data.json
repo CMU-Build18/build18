@@ -1,0 +1,119 @@
+{
+    "title": "VR Game",
+    "date": "02 Nov 2018",
+    "detail": "Make your VR experience even more real!",
+    "extended_details": "Interact with both physical objects and virtual environments for a fuller VR experience. We plan to integrate the virtual environment through hardware interfaces, which include Arduinos, sensors, and many more.",
+    "team_profiles": [
+        {
+            "username": "@ckho",
+            "name": "@ckho"
+        },
+        {
+            "username": "@myou",
+            "name": "@myou"
+        },
+        {
+            "username": "@eujingc",
+            "name": "@eujingc"
+        },
+        {
+            "username": "@zexuano",
+            "name": "@zexuano"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RPi GPIO Breakout",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Mega 2560 R3",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "IRF644 MOSFET",
+            "cost": "$1.69",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Addressable LED Strip",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arcade Button Red",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arcade Button Blue",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 + 5V 2.5A Switching Power Supply with 20AWG MicroUSB Ca",
+            "cost": "$42.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arcade Button and Switch Quick-Connect Wires - 0.25\" (10-pack)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 1.2\" 4-Digit 7-Segment Display w/I2C Backpack - Red",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "32x32 RGB LED Matrix Panel - 4mm Pitch",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Flex Cable for Raspberry Pi Camera or Display - 1 meter",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Particle Photon with Headers",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arcade Button Green",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2 - 8 Megapixels",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arcade Button White",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/494/0.jpg"
+    ]
+}

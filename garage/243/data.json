@@ -1,0 +1,109 @@
+{
+    "title": "Awesome Autonomous Drone",
+    "date": "16 Oct 2017",
+    "detail": "Race Drone? Check. Automous Drone? Check.",
+    "extended_details": "The Awesome Autonomous Drone is going to be a truly unique project in which over the span of a week, a drone is going to be built that can avoid dynamic obstacles, fly certain paths, and land, all autonomously. Oh, and the drone can also be put in to RC mode and be used for racing, because there's no point in having a drone if you can't race it.",
+    "team_profiles": [
+        {
+            "username": "@cggonzal",
+            "name": "@cggonzal"
+        },
+        {
+            "username": "@ddeangul",
+            "name": "@ddeangul"
+        },
+        {
+            "username": "@yaoj",
+            "name": "@yaoj"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Break-away 0.1 2x20-pin Strip Dual Male Header ID: 2822 - $0.95 : Adaf",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PXFmini | Erle Robotics",
+            "cost": "$81.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Zero W (Basic Kit)",
+            "cost": "$24.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Matek Systems PDB-XT60 W/ BEC 5V & 12V 2oz Copper For RC Multirotor Sa",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$23.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Racerstar RS20Ax4 20A 4 in 1 Blheli_S Opto ESC 2-4S Support Dshot150 D",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultrasonic Sensor - HC-SR04 - SEN-13959 - SparkFun Electronics",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "600TVL 1.8mm 1/4 CMOS 120 Degree Wide Angle Lens FPV Camera PAL/NTSC 3",
+            "cost": "$7.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "4X Racerstar Racing Edition 2205 BR2205 2300KV 2-4S Brushless Motor 2 ",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tiny OTG Adapter - USB Micro to USB ID: 2910 - $2.95 : Adafruit Indust",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "F3 Flight Controller Acro 6 DOF/Deluxe 10 DOF for Multirotor Racing Sa",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1 Pair DYS 5042 5 Inch 3 Blade Propeller Triblade Bullnose Prop Red Or",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Eachine VTX02 Super Mini 5.8G 40CH 200mW FPV Transmitter  Sale - Bangg",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/243/0.jpg"
+    ]
+}

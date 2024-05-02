@@ -1,0 +1,145 @@
+{
+    "title": "Smart Target 2.0",
+    "date": "06 Nov 2016",
+    "detail": "Much cool. Many target. Very better. Wow!",
+    "extended_details": "Based on last year's Smart Target. We bring all the functionality of the last iteration, but less buggy, and with a game play aspect. Now, not only can you track your archery progress, but you can battle your friends in a physical and virtual archery game to the death!",
+    "team_profiles": [
+        {
+            "username": "@kcu",
+            "name": "@kcu"
+        },
+        {
+            "username": "@ablackwo",
+            "name": "@ablackwo"
+        },
+        {
+            "username": "@ndomingo",
+            "name": "@ndomingo"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: uxcell 2Pcs On/Off Switch 4 x 1.5V AA Battery Case Holder ",
+            "cost": "$4.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Standard Gearmotor - 303 RPM (3-12V) - ROB-12147 - SparkFun Electronic",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Ball Bearing - Flanged (1/4\" Bore, 1/2\" OD, 2-Pack) - ROB-13012 - Spar",
+            "cost": "$2.19",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Shaft Spacer - 1/4\" - ROB-12350 - SparkFun Electronics",
+            "cost": "$1.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.91",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$26.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hub Spacer - 3/8\" - ROB-12401 - SparkFun Electronics",
+            "cost": "$1.39",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$19.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Pro Trinket - 5V 16MHz ID: 2000 - $9.95 : Adafruit Industries",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Elegoo HC-SR04 Ultrasonic Module Distance Sensor for Ardui",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Channel - 24\" - ROB-12551 - SparkFun Electronics",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$15.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Mount - B Style - ROB-12400 - SparkFun Electronics",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Single Channel - Flat Bracket - ROB-12246 - SparkFun Electronics",
+            "cost": "$1.29",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Shaft Coupler - 1/4\" to 6mm - ROB-12211 - SparkFun Electronics",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bearing Mount - Pillow Block (1/4\" Bore) - ROB-12333 - SparkFun Electr",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Hub Mount - Quad (Mount E) - ROB-12433 - SparkFun Electronics",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/122/0.jpg"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "GesDrone",
+    "date": "21 Nov 2016",
+    "detail": "Control one (or a fleet of ) drone(s) with gestures.",
+    "extended_details": "We are building a gesture controlled drone (fleet) with small hand-held device. Remote control will be realized based on radio communication between hand-held devices and drones.",
+    "team_profiles": [
+        {
+            "username": "@xiaoruil",
+            "name": "@xiaoruil"
+        },
+        {
+            "username": "@davidyua",
+            "name": "@davidyua"
+        },
+        {
+            "username": "@fcanari",
+            "name": "@fcanari"
+        },
+        {
+            "username": "@shihanw",
+            "name": "@shihanw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Robot Check",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Quadcopter Battle Drone - Smartphone Remote Control Flying",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$179.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/186/0.jpg"
+    ]
+}

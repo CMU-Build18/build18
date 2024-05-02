@@ -1,0 +1,60 @@
+{
+    "title": "Little Snitch",
+    "date": "20 Oct 2018",
+    "detail": "Do you sleep in class? Is your participation grade higher than expected? Then worry not! Little snitch is here.",
+    "extended_details": "Little snitch is a student monitoring system for classrooms in order to gauge participation and attentiveness. The generated reports can be used by the professors to measure various student attention parameters, such as individual attentiveness and overall class attentiveness for a specific lecture segment to provide feedback regarding lecture quality, interactiveness, and overall understanding.",
+    "team_profiles": [
+        {
+            "username": "@ryano",
+            "name": "@ryano"
+        },
+        {
+            "username": "@epalaz",
+            "name": "@epalaz"
+        },
+        {
+            "username": "@bonniel1",
+            "name": "@bonniel1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Power strip",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB C hub",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RCA Mixer",
+            "cost": "$54.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rechargable AA cells",
+            "cost": "$7.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Logitech Brio Webcam",
+            "cost": "$157.36",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/436/0.jpg",
+        "garage/436/1.jpg",
+        "garage/436/2.jpg",
+        "garage/436/3.jpg",
+        "garage/436/4.jpg",
+        "garage/436/5.jpg"
+    ]
+}

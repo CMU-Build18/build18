@@ -1,0 +1,32 @@
+{
+    "title": "CPRobot",
+    "date": "24 Oct 2019",
+    "detail": "A medical robot that can administer CPR and has a defilibrator.",
+    "extended_details": "A robot that can autonomously determine the age of a person with CV and administer CPR accordingly with pneumatics, providing oral instructions to people in the site. Also has a defilibrator, which it can autonomously apply the pads for.",
+    "team_profiles": [
+        {
+            "username": "@wanyic",
+            "name": "@wanyic"
+        },
+        {
+            "username": "@jtw2",
+            "name": "@jtw2"
+        },
+        {
+            "username": "@mimamura",
+            "name": "@mimamura"
+        },
+        {
+            "username": "@jdstepp",
+            "name": "@jdstepp"
+        },
+        {
+            "username": "@hyunjunb",
+            "name": "@hyunjunb"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/579/0.jpg"
+    ]
+}

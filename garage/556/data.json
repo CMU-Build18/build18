@@ -1,0 +1,55 @@
+{
+    "title": "Buddy In The Sky",
+    "date": "10 Oct 2019",
+    "detail": "Your Personal Drone Companion",
+    "extended_details": "We want to create an IOT connected drone to act as a personal companion. We want the companion to be able to perform simple tasks like identify objects, retrieve objects from waypoints, and follow its owner.",
+    "team_profiles": [
+        {
+            "username": "@jeanpaun",
+            "name": "@jeanpaun"
+        },
+        {
+            "username": "@johnmart",
+            "name": "@johnmart"
+        },
+        {
+            "username": "@aconduff",
+            "name": "@aconduff"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "raspberry pi 3 a",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2 - 8 Megapixels",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Motor in Micro Servo Body",
+            "cost": "$3.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Hobbypower DIY S500 Quadcopter with APM2.8 Flight Controller 7M GPS an",
+            "cost": "$159.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/556/0.jpg"
+    ]
+}

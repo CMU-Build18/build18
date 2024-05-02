@@ -1,0 +1,77 @@
+{
+    "title": "Dum.py",
+    "date": "19 Oct 2019",
+    "detail": "Ever had to hold onto waster for longer than 10 minutes? Is it because you couldn't find a trash can? Enter the Dum.py",
+    "extended_details": "Our project is an autonomous trashcan that will eliminate the need for public trash bins and recycling bins. Using multiple cameras to implement SLAM, the Dum.py will have the functionality required to plan a path navigate sidewalks filled with pedestrians, cross streets, and even return to the appropriate facility to empty out waste.",
+    "team_profiles": [
+        {
+            "username": "@tmleong",
+            "name": "@tmleong"
+        },
+        {
+            "username": "@tdardia",
+            "name": "@tdardia"
+        },
+        {
+            "username": "@wwchen",
+            "name": "@wwchen"
+        },
+        {
+            "username": "@emiandri",
+            "name": "@emiandri"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Voltage Regulator",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "polypropylene wheel",
+            "cost": "$5.97",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "camera",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery charger",
+            "cost": "$43.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motors",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Large Sealed Battery 12V",
+            "cost": "$48.13",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rasp Pi Motor Shield",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "usb breakout board",
+            "cost": "$4.25",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/572/0.jpg"
+    ]
+}

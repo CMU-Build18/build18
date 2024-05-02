@@ -1,0 +1,119 @@
+{
+    "title": "Enigmuch-Better",
+    "date": "29 Oct 2018",
+    "detail": "A Secure Version of the Enigma Machine",
+    "extended_details": "The Enigma Machine was broken by the Bombes in WW2. We will create a pocket-sized Enigma-like machine which can encrypt and decrypt messages, but uses a secure encryption scheme.",
+    "team_profiles": [
+        {
+            "username": "@wching",
+            "name": "@wching"
+        },
+        {
+            "username": "@alisac",
+            "name": "@alisac"
+        },
+        {
+            "username": "@eblesswi",
+            "name": "@eblesswi"
+        },
+        {
+            "username": "@mlaurenc",
+            "name": "@mlaurenc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Resistor - 4.7k\u03a9 (0603, 1/10W, 1%)",
+            "cost": "$0.01",
+            "quantity": "\n",
+            "total": "100"
+        },
+        {
+            "part": "Resistor - 220\u03a9 (0603, 1/10W, 1%)",
+            "cost": "$0.01",
+            "quantity": "\n",
+            "total": "150"
+        },
+        {
+            "part": ".1\" Header - Male (1x30 POS, SMD)",
+            "cost": "$0.81",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Rotary Encoder w/ Select Switch",
+            "cost": "$1.10",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": ".1\" Header - Male (1x10 POS)",
+            "cost": "$0.29",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "74HC21 (SO14)",
+            "cost": "$0.37",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Knob",
+            "cost": "$0.82",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Arduino UNO Rev3",
+            "cost": "$22.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "14-Segment LED - Red",
+            "cost": "$1.66",
+            "quantity": "\n",
+            "total": "45"
+        },
+        {
+            "part": ".1\" Header - Male (1x8 POS)",
+            "cost": "$0.23",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": ".1\" Header - Male (1x6 POS)",
+            "cost": "$0.19",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Edge Connector - 20 POS",
+            "cost": "$0.74",
+            "quantity": "\n",
+            "total": "13"
+        },
+        {
+            "part": "Momentary Switch - SPST (4.6 x 2.8mm)",
+            "cost": "$0.39",
+            "quantity": "\n",
+            "total": "145"
+        },
+        {
+            "part": "MCP23017 (SO28W)",
+            "cost": "$1.03",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "LED - White (1206, 3500K, 80CRI)",
+            "cost": "$0.10",
+            "quantity": "\n",
+            "total": "150"
+        }
+    ],
+    "photos": [
+        "garage/464/0.jpg"
+    ]
+}

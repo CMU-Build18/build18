@@ -1,0 +1,189 @@
+{
+    "title": "8-Bit Computer",
+    "date": "09 Nov 2021",
+    "detail": "John Von Neumann FTW!",
+    "extended_details": "Building an 8-Bit computer using breadboards, various ICs, and more! We will build our ALU and program the computer to run Conway's game of life.",
+    "team_profiles": [
+        {
+            "username": "@sthati",
+            "name": "@sthati"
+        },
+        {
+            "username": "@nkaabra",
+            "name": "@nkaabra"
+        },
+        {
+            "username": "@kpurani",
+            "name": "@kpurani"
+        },
+        {
+            "username": "@dnadkarn",
+            "name": "@dnadkarn"
+        },
+        {
+            "username": "@ehu2",
+            "name": "@ehu2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "prog counter",
+            "cost": "$0.90",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "LEDs",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboards",
+            "cost": "$11.69",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Resistors",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1 M ohm potentiometer",
+            "cost": "$0.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "555 timer",
+            "cost": "$0.41",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Nand gates",
+            "cost": "$0.42",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "invert gates",
+            "cost": "$0.42",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "and gates",
+            "cost": "$0.44",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "or gates",
+            "cost": "$0.42",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "nor gates",
+            "cost": "$0.55",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "xor gates",
+            "cost": "$0.47",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "8 dip switch",
+            "cost": "$0.66",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "4 dip switch",
+            "cost": "$0.55",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "EEPROM",
+            "cost": "$11.21",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "JK FLIP FLOP",
+            "cost": "$3.17",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Decoder (3 bit)",
+            "cost": "$5.90",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Decoder (2 bit)",
+            "cost": "$1.04",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "2 select 1",
+            "cost": "$0.93",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Registers",
+            "cost": "$1.72",
+            "quantity": "\n",
+            "total": "16"
+        },
+        {
+            "part": "8 D flip flop",
+            "cost": "$1.20",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "4 bit adder",
+            "cost": "$1.59",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "RAM",
+            "cost": "$5.29",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "tri state buffers",
+            "cost": "$15.26",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "toggle switches",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "momentary switches",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/726/0.jpg"
+    ]
+}

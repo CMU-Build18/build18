@@ -1,0 +1,171 @@
+{
+    "title": "Iron Man Arm",
+    "date": "27 Nov 2015",
+    "detail": "I am Iron Man... well at least just the arm...",
+    "extended_details": "We are planning to build an exoskeleton arm which will be actuated by emg sensors on the wearer's arm. The arm will be an exoskeleton that will be worn over the wearer's arm. It will be  moved by high powered servos on the joints of the arm. It will act as a protective exoskeleton to the user.",
+    "team_profiles": [
+        {
+            "username": "@shastrir",
+            "name": "@shastrir"
+        },
+        {
+            "username": "@jcdyer",
+            "name": "@jcdyer"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Flex Sensor 2.2\" - SEN-10264 - SparkFun Electronics",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Rust-Oleum 1910830 Metallic Spray, Gold, 11-Ounce: Home Im",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Leegoal 8 Inch Nylon Cable Ties Wire Ties (Set Of100PCs,Bl",
+            "cost": "$2.09",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$14.02",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.03",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$11.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Monoprice Fastening Tape 0.75inch One Wrap Hook & Loop Fas",
+            "cost": "$5.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Power HD Ultra-High-Torque, High-Voltage Digital Giant Servo ",
+            "cost": "$59.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Rubie's Costume Avengers 2 Age of Ultron Child's Iron Man ",
+            "cost": "$7.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NeoPixel Ring - 16 x WS2812 5050 RGB LED - COM-12664 - SparkFun Electr",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Rust-Oleum 249124 Painter's Touch Multi Purpose Spray Paint, 12-Ounce,",
+            "cost": "$3.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - SpringRC SM-S4303R Continuous Rotation Servo",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Solenoid - 5v (small) - ROB-11015 - SparkFun Electronics",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "TIP102 Fairchild Semiconductor | Discrete Semiconductor Products | Dig",
+            "cost": "$0.91",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "1N4004-T Diodes Incorporated | Discrete Semiconductor Products | DigiK",
+            "cost": "$0.01",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Amazon.com: Iron Man 3 FX - Wrist Armor: Toys & Games",
+            "cost": "$6.07",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V EL wire/tape inverter ID: 448 - $4.95 : Adafruit Industries, Uniqu",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "High Brightness Blue Electroluminescent (EL) Wire - 2.5 meters [High b",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Arduino Uno Rev 3: Electronics",
+            "cost": "$21.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16mm Illuminated Pushbutton - Red Momentary ID: 1439 - $1.50 : Adafrui",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 2x JACKYLED New DC 12V 2A 2.0A Switching Power Supply Adap",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Adjustable 4-12V Step-Up/Step-Down Voltage Regulator S18V20ALV",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Iron Man 2 (2010) Movie - Arc Reactor Glow Accessory: Cost",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Marvel Universe Iron Man 2.5 Action Figure Movie Series: T",
+            "cost": "$1.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/38/0.jpg"
+    ]
+}

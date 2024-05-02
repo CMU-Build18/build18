@@ -1,0 +1,93 @@
+{
+    "title": "Discrete Tic-Tac-Toe",
+    "date": "14 Nov 2017",
+    "detail": "The quintessential game of strategy represented in its logical minimum",
+    "extended_details": "Tic-Tac-Toe implemented using only discrete electrical components such as transistors, LEDs, wires, passives.",
+    "team_profiles": [
+        {
+            "username": "@raghuv",
+            "name": "@raghuv"
+        },
+        {
+            "username": "@krv",
+            "name": "@krv"
+        },
+        {
+            "username": "@sladuca",
+            "name": "@sladuca"
+        },
+        {
+            "username": "@jsgarcia",
+            "name": "@jsgarcia"
+        },
+        {
+            "username": "@ayli1",
+            "name": "@ayli1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LTL2R3KGD-EM",
+            "cost": "$0.18",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "inShareplus 6V DC Power Supply",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "A10905RNCQ",
+            "cost": "$6.90",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Stackpole Electronics CF14JT4K70; Box of 250",
+            "cost": "$3.09",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LTL2R3KRD-EM",
+            "cost": "$0.18",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "Diodes Incorporated BS250P",
+            "cost": "$0.70",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "Taiwan Semiconductor TSM2N7000KCT",
+            "cost": "$0.20",
+            "quantity": "\n",
+            "total": "300"
+        },
+        {
+            "part": "Set of 20 Perfboards",
+            "cost": "$5.39",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Falken Design Corporation CL1-16/2436 Plastic Acrylic Plexiglas Lucite",
+            "cost": "$29.07",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Table",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/350/0.jpg"
+    ]
+}

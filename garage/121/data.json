@@ -1,0 +1,134 @@
+{
+    "title": "BigDreams",
+    "date": "02 Nov 2016",
+    "detail": "Giant Tank Simulator. Face off against a friend in a classic tank vs tank duel.",
+    "extended_details": "You and a friend will each be able to sit in and control your own tank.  You will use an immersive interface to control your tank as you navigate the battlefield and try to take out your opponent.  Our project consisted of three main components:\r\n(1) the seating, which we designed and built to rotate with the turret of the tank,\r\n(2) the controls, which we designed using an Arduino Leonardo,\r\n(3) the game, which we based off an existing Unity tutorial, and modified to allow for VR viewing throught the Oculus DKII headsets and multiplayer mode across two computers",
+    "team_profiles": [
+        {
+            "username": "@randaya",
+            "name": "@randaya"
+        },
+        {
+            "username": "@mzc",
+            "name": "@mzc"
+        },
+        {
+            "username": "@efrainb",
+            "name": "@efrainb"
+        },
+        {
+            "username": "@amilford",
+            "name": "@amilford"
+        },
+        {
+            "username": "@schoo",
+            "name": "@schoo"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.13",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.18",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$34.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Concave Button - White - COM-09340 - SparkFun Electronics",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Concave Button - Black - COM-09339 - SparkFun Electronics",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Alligator Test Leads - Multicolored (10 Pack) - PRT-12978 - SparkFun E",
+            "cost": "$2.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED - Assorted (20 pack) - COM-12062 - SparkFun Electronics",
+            "cost": "$2.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$3.54",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Concave Button - Green - COM-09341 - SparkFun Electronics",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$11.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Arduino Due A000062: Computers & Accessories",
+            "cost": "$31.37",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Concave Button - Blue - COM-09337 - SparkFun Electronics",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Concave Button - Red - COM-09336 - SparkFun Electronics",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$35.88",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/121/0.jpg",
+        "garage/121/1.jpg",
+        "garage/121/2.jpg",
+        "garage/121/3.jpg",
+        "garage/121/4.jpg",
+        "garage/121/5.jpg"
+    ]
+}

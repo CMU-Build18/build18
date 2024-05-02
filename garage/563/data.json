@@ -1,0 +1,55 @@
+{
+    "title": "Hagrid's Dark Fantasy",
+    "date": "12 Oct 2019",
+    "detail": "Hagrid's back, and he's locked in Wean",
+    "extended_details": "Mixed reality dream-sequence using an Oculus Rift and a Zed Mini. We will use SLAM and mesh-manipulation techniques to teleport the user into an immersive parallel realm, guided by Hagrid's wild imagination.\r\n\r\nProposal: https://docs.google.com/document/d/1ozdttHcxzxCYGgHFcN16zgyzRJwDR4HqZRr_20AAtyQ/edit",
+    "team_profiles": [
+        {
+            "username": "@mcli",
+            "name": "@mcli"
+        },
+        {
+            "username": "@tscherli",
+            "name": "@tscherli"
+        },
+        {
+            "username": "@avsethur",
+            "name": "@avsethur"
+        },
+        {
+            "username": "@alicel",
+            "name": "@alicel"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "ZED Mini Camera",
+            "cost": "$449.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro Servo - MG90D High Torque Metal Gear",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Teensy Microcontroller",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Subpac Vest Haptic Vest",
+            "cost": "$299.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/563/0.jpg",
+        "garage/563/1.jpg",
+        "garage/563/2.jpg"
+    ]
+}

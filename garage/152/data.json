@@ -1,0 +1,81 @@
+{
+    "title": "Tech, Love, & Leds",
+    "date": "20 Nov 2016",
+    "detail": "A two part project consisting of a web based controller and led based lighting fixture for trusses.",
+    "extended_details": "The project consists of 2 parts: an innovative lighting fixture for theater and show settings involving truss, and an HTML5 integrated controller for sending DMX commands. The lighting was inspired by custom lights used in professional shows such as the School of Rock on broadway.",
+    "team_profiles": [
+        {
+            "username": "@plima",
+            "name": "@plima"
+        },
+        {
+            "username": "@jlareau",
+            "name": "@jlareau"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "PD3MSC1 Switchcraft Inc. | Connectors, Interconnects | DigiKey",
+            "cost": "$3.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Hammond 1591BSBK ABS Project Box Black - Electronics Bags And Cases - ",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 3 Model B Motherboard: Computers & Accessorie",
+            "cost": "$36.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PD3FRA2 Switchcraft Inc. | Connectors, Interconnects | DigiKey",
+            "cost": "$3.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "5V 10A switching power supply ID: 658 - $25.00 : Adafruit Industries, ",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Metal Pushbutton - Momentary (16mm, Blue)",
+            "cost": "$4.46",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB + Serial Backpack Kit with 16x2 RGB backlight positive LCD [Black ",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit NeoPixel Digital RGBW LED Strip - Black PCB 60 LED/m ID: 2837",
+            "cost": "$27.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Hammond 1591ESBK ABS Project Box Black - Electrical Boxes - Amazon.com",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/152/0.jpg"
+    ]
+}

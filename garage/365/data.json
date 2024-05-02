@@ -1,0 +1,24 @@
+{
+    "title": "Caliper Clock",
+    "date": "15 Nov 2017",
+    "detail": "Measuring time precisely",
+    "extended_details": "We're making giant calipers that are also a clock! It can switch between measuring distance and time.",
+    "team_profiles": [
+        {
+            "username": "@ebbarret",
+            "name": "@ebbarret"
+        },
+        {
+            "username": "@dquan",
+            "name": "@dquan"
+        },
+        {
+            "username": "@agarcias",
+            "name": "@agarcias"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/365/0.jpg"
+    ]
+}

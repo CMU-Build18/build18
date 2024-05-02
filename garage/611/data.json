@@ -1,0 +1,34 @@
+{
+    "title": "SAUSAGE",
+    "date": "27 Oct 2019",
+    "detail": "Solar Aerial Unmanned Stereo Autonomous Ground Evasion is an aircraft that lets a computer enjoy the miracle of flight.",
+    "extended_details": "SAUSAGE is a high performance aircraft that is capable of flying for over 8 hours, depending on the alignment of the stars. It is well equipped with 28 high efficiency solar cells, a flight controller, an MPPT, and snacks for the ride. Using simultaneous localization and mapping, SAUSAGE can deftly avoid SLAMming into trees.\r\n\r\nAs of Monday, November 18th, we have already secured many of the crucial parts of the plane: carbon fiber spars were found in Roboclub, Tom Schleris generously donated a Pixhawk PX4, I bought UltraCote wing covering. I have standard r/c plane electronics (Taranis QX7, FrSky L9R receiver, 3S 3000 mAh battery, motor, escs) from previous planes that I have built. Therefore, our Build18 efforts will focus on the solar power generation system for this plane.\r\n\r\nThe autonomy side of the project has split into two options, based on whether or not we can find suitable cameras in time (we didn't have space in the budget). Our camera-less backup plan is to pre-load 3D terrain data from Google Earth, then use the GPS and altimeter from the Pixhawk for localization. In either case, we will use the Nano for localization. Thankfully, there are less things in the sky than on the ground.",
+    "team_profiles": [
+        {
+            "username": "@ebourcar",
+            "name": "@ebourcar"
+        },
+        {
+            "username": "@akilicco",
+            "name": "@akilicco"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Genasun GV-5 LiPo (3S) MPPT",
+            "cost": "$99.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sunpower C60 solar cells (30)",
+            "cost": "$143.94",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/611/0.jpg",
+        "garage/611/1.jpg"
+    ]
+}

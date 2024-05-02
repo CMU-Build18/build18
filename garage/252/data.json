@@ -1,0 +1,177 @@
+{
+    "title": "Bomb lab 2.0",
+    "date": "23 Oct 2017",
+    "detail": "There's a bomb and a manual, how hard could it be.",
+    "extended_details": "Keep Talking and Nobody Explodes is a video game that involves multiple players. One player is actually playing the game, while the rest of the players are giving instructions. The goal of the to game is to defuse a bomb that has small puzzles that have to be solved. The twist is that the bomb defuser and the bomb instructor can see the other\u2019s point of view. The only form of communication that the players have is verbal. The small puzzles, called modules, on the bomb have instructions that prey on the difficulty of verbal confusion. For example, one module has buttons with symbols on them, and the defuser has to communicate which symbols are on the module to the bomb expert to figure out the right order to press them in. We want to make a physical game with tactile switches to bring the expertise of Keep Talking into the real world.\r\n\r\nLink to the design doc [here](https://docs.google.com/a/andrew.cmu.edu/document/d/1wTgRqjjdAQJ7HeRc0nDIVF7_MnZ5G_GI_Pl7XZxqWBM/edit?usp=sharing)",
+    "team_profiles": [
+        {
+            "username": "@echen2",
+            "name": "@echen2"
+        },
+        {
+            "username": "@rsli",
+            "name": "@rsli"
+        },
+        {
+            "username": "@bridgett",
+            "name": "@bridgett"
+        },
+        {
+            "username": "@deanyons",
+            "name": "@deanyons"
+        },
+        {
+            "username": "@reedc",
+            "name": "@reedc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Momentary Pushbutton Switch - 12mm Square",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Voltage Regulator - 3.3V",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "SparkFun Capacitor Kit",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Wall Adapter Power Supply - 5V DC 2A (Barrel Jack)",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Piezo Buzzer [PS1240] ID: 160 - $1.50 : Adafruit Industries, Unique & ",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Sorry! Something went wrong!",
+            "cost": "$55.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Cutequeen 750 pcs,30 Values Resistor Kit x 25pcs =750 pcs (10 Ohm - 1M",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "16x2 RGB backlight negative LCD",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Monochrome 2.7 128x64 OLED Graphic Display Module Kit ID: 2674 - $49.9",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "8-channel Bi-directional Logic Level Converter - TXB0108",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Elegoo 3pcs MB-102 Breadboard 830 Point Solderless Prototype PCB Board",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Mal",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Tactile Button - Red - COM-10442 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rocker Switch - SPST (round) - COM-11138 - SparkFun Electronics",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "SparkFun 7-Segment Serial Display - Red - COM-11441 - SparkFun Electro",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "7-Segment Display - LED (Red) - COM-08546 - SparkFun Electronics",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED - Basic Red 5mm (25 pack) - COM-09856 - SparkFun Electronics",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED - Basic Green 5mm (25 pack) - COM-09855 - SparkFun Electronics",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Tactile Button - Orange - COM-10441 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Tactile Button - Blue - COM-10443 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shift Register 8-Bit - SN74HC595 - COM-13699 - SparkFun Electronics",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "10 Segment LED Bar Graph - Green - COM-09938 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Tactile Button - Green - COM-10440 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Graphic LCD 84x48 - Nokia 5110 - LCD-10168 - SparkFun Electronics",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/252/0.jpg"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Page Turning Scanner",
+    "date": "04 Nov 2017",
+    "detail": "Given a book, the scanner will scan a page, flip the page, and repeat until the entire book has been digitized.",
+    "extended_details": "Given a book, the scanner will scan a page, flip the page, and repeat until the entire book has been digitized.",
+    "team_profiles": [
+        {
+            "username": "@odelen",
+            "name": "@odelen"
+        },
+        {
+            "username": "@knosurna",
+            "name": "@knosurna"
+        },
+        {
+            "username": "@oka",
+            "name": "@oka"
+        },
+        {
+            "username": "@jhewitt",
+            "name": "@jhewitt"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "m3 nuts",
+            "cost": "$0.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "m3 screws",
+            "cost": "$1.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Driver L293DNE",
+            "cost": "$3.68",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "1738-1106-ND Motor with encoder",
+            "cost": "$29.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "duct tape",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "mounting putty",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "sticky rubber",
+            "cost": "$5.32",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servos",
+            "cost": "$12.09",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "12v rechargeable battery",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "motor shaft mount",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/266/0.jpg"
+    ]
+}

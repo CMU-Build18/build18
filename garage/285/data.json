@@ -1,0 +1,93 @@
+{
+    "title": "miniLIGO",
+    "date": "07 Nov 2017",
+    "detail": "Building a miniature gravitational wave detector",
+    "extended_details": "A gravitational wave detector is made up of a Michelson Interferometer, acting as a Febry-Perot cavity, that detects changes in phase of a laser travelling between 2 orthogonal sets of mirrors. We aim to build a realistic gravitational wave detector, that would work in the same way (but on a much smaller scale) to the experiment that won the 2017 Nobel Prize in Physics. The detector would be connected to a Raspberry Pi that stores the signal and analyses it. Realistically, the detector would be able to measure distortions in spacetime, on the order of the diameter of a proton, at a frequency on the order of kHz. We also plan to convert this signal into an audio signal, and release educational material based on it.\r\n\r\n## Motivation\r\n\r\nAfter over 30 years of work done by thousands of engineers and scientists, gravitational waves were detected and were one of the biggest breakthroughs in science this century, and won the 2017 Nobel Prize in Physics. In our project, we hope to solve and understand some of the engineering challenges that went into that discovery, on a much smaller scale. \r\n\r\n\r\n## Engineering challenges\r\n\r\n#### Basic Michelson Interferometer\r\n\r\nIn most basic terms, a gravitational wave detector is a set of 2 Michelson interferometers, with laser going through a beam splitter into 2 mirrors, and the phase of both compared when they get reflected back. Major engineering challenges, however, exist, to make the detector much more accurate than a michelson interferometer, and to eliminate systematics, such as:\r\n\r\n#### Seismic Isolation\r\n\r\nThe mirrors has to be suspended as to minimize the effect of inhomogeneities in Earth's motion. This also involves creating a feedback system of circuits (active and passive dampers) using 3 test masses to eliminate systematics due to light earthquakes, lightning, trains passing by, etc.\r\n\r\n#### Interferometry\r\n\r\nIncluding developing techniques to control devices under high power lasers, and designing an as lossless as possible Febry-Perot cavity. This is so the light can be reflected back-and-forth on resonance hundreds of times before the phase is compared, this increases the accuracy of the detector by a factor of the number of reflections, assuming nearly perfect mirror reflectivity.\r\n\r\n## Data collection & analysis challenges\r\n\r\nThe signal will be full of systematics, part of these are due to e.g. seismic signals, lightning, etc. and have to be taken out of the data.\r\n\r\nPulsars create continuous gravitational wave signals, that can only be statistically detected as an excess on the stochastic background signal. We can use the time delay between the two detectors to either detect gravitational waves from pulsars (due to rotations), or stars (due to magnetohydrodynamic fields), or set upper limits on potential gravitational wave signal emitted from certain pulsars. \r\n\r\nAt the end of the week we hope to have a raspberry pi running and doing analysis in real-time on the measured signal.\r\n\r\n## Applications\r\n\r\nWe're planning to release our project in open source format in the form of Jupyter notebooks which will provide educational material for building a gravitational wave detector and doing data analysis on it. \r\n\r\nWe also plan to transform the gravitational wave signal from miniLIGO into audio signal (since the frequency is actual audible), and create an app where people can listen to the gravitational wave signal.",
+    "team_profiles": [
+        {
+            "username": "@ovg",
+            "name": "@ovg"
+        },
+        {
+            "username": "@halmouba",
+            "name": "@halmouba"
+        },
+        {
+            "username": "@ajzhai",
+            "name": "@ajzhai"
+        },
+        {
+            "username": "@alisac",
+            "name": "@alisac"
+        },
+        {
+            "username": "@amani",
+            "name": "@amani"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RPi Monitor",
+            "cost": "$70.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Luminosity Sensor",
+            "cost": "$8.28",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tinker Board",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Accel/gryo/compass Sensor",
+            "cost": "$27.88",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "RPi Camera",
+            "cost": "$32.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Beamsplitter",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Beamsplitter (Fabry Perot)",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Laser Module",
+            "cost": "$169.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mirrors",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/285/0.jpg"
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "title": "InfiniFun",
+    "date": "27 Nov 2015",
+    "detail": "The Thrill of Board Games Combined with Robotic Precision",
+    "extended_details": "We will bring the wonder of robotics to the board game industry with Infinifun. The general gameplay is similar to that of Pong, in which a ball collides with walls and scores points when it reaches the end of the board. However, our game ball will be a robotic disc with infrared sensors to detect the end of the table and bounce off the edges, emulating a physical wall. As such, the game can be played on any flat surface, such as your dining room table at home, and is extremely portable.\r\n\tUnlike Pong, the players do not have paddles, but place colored tiles on their side of the game board that adjust ball movement. A green tile speeds up the ball, a red tile slows down the ball, a blue tile offsets the ball direction by a certain amount, etc. The ball contains a color sensor that determines when to adjust its motion. Each player wants to arrange his/her tiles in such a manner to direct the ball towards the opponent\u2019s goal.\r\n\tWelcome to the board game of the 21st century!",
+    "team_profiles": [
+        {
+            "username": "@jbgoldst",
+            "name": "@jbgoldst"
+        },
+        {
+            "username": "@ctabrizi",
+            "name": "@ctabrizi"
+        },
+        {
+            "username": "@hfbaker",
+            "name": "@hfbaker"
+        },
+        {
+            "username": "@wnace",
+            "name": "@wnace"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "5 pairs Infrared Diode LED IR Emission and Receiver - Multi Testers - ",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$15.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Leonardo with Headers - DEV-11286 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NeoPixel Ring - 24 x WS2812 5050 RGB LED with Integrated Drivers ID: 1",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RGB Color Sensor with IR filter and White LED - TCS34725 ID: 1334 - $7",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: ARRIS\u00ae CC3D Flight Controller Mini Power Distribution Boar",
+            "cost": "$9.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: XT60 Charge Cable: Toys & Games",
+            "cost": "$5.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : 5\" Spectrum Spot Markers (set of 12) : Sports & Outdoors",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: RioRand\u00ae RC Accessories Set 680g 1000KV Outrunner Brushles",
+            "cost": "$50.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$16.19",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Thin Plastic Speaker w/Wires - 8 ohm 0.25W ID: 1891 - $1.75 : Adafruit",
+            "cost": "$1.75",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Adafruit Audio FX Sound Board + 2x2W Amp - WAV/OGG Trigger",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 4x Emax SimonK 12A Brushless ESC Speed Controller For FPV ",
+            "cost": "$28.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$20.89",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/31/0.jpg"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Nutrient Film Technique Hydroponics System",
+    "date": "23 Oct 2019",
+    "detail": "Building a Nutrient Film Technique hydroponics system to grow plants indoors",
+    "extended_details": "We aim to prototype a cheap and buildable nutrient film technique hydroponics system that individuals and food banks could use to grow microgreens and other diet supplements with. This system will be used for a part of the Engineers Without Borders agriculture project.",
+    "team_profiles": [
+        {
+            "username": "@sshirrif",
+            "name": "@sshirrif"
+        },
+        {
+            "username": "@chuynh",
+            "name": "@chuynh"
+        },
+        {
+            "username": "@jaolsen",
+            "name": "@jaolsen"
+        },
+        {
+            "username": "@sding2",
+            "name": "@sding2"
+        },
+        {
+            "username": "@mliou",
+            "name": "@mliou"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/576/0.jpg"
+    ]
+}

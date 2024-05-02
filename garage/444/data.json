@@ -1,0 +1,87 @@
+{
+    "title": "The Quadcopter",
+    "date": "25 Oct 2018",
+    "detail": "An all-terrain vehicle, regardless of the terrain",
+    "extended_details": "This arduino-controlled quadcopter will autonomously lift a 1kg object with hooks, hover over a target, and place it down.  It will work over any terrain.",
+    "team_profiles": [
+        {
+            "username": "@jklotz",
+            "name": "@jklotz"
+        },
+        {
+            "username": "@aahang",
+            "name": "@aahang"
+        },
+        {
+            "username": "@rgoggins",
+            "name": "@rgoggins"
+        },
+        {
+            "username": "@eolivare",
+            "name": "@eolivare"
+        },
+        {
+            "username": "@zblau",
+            "name": "@zblau"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Frame",
+            "cost": "$47.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "14.8V LiPo Battery",
+            "cost": "$50.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motors",
+            "cost": "$51.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Propellers",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Controllers",
+            "cost": "$47.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultrasound Sensor",
+            "cost": "$27.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Inertial Measurement Unit",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Fuse Holders",
+            "cost": "$3.20",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "GPS Sensor",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/444/0.jpg"
+    ]
+}

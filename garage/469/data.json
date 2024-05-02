@@ -1,0 +1,95 @@
+{
+    "title": "Cone Bot\ud83d\udd3a\ud83e\udd16",
+    "date": "29 Oct 2018",
+    "detail": "A small friend to help you with all your cone picking and placing needs",
+    "extended_details": "The Cone Bot places cones in a circle, and picks them up. It's intended to be used for track testing.",
+    "team_profiles": [
+        {
+            "username": "@tchiang",
+            "name": "@tchiang"
+        },
+        {
+            "username": "@apnayak",
+            "name": "@apnayak"
+        },
+        {
+            "username": "@szz",
+            "name": "@szz"
+        },
+        {
+            "username": "@ekusuma",
+            "name": "@ekusuma"
+        },
+        {
+            "username": "@alicel",
+            "name": "@alicel"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "3MM 1/8\" x 12\" x 12\" Baltic Birch Plywood \u2013 B/BB Grade (Package of 6)",
+            "cost": "$17.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Portable Charger RAVPower 22000mAh External Battery Pack",
+            "cost": "$41.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hobby Motor and Encoder Kit",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Power HD High-Torque Servo 1501MG",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Barrel Jack Adapter - Female",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "GPIO Stacking Header for Pi A+/B+/Pi 2/Pi 3 - Extra-long 2x20 Pins",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Module V2-8 Megapixel,1080p",
+            "cost": "$24.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Barrel Jack Adapter - USB to 5.5mm",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B+ - 1.4GHz Cortex-A53 with 1GB RAM",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/469/0.jpg",
+        "garage/469/1.jpg",
+        "garage/469/2.jpg"
+    ]
+}

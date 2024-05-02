@@ -1,0 +1,67 @@
+{
+    "title": "Mechanical Dog",
+    "date": "08 Nov 2017",
+    "detail": "Real Dogs Die, Our Dog Dances",
+    "extended_details": "We will make a mechanical dog that can walk on flat terrain. As an easter egg, the dog can dance to bass music.",
+    "team_profiles": [
+        {
+            "username": "@mklein",
+            "name": "@mklein"
+        },
+        {
+            "username": "@caguilar",
+            "name": "@caguilar"
+        },
+        {
+            "username": "@albyrnes",
+            "name": "@albyrnes"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Performix 075815116024 Yellow Plasti Dip",
+            "cost": "$9.52",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "7.4V 5000mAh Battery",
+            "cost": "$30.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduini Microphone",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LewanSoul LD-20MG Full Metal Gear Standard Digital Servo",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Battery Charger",
+            "cost": "$58.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Teensy 3.6",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduini Mega",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/334/0.jpg"
+    ]
+}

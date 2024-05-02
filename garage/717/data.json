@@ -1,0 +1,101 @@
+{
+    "title": "NyanPushU",
+    "date": "20 Oct 2021",
+    "detail": "our robot yeetus deletus the items off the table",
+    "extended_details": "Identifies and yeets anything off the table using CV and motion planning\r\nChases lasers \r\nAggressively and adorably meows\r\nAvoids falling off table\r\nInteractive tail based on cat\u2019s mood\r\n\r\nhttps://www.youtube.com/watch?v=JAEbJs-rnVc",
+    "team_profiles": [
+        {
+            "username": "@cxfu",
+            "name": "@cxfu"
+        },
+        {
+            "username": "@kevinliu",
+            "name": "@kevinliu"
+        },
+        {
+            "username": "@samyakj",
+            "name": "@samyakj"
+        },
+        {
+            "username": "@bez",
+            "name": "@bez"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "3D Printing from techspark",
+            "cost": "$40.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood from techspark",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 4",
+            "cost": "$75.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Car Kit",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor controller",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Camera",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "laser",
+            "cost": "$7.63",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "speaker",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "power distribution board",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "solenoid",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Linear Actuator",
+            "cost": "$40.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "IMU",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/717/0.jpg"
+    ]
+}

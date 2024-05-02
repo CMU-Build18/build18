@@ -1,0 +1,39 @@
+{
+    "title": "Apple VR",
+    "date": "08 Nov 2017",
+    "detail": "Play VR games on Iphone",
+    "extended_details": "Imagine being able to play immersive VR games anywhere on your Iphone. Our goal is to make an Iphone VR system with real interactive controls.",
+    "team_profiles": [
+        {
+            "username": "@lmoiseye",
+            "name": "@lmoiseye"
+        },
+        {
+            "username": "@imercier",
+            "name": "@imercier"
+        },
+        {
+            "username": "@kdramos",
+            "name": "@kdramos"
+        },
+        {
+            "username": "@jpspence",
+            "name": "@jpspence"
+        },
+        {
+            "username": "@apagliuc",
+            "name": "@apagliuc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Myo Arm band",
+            "cost": "$71.00",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/306/0.jpg"
+    ]
+}

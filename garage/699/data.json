@@ -1,0 +1,67 @@
+{
+    "title": "Roblox",
+    "date": "17 Oct 2021",
+    "detail": "Robots that move blocks...together!",
+    "extended_details": "> A swarm of miniature robots that pick up and rearrange colored blocks! Controlled by their overlord\u2014a computer with a camera looking down...who said Big Brother wasn't watching!?\r\n\r\n### General Idea\r\n\r\nWe plan to make a super-basic swarm robotics demo. The field will consist of a large, flat area with 1 inch colored blocks. Several identical robots with wheel encoders and grippers will drive around, picking up the blocks, and taking them to a central location to assemble a structure. If time permits, we want to allow the arm to move vertically so that we can build vertically as well. The robots will get global localization data from a central manager. This manager will have several cameras pointed down onto the scene. Using the cameras, the manager will use computer vision to identify the location of the blocks and the robots themselves (each robot will have some sort of fiducial like an Aruco marker on it). The manager will also act as a global planner; however, each robot will be able to drive to a new pose on its own.\r\n\r\n### MVP and stretch goals\r\n\r\n`MVP:` One robot can reliably move blocks and create a 2D structure\r\n\r\n`Goal 1:` Three robots can work together to create a 2D structure\r\n\r\n`Goal 2:` Three robots can work together to create a **3D** structure\r\n\r\n`Goal 3:` Improve the path planning so that the robots work in parallel more effectively (less waiting-around for other robots to get out of the way)\r\n\r\n### Schedule\r\n\r\n`Before Build18:` \r\n\r\n- Get a proof-of-concept of the CV localization working, try out the motors/encoders for accuracy, experiment with camera calibration\r\n\r\n`Day 1:` \r\n\r\n- Assemble all the robots, write drivers to move motors/actuate the gripper/read the encoders\r\n\r\n- Get path-planning software working (drive to arbitrary [x,y,theta]), commanded remotely through an XBEE radio\r\n\r\n`Day 2:`\r\n\r\n- Calculate global location of robot using computer vision, use this data to improve the robot's odometry\r\n\r\n- Write *basic* path planner to tell robot to drive to a location, pick up cube, and drop it somewhere else.\r\n\r\n`Day 3:` \r\n\r\n- Design algorithm to generate \"moves\" to build a structure out of the blocks\r\n\r\n- Test, refine, fix bugs, etc.\r\n\r\n`Day 4:`\r\n\r\n- Extend software to work with multiple robots at the same time\r\n\r\n- Test, refine, fix bugs, etc.\r\n\r\n`Day 5:`\r\n\r\n- Demo!\r\n\r\n### [Parts List](https://docs.google.com/spreadsheets/d/1L6ZM_VUaGWGXHjoVnJDLTCvDecMezbizA5AA7FMBCGw/edit?usp=sharing)\r\n\r\nPlease refer to the \"Build18\" Sheets for what to buy",
+    "team_profiles": [
+        {
+            "username": "@rdudhagr",
+            "name": "@rdudhagr"
+        },
+        {
+            "username": "@jefftan",
+            "name": "@jefftan"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Logitech Brio Webcam",
+            "cost": "$169.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Gearmotor with encoder",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "XBEE USB to Serial adapter",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Teensy 4.1 (No headers)",
+            "cost": "$26.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Battery holder",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Wheels",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Ball casters",
+            "cost": "$2.49",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/699/0.jpg",
+        "garage/699/1.jpg",
+        "garage/699/2.jpg",
+        "garage/699/3.jpg",
+        "garage/699/4.jpg"
+    ]
+}

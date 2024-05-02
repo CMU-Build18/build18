@@ -1,0 +1,103 @@
+{
+    "title": "Threadbare",
+    "date": "29 Oct 2018",
+    "detail": "Visualize Threads with Thread",
+    "extended_details": "A system to capture the execution of a parallel set of threads (fork/join, running and waiting, context switches, lock acquisition and release, &c.), and replay it on a physical medium.  Ideally, the trace would be replayed using textile thread (because we like puns), but a fallback would be to use ink on a paper tape.",
+    "team_profiles": [
+        {
+            "username": "@zkearney",
+            "name": "@zkearney"
+        },
+        {
+            "username": "@nserafin",
+            "name": "@nserafin"
+        },
+        {
+            "username": "@wjmitche",
+            "name": "@wjmitche"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "MicroSD card",
+            "cost": "$9.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MOSFET",
+            "cost": "$0.96",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "80/20",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "80/20 Screws and T-Nuts",
+            "cost": "$13.77",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hook-up Wire",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "80/20 Inside Corner Bracket",
+            "cost": "$27.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Crimp Pins",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Silly String Max (5oz Cans) - Spray Streamers (16-pack)",
+            "cost": "$64.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Crimp connector housing",
+            "cost": "$0.59",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Duct Tape",
+            "cost": "$7.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solenoid",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "RPi",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Perma-proto",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/467/0.jpg"
+    ]
+}

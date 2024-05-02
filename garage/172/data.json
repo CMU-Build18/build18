@@ -1,0 +1,89 @@
+{
+    "title": "The Turnt Table",
+    "date": "21 Nov 2016",
+    "detail": "Things are about to get groovy.",
+    "extended_details": "We will be making a custom turntable that can be controlled with a mobile phone. The turntable base will be custom built with a raspberry pi controlling the motors and receiving controls from a mobile app. The turn table will also feature an led visualizer, and will be able to stream the analog music to a digital device.",
+    "team_profiles": [
+        {
+            "username": "@asegizek",
+            "name": "@asegizek"
+        },
+        {
+            "username": "@ndesmorn",
+            "name": "@ndesmorn"
+        },
+        {
+            "username": "@eacohen",
+            "name": "@eacohen"
+        },
+        {
+            "username": "@bsimmerm",
+            "name": "@bsimmerm"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Bluetooth 4.0 USB Module (v2.1 Back-Compatible) ID: 1327 - $11.95 : Ad",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "32x32 RGB LED Matrix Panel - 6mm pitch ID: 1484 - $39.95 : Adafruit In",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Tyler 3-Speed Stereo Turntable with Built in Speakers, Spe",
+            "cost": "$42.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Haitronic 120pcs 20cm length Jumper Wires/dupont cable Mul",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: BEHRINGER U-CONTROL UCA222: Musical Instruments",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 2.4A Switching Power Supply with 20AWG MicroUSB Cable ID: 1995 - $7",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Resistor Kit - 1/4W (500 total) - COM-10969 - SparkFun Electronics",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SD/MicroSD Memory Card (8 GB SDHC) ID: 1294 - $9.95 : Adafruit Industr",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/172/0.jpg"
+    ]
+}

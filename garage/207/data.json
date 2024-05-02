@@ -1,0 +1,89 @@
+{
+    "title": "Wingardium LevioSAHHH",
+    "date": "21 Nov 2016",
+    "detail": "Turns out magic is just ultrasonic waves",
+    "extended_details": "We will use acoustic levitation to magically suspend various objects in midair!",
+    "team_profiles": [
+        {
+            "username": "@zhaodonz",
+            "name": "@zhaodonz"
+        },
+        {
+            "username": "@mnshaw",
+            "name": "@mnshaw"
+        },
+        {
+            "username": "@njassal",
+            "name": "@njassal"
+        },
+        {
+            "username": "@ehsi",
+            "name": "@ehsi"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$28.08",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$1.93",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.22",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$25.21",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$14.03",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$4.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.92",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Jinwen 24MHz Dual-Channel Arbitrary Waveform DDS Function",
+            "cost": "$86.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/207/0.jpg"
+    ]
+}

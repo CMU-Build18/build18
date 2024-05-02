@@ -1,0 +1,117 @@
+{
+    "title": "Tactile steering wheel",
+    "date": "15 Nov 2017",
+    "detail": "A steering wheel that gives direction through touch",
+    "extended_details": "A Steering wheel that you can hook up to your phone GPS that will vibrate in different ways to let you know where to go without looking at your phone. This is a much safer alternative and will allow drivers to keep their eyes on the road better.",
+    "team_profiles": [
+        {
+            "username": "@fbasit",
+            "name": "@fbasit"
+        },
+        {
+            "username": "@lmplotte",
+            "name": "@lmplotte"
+        },
+        {
+            "username": "@rcleavel",
+            "name": "@rcleavel"
+        },
+        {
+            "username": "@melhag",
+            "name": "@melhag"
+        },
+        {
+            "username": "@kanjur",
+            "name": "@kanjur"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Steering Wheel",
+            "cost": "$44.36",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "electronics pack",
+            "cost": "$18.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "steering wheel cover",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB cord",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MOSFET transistor",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "arduino",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "electronics pack",
+            "cost": "$64.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "electrical tape",
+            "cost": "$6.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "battery clip",
+            "cost": "$5.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED lights",
+            "cost": "$15.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9 Volt Batteries",
+            "cost": "$9.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Vibrational motors",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gorilla Tape",
+            "cost": "$8.47",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MOSFET transistor",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/370/0.jpg"
+    ]
+}

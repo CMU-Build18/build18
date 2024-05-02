@@ -1,0 +1,51 @@
+{
+    "title": "Robobuggy: WiFi Network for Communication and Real-time Telemetry",
+    "date": "14 Nov 2017",
+    "detail": "Real-time telemetry, video stream, and remote controller command between a robotic buggy and the base station",
+    "extended_details": "In the future, when Robobuggy competes with other buggies, there will not be a follow car behind the buggy where the human driver with the remote controller can monitor the buggy and operate the buggy if needed. Instead, the human driver will need to monitor the buggy from a base station. \r\n\r\nThe goal of this Build18 project is to investigate the possible use of a private WiFi network that can be used to send real-time video stream of the buggy to the base station, remote controller commands from the base station to the buggy, and telemetry. \r\nWe would like to achieve 100% coverage of the course through the use of multiple routers and create a seamless handoff between these access points. We would also require extremely low latency (less than 100ms) at all times so that the human driver can respond appropriately and timely to the buggy.",
+    "team_profiles": [
+        {
+            "username": "@vrbahl",
+            "name": "@vrbahl"
+        },
+        {
+            "username": "@abhaa",
+            "name": "@abhaa"
+        },
+        {
+            "username": "@tiffany2",
+            "name": "@tiffany2"
+        },
+        {
+            "username": "@agirish",
+            "name": "@agirish"
+        },
+        {
+            "username": "@mayankj",
+            "name": "@mayankj"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "12V Battery",
+            "cost": "$28.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Surge Protector",
+            "cost": "$11.49",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Router",
+            "cost": "$28.98",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/357/0.jpg"
+    ]
+}

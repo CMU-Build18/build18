@@ -1,0 +1,81 @@
+{
+    "title": "/r/place_irl",
+    "date": "27 Oct 2019",
+    "detail": "/r/place allowed a million users to make their mark on a million pixel online canvas. What if the canvas was real?",
+    "extended_details": "We want to replicate /r/place tangibly. There will be a website similar to the actual /r/place where registered users can edit pixels every few minutes. However, rather than an online canvas, there will be a camera pointed toward a physical canvas. When users edit a pixel, the change will be carried out by a yet to be decided mechanism, but most likely a robot that drives to the correct location and paints that part of the canvas, or a paintball gun that fires at the desired location.",
+    "team_profiles": [
+        {
+            "username": "@ethanchu",
+            "name": "@ethanchu"
+        },
+        {
+            "username": "@arvinw",
+            "name": "@arvinw"
+        },
+        {
+            "username": "@davidcoo",
+            "name": "@davidcoo"
+        },
+        {
+            "username": "@achekuri",
+            "name": "@achekuri"
+        },
+        {
+            "username": "@rexk",
+            "name": "@rexk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Lube",
+            "cost": "$10.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Power Supply",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro Servo",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Wishlist",
+            "cost": "$0.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "High torque Servo",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon Wishlist",
+            "cost": "$0.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor shield",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/615/0.jpg"
+    ]
+}

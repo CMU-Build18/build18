@@ -1,0 +1,32 @@
+{
+    "title": "Board Writer",
+    "date": "20 Nov 2016",
+    "detail": "Making professors handwriting legible",
+    "extended_details": "We propose to build a system to write on white boards/ chalk boards without the need for human intervention. The system will essentially consist of two gliders, to horizontal and one vertical that can grasp a marker or a piece of chalk. The system then writes on the board as if being played as a movie. The notes/ content can either be scanned via a camera or entered via a pdf.",
+    "team_profiles": [
+        {
+            "username": "@bcao",
+            "name": "@bcao"
+        },
+        {
+            "username": "@smanian",
+            "name": "@smanian"
+        },
+        {
+            "username": "@ayeheyis",
+            "name": "@ayeheyis"
+        },
+        {
+            "username": "@oolukoya",
+            "name": "@oolukoya"
+        },
+        {
+            "username": "@jaewook",
+            "name": "@jaewook"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/166/0.jpg"
+    ]
+}

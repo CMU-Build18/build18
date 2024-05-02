@@ -1,0 +1,30 @@
+{
+    "title": "Liberty Circuits",
+    "date": "13 Nov 2020",
+    "detail": "Freeform circuits look really neat. We intend to use this project to explore some interesting designs!",
+    "extended_details": "We hope to build some really cool freeform circuits. \r\nWe intend to start by building something simple, like ornaments with simple surface mount LEDs. Next, we will try to either build something connected to the FPGA -- lots of NeoPixels driven by the GPIO pins on the DE0-CV board, perhaps some through-hole LEDs and 7-segment displays, or build a more complex circuit -- something like the NeoPixel ball.  This will require lots more in the way of 3d printed jigs.",
+    "team_profiles": [
+        {
+            "username": "@wnace",
+            "name": "@wnace"
+        },
+        {
+            "username": "@jnee",
+            "name": "@jnee"
+        },
+        {
+            "username": "@odwang",
+            "name": "@odwang"
+        },
+        {
+            "username": "@theresec",
+            "name": "@theresec"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/674/0.jpg",
+        "garage/674/1.jpg",
+        "garage/674/2.jpg"
+    ]
+}

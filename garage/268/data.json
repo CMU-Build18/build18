@@ -1,0 +1,185 @@
+{
+    "title": "Rangoli Machine",
+    "date": "04 Nov 2017",
+    "detail": "Those colored sand pictures are nice, but don't they take forever to make?",
+    "extended_details": "Rangoli is an intricate pattern created with sand (or other materials) traditionally drawn during Diwali or other Hindu festivals.  Drawing a rangoli can take quite a while.  We will build a device to draw rangoli using colored sand.",
+    "team_profiles": [
+        {
+            "username": "@wnace",
+            "name": "@wnace"
+        },
+        {
+            "username": "@rsurana",
+            "name": "@rsurana"
+        },
+        {
+            "username": "@yongyiz",
+            "name": "@yongyiz"
+        },
+        {
+            "username": "@isinha",
+            "name": "@isinha"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "T-Slot Aluminum Framing",
+            "cost": "$17.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Threaded Rod",
+            "cost": "$6.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "T-Slot Aluminum Framing",
+            "cost": "$14.20",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Fasteners for T-Bar",
+            "cost": "$1.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "T-Slot Aluminum Framing",
+            "cost": "$19.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stamped Aluminum L-Bracket for NEMA 17 Stepper Motor",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Universal Mounting Hub - 5mm Aluminum",
+            "cost": "$7.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Radial Coupler",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Supply",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Brackets",
+            "cost": "$9.60",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Fasteners",
+            "cost": "$1.85",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Radial Stepper Bracket",
+            "cost": "$6.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor Driver",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Coupling Nut",
+            "cost": "$13.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Transistor",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro Servo",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Diode",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tubing",
+            "cost": "$10.40",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ball Bearing",
+            "cost": "$5.77",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Plastic Funnel",
+            "cost": "$5.83",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wheel",
+            "cost": "$7.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Corner Brackets",
+            "cost": "$5.79",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "A4988 Driver",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solenoid",
+            "cost": "$13.11",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/268/0.jpg"
+    ]
+}

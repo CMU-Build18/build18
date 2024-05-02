@@ -1,0 +1,84 @@
+{
+    "title": "Phantom RoboArm",
+    "date": "27 Nov 2015",
+    "detail": "I am a roboarm that mimics the motion of a human arm!",
+    "extended_details": "This project utilizes signals received from EMG to sense arm motion. By applying signals processing, the robotic arm can be instructed to perform similar moves.",
+    "team_profiles": [
+        {
+            "username": "@biqiz",
+            "name": "@biqiz"
+        },
+        {
+            "username": "@efang",
+            "name": "@efang"
+        },
+        {
+            "username": "@jhsueh",
+            "name": "@jhsueh"
+        },
+        {
+            "username": "@abasyoni",
+            "name": "@abasyoni"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$1.02",
+            "quantity": "\n",
+            "total": "15"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$20.14",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Signstek MG995 Standard Mini Micro Servo Gear for RC Futab",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Amazon.com: SHIELD-EKG-EMG Kit including 2 types of electrode lead: To",
+            "cost": "$48.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.52",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.06",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Covidien 5750 Curity Alcohol Prep, Sterile, Medium, 2-ply ",
+            "cost": "$4.29",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/24/0.jpg",
+        "garage/24/1.jpg"
+    ]
+}

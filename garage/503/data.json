@@ -1,0 +1,20 @@
+{
+    "title": "OWL-Bot",
+    "date": "04 Nov 2018",
+    "detail": "Simple Friendly Robot Owls",
+    "extended_details": "Owls are weird majestic creatures. We want to build a cool Owl robot that walks and flap it wings. Robot body will be 3d-printed, and simply controlled with an arduino.",
+    "team_profiles": [
+        {
+            "username": "@krcarter",
+            "name": "@krcarter"
+        },
+        {
+            "username": "@iem",
+            "name": "@iem"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/503/0.jpg"
+    ]
+}

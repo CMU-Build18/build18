@@ -1,0 +1,73 @@
+{
+    "title": "Buggy Sensor Box",
+    "date": "20 Nov 2016",
+    "detail": "Data collection sensor box for buggy rolls",
+    "extended_details": "The data collection box will be used by various buggy orgs to collect data about the course and individual drivers' rolls. Each box will contain collect data from GPS, IMU, and stereo cameras. We plan to use this data to improve the autonomous localization algorithm, as well as collect more data from multiple buggy rolls to build a better model of the course.",
+    "team_profiles": [
+        {
+            "username": "@bapowell",
+            "name": "@bapowell"
+        },
+        {
+            "username": "@dquan",
+            "name": "@dquan"
+        },
+        {
+            "username": "@lmoiseye",
+            "name": "@lmoiseye"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.67",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SMA to uFL/u.FL/IPX/IPEX RF Adapter Cable ID: 851 - $3.95 : Adafruit I",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPS Antenna - External Active Antenna - 3-5V 28dB 5 Meter SMA ID: 960 ",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates [Version 3",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$16.63",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Kuman for Raspberry PI Camera Module 5MP 1080p OV5647 Sens",
+            "cost": "$29.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: SanDisk Ultra 32GB microSDHC UHS-I Card with Adapter, Grey",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 3 Model B Motherboard: Computers & Accessorie",
+            "cost": "$35.99",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/144/0.jpg"
+    ]
+}

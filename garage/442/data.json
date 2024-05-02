@@ -1,0 +1,57 @@
+{
+    "title": "VR Cooking Mama",
+    "date": "24 Oct 2018",
+    "detail": "Cook what Mama says!",
+    "extended_details": "Play Cooking Mama (the game) in real life...with Play-Doh!\r\n\r\nImage Credit: https://www.wareable.com/ar/future-of-ar-predictions-7776",
+    "team_profiles": [
+        {
+            "username": "@ikoramba",
+            "name": "@ikoramba"
+        },
+        {
+            "username": "@cou",
+            "name": "@cou"
+        },
+        {
+            "username": "@suannc",
+            "name": "@suannc"
+        },
+        {
+            "username": "@ethrashe",
+            "name": "@ethrashe"
+        },
+        {
+            "username": "@kdave",
+            "name": "@kdave"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Play-Doh set",
+            "cost": "$36.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Oculus Go",
+            "cost": "$199.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Headphones",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/442/0.jpg"
+    ]
+}

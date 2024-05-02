@@ -1,0 +1,89 @@
+{
+    "title": "Buggy Timing System",
+    "date": "17 Nov 2016",
+    "detail": "Easy, accurate timing for buggy push practice.",
+    "extended_details": "Timing gates and possibly buggy-mounted sensors to collect data for overall times, acceleration from a single push, and other useful stats.",
+    "team_profiles": [
+        {
+            "username": "@acarrion",
+            "name": "@acarrion"
+        },
+        {
+            "username": "@bobbiec",
+            "name": "@bobbiec"
+        },
+        {
+            "username": "@yihanz",
+            "name": "@yihanz"
+        },
+        {
+            "username": "@ewwong",
+            "name": "@ewwong"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "XBee 1mW Wire Antenna - Series 1 (802.15.4) - WRL-08665 - SparkFun Ele",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno - R3 - DEV-11021 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun XBee Explorer USB - WRL-11812 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9V Snap Connector - PRT-00091 - SparkFun Electronics",
+            "cost": "$1.25",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "IR Receiver Diode - TSOP38238 - SEN-10266 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "SparkFun XBee Shield - WRL-12847 - SparkFun Electronics",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "XBee Pro 60mW PCB Antenna - Series 1 (802.15.4) - WRL-11216 - SparkFun",
+            "cost": "$37.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LED - Infrared 950nm - COM-09349 - SparkFun Electronics",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$98.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9V Alkaline Battery - PRT-10218 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/135/0.jpg"
+    ]
+}

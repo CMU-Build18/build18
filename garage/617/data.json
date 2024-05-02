@@ -1,0 +1,75 @@
+{
+    "title": "Build a Bot",
+    "date": "27 Oct 2019",
+    "detail": "Quickly test and build robot with modular parts.",
+    "extended_details": "Our project is to make testing designs much easier by having a modular design for parts all with a single connector. Each part should be able to know what parts it is connected to and will figure out if the other parts are defective. So each part will act independently.",
+    "team_profiles": [
+        {
+            "username": "@cdgu",
+            "name": "@cdgu"
+        },
+        {
+            "username": "@dtom",
+            "name": "@dtom"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "battery charger",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wheel",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "small dc motor",
+            "cost": "$3.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "battery",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "camera",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "microcontroller",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "wood glue",
+            "cost": "$5.41",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "servo",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "accelerometer",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/617/0.jpg"
+    ]
+}

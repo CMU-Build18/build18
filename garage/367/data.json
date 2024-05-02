@@ -1,0 +1,109 @@
+{
+    "title": "Power Table",
+    "date": "15 Nov 2017",
+    "detail": "Never worry about charging again, as every surface is your personal charger",
+    "extended_details": "Have you ever wanted to charge your phone wirelessly, but are sick of dealing with finicky charging pads?  We plan to build a table where you can place your phone anywhere and have it wirelessly charge without any fuss.",
+    "team_profiles": [
+        {
+            "username": "@rbezbaru",
+            "name": "@rbezbaru"
+        },
+        {
+            "username": "@htran",
+            "name": "@htran"
+        },
+        {
+            "username": "@spersau1",
+            "name": "@spersau1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Furinno 12127GYW/GY Simplistic End Table",
+            "cost": "$24.37",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DHP Parsons Modern End Table, Black Wood Grain",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gowoops 10 PCS of Digital Light Intensity Detection Photosensitive Sen",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Feather 32u4 Proto Board",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V 2A Power Supply",
+            "cost": "$14.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V Nema 17 0.35A Stepper Motor",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/4\"-20 Nuts (Part Number: 94895A029)",
+            "cost": "$3.22",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3/8\" x 1\" Bolt (Part Number: 92620A624)",
+            "cost": "$7.87",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Cast Acrylic Sheet, Translucent Black, 24\" x 24\" x 0.118\" Size",
+            "cost": "$24.54",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stacking Headers",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "DC Motor + Stepper FetherWing",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SPDT Limit Switch",
+            "cost": "$1.16",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "OLED FeatherWing 128x32",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Power Jack",
+            "cost": "$2.02",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/367/0.jpg"
+    ]
+}

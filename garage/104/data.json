@@ -1,0 +1,70 @@
+{
+    "title": "Oregon Tape",
+    "date": "29 Nov 2015",
+    "detail": "Oregon Trail on a floppy disk not retro enough for you?  Try it on a compact cassette!",
+    "extended_details": "Create a clone of the classic Oregon Trail game, but store the graphics on a compact cassette.",
+    "team_profiles": [
+        {
+            "username": "@searly",
+            "name": "@searly"
+        },
+        {
+            "username": "@oliviax",
+            "name": "@oliviax"
+        },
+        {
+            "username": "@manuelf",
+            "name": "@manuelf"
+        },
+        {
+            "username": "@yiluny",
+            "name": "@yiluny"
+        },
+        {
+            "username": "@ejglaser",
+            "name": "@ejglaser"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Due - assembled [Due] ID: 1076 - $49.95 : Adafruit Industries,",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2.2 18-bit color TFT LCD display with microSD card breakout [ILI9340] ",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3x4 Phone-style Matrix Keypad ID: 1824 - $7.50 : Adafruit Industries, ",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "\n\tInvalid Request\n",
+            "cost": "$5.65",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "\n\tInvalid Request\n",
+            "cost": "$0.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Metal Speaker w/ Wires - 8 ohm 0.5W ID: 1890 - $1.50 : Adafruit I",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/104/0.jpg",
+        "garage/104/1.jpg"
+    ]
+}

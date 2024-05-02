@@ -1,0 +1,86 @@
+{
+    "title": "the little women car",
+    "date": "19 Oct 2021",
+    "detail": "self driving car for our children",
+    "extended_details": "take an electric toy car, then make it self-driving (so that way our kids never get into accidents!)\r\n\r\n[link to documentation] (https://docs.google.com/document/d/1gav9cNJ35QHGptnb6zUqc_kzGJivRW8FG8dO6HY205g/edit?usp=sharing)",
+    "team_profiles": [
+        {
+            "username": "@ritaz",
+            "name": "@ritaz"
+        },
+        {
+            "username": "@tinghuah",
+            "name": "@tinghuah"
+        },
+        {
+            "username": "@ipdong",
+            "name": "@ipdong"
+        },
+        {
+            "username": "@daggarwa",
+            "name": "@daggarwa"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "wood",
+            "cost": "$18.78",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "toy car",
+            "cost": "$179.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "distance sensor",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "arduino battery pack",
+            "cost": "$5.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "rubber strips",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "encoder motor",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "dc motor driver",
+            "cost": "$9.29",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "oak rod",
+            "cost": "$0.98",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/706/0.jpg",
+        "garage/706/1.jpg",
+        "garage/706/2.jpg",
+        "garage/706/3.jpg",
+        "garage/706/4.jpg",
+        "garage/706/5.jpg",
+        "garage/706/6.jpg",
+        "garage/706/7.jpg",
+        "garage/706/8.jpg",
+        "garage/706/9.jpg"
+    ]
+}

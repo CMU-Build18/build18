@@ -1,0 +1,16 @@
+{
+    "title": "Desktop Companion",
+    "date": "16 Dec 2016",
+    "detail": "A robot inspired by Anki's Cozmo, cute and will help you organize your desk.",
+    "extended_details": "Our project will take advantage of technologies such as machine learning and computer vision. It will have the ability to do desk organization tasks as well as keep you company with a fun, humanistic personality. We will be using OpenCV and Mechanical Turk to help the robot operate on the desk.",
+    "team_profiles": [
+        {
+            "username": "@gbose",
+            "name": "@gbose"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/239/0.jpg"
+    ]
+}

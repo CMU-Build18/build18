@@ -1,0 +1,31 @@
+{
+    "title": "Swarm Drones to Fight Forest Fire",
+    "date": "18 Oct 2019",
+    "detail": "A system for forest fire prevention",
+    "extended_details": "We propose a system for forest fire prevention. We consider forest fire detection through sensor fusion and firebreak construction with swarm drones.",
+    "team_profiles": [
+        {
+            "username": "@yaoj",
+            "name": "@yaoj"
+        },
+        {
+            "username": "@xujinl",
+            "name": "@xujinl"
+        },
+        {
+            "username": "@nanxil1",
+            "name": "@nanxil1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "DJI Tello Drone",
+            "cost": "$125.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/571/0.jpg"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Heart Detective",
+    "date": "28 Oct 2018",
+    "detail": "Detecting the previously undetectable",
+    "extended_details": "Worried that a loved one may experience a heart attack while everyone else is sleeping? Fear not, for Heart Detective is here! Heart Detective is a device that detects when a sleeping person experiences a heart attack from a distance noninvasively. Heart Detective synthesizes input on environmental variables such as sound from a variety of IoT sensors. When unusual activity is detected, the device applies a machine learning model to infer if the combination of the unusual inputs suggests a heart attack occurred. Next, the device sounds an alarm to alert family members nearby and contacts the nearest medical personnel.",
+    "team_profiles": [
+        {
+            "username": "@kalvinc",
+            "name": "@kalvinc"
+        },
+        {
+            "username": "@janetli",
+            "name": "@janetli"
+        },
+        {
+            "username": "@wenxincu",
+            "name": "@wenxincu"
+        },
+        {
+            "username": "@anc1",
+            "name": "@anc1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Echo Dot",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Tablet",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Echo Connect",
+            "cost": "$29.74",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB charger",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Single Lead Heart Rate Monitor - AD8232",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Redboard",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/458/0.jpg"
+    ]
+}

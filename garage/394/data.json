@@ -1,0 +1,105 @@
+{
+    "title": "Trobots",
+    "date": "09 Oct 2018",
+    "detail": "Robots that play tag autonomously",
+    "extended_details": "We will build three robots and program them to play tag autonomously in a certain confined space. One of the robots will be \"it,\" and its goal will be to tag one of the other two robots and make them \"it\" while the other two robots try to run away. The robots will navigate using stellar navigation by means of computer vision.",
+    "team_profiles": [
+        {
+            "username": "@agbhat",
+            "name": "@agbhat"
+        },
+        {
+            "username": "@wanyic",
+            "name": "@wanyic"
+        },
+        {
+            "username": "@aassefa",
+            "name": "@aassefa"
+        },
+        {
+            "username": "@atulr",
+            "name": "@atulr"
+        },
+        {
+            "username": "@shelleyk",
+            "name": "@shelleyk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "ELEGOO Electronics Component Pack with resistors, LEDs, Switch...",
+            "cost": "$6.86",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Dovewill 12 Pieces Mini Assorted Color Knitting Wool Yarn Hats for DIY",
+            "cost": "$3.53",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rubber Wheel",
+            "cost": "$1.68",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "6061 Aluminum",
+            "cost": "$1.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Set Screw Shaft Coupling",
+            "cost": "$2.93",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Clear Cast Acrylic Sheet",
+            "cost": "$8.31",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Marine-Grade Plywood Sheet",
+            "cost": "$8.34",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB Male Port Connector, Conwork 10-Pack Straight Jack Solder USB...",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Zero W v1.3 Camera Pack",
+            "cost": "$44.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "ELEGOO 5V Stepper motor with driver board for arduino",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Ball Transfer Units KangTeer 5pcs Screw Mounted Round Ball Bearings...",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultra-Slim Ultra-Portable Ultra-Safe 2500mAh Wallet Pocket Power Card",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/394/0.jpg"
+    ]
+}

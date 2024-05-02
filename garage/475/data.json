@@ -1,0 +1,107 @@
+{
+    "title": "Arm that draws things",
+    "date": "29 Oct 2018",
+    "detail": "Arm that draws things",
+    "extended_details": "A mechanical apparatus consisting of motors that will draw pictures. It will appear to have a mechanical hand that drops/lifts a pen, a forearm that connects the arm to the to elbow joint. The elbow joint is connected to the shoulder/base via a shaft that acts as the humerus. Will use pwm motor control, possibly opencv, and signal processing to come up with drawing algorithms. Will potentially have a web-app interface to go along with it.",
+    "team_profiles": [
+        {
+            "username": "@rselagam",
+            "name": "@rselagam"
+        },
+        {
+            "username": "@sungjunh",
+            "name": "@sungjunh"
+        },
+        {
+            "username": "@souravp",
+            "name": "@souravp"
+        },
+        {
+            "username": "@dzy",
+            "name": "@dzy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Stepper Motor (small)",
+            "cost": "$36.61",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pulleys",
+            "cost": "$8.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Foam Blocks",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper motor (lg)",
+            "cost": "$36.61",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Raspberry pi 3",
+            "cost": "$37.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Clipboard",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Plastic Gears",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Wooden Dowels",
+            "cost": "$1.91",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ball Bearings",
+            "cost": "$12.07",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Epoxy Resin",
+            "cost": "$4.67",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Binder Clips",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "50 Popsicle Sticks",
+            "cost": "$2.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "String",
+            "cost": "$3.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/475/0.jpg"
+    ]
+}

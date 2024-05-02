@@ -1,0 +1,39 @@
+{
+    "title": "My new pet kitten",
+    "date": "21 Nov 2016",
+    "detail": "Raising a smart kitten without worrying about spending time on them...",
+    "extended_details": "Have you ever dreamed of raising a cat but you hardly have time to take care of them? Do you often feel lonely and want a pet to play with you? We want to build a smart robotic cat that can play with people when they feel lonely but people do not need to worry about spending time on them or deal with troubles that real pets may cause...",
+    "team_profiles": [
+        {
+            "username": "@shulij",
+            "name": "@shulij"
+        },
+        {
+            "username": "@yanyingz",
+            "name": "@yanyingz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: GPIO ribbon cable for Raspberry Pi set with 2x13 stackable",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$24.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Vilros Raspberry Pi 3 Starter Kit Bundle with Pi 3 Model B",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/199/0.jpg"
+    ]
+}

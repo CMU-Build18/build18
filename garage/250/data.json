@@ -1,0 +1,93 @@
+{
+    "title": "Chase",
+    "date": "21 Oct 2017",
+    "detail": "Tele-operated versus autonomous robot",
+    "extended_details": "Our project is too see how smart our autonomous robot is in running away from our tele-operated robot. The tele-operated robot will be chasing an autonomous robot that uses ping sensors to detect and stay away from the tele-operated robot.",
+    "team_profiles": [
+        {
+            "username": "@jaeeunl",
+            "name": "@jaeeunl"
+        },
+        {
+            "username": "@bwarwick",
+            "name": "@bwarwick"
+        },
+        {
+            "username": "@xiaoruil",
+            "name": "@xiaoruil"
+        },
+        {
+            "username": "@acedillo",
+            "name": "@acedillo"
+        },
+        {
+            "username": "@camin",
+            "name": "@camin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Micro Metal Gearmotors",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "DC Motor + Stepper FeatherWing Add-on For All Feather Boards ID: 2927",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Assembled Feather HUZZAH w/ ESP8266 WiFi With Stacking Headers ID: 321",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Clear Filament",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Black Filament",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Omni-Wheels",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breakout",
+            "cost": "$3.69",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Yellow LED",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Blue LED",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "White LED",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "8"
+        }
+    ],
+    "photos": [
+        "garage/250/0.jpg"
+    ]
+}

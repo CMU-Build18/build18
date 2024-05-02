@@ -1,0 +1,54 @@
+{
+    "title": "Dancing Roomba",
+    "date": "08 Oct 2018",
+    "detail": "This is somethin' new; this time we're gonna get Roomba funky",
+    "extended_details": "Clap clap clap clap your hands\r\n\r\nClap clap clap clap your hands\r\n\r\nAlright we gonna get Roomba dance\r\n\r\nAlexa: voice input -> AWS: speech recognition and forward command -> Microcontroller Particle Photon: send serial sequence -> Roomba: dance",
+    "team_profiles": [
+        {
+            "username": "@yaoj",
+            "name": "@yaoj"
+        },
+        {
+            "username": "@smohidee",
+            "name": "@smohidee"
+        },
+        {
+            "username": "@yuyingq",
+            "name": "@yuyingq"
+        },
+        {
+            "username": "@yatingh",
+            "name": "@yatingh"
+        },
+        {
+            "username": "@achang2",
+            "name": "@achang2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "iRobot Create2",
+            "cost": "$200.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Pan-Tilt Kit - Assembled with Micro Servos",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "particle photon IoT microcontroller",
+            "cost": "$29.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/393/0.jpg",
+        "garage/393/1.jpg",
+        "garage/393/2.jpg",
+        "garage/393/3.jpg"
+    ]
+}

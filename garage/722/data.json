@@ -1,0 +1,65 @@
+{
+    "title": "FPGA: Field Programmable Guitar  \u00c6ffects",
+    "date": "29 Oct 2021",
+    "detail": "Creating funky guitar noises... with a FPGA!",
+    "extended_details": "An electric guitar can have its sound be modulated using a guitar effects pedal. However, we aim to design an effects pedal with an FPGA, as it allows us to design a variety of unique effects. Plus we get to play around with a FPGA, which is cool.",
+    "team_profiles": [
+        {
+            "username": "@davidx",
+            "name": "@davidx"
+        },
+        {
+            "username": "@ziyizuo",
+            "name": "@ziyizuo"
+        },
+        {
+            "username": "@jiachenx",
+            "name": "@jiachenx"
+        },
+        {
+            "username": "@jnnguyen",
+            "name": "@jnnguyen"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "fpga!",
+            "cost": "$149.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "guitar jack 6 pack",
+            "cost": "$16.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Potentiometer",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12-bit spi dac",
+            "cost": "$2.58",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "powerbank",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "guitar amp",
+            "cost": "$71.21",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/722/0.jpg"
+    ]
+}

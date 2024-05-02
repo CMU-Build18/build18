@@ -1,0 +1,101 @@
+{
+    "title": "Magic Dancing Music Box",
+    "date": "16 Nov 2016",
+    "detail": "Finally! The product we've all been waiting for: a magic box that makes objects dance to music!",
+    "extended_details": "We will create a physical box that uses temporal aliasing to make ordinary objects appear as though they are dancing to music. The project is primarily motivated by the KickStarter campaign [Slow Dance \u2013 A Frame that Slows Down Time](https://www.kickstarter.com/projects/xercyn/slow-dance-a-frame-that-slows-down-time), with the added goal to time the resulting movement to the rhythm of any song. The banner image and diagram below show the original model upon which our project is based.\r\n\r\n![Slow Dance Image](https://ksr-ugc.imgix.net/assets/013/233/983/258ba369881cb0a9a514bc1eb078fb52_original.jpg?w=680&fit=max&v=1469993877&auto=format&q=92&s=2ad3b0f5ae2301c6b2a12c710d9c6fc6 \"Slow Dance Diagram\")\r\n\r\nThe box creates the illusion of slow-motion dancing by vibrating an object at a high frequency and timing a strobe light at a near frequency. The interference pattern produced by the vibration and strobe light\u2019s frequencies causes the vibration to appear significantly slower. As explained by the persistence of vision, the human eye perceives the discrete positions upon which the strobe illuminates as a smooth, natural motion.\r\n\r\nPeculiar motions of the object are visible since the actual high frequency vibration causes the object to move in an irregular fashion. The beat frequency of the resulting motion is determined simply by the absolute difference of the two input frequencies.\r\n\r\nWe intend to attach an audio input and speakers to our box. From the audio we will automatically detect the beat of the selected music, and determine the vibration and strobe frequency such that the object moves at the same beat. Alignment of the interference and music phase shifts (such that the apex of an object\u2019s motion aligns precisely with the music\u2019s downbeat) will initially be manually calibrated, and if necessary, may be determined via an additional calibrating sensor.\r\n\r\nCode for our project can be found in our [github repo](https://github.com/suhaasr/build18-s17).",
+    "team_profiles": [
+        {
+            "username": "@nshai",
+            "name": "@nshai"
+        },
+        {
+            "username": "@suhaasr",
+            "name": "@suhaasr"
+        },
+        {
+            "username": "@tebrooks",
+            "name": "@tebrooks"
+        },
+        {
+            "username": "@aoneill",
+            "name": "@aoneill"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.24",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.34",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$6.74",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Aluminum Heat Sink for Raspberry Pi 3 - 15 x 15 x 15mm ID: 3082 - $1.9",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rotary Potentiometer - 10k Ohm, Linear - COM-09939 - SparkFun Electron",
+            "cost": "$0.86",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: LEDMO SMD 2835 White Non-waterproof LED Light Strip - DC12",
+            "cost": "$11.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$6.70",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: MyCableMart 6 ft 3.5mm Mini-Stereo TRS Male to Y-Female (2",
+            "cost": "$2.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$22.41",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$27.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$99.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/132/0.jpg"
+    ]
+}

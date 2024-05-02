@@ -1,0 +1,81 @@
+{
+    "title": "Keyboard Synth",
+    "date": "04 Nov 2018",
+    "detail": "An arduino based piano synth taking design inspiration from both digital and modular synths for customizable sound playb",
+    "extended_details": "An arduino based piano synth taking design inspiration from both digital and modular synths for customizable sound playback",
+    "team_profiles": [
+        {
+            "username": "@jsgarcia",
+            "name": "@jsgarcia"
+        },
+        {
+            "username": "@jjwilso1",
+            "name": "@jjwilso1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "transistor",
+            "cost": "$0.16",
+            "quantity": "\n",
+            "total": "20"
+        },
+        {
+            "part": "arduino uno",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "opamp",
+            "cost": "$0.43",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "potentiometer 2",
+            "cost": "$7.72",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "potentiometer 1",
+            "cost": "$5.64",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "audio jack",
+            "cost": "$2.15",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "capacative touch sensor",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Speaker",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "conductive tape",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "switch",
+            "cost": "$1.25",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/506/0.jpg"
+    ]
+}

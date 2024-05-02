@@ -1,0 +1,69 @@
+{
+    "title": "Mobile Controlled Drone",
+    "date": "18 Nov 2016",
+    "detail": "Control Your Drone on your Phone!",
+    "extended_details": "Building a drone from the ground up for cheap and controlling it from an android device using Dronekit API and PX4 flight stack",
+    "team_profiles": [
+        {
+            "username": "@efang",
+            "name": "@efang"
+        },
+        {
+            "username": "@ozz",
+            "name": "@ozz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "yueton 30Pairs 3.5mm Male Female Banana Plug Bullet Connector Replacem",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: ODROID-XU4 Single Board Computer with Blue Heatsink - Quad",
+            "cost": "$99.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$28.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$110.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: URBEST\u00ae 530 Pcs 2:1 Heat Shrink Tubing Tube Sleeving Wrap ",
+            "cost": "$10.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$20.63",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$10.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$10.59",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/139/0.jpg"
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "title": "Tartan Spray Paint",
+    "date": "29 Oct 2018",
+    "detail": "It's just an inkjet printer",
+    "extended_details": "Show off your Tartan pride with a can of spray paint that sprays plaid. Plaid is the prettiest color.",
+    "team_profiles": [
+        {
+            "username": "@fbasit",
+            "name": "@fbasit"
+        },
+        {
+            "username": "@lmplotte",
+            "name": "@lmplotte"
+        },
+        {
+            "username": "@rhsin",
+            "name": "@rhsin"
+        },
+        {
+            "username": "@huachenw",
+            "name": "@huachenw"
+        },
+        {
+            "username": "@mnowrooz",
+            "name": "@mnowrooz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Red Spray Paint",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Green Spray Paint",
+            "cost": "$6.79",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Blue Spray Paint",
+            "cost": "$6.79",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Yellow Spray Paint",
+            "cost": "$4.69",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Motor",
+            "cost": "$3.50",
+            "quantity": "\n",
+            "total": "20"
+        },
+        {
+            "part": "Arduino Starter Kit",
+            "cost": "$34.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "breadboard wire",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electrical tape",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Duck Tape",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "rubber bands",
+            "cost": "$4.87",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "arduino",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "krazy glue",
+            "cost": "$6.23",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/474/0.jpg",
+        "garage/474/1.jpg",
+        "garage/474/2.jpg",
+        "garage/474/3.jpg",
+        "garage/474/4.jpg",
+        "garage/474/5.jpg",
+        "garage/474/6.jpg",
+        "garage/474/7.jpg",
+        "garage/474/8.jpg"
+    ]
+}

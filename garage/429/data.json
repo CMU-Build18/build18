@@ -1,0 +1,203 @@
+{
+    "title": "Omniboard",
+    "date": "14 Oct 2018",
+    "detail": "An Omnidirectional Electric Skateboard",
+    "extended_details": "A current electric skateboard allows one dimensional motorized motion, often controlled by a handheld remote control. This limits one\u2019s ability to control the board in crowded places such as a college campus. Our project is an omnidirectional skateboard. We plan to implement motorization in two dimensions, both forward and backward and side to side, using a swerve drive motor. The result is an evolution of the electric skateboard, which is both easy to control and extremely satisfying to ride.",
+    "team_profiles": [
+        {
+            "username": "@mdesoto",
+            "name": "@mdesoto"
+        },
+        {
+            "username": "@cseiler",
+            "name": "@cseiler"
+        },
+        {
+            "username": "@rdhesika",
+            "name": "@rdhesika"
+        },
+        {
+            "username": "@aadulla",
+            "name": "@aadulla"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "91274A131",
+            "cost": "$5.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "7804k148",
+            "cost": "$10.54",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91292A031",
+            "cost": "$9.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91239A705",
+            "cost": "$7.73",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "97763A816",
+            "cost": "$6.67",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91390A087",
+            "cost": "$3.23",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "92010A802",
+            "cost": "$4.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DRV8825 Driver",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91294A135",
+            "cost": "$11.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "97763a812",
+            "cost": "$6.67",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "92871A013",
+            "cost": "$1.72",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Tiger Motor F60III",
+            "cost": "$26.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ESC",
+            "cost": "$22.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NEMA 23",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91290A017",
+            "cost": "$11.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LiPo Battery Pack",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Power Distribution Boards",
+            "cost": "$16.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini Breadboards",
+            "cost": "$7.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Actuator",
+            "cost": "$2.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Proximity Sensor",
+            "cost": "$2.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PS2 Controller",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91294A130",
+            "cost": "$4.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91253A539",
+            "cost": "$11.73",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91290A059",
+            "cost": "$7.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "91239A769",
+            "cost": "$10.71",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "7804K145",
+            "cost": "$8.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "97763A811",
+            "cost": "$6.67",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "93625A102",
+            "cost": "$10.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "90576A104",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/429/0.jpg"
+    ]
+}

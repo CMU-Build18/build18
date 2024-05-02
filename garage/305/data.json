@@ -1,0 +1,117 @@
+{
+    "title": "First Person Space Invaders",
+    "date": "08 Nov 2017",
+    "detail": "Because MinesweepAR wasn't hard enough.",
+    "extended_details": "We want to take the classic game of Space Invaders and build it in real life! We plan on implementing some combination of robots and projectiles with LEDS and magnets.\r\n\r\nhttps://docs.google.com/a/andrew.cmu.edu/document/d/1BUi7P5sCNiHoQKyzO3zCwknLAuHs-594tSOJKpw-w1A/edit?usp=sharing",
+    "team_profiles": [
+        {
+            "username": "@vasua",
+            "name": "@vasua"
+        },
+        {
+            "username": "@relong",
+            "name": "@relong"
+        },
+        {
+            "username": "@efang",
+            "name": "@efang"
+        },
+        {
+            "username": "@cli4",
+            "name": "@cli4"
+        },
+        {
+            "username": "@hliou",
+            "name": "@hliou"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "1.5\" screws",
+            "cost": "$6.17",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Reed Switch",
+            "cost": "$8.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2' x 4' 1/16\" polycarbonate sheet",
+            "cost": "$23.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1\" x 10' Magnetic Tape",
+            "cost": "$12.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5m Individually addressable LEDs strip",
+            "cost": "$34.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Motor Controller 29",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "2-Wire Motor 393 (276-2177)",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Coat Hanger",
+            "cost": "$7.92",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3.25\" Omni-Directional Wheel (4-Pack) and 3.25\" Traction Wheel (4-Pack",
+            "cost": "$59.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor 393 Integrated Encoder Module (2-pack)",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "7.2V Robot Battery NiMH 3000mAh + Smart Charger v2 + Battery Charger P",
+            "cost": "$138.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Plate",
+            "cost": "$22.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Vinyl Sheeting",
+            "cost": "$22.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Grommet Kit",
+            "cost": "$8.36",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/305/0.jpg"
+    ]
+}

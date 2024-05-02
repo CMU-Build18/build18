@@ -1,0 +1,101 @@
+{
+    "title": "Crowd Density Monitoring Vehicle",
+    "date": "07 Oct 2019",
+    "detail": "Tethered drone for persistent aerial monitoring of crowd density",
+    "extended_details": "A tethered drone with a long cable connected to a ground station which processes on-board data and returns meaningful information on crowd movements and patterns. \r\n\r\nWe chose to use tethered drones for their ease of maintenance, deployability, and increased airtime. This makes them useful for persistent monitoring of crowd density for long events, such as music festivals or campaign rallies, without needing to disturb the crowd or take the system offline.\r\n\r\nWe will use a computer vision algorithm that gets a reference of the empty space before an event starts, and compares it to live video of the event space to find the distribution of the crowd, processing it onboard and relaying it down to the ground station to convert to a heat map, which can be used to help prevent overcrowding and its associated dangers.",
+    "team_profiles": [
+        {
+            "username": "@ziyizuo",
+            "name": "@ziyizuo"
+        },
+        {
+            "username": "@jiachenx",
+            "name": "@jiachenx"
+        },
+        {
+            "username": "@odwang",
+            "name": "@odwang"
+        },
+        {
+            "username": "@bwgraham",
+            "name": "@bwgraham"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Green button",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red button",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Heat Shrink",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Leopard Imaging Camera - 145 Degree FOV",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Supply",
+            "cost": "$26.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wire for cable",
+            "cost": "$5.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Joystick to control the drone",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RF Link Receiver - 4800bps (434MHz)",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pan/Tilt Bracket",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RF Link Transmitter - 434MHz",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motors+ESCs",
+            "cost": "$53.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/554/0.jpg"
+    ]
+}

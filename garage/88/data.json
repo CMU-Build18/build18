@@ -1,0 +1,81 @@
+{
+    "title": "Quadditch",
+    "date": "28 Nov 2015",
+    "detail": "Ten Points for Gryffindor!",
+    "extended_details": "This project is about re-creating the famous Harry Potter Quidditch game using quadcopters in place of broomsticks! Each quadcopter will behave like a wizard/witch, having the ability to catch and launch balls into a designated goal or to other quadcopters while flying! Let the games begin!",
+    "team_profiles": [
+        {
+            "username": "@jonathao",
+            "name": "@jonathao"
+        },
+        {
+            "username": "@sseow",
+            "name": "@sseow"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "MakerBot PLA Filament, 1.75 mm Diameter, Small Spool, Neon Green: Amaz",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Sky Walker 1306 4 CH RC Quad Copter 2.4ghz Ready to Fly (G",
+            "cost": "$41.32",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "12V DC 6000RPM Torque Magnetic Mini Electric Motor for DIY Toys Cars -",
+            "cost": "$4.44",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "IIT 91340 Professional O-Ring Assortment - Plumb Bobs - Amazon.com",
+            "cost": "$4.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RFM73-P RF Solutions | RF/IF and RFID | DigiKey",
+            "cost": "$11.30",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: Camco 51031 19\" x 22\" Nylon Mesh Bag: Automotive",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : JOOLA 1-Star 40mm Training Table Tennis Balls - 12 Pack :",
+            "cost": "$4.20",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Arduino Uno Rev 3: Electronics",
+            "cost": "$21.43",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: RockBirds New DC 12V 2A Switching Power Supply Adapter For",
+            "cost": "$6.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Logitech HD Webcam C270, 720p Widescreen Video Calling and",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/88/0.jpg"
+    ]
+}

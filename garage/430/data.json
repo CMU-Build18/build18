@@ -1,0 +1,81 @@
+{
+    "title": "Robotic Air Hockey",
+    "date": "16 Oct 2018",
+    "detail": "Classic Air Hockey Table with Robot as Opponent",
+    "extended_details": "We're building a modular robotic package that can attach to any air hockey table and play against another person. This package will hopefully be able to learn and better predict moves over time and better predict the best angles to return shots.\r\n[For all our code, see our github repository](https://github.com/Alvinosaur/robotic_air_hockey).\r\n\r\n[For more info, please see our documentation](https://docs.google.com/document/d/1qybYueyZ2IUJ69JVTjerh5T0Ut0nOVIEDk3_lz92nlM/edit?usp=sharing).",
+    "team_profiles": [
+        {
+            "username": "@ashek",
+            "name": "@ashek"
+        },
+        {
+            "username": "@vthallam",
+            "name": "@vthallam"
+        },
+        {
+            "username": "@hojunb",
+            "name": "@hojunb"
+        },
+        {
+            "username": "@junwonc",
+            "name": "@junwonc"
+        },
+        {
+            "username": "@yyue1",
+            "name": "@yyue1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Stepper Motors NEMA 17",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Arducam",
+            "cost": "$13.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "36 teeth pulley",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "32 GB SD Card",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Playstation Eye Camera",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "A4988 Motor Drivers w/ Heat Sinks",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Belt and Pulley Gear",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/430/0.jpg"
+    ]
+}

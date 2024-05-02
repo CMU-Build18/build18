@@ -1,0 +1,112 @@
+{
+    "title": "Sun-Tracking Solar Panel",
+    "date": "08 Nov 2017",
+    "detail": "Solar panel that orients itself towards the sun",
+    "extended_details": "Using linear actuators and an Arduino-controlled photosensor, the system will calculate and rotate to the angle of maximum irradiation.",
+    "team_profiles": [
+        {
+            "username": "@tjshah",
+            "name": "@tjshah"
+        },
+        {
+            "username": "@kjchin",
+            "name": "@kjchin"
+        },
+        {
+            "username": "@nprakas1",
+            "name": "@nprakas1"
+        },
+        {
+            "username": "@ceq",
+            "name": "@ceq"
+        },
+        {
+            "username": "@fandujar",
+            "name": "@fandujar"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "ACME Hex Nut (ID: 94815A007)",
+            "cost": "$2.08",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "12V Rechargeable Battery",
+            "cost": "$33.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ASTM A193 Steel ACME Lead Screw",
+            "cost": "$18.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum T Slot Bars (ID: 47065T101)",
+            "cost": "$31.59",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Aluminum Casing (ID: 9056K36 2ft)",
+            "cost": "$14.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Rectangular Tube (ID:6546k43 1/2ft)",
+            "cost": "$11.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum L Brackets (ID: 8982k11 3ft)",
+            "cost": "$9.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "T-Nut Slots and Bolts",
+            "cost": "$15.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Eye Bolts (ID: 3013T45)",
+            "cost": "$2.86",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Aluminum Piston (ID: 9056k91 2ft)",
+            "cost": "$15.05",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "10 mm photoresistors",
+            "cost": "$3.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$36.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/310/0.jpg",
+        "garage/310/1.jpg"
+    ]
+}

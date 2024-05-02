@@ -1,0 +1,158 @@
+{
+    "title": "Tripwire",
+    "date": "27 Nov 2015",
+    "detail": "General purpose proximity sensor for Bluetooth applications.",
+    "extended_details": "Turn on the lights before you enter a room.  Spook a friend with a proximity-based speaker.  Send an alert to your phone about a home intruder.\r\n\r\nPimp your house with these PIR Bluetooth Sensors.",
+    "team_profiles": [
+        {
+            "username": "@benjami1",
+            "name": "@benjami1"
+        },
+        {
+            "username": "@felixh",
+            "name": "@felixh"
+        },
+        {
+            "username": "@davidyu",
+            "name": "@davidyu"
+        },
+        {
+            "username": "@rrpillai",
+            "name": "@rrpillai"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Vastar\u00ae 60W 110V Adjustable Temperature Welding Soldering Iron with 5p",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SE MZ101B Helping Hand with Magnifying Glass - Educational And Hobby M",
+            "cost": "$6.33",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LyonsBlue Desoldering Vacuum Pump \"Solder Sucker\" Solder Removal Tool ",
+            "cost": "$2.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Elenco  Soldering Iron Holder: Home Improvement",
+            "cost": "$4.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Miniatronics Corp 1064004 Rosin Core Solder 60/40 4oz: Toy",
+            "cost": "$11.42",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Qunqi 10pack HC-SR501 Pyroelectric Infrared PIR Motion Se",
+            "cost": "$16.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Pro Trinket - 5V 16MHz ID: 2000 - $9.95 : Adafruit Industries",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Atwood 93849 Relay: Automotive",
+            "cost": "$11.42",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "URBEST\u00ae250v 25a Ssr-25da Temperature Control Solid State Relay - - Ama",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth 4.0 USB Module (v2.1 Back-Compatible) ID: 1327 - $11.95 : Ad",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluefruit EZ-Link - Bluetooth Serial Link & Arduino Programmer [v1.3] ",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluefruit LE - Bluetooth Low Energy (BLE 4.0) - nRF8001 Breakout [v1.0",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Vktech 5pcs 6x8cm Double-Side Prototype PCB Universal Prin",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1 X NTE Stranded 26 AWG Hook-Up Wire Black 25 ft. - Electrical Wires -",
+            "cost": "$4.02",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: AmazonBasics AA Performance Alkaline Batteries (48-Pack): ",
+            "cost": "$13.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Black Red Long Cable Connection 9V Battery Clips Connector",
+            "cost": "$4.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: AmazonBasics 9 Volt Everyday Alkaline Batteries (8-Pack): ",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Spring Clip Black 4 x 1.5V AA Battery Batteries Holder Cas",
+            "cost": "$6.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Etekcity MU600 Digital Multimeter / DMM / Multi Tester with hFE Measur",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: SMAKN\u00ae 433Mhz Rf Transmitter and Receiver Link Kit for Ard",
+            "cost": "$6.66",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: 5 Pcs 3 Pin Female to Dual Male PC Fan Y Splitter Extensio",
+            "cost": "$8.17",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/16/0.jpg",
+        "garage/16/1.jpg",
+        "garage/16/2.jpg",
+        "garage/16/3.jpg"
+    ]
+}

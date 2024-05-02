@@ -1,0 +1,119 @@
+{
+    "title": "GyroBall",
+    "date": "28 Nov 2015",
+    "detail": "A smart ball that reads hand gestures",
+    "extended_details": "A ball whose movement is controlled by a Myo armband that reads hand gestures. Ball movement will be actuated through weight-displacement of an inner mass located at the center-of-mass of the ball. The mass will be held in place by springs and displaced using electromagnets fixed along the equator of the ball.\r\n\r\nThe electromagnets are controlled by an Arduino, which will have a transmitter/receiver unit to communicate the intent of the Myo signals. LEDs on the surface of the ball will indicate when the ball is being controlled, accelerated and decelerated.",
+    "team_profiles": [
+        {
+            "username": "@pvarun",
+            "name": "@pvarun"
+        },
+        {
+            "username": "@yingqiul",
+            "name": "@yingqiul"
+        },
+        {
+            "username": "@arulnits",
+            "name": "@arulnits"
+        },
+        {
+            "username": "@ramv",
+            "name": "@ramv"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Pet Supplies : Pet Habitat Decor : Lee's Kritter Krawler Jumbo Exercis",
+            "cost": "$8.40",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Universal Aluminum Mounting Hub for 3mm Shaft, #4-40 Holes (2-P",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu - 150:1 Micro Metal Gearmotor HPCB with Extended Motor Shaft",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: New RF Wireless Transmitter and Receiver Link Kit Module 4",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Compatible Mega 2560 R3 ATMEGA2560 ATMEGA 16U2: Amazon.com: In",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: EBL 840 9V Battery Charger with 4 Pack 600mAh Li-ion Recha",
+            "cost": "$23.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 2Pcs 2.1x5.5mm Male DC Power Plug to 9V Battery Button Con",
+            "cost": "$1.43",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$10.08",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Wheel 60\u00d78mm Pair - Red",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: NeuroSky MindWave Headset: Electronics",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Magnetic Encoder Pair Kit for Micro Metal Gearmotors, 12 CPR,",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "MakerBot PLA Filament, 1.75 mm Diameter, Small Spool, Neon Green: Amaz",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: DIBMS 30cm 12V 15 SMD LED Flexible Waterproof Strip Lights",
+            "cost": "$5.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$2.01",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/87/0.jpg"
+    ]
+}

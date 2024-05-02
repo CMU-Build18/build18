@@ -1,0 +1,102 @@
+{
+    "title": "Smart Target",
+    "date": "28 Nov 2015",
+    "detail": "Smart Archery Target",
+    "extended_details": "We joined the archery club during our freshman year and we have found that as beginners, there is a lot to learn, but it is hard to make progress without a skilled archer there to give you immediate feedback and provide a lot of individual attention. This inspired our idea for the smart target which would give you immediate feedback on your round of shoots and how you can improve. For example, it would tell you the speed of the arrow on impact, the angle at which it hit, and what your score would be based on where you hit. The target would also store this information from various shoots and track your progress and give you feedback on how to improve. Though the target is designed specifically for archery, it can be demoed with other objects.",
+    "team_profiles": [
+        {
+            "username": "@kcu",
+            "name": "@kcu"
+        },
+        {
+            "username": "@ablackwo",
+            "name": "@ablackwo"
+        },
+        {
+            "username": "@ndomingo",
+            "name": "@ndomingo"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: CanaKit Raspberry Pi 2 Complete Starter Kit with WiFi (Lat",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Sharp GP2Y0A21YK0F Analog Distance Sensor 10-80cm",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "LED - Infrared 950nm (25 pack) - COM-10557 - SparkFun Electronics",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "IR (Infrared) Receiver Sensor [TSOP38238] ID: 157 - $1.95 : Adafruit I",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "Infrared Sensor Jumper Wire - 3-Pin JST - SEN-08733 - SparkFun Electro",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Bakelite Universal Perfboard Plates - Pack of 10 ID: 2670 - $4.95 : Ad",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com : Birchwood Casey Eze-Scorer 12-Inch Bull's-Eye Paper Targe",
+            "cost": "$2.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$11.30",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$10.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3/8 Inch 50 Foot Rope, Black, Camping Rope - Climbing Rope - Amazon.co",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Command Timeless Metallic Coated Hook: Home Improvement",
+            "cost": "$5.27",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Darice 9151-58 Rectangle Wood Box, 8-1/4-Inch",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/73/0.jpg",
+        "garage/73/1.jpg",
+        "garage/73/2.jpg",
+        "garage/73/3.jpg",
+        "garage/73/4.jpg",
+        "garage/73/5.jpg"
+    ]
+}

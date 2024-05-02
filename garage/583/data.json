@@ -1,0 +1,129 @@
+{
+    "title": "Wheel Tester",
+    "date": "25 Oct 2019",
+    "detail": "We are developing a partially-automated wheel tester with built-in data analytics to test wheel quality.",
+    "extended_details": "We are developing a partially-automated wheel tester with built-in data analytics to test wheel quality. Factors we will be testing may include rolling resistance, heat dissipated due to friction, time/distance rolled out, speed, and acceleration. The general design idea for the tester is to have a central motor rotate, causing the wheel on an axle attached to the motor to roll out in a circle. We are also considering building a starting \"ramp\", with an automated brake holds the wheel in place and then releases it, starting a timer and causing it to roll down the ramp and build up speed that way.",
+    "team_profiles": [
+        {
+            "username": "@bbauer1",
+            "name": "@bbauer1"
+        },
+        {
+            "username": "@lechend",
+            "name": "@lechend"
+        },
+        {
+            "username": "@eharllee",
+            "name": "@eharllee"
+        },
+        {
+            "username": "@rdhuang",
+            "name": "@rdhuang"
+        },
+        {
+            "username": "@vzw",
+            "name": "@vzw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "T-Slot Photo Interrupter",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "12\" Jumper Wires",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Plastic Board",
+            "cost": "$19.30",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "PVC pipe",
+            "cost": "$7.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Short Wire Alligator Clip Test Lead",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Medium density fiberboard sheet",
+            "cost": "$16.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wooden Rods",
+            "cost": "$9.71",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic Sheet",
+            "cost": "$9.52",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ball Joint Rod End",
+            "cost": "$3.51",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Wireless Arduino",
+            "cost": "$20.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wired Arduino",
+            "cost": "$45.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Cable ties",
+            "cost": "$4.54",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Aluminum Square Shaft",
+            "cost": "$49.73",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bolts",
+            "cost": "$14.01",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Infrared Break Beam Sensor",
+            "cost": "$6.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "3\" Jumper Wires",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/583/0.jpg"
+    ]
+}

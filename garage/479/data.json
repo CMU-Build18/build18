@@ -1,0 +1,103 @@
+{
+    "title": "Galactic Gloves",
+    "date": "29 Oct 2018",
+    "detail": "Play a Space Invaders-like game on an LED display, controlled by physical inputs on a glove.",
+    "extended_details": "Using accelerometers and force sensors, track hand positions to make stuff happen on an LED grid. Shoot monsters!",
+    "team_profiles": [
+        {
+            "username": "@cassandc",
+            "name": "@cassandc"
+        },
+        {
+            "username": "@jtraiger",
+            "name": "@jtraiger"
+        },
+        {
+            "username": "@auy",
+            "name": "@auy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Soldering iron",
+            "cost": "$38.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Solder",
+            "cost": "$9.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Soldering iron tips",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gloves",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Accelerometer/orientation sensor",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Force sensor",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Conductive Thread",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RGB Display",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Jack to terminal converter",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "14 segment display",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "jumper cables",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Chord for LEd display",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/479/0.jpg"
+    ]
+}

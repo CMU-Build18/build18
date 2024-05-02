@@ -1,0 +1,118 @@
+{
+    "title": "MagSpoof",
+    "date": "28 Nov 2015",
+    "detail": "Spoof credit cards from your Pebble smartwatch!",
+    "extended_details": "MagSpoof is a device that allows you to spoof credit card swipes from your smartwatch. It connects underneath your smartwatch and uses a magnetic coil to spoof swipes. You can select what card to pay with from your watch!",
+    "team_profiles": [
+        {
+            "username": "@edshin",
+            "name": "@edshin"
+        },
+        {
+            "username": "@danc",
+            "name": "@danc"
+        },
+        {
+            "username": "@chiad",
+            "name": "@chiad"
+        },
+        {
+            "username": "@tianminc",
+            "name": "@tianminc"
+        },
+        {
+            "username": "@tzeyewbh",
+            "name": "@tzeyewbh"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Professional Silicone-Tip Solder Sucker ID: 1597 - $17.50 : Adafruit I",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 2 Model B Project Board - 1GB RAM - 900 MHz Q",
+            "cost": "$38.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "TEMCo 32 AWG Copper Magnet Wire - 2 oz 611 ft 155\u00f8C Magnetic Coil Red ",
+            "cost": "$6.02",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aven 17010 Adjustable Circuit Board Holder: Amazon.com: Industrial & S",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Polymer Lithium Ion Battery - 110mAh - PRT-00731 - SparkFun Electronic",
+            "cost": "$6.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Power Cell - LiPo Charger/Booster - PRT-11231 - SparkFun Elec",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Polymer Lithium Ion Battery - 400mAh - PRT-10718 - SparkFun Electronic",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Extech EX330 Autoranging Mini Multimeter with Built In The",
+            "cost": "$50.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Dr.Meter\u00ae HY1803D Variable Linear Single Output DC Power S",
+            "cost": "$42.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - DRV8838 Single Brushed DC Motor Driver Carrier",
+            "cost": "$3.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Pro Mini 328 - 5V/16MHz - DEV-11113 - SparkFun Electronics",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "XMEGA Xprotolab - DEV-11643 - SparkFun Electronics",
+            "cost": "$54.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$5.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$8.94",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/67/0.jpg",
+        "garage/67/1.jpg"
+    ]
+}

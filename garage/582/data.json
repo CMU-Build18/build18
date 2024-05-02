@@ -1,0 +1,55 @@
+{
+    "title": "CentiGPS - Centimeter Accurate GPS",
+    "date": "25 Oct 2019",
+    "detail": "A tool to create synthesizable hardware designs from Python code for rapid prototyping and more optimized performance",
+    "extended_details": "The goal of PyHardware is to create a tool that converts a Python program into SystemVerilog code for the corresponding hardware. The inspiration for this project comes from the fact that most operations that are implemented in software can be heavily optimized when done in hardware. So, our goal, was to allow anyone working on a computationally-expensive application to rapid prototype hardware to perform the necessary operations efficiently.    To do this, we convert high-level operations done in Python to low-level hardware elements. Particularly, the tool will output SystemVerilog so a programmer is able to make minor adjustments before synthesizing it to hardware. So, for example, a researcher working on a computer vision application can convert his Python code to SystemVerilog and create custom hardware for the application that would theoretically run much faster than the software.",
+    "team_profiles": [
+        {
+            "username": "@cseiler",
+            "name": "@cseiler"
+        },
+        {
+            "username": "@rdhesika",
+            "name": "@rdhesika"
+        },
+        {
+            "username": "@aadulla",
+            "name": "@aadulla"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "ESP32",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Texas Instruments Microcontroller",
+            "cost": "$13.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPS/GNSS Embedded Antenna - 1m (SMA)",
+            "cost": "$59.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun 9DoF Razor IMU M0",
+            "cost": "$35.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "S1216F8-RTK EVB : RTK MODULE EVALUATION BOARD",
+            "cost": "$130.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/582/0.jpg"
+    ]
+}

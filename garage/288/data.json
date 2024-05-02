@@ -1,0 +1,24 @@
+{
+    "title": "Pac-Man Maze",
+    "date": "07 Nov 2017",
+    "detail": "Real Life Pac-Man Maze",
+    "extended_details": "We will create a real life Pac-Man maze that uses LEDs as the Pac-Dots. With computer vision, we will control the LEDs based on where Pac-Man is.\r\n\r\n<strong>Computer Vision</strong>\r\n\r\nIn terms of the use of computer vision, a wireless camera will be placed over the entire board to provide a live video feed of the game. This feed will be processed to determine the locations of the Pac-Man and Ghost robots within the maze. The locations of the robots will be monitored to prevent collisions between themselves and the walls, as well as to determine Pac-Man's score by cross-referencing his location with the locations of the LEDs on the grid. Finally, the locations of the robots are necessary for the Pac-Man AI to determine the optimal path around the maze.\r\n\r\n<strong>AI</strong>\r\n\r\nThe twist on Pac-Man for this project is that the role(s) of the player(s) is/are reversed. Instead of the player playing the Pac-Man character, the player will choose a Ghost robot to play as with the Pac-Man robot autonomously navigating the maze. The Pac-Man AI will attempt to predict player movements in order to maximize its score as it traverses the maze.\r\n\r\n<strong>Customizable Environment</strong>\r\n\r\nThe 5 ft by 5 ft playing board will be built from 8 in by 8 inch foam maze pieces. Players will be able to assemble the board in whatever configuration they like in order for a different course each play. Using CV, we will be able to determine whether the course is playable or whether it consists of disjoint mazes that the player need to combine. We will be able to suggest to the player which pieces to change to create a playable course.",
+    "team_profiles": [
+        {
+            "username": "@ndomingo",
+            "name": "@ndomingo"
+        },
+        {
+            "username": "@mkyin",
+            "name": "@mkyin"
+        },
+        {
+            "username": "@amacias",
+            "name": "@amacias"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/288/0.jpg"
+    ]
+}

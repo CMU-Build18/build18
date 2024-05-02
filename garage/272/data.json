@@ -1,0 +1,110 @@
+{
+    "title": "Track-o-matic  \ud83d\ude8c \ud83d\udcfa\u231a",
+    "date": "05 Nov 2017",
+    "detail": "It's a bus tracker but retro",
+    "extended_details": "An indoor display that shows arrival times for upcoming buses. It uses a split-flap display for low power usage and a retro feel.",
+    "team_profiles": [
+        {
+            "username": "@tchiang",
+            "name": "@tchiang"
+        },
+        {
+            "username": "@apnayak",
+            "name": "@apnayak"
+        },
+        {
+            "username": "@szz",
+            "name": "@szz"
+        },
+        {
+            "username": "@ekusuma",
+            "name": "@ekusuma"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com : Elegoo 5 sets 28BYJ-48 ULN2003 5V Stepper Motor + ULN2003",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 3 Model B Motherboard: Computers & Accessorie",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : Clear Acrylic Plexiglass Sheet - 1/8\" Thick Cast - 12\" x",
+            "cost": "$14.80",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Steel Pan Head Machine Screw, Black Oxide Finish, Meets DIN 7985, #2 P",
+            "cost": "$4.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SIM&NAT 12inch / 30cm 40 Pin Male to Female Dupont Wire, 40 Pin Male t",
+            "cost": "$7.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Cosco 20\" x 48\" Resin Top Folding Table Black",
+            "cost": "$33.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MakerBot PLA Filament, 1.75 mm Diameter, Small Spool, Black",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Grafix Medium Weight Chipboard Sheets, 12-Inch by 12-Inch, Natural, 25",
+            "cost": "$9.61",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Spray Paint for Arts & Crafts, Water Based PintyPlus Aqua - Assorted C",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Spray Paint for Arts & Crafts, Water Based PintyPlus Aqua - Assorted C",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "uxcell M4 Carbon Steel Grade 8 Hexagon Hex Nut Black 100pcs",
+            "cost": "$7.78",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/272/0.jpg",
+        "garage/272/1.jpg",
+        "garage/272/2.jpg",
+        "garage/272/3.jpg",
+        "garage/272/4.jpg",
+        "garage/272/5.jpg",
+        "garage/272/6.jpg",
+        "garage/272/7.jpg",
+        "garage/272/8.jpg",
+        "garage/272/9.jpg",
+        "garage/272/10.jpg",
+        "garage/272/11.jpg",
+        "garage/272/12.jpg",
+        "garage/272/13.jpg",
+        "garage/272/14.jpg",
+        "garage/272/15.jpg"
+    ]
+}

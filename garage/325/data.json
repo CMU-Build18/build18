@@ -1,0 +1,95 @@
+{
+    "title": "Karaoke Machine",
+    "date": "08 Nov 2017",
+    "detail": "To show off your inner Adele.",
+    "extended_details": "A karaoke machine created from scratch amongst the undergraduates of CMU. Our song sound quality, visuals for the songs, and scoring algorithms will be better than the traditional terrible ones you'd find at places like KBox. \r\nWe will have a mic and a display hooked up to a Raspberry Pi, and you'll be able to choose within our library of songs in the Raspberry Pi. Everything will function exactly like a karaoke machine - song will play, there will be visuals on the screen, and you'll be scored based on your singing abilities.",
+    "team_profiles": [
+        {
+            "username": "@yongjina",
+            "name": "@yongjina"
+        },
+        {
+            "username": "@ziyux",
+            "name": "@ziyux"
+        },
+        {
+            "username": "@dbang",
+            "name": "@dbang"
+        },
+        {
+            "username": "@htammine",
+            "name": "@htammine"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Monitor",
+            "cost": "$84.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mixer",
+            "cost": "$47.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Audio Adapter",
+            "cost": "$7.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Extension Cord",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Soundcard for Raspberry Pi",
+            "cost": "$21.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Strobe lights",
+            "cost": "$29.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Microphone",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Mic Adapters",
+            "cost": "$5.44",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Speakers/Disco",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SD Card",
+            "cost": "$9.28",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/325/0.jpg"
+    ]
+}

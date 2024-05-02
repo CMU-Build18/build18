@@ -1,0 +1,47 @@
+{
+    "title": "Drone Control Suite",
+    "date": "21 Nov 2016",
+    "detail": "Control a drone using Alexa, Facebook Messenger, or a Leap Motion",
+    "extended_details": "Ever wanted to control a drone with anything except a remote control? Now you can use the latest in voice, gesture, and NLP technology to do just that.",
+    "team_profiles": [
+        {
+            "username": "@aatishn",
+            "name": "@aatishn"
+        },
+        {
+            "username": "@arulnits",
+            "name": "@arulnits"
+        },
+        {
+            "username": "@ramv",
+            "name": "@ramv"
+        },
+        {
+            "username": "@hguduru",
+            "name": "@hguduru"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Robot Check",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$180.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$35.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/182/0.jpg"
+    ]
+}

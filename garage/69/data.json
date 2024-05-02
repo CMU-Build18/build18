@@ -1,0 +1,96 @@
+{
+    "title": "Virtual Meadow",
+    "date": "28 Nov 2015",
+    "detail": "Using VR, CV, and real life objects to create an immersive nature experience in a contained space.",
+    "extended_details": "Allow users to feel like they are engaging with a beautiful natural environment, using VR to place them in the space and real \"props\" such as grass and a stream to make the experience feel real, even when on campus.\r\nThe physical space consists of a small (6'x6') square of grass, with a running \"stream\" shaped into the square and some objects a user can pick up - a dowel, stones, a 'plant', etc.\r\nThe virtual space is similar to the physical one, but provides a more environmental experience with immersive sound and visuals. The dowel, rocks, & stream correspond to a stick, rocks, and a river in the virtual world, and the user can engage with each of these items. A Kinect tracks the current depth map of the environment - allowing us to have an accurate idea of where our interactive items are. Depending on the technology available to us, we will use either the Kinect or a Hillcrest sensor to track a user's hand and use of the objects.",
+    "team_profiles": [
+        {
+            "username": "@kmartine",
+            "name": "@kmartine"
+        },
+        {
+            "username": "@ggagnon",
+            "name": "@ggagnon"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$3.37",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$6.63",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Audio-Technica ATH-M30x Professional Studio Monitor Headph",
+            "cost": "$70.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3M Utility Duct Tape 2929 Silver, 1.88 in x 50 yd 5.8 mils (Pack of 1)",
+            "cost": "$8.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Smoothfoam Block Crafts Foam for Modeling, 2 by 4 by 12-In",
+            "cost": "$7.76",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$4.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Polished Black River Stones 32 oz. (Great for fountains or",
+            "cost": "$7.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$4.74",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Dap 00107 3-Ounce Weldwood Contact Cement: Home Improvemen",
+            "cost": "$4.47",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Microsoft Xbox One Kinect Sensor Bar (Certified Refurbishe",
+            "cost": "$89.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Stansport #T-810 Reinforced Multi-Purpose Tarp: Sports & O",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com : EcoPlus 728310 Eco 396 Submersible Pump, 396GPH : Pond Wa",
+            "cost": "$10.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/69/0.jpg",
+        "garage/69/1.jpg",
+        "garage/69/2.jpg",
+        "garage/69/3.jpg"
+    ]
+}

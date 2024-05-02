@@ -1,0 +1,69 @@
+{
+    "title": "Perfect Pour Over Coffee",
+    "date": "21 Nov 2016",
+    "detail": "Automated pour over coffee!",
+    "extended_details": "A system that automates the process of pour over coffee. This system will automate pouring hot water over the ground coffee while grinding and heating water are left for the user to do. Different variables of this system can be adjusted on the fly such as bloom time, brew time, and pouring patterns.",
+    "team_profiles": [
+        {
+            "username": "@kguske",
+            "name": "@kguske"
+        },
+        {
+            "username": "@gchatter",
+            "name": "@gchatter"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Chemex Bonded Unbleached Pre-folded Square Coffee Filters, 100 Count: ",
+            "cost": "$12.75",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Stepper motor - NEMA-17 size - 200 steps/rev, 12V 350mA ID: 324 - $14.",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Model A+ 512MB RAM ID: 2266 - $24.95 : Adafruit Industrie",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Chemex 6-Cup Classic Series Glass Coffee Maker: Office Pro",
+            "cost": "$46.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit ID: 2348 -",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 2.4A Switching Power Supply with 20AWG MicroUSB Cable ID: 1995 - $7",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/187/0.jpg"
+    ]
+}

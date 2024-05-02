@@ -1,0 +1,75 @@
+{
+    "title": "The Quick Quad",
+    "date": "21 Nov 2016",
+    "detail": "Pushing the speed limits of quadcopters",
+    "extended_details": "Our project plans to focus on how fast can we fly a radio controlled quadcopter.  In order to achieve this, our team plans to optimize the thrust to weight ratio, while testing and improving the aerodynamics of our quad. We will carefully select and build our electronics and control systems to optimize our payload, while considering essential sensor equipment.  We hope to provide a development platform that is unmatched in speed and performance.",
+    "team_profiles": [
+        {
+            "username": "@rbezbaru",
+            "name": "@rbezbaru"
+        },
+        {
+            "username": "@spersau1",
+            "name": "@spersau1"
+        },
+        {
+            "username": "@jhzhang",
+            "name": "@jhzhang"
+        },
+        {
+            "username": "@nmlevin",
+            "name": "@nmlevin"
+        },
+        {
+            "username": "@mmessers",
+            "name": "@mmessers"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Crazepony 4pcs EMAX RS2205-S 2600KV Brushless Motor for X2",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$31.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$27.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/198/0.jpg"
+    ]
+}

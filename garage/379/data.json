@@ -1,0 +1,27 @@
+{
+    "title": "lumineScence",
+    "date": "16 Nov 2017",
+    "detail": "lumineScence will discipline your bedtime, sleep schedule, and wake up time based on personal preferences.",
+    "extended_details": "lumineScence will regulate room lighting based on user\u2019s sleep preferences set in a mobile application. These inputs will control the brightness of any electronic room lights, and the amount of natural light entering the room by window shade controls.",
+    "team_profiles": [
+        {
+            "username": "@nalinij",
+            "name": "@nalinij"
+        },
+        {
+            "username": "@aarushiw",
+            "name": "@aarushiw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "TI Simplelink iot chips",
+            "cost": "$31.14",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/379/0.jpg"
+    ]
+}

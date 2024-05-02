@@ -1,0 +1,91 @@
+{
+    "title": "Backbone",
+    "date": "28 Nov 2015",
+    "detail": "Think Fitbit, but for your spine. Go through your day knowing that we've got your back!",
+    "extended_details": "Have you ever felt like your back hurts after working on a coding assignment for too long? Afraid that you might injure yourself doing deadlifts because of bad posture? \r\n\r\nThe brace is equipped with 6 flex sensors and 2 IMUs and measures your posture on a regular interval of 6 seconds. Information is logged by the Particle Photon board that then gets sent to the web app for the user to view.\r\n\r\nBad posture plagues our modern world. People are rarely watching for their posture as they go about their daily activities, but many complain later in their lives of the pain that results. What does it mean to be doing that?",
+    "team_profiles": [
+        {
+            "username": "@nchoudha",
+            "name": "@nchoudha"
+        },
+        {
+            "username": "@raghavgo",
+            "name": "@raghavgo"
+        },
+        {
+            "username": "@bvyates",
+            "name": "@bvyates"
+        },
+        {
+            "username": "@ouk",
+            "name": "@ouk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Polymer Lithium Ion Battery - 2000mAh - PRT-08483 - SparkFun Electroni",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Power Cell - LiPo Charger/Booster - PRT-11231 - SparkFun Elec",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Particle Photon Kit - KIT-13345 - SparkFun Electronics",
+            "cost": "$29.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Flex Sensor 4.5\" - SEN-08606 - SparkFun Electronics",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Ribbon Cable - 10 wire (15ft) - CAB-10647 - SparkFun Electronics",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun 6 Degrees of Freedom IMU Digital Combo Board - ITG3200/ADXL34",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com : VELCRO Brand - 3/8-Inch Thin Fasteners, Premated, Set of ",
+            "cost": "$6.78",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "1/4\"DIA X 1/16\"THICK Radial Magnet Inc. | Sensors, Transducers | DigiK",
+            "cost": "$0.17",
+            "quantity": "\n",
+            "total": "100"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$7.11",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun LiPo Charger Basic - Micro-USB - PRT-10217 - SparkFun Electro",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/68/0.jpg",
+        "garage/68/1.jpg",
+        "garage/68/2.jpg"
+    ]
+}

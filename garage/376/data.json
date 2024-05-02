@@ -1,0 +1,85 @@
+{
+    "title": "Smart Screen System",
+    "date": "15 Nov 2017",
+    "detail": "A smart network of interactive digital displays embedded with sensors",
+    "extended_details": "We will build a smart network of multiple LCD displays that will communicate with one another and create a new experience for users. Users will be able to physically manipulate the displays in unique ways to create visually appealing effects, play games, and experience both audio and visual technology in an entirely new way. The displays will be embedded with sensors (accelerometers, gyros, cameras, etc) that will track user interactions and dynamically modify the images that they display in response to the user's demands.",
+    "team_profiles": [
+        {
+            "username": "@ruiyuans",
+            "name": "@ruiyuans"
+        },
+        {
+            "username": "@jbdurham",
+            "name": "@jbdurham"
+        },
+        {
+            "username": "@arnavm",
+            "name": "@arnavm"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker - 3\" Diameter - 8 Ohm 1 Watt",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3.5\" TFT 320x480 + Touchscreen Breakout Board w/MicroSD Socket - HXD83",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "L3GD20H Triple-Axis Gyro Breakout Board - L3GD20/L3G4200 Upgrade - L3G",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "6 x AA battery holder with 5.5mm/2.1mm plug",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit LIS3DH Triple-Axis Accelerometer (+-2g/4g/8g/16g)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 1A (1000mA) USB port power supply - UL Listed",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2 - 8 Megapixels",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "J-Deal 5x Pcs SG90 Micro Servo Motor 9G RC Robot Helicopter Airplane B",
+            "cost": "$10.89",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Adafruit Pro Trinket - 5V 16MHz",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/376/0.jpg"
+    ]
+}

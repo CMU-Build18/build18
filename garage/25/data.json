@@ -1,0 +1,31 @@
+{
+    "title": "LizardPrint",
+    "date": "27 Nov 2015",
+    "detail": "A desktop 3D printer that can extrude plastic and conductive ink",
+    "extended_details": "The goal of this project is to make a machine that will be able to produce functional electromechanical systems - the machine will be able to print a plastic base, print conductive ink circuits over the base, and then enclose fully plastic piece. The idea is that with future adaptations, we can start to make mechanical and electrical integrated systems using one procedure.",
+    "team_profiles": [
+        {
+            "username": "@sarikab",
+            "name": "@sarikab"
+        },
+        {
+            "username": "@glahiry",
+            "name": "@glahiry"
+        },
+        {
+            "username": "@mbremner",
+            "name": "@mbremner"
+        },
+        {
+            "username": "@schordia",
+            "name": "@schordia"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/25/0.jpg",
+        "garage/25/1.jpg",
+        "garage/25/2.jpg",
+        "garage/25/3.jpg"
+    ]
+}

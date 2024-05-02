@@ -1,0 +1,143 @@
+{
+    "title": "S.O.K.K.E.R.",
+    "date": "18 Oct 2017",
+    "detail": "Soccer, Only you're KicKing around an Evasive Robot",
+    "extended_details": "Is soccer too easy for you?\r\n\r\nAre you looking for an ethical alternative to kicking puppies?\r\n\r\nIf you answered \"YES\" to either of these questions, then you should check out S.O.K.K.E.R.! \r\nJust like in the traditional version of the sport, two teams kick around a ball, attempting to score as many points as possible. But in S.O.K.K.E.R., the ball is a small, adorable robot that uses a combination of accelerometers and ultrasonic distance sensors to desperately flee both you and the goal.\r\n\r\n### But how does it work?\r\n\r\nThe SOKKER bot first determines its orientation using an onboard accelerometer. The bot is structured so that it can successfully navigate its environment no matter what orientation it starts in (or what orientation it ends up in after being kicked around). \r\n\r\nNext, it uses an array of four ultrasonic distance sensors (one on each face) to identify the proximity of nearby obstacles (such as a human player or a goal). The onboard Arduino can then determine the best course of action. The SOKKER bot will always seek to move away from obstacles and toward open space, while varying its movements so as to elude humans.\r\n\r\nOnce the SOKKER bot has determined which way it wants to go, it can use its \"legs\" (swiveling sections of its exterior) to maneuver across its environment. The SOKKER bot's human captors may now chase it to their heart's content!",
+    "team_profiles": [
+        {
+            "username": "@aquinn",
+            "name": "@aquinn"
+        },
+        {
+            "username": "@jafinn",
+            "name": "@jafinn"
+        },
+        {
+            "username": "@sir",
+            "name": "@sir"
+        },
+        {
+            "username": "@sydneyb",
+            "name": "@sydneyb"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "6\" Mini Foam Ball",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "10ft of Standard-Wall Unthreaded PVC Pipe",
+            "cost": "$4.73",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16oz of PVC Primer",
+            "cost": "$11.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "24\"x48\" Super-Cushioning Polyurethane Foam Sheet",
+            "cost": "$66.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Side-Outlet PVC Elbow Connector",
+            "cost": "$1.65",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "UNO R3 Kit",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Rigid Flange Coupling",
+            "cost": "$3.59",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "50x80mm Stripboard",
+            "cost": "$3.16",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "1/4\" D-Profile Rotary Shaft",
+            "cost": "$6.64",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "25T Screw Shaft Coupler",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "36\" x 1 foot Nonmarking Multipurpose Neoprene Rubber Sheet",
+            "cost": "$12.04",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3/4\"x5ft Multipurpose Hook and Loop",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16oz of Pipe Cement for Plastic Pipe",
+            "cost": "$9.21",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ADXL337 Accelerometer",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "AmazonBasics 48-pack of 1.5V AA Batteries",
+            "cost": "$12.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "APEM Inc. 25139NAB SPDT Slide Switch",
+            "cost": "$6.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PVC Tee Connector",
+            "cost": "$0.38",
+            "quantity": "\n",
+            "total": "11"
+        },
+        {
+            "part": "SM-S4315R Continuous Rotation Servo",
+            "cost": "$16.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Sparkfun HC-SR04",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/248/0.jpg"
+    ]
+}

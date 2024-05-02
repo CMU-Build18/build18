@@ -1,0 +1,85 @@
+{
+    "title": "Sight Text",
+    "date": "31 Oct 2019",
+    "detail": "What if you recently went deaf and didn't know how to read lips?  We can help you \"hear\" people in real time!",
+    "extended_details": "We will use a heads up display to show the text of a conversation, enabling a person with severe hearing impairment that cannot lip read (like if they weren't born deaf) to converse with someone while \"looking\" at them and simultaneously seeing the text of what someone they just said.",
+    "team_profiles": [
+        {
+            "username": "@amilford",
+            "name": "@amilford"
+        },
+        {
+            "username": "@rastentz",
+            "name": "@rastentz"
+        },
+        {
+            "username": "@shayang",
+            "name": "@shayang"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Bluetooth Module",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Camera",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "arduino nano",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "raspberry pi battery",
+            "cost": "$21.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "raspberry pi 4",
+            "cost": "$62.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "mirror",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "oled screen",
+            "cost": "$16.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "battery charger",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lens",
+            "cost": "$21.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "arduino battery",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/660/0.jpg"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Drone Uncrashable",
+    "date": "28 Nov 2015",
+    "detail": "A done built out of gimbal! The new generation of uncrushable flying robots!",
+    "extended_details": "We are developing a unicopter drone with a spherical bone structure outside its main parts. It will never crush during flying because of the protection and should be able to improve the stability of flying by its gimbal system.",
+    "team_profiles": [
+        {
+            "username": "@wguo2",
+            "name": "@wguo2"
+        },
+        {
+            "username": "@jiaxuan1",
+            "name": "@jiaxuan1"
+        },
+        {
+            "username": "@kapolo",
+            "name": "@kapolo"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": " KK2 15 Multi Rotor LCD Flight Control Board with Version 1 9S1 w Case",
+            "cost": "$19.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Particle Store",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SDP/SI eStore - Home",
+            "cost": "$6.01",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/50/0.jpg"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Joker: The Robotic Card Sorter",
+    "date": "30 Sep 2019",
+    "detail": "Why waste time sorting cards when you can get a robot to do it for you",
+    "extended_details": "We are building a robotic system to sort cards, using some sort of arm manipulator and computer vision.",
+    "team_profiles": [
+        {
+            "username": "@jgkerr",
+            "name": "@jgkerr"
+        },
+        {
+            "username": "@jbwood",
+            "name": "@jbwood"
+        },
+        {
+            "username": "@jacheng",
+            "name": "@jacheng"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Dynamixel MX 12W",
+            "cost": "$65.90",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Succ boy",
+            "cost": "$41.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rod ends",
+            "cost": "$6.40",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "6 Port AX/MX Power Hub",
+            "cost": "$7.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Controller Board",
+            "cost": "$19.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "80/20",
+            "cost": "$36.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "neo pixel light ring",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/549/0.jpg"
+    ]
+}

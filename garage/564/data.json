@@ -1,0 +1,63 @@
+{
+    "title": "Responsive Textile",
+    "date": "12 Oct 2019",
+    "detail": "Responsive visual experiences in clothing",
+    "extended_details": "Using sewable arduino and capacitive thread we can create a new kind of clothing that responds to the wearer. \r\n\r\nThe project will use Arduino lilypads to integrate sensors like temperature and UV to create displays and interface with the wearer's electronics. With conductive thread, the wearer can be wired up and taking in data from themself and the environment without any bulk or awkward appearance.\r\n\r\nWish List:\r\nhttps://www.amazon.com/hz/wishlist/ls/200LFJL7ZN8QW?&sort=default",
+    "team_profiles": [
+        {
+            "username": "@gferrant",
+            "name": "@gferrant"
+        },
+        {
+            "username": "@lmedina",
+            "name": "@lmedina"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Denim Cloth",
+            "cost": "$8.38",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Universal Heavy Duty Sewing Needles",
+            "cost": "$5.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Casio World Time Watch",
+            "cost": "$48.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lilypad Power Supply",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sewable Arduino",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Conductive Thread",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Heavy Duty Sewing Machine",
+            "cost": "$125.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/564/0.jpg"
+    ]
+}

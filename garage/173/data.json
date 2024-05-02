@@ -1,0 +1,129 @@
+{
+    "title": "M4: Multi-Modal Music Mixer",
+    "date": "21 Nov 2016",
+    "detail": "Hardware for Wannabe DJ's",
+    "extended_details": "The M4 is a human interface device designed for DJ's. \r\n\r\nIt combines the functionality of traditional DJ mixing equipment and grid controllers in a portable, customizable, feature-rich form factor meant for producing and mixing music.\r\n\r\nHow it works:\r\n\r\n1. Load some mp3's of your favorite songs\r\n2. Use the built-in filters to isolate/remove audio of interest\r\n3. Assign sound snippets to buttons on the grid controller\r\n4. Button-mash strategically until you become deadmau5\r\n\r\nWhat's included:\r\n\r\n1. Grid controller. This is a 2D-array of buttons. Underneath each button is an RGB LED. By pressing these buttons and interpreting the color that results, a user can navigate through menus, adjust levels, play notes etc.\r\n2. Additional IO: Force sensors, remote sensing (via capacitance sensors), joysticks, dials, knobs, LCD displays allow for additional user interaction\r\n3. Ports for connecting microphones, headphones and other equipment!\r\n4. Hardware and software for signal processing!\r\n5. Built-in battery means you can make music on the go",
+    "team_profiles": [
+        {
+            "username": "@jbgoldst",
+            "name": "@jbgoldst"
+        },
+        {
+            "username": "@ctabrizi",
+            "name": "@ctabrizi"
+        },
+        {
+            "username": "@dstiffle",
+            "name": "@dstiffle"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SD-130 CUI Inc. | Connectors, Interconnects | DigiKey",
+            "cost": "$2.47",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SDF-130J CUI Inc. | Connectors, Interconnects | DigiKey",
+            "cost": "$3.16",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Sharp GP2Y0D810Z0F Digital Distance Sensor with Pololu Carrier [GP2Y0D",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Rugged Metal On/Off Switch with White LED Ring [16mm White On/Off] ID:",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Foot switch ID: 423 - $7.50 : Adafruit Industries, Unique & fun DIY el",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Vibrating Mini Motor Disc ID: 1201 - $1.95 : Adafruit Industries, Uniq",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Diffused RGB 5mm LED (25 pack) ID: 302 - $12.50 : Adafruit Industries,",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Turnigy 2200mAh 3S 20C Lipo Pack: Toys & Games",
+            "cost": "$15.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Woven Conductive Fabric - Silver 20cm square ID: 1168 - $4.95 : Adafru",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Agloves Touchscreen Gloves For iPhone, iPad, Galaxy, Touch",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 12-Key Capacitive Touch Sensor Breakout - MPR121 ID: 1982 - $",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: Adafruit Silicone Elastomer 4x4 Button Keypad - for 3mm LE",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NPN Bipolar Transistors (PN2222) - 10 pack ID: 756 - $1.95 : Adafruit ",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Trellis Monochrome Driver PCB for 4x4 Keypad & 3mm LEDs ID: 1",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Amazon.com: LHI 2PCS WRA0053 XT60 Male W / 14AWG Silicon Draht 10cm: T",
+            "cost": "$6.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rotary Encoder + Extras ID: 377 - $4.50 : Adafruit Industries, Unique ",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/173/0.jpg",
+        "garage/173/1.jpg",
+        "garage/173/2.jpg"
+    ]
+}

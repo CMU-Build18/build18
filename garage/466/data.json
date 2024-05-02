@@ -1,0 +1,75 @@
+{
+    "title": "Light Sketch",
+    "date": "29 Oct 2018",
+    "detail": "A toy for children that lets them draw with light which can have child development applications.",
+    "extended_details": "In order to develop children\u2019s motor and problem-solving skills in a fun way we intend to use Arduino as a platform. This can have applications in child developmental skills such as the ability to quantify the amount and method in which children draw.",
+    "team_profiles": [
+        {
+            "username": "@arojas2",
+            "name": "@arojas2"
+        },
+        {
+            "username": "@wwisely",
+            "name": "@wwisely"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LTH-1550-01 Photointerrupter",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "64"
+        },
+        {
+            "part": "Resistor (15k) (100 pcs)",
+            "cost": "$6.12",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Resistor (4.7k)",
+            "cost": "$5.81",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "ATmega8a",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NPN Transistor (2N2222)",
+            "cost": "$5.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker (8 ohm) (2 pcs)",
+            "cost": "$10.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Resistor (220 ohm) (100 pcs)",
+            "cost": "$6.53",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Pin (1000pcs)",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PCB board",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/466/0.jpg"
+    ]
+}

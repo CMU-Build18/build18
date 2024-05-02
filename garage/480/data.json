@@ -1,0 +1,47 @@
+{
+    "title": "Air Horn Orchestra",
+    "date": "29 Oct 2018",
+    "detail": "Like fine arrangements of music?  Want to bring them into the world for EVERYONE to hear?  We've got you covered.",
+    "extended_details": "Step one:  gather MIDI file of the world's finest compositions \r\n\r\nStep two:  gather a LARGE quantity of air horns\r\n\r\nStep three:  adjust horns to emit various musical notes, all of which are beautiful\r\n\r\nStep four:  attach all air horns to servos connected to a micro-controller\r\n\r\nStep five:  convert MIDI files into servo instructions\r\n\r\nStep six:  bless the air with the choir of the gods\r\n\r\nStep seven:  profit",
+    "team_profiles": [
+        {
+            "username": "@fmeleana",
+            "name": "@fmeleana"
+        },
+        {
+            "username": "@jxgong",
+            "name": "@jxgong"
+        },
+        {
+            "username": "@kkozlows",
+            "name": "@kkozlows"
+        },
+        {
+            "username": "@colec",
+            "name": "@colec"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "USB MIDI Cable Interface, OIBTECH Upgrade Professional MIDI to USB IN-",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Car Horn",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Adafruit Metro 328 Starter Pack",
+            "cost": "$44.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/480/0.jpg"
+    ]
+}

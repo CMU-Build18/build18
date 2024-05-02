@@ -1,0 +1,123 @@
+{
+    "title": "Baggel Yeeter",
+    "date": "09 Nov 2021",
+    "detail": "An automatic bagel maker and yeeter. Slices, toasts, and (for social distancing) yeets the bagel to desired recipient.",
+    "extended_details": "Have you ever struggled? To toast your bagel has never been an easy feat, but the Baggel Yeeter will do all of this and more! Once you input a bagel, it will automatically toast the bagel, then it will use CV to take aim and yeet the two halves at you. Contact us at 5746-5414-40-900-BOAT",
+    "team_profiles": [
+        {
+            "username": "@wanyic",
+            "name": "@wanyic"
+        },
+        {
+            "username": "@taikens",
+            "name": "@taikens"
+        },
+        {
+            "username": "@jchoffma",
+            "name": "@jchoffma"
+        },
+        {
+            "username": "@jyordy",
+            "name": "@jyordy"
+        },
+        {
+            "username": "@beblanch",
+            "name": "@beblanch"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Toaster",
+            "cost": "$14.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Horn",
+            "cost": "$9.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Googly eyes",
+            "cost": "$6.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor driver shield",
+            "cost": "$6.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rotary Shaft",
+            "cost": "$18.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Roller Chain Attachment Link",
+            "cost": "$2.80",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "20mm 80/20 Extruded Aluminum (8 feet)",
+            "cost": "$23.49",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bagel Cutter",
+            "cost": "$16.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bearings",
+            "cost": "$23.70",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bungee Cords",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lazy Susan",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "10 tooth Chain Sprocket",
+            "cost": "$14.31",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Linear Bearing",
+            "cost": "$17.89",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Chain",
+            "cost": "$17.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V DC Power Supply",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/727/0.jpg"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "FPGA++",
+    "date": "03 Dec 2018",
+    "detail": "Who doesn't want more FPGAs?",
+    "extended_details": "Use an FPGA to accelerate mid-range computer vision using two cameras and an embedded Linux OS.\r\n\r\nOr potentially just make memes, unclear...",
+    "team_profiles": [
+        {
+            "username": "@swestenb",
+            "name": "@swestenb"
+        },
+        {
+            "username": "@dgronlun",
+            "name": "@dgronlun"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Ultra96 Board",
+            "cost": "$249.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/508/0.jpg"
+    ]
+}

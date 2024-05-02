@@ -1,0 +1,31 @@
+{
+    "title": "Atariclone",
+    "date": "02 Nov 2017",
+    "detail": "Reimplementing an Atari 2600 (VCS) on an FPGA",
+    "extended_details": "We plan on accurately reimplementing the classic Atari 2600 home game console on an FPGA. There's not much else to say here, so I'm currently trying to hit the minimum char limit.",
+    "team_profiles": [
+        {
+            "username": "@fseidel",
+            "name": "@fseidel"
+        },
+        {
+            "username": "@jocelynh",
+            "name": "@jocelynh"
+        },
+        {
+            "username": "@asfeldma",
+            "name": "@asfeldma"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "DE1-SoC Board",
+            "cost": "$175.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/261/0.jpg"
+    ]
+}

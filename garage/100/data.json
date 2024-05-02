@@ -1,0 +1,71 @@
+{
+    "title": "Synesthesia: The Sensory Dress",
+    "date": "29 Nov 2015",
+    "detail": "an interactive dress that responds to physical gestures controlled by another human",
+    "extended_details": "A physical social commentary based on the idea that fashion is dictated by an external source other than by your own creation.\r\nOur project is to create a interactive dress that relies on physical gestures of another human to control the color and form of the dress using OpenCV.  \r\n\r\nFor example, as the wearer, I would drag my hand horizontally across the front of the dress.  The reaction would be that specific panel of the dress would change color and move in the direction of my movement.  Any sort of \"hovering\" motion would affect the shape and color of the dress in that section, as if you are painting on yourself in light.\r\n\r\nThe physical components of the dress are a lightweight linen fabric to counteract the weight of the components, fiberoptic wire to transmit the light around the dress, motors to create a shifting motion (triggered by the gestures), and LED's to create the light. All code will be written in python and powered by a rasberry Pi.",
+    "team_profiles": [
+        {
+            "username": "@tgouldin",
+            "name": "@tgouldin"
+        },
+        {
+            "username": "@pbernits",
+            "name": "@pbernits"
+        },
+        {
+            "username": "@falmeshq",
+            "name": "@falmeshq"
+        },
+        {
+            "username": "@mdibacco",
+            "name": "@mdibacco"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Mega 2560 R3 - DEV-11061 - SparkFun Electronics",
+            "cost": "$45.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 2 - Model B - ARMv7 with 1G RAM ID: 2358 - $39.95 : Adafr",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: LEDwholesalers 16-Ft RGB Color-Changing 150xSMD5050 LED Fl",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu - Stepper Motor: Bipolar, 200 Steps/Rev, 20\u00d730mm, 3.9V, 0.6 A/P",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Pololu - A4988 Stepper Motor Driver Carriers",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Generic 150pcs 1mm Ps Fiber Optic Star Light Cable With 2m Long - - Am",
+            "cost": "$56.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Flex Perma-Proto - Half-sized Breadboard Flex-PCB ID: 1518 - ",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/100/0.jpg"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Surf's up",
+    "date": "28 Oct 2018",
+    "detail": "Ever been so sad because there's no waves in Pittsburgh? Don't worry we got the machine for you.",
+    "extended_details": "Surf's up is a VR motion simulator that mimics surfing. We are going to build a surfboard that reacts based on the user's movements and the simulated waves.",
+    "team_profiles": [
+        {
+            "username": "@nsivakum",
+            "name": "@nsivakum"
+        },
+        {
+            "username": "@jrlew",
+            "name": "@jrlew"
+        },
+        {
+            "username": "@sroongta",
+            "name": "@sroongta"
+        },
+        {
+            "username": "@svtam",
+            "name": "@svtam"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "24.0 kg-cm 4 Wire NEMA 23 Stepping Motor (57BYGH310)",
+            "cost": "$38.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SainSmart TB6600 CNC Micro-Stepping Stepper Motor Driver 4.5A",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V power source",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wood board",
+            "cost": "$36.30",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "962MXL Timing Belt, .080\" Pitch, 77\" Outer Circle, 1/4\" Wide",
+            "cost": "$10.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MXL aluminum pulley 40T 8mm bore",
+            "cost": "$5.23",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1\" 8020 72\" aluminum extrusion (1010 profile)",
+            "cost": "$18.51",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "M5 30mm socket head screws",
+            "cost": "$9.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "F623ZZ 3x10x4mm Flanged Bearing",
+            "cost": "$9.18",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/459/0.jpg"
+    ]
+}

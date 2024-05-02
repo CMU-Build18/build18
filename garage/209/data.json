@@ -1,0 +1,16 @@
+{
+    "title": "MyoMagic",
+    "date": "21 Nov 2016",
+    "detail": "Control objects with a literal flick of the rest!",
+    "extended_details": "This project will leverage the Myo armband to control various events via hand motions. Events including turning lights on/off, controlling a swarm of robots, controlling a quadcopter, making sounds, etc.",
+    "team_profiles": [
+        {
+            "username": "@jlore",
+            "name": "@jlore"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/209/0.jpg"
+    ]
+}

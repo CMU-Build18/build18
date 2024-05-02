@@ -1,0 +1,64 @@
+{
+    "title": "AtlasCV",
+    "date": "23 Oct 2018",
+    "detail": "A CV-oriented solution for autonomously controlling a buggy.",
+    "extended_details": "Computer vision has been long held a strong utility for autonomous vehicles. CV is used to identify lane markers, cars, traffic lights, and many other unique objects on the road. By identifying these features, vehicles can decide how to act in a certain situation: should it turn left, should it turn right, should it move faster, should it stop?\r\n\r\nWe wish to bring a small part of CV's utility into the ever-growing field of robotic buggy. To do this, we will be implementing a vision-based controller for our RD18 autonomous platform, BabyBuggy.\r\n\r\nOur pipeline is fairly straightforward, though the complexity is most certainly in the details. First, a convolutional network will be trained to perform image segmentation, the task of splitting an image into solid portions that identify different key areas in a scene. For our purpose, the network will distinguish between road and not road.\r\n\r\nThen, with this segmented image, we will write a controller to steer BabyBuggy depending on its calculated position and offset from the sides of the road. \r\n\r\nOur implementation will utilize an Intel D435 camera, important primarily for its cheap access to a global shutter. This drastically reduces the distortion we get from cheaper rolling shutter cameras. As a stretch goal, we are also planning to use state-of-the-art CV algorithms like YOLO and Mask-RCNN to perform real-time object detection.",
+    "team_profiles": [
+        {
+            "username": "@ovg",
+            "name": "@ovg"
+        },
+        {
+            "username": "@zhengx",
+            "name": "@zhengx"
+        },
+        {
+            "username": "@xguan",
+            "name": "@xguan"
+        },
+        {
+            "username": "@blairc",
+            "name": "@blairc"
+        },
+        {
+            "username": "@sjaiswa2",
+            "name": "@sjaiswa2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Intel RealSense D435",
+            "cost": "$209.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NRF24L01+",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Camera Mount",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pro Micro",
+            "cost": "$20.89",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/441/0.jpg",
+        "garage/441/1.jpg",
+        "garage/441/2.jpg",
+        "garage/441/3.jpg",
+        "garage/441/4.jpg",
+        "garage/441/5.jpg",
+        "garage/441/6.jpg",
+        "garage/441/7.jpg"
+    ]
+}

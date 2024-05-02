@@ -1,0 +1,24 @@
+{
+    "title": "You'll shoot your eye out, kid!",
+    "date": "13 Nov 2020",
+    "detail": "How do you hang a painting level on the wall? You don't. jk. Use our device! Fun (and safe) lasers!",
+    "extended_details": "We want to make a portable, computer vision driven laser projector. This may be used for many different applications, such as construction, surveying, interior design, and entertainment. Use cases include overlaying drafting patterns in daylight where a regular projector cannot be used, overlaying graphics on nonplanar objects, and generating interesting graphics for live entertainment or art pieces. Computer vision will be used to draw in real time based on the surroundings of the device. In addition to displaying graphics, there will be safety precautions in place (facial recognition, object detection, etc.) to ensure that the laser does not harm anyone. We will use a very low power laser for our project that cannot actually damage anything, but this would be a proof of concept for a more powerful device.",
+    "team_profiles": [
+        {
+            "username": "@astrasse",
+            "name": "@astrasse"
+        },
+        {
+            "username": "@tcbates",
+            "name": "@tcbates"
+        },
+        {
+            "username": "@pnaseck",
+            "name": "@pnaseck"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/685/0.jpg"
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Smart Mirror",
+    "date": "27 Nov 2015",
+    "detail": "The smartest mirror this side of the Mississippi",
+    "extended_details": "The Smart Mirror will allow users to personalize their news, music, calendar, and social media feed with gestures and voice control.  Information is displayed and updated seamlessly in an overlay, and auxiliary peripherals are bundled together in a clean, all-in-one package.",
+    "team_profiles": [
+        {
+            "username": "@jwbird",
+            "name": "@jwbird"
+        },
+        {
+            "username": "@kamladi",
+            "name": "@kamladi"
+        },
+        {
+            "username": "@kdogruso",
+            "name": "@kdogruso"
+        },
+        {
+            "username": "@eaevans",
+            "name": "@eaevans"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Concave Button - Black - COM-09339 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi 2 Model B Project Board - 1GB RAM - 900 MHz Q",
+            "cost": "$55.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "BDF S05 Window Film One Way Mirror Silver 5 (36in X 12ft) - Automotive",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Acer G226HQL Bbd 21.5-inch Full HD (1920 x 1080) Widescree",
+            "cost": "$89.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: BlueRigger High Speed HDMI to DVI Adapter Cable (6.6 Feet/",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Cast Acrylic Sheet, Clear, 12\" x 12\" x 0.236\" Size (Pack o",
+            "cost": "$28.92",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size ",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$7.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: AmazonBasics USB Powered Computer Speakers (A100): Compute",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Plugable USB Bluetooth 4.0 Low Energy Micro Adapter (Windo",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: CanaKit 5V 2.5A Raspberry Pi 2 Power Supply / Adapter / Ch",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PN532 NFC/RFID controller breakout board [v1.6] ID: 364 - $39.95 : Ada",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/2/0.jpg"
+    ]
+}

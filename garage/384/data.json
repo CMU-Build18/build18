@@ -1,0 +1,69 @@
+{
+    "title": "Goal Line Technology",
+    "date": "17 Nov 2017",
+    "detail": "Automated Goal Detection for Quidditch Hoops",
+    "extended_details": "Set of Quidditch hoops with sensors to detect if a goal has been scored and provide visual feedback to the goal referee.",
+    "team_profiles": [
+        {
+            "username": "@cselby",
+            "name": "@cselby"
+        },
+        {
+            "username": "@dbrych",
+            "name": "@dbrych"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit Pro Trinket - 5V 16MHz",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "AA Battery Pack",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Micro USB Connector",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Diffused RGB 5mm LED (25 pack)",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "10 pc low power laser diode",
+            "cost": "$2.32",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "22 AWG Wire",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3/4\" Polypropylene Tubing",
+            "cost": "$44.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Photo resistor",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "35"
+        }
+    ],
+    "photos": [
+        "garage/384/0.jpg"
+    ]
+}

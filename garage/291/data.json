@@ -1,0 +1,93 @@
+{
+    "title": "Automatic Sheet Music Turner",
+    "date": "07 Nov 2017",
+    "detail": "An automatic page tuner for musicians",
+    "extended_details": "An automatic page tuner for musicians. Have you ever had a panicked moment in the middle of a performance where you have to turn your page in the middle of a long line of thirty second notes? Well, It's painful, and occasionally you drop all of your music on the floor which is worse. With our project, the turner will know what the music is ahead of time and turn the page for you. There will also be a manual, hands-free option for those who want more control.",
+    "team_profiles": [
+        {
+            "username": "@kcu",
+            "name": "@kcu"
+        },
+        {
+            "username": "@ablackwo",
+            "name": "@ablackwo"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "acrylic",
+            "cost": "$8.97",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "power supply",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "microphone",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wood for casing",
+            "cost": "$6.41",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "touch pad",
+            "cost": "$27.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "sheet music for program",
+            "cost": "$53.58",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "stepper motor",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "shaft",
+            "cost": "$5.93",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "sensor pack",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "shaft coupler",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "music stand",
+            "cost": "$32.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "multimeter",
+            "cost": "$11.89",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/291/0.jpg"
+    ]
+}

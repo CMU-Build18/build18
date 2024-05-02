@@ -1,0 +1,89 @@
+{
+    "title": "Drowning Prevention Device",
+    "date": "28 Nov 2015",
+    "detail": "Capacitive sensing in liquid to prevent children from drowning.",
+    "extended_details": "Drowning is a leading cause of death among children ages 1-4 and most drownings in this age group occur in home swimming pools or bathtubs. Using swept frequency capacitive sensing, our project will be able to detect when a child or infant becomes completely submerged in water and signal an alarm. We aim for our project to be small and easy to integrate with existing infant bathtubs and kiddie pools.",
+    "team_profiles": [
+        {
+            "username": "@htomio",
+            "name": "@htomio"
+        },
+        {
+            "username": "@antonk",
+            "name": "@antonk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Uno R3 (Atmega328 - assembled) ID: 50 - $24.95 : Adafruit Indu",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Proto Shield for Arduino Kit - Stackable Version R3 ID: 2077 ",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1N4148 Fairchild Semiconductor | Discrete Semiconductor Products | Dig",
+            "cost": "$0.10",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "9V battery holder with switch & 5.5mm/2.1mm plug ID: 67 - $3.95 : Adaf",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Cable - Standard A-B [3 ft/1m] ID: 62 - $3.95 : Adafruit Industrie",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Intex 58461ep Ocean Reef Snapset Pool, 6' X 15\": Toys & Ga",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hammond 1591ESBK ABS Project Box Black - Electrical Boxes - Amazon.com",
+            "cost": "$7.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker - 3 Diameter - 4 Ohm 3 Watt ID: 1314 - $1.95 : Adafruit Indust",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stereo 2.8W Class D Audio Amplifier - TS2012 ID: 1552 - $9.95 : Adafru",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Piezo Buzzer [PS1240] ID: 160 - $1.50 : Adafruit Industries, Unique & ",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2.8 TFT Touch Shield for Arduino with Resistive Touch Screen ID: 1651 ",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/95/0.jpg",
+        "garage/95/1.jpg",
+        "garage/95/2.jpg"
+    ]
+}

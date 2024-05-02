@@ -1,0 +1,103 @@
+{
+    "title": "Phonecus",
+    "date": "25 Oct 2019",
+    "detail": "Phonecus                                                  .",
+    "extended_details": "Helps keep your focus away from your phone.                                                                                                                                                   \r\n.",
+    "team_profiles": [
+        {
+            "username": "@clairec1",
+            "name": "@clairec1"
+        },
+        {
+            "username": "@rselagam",
+            "name": "@rselagam"
+        },
+        {
+            "username": "@dzy",
+            "name": "@dzy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RPi Camera",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Supply Transformer",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gear Rack",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AA batteries (Pack 36)",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Epoxy",
+            "cost": "$5.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "L298N Motor Driver Board (Pack of 3)",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Duct Tape",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "High Torque Servo",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Inflatable Hammer Alternate",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Inflatable Hammer",
+            "cost": "$7.20",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Squeaky Fixtures",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Motor and Pinion Gear",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Linear Guide Rail",
+            "cost": "$81.29",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/584/0.jpg"
+    ]
+}

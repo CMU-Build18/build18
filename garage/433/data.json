@@ -1,0 +1,91 @@
+{
+    "title": "Buggy collision Avoidance",
+    "date": "19 Oct 2018",
+    "detail": "Seeking to make a buggy able to detect and avoid other buggies using sensors",
+    "extended_details": "Currently our autonomous buggy relies on mostly gps to navigate around the sweepstakes course, limiting the ability to detect the presence of other buggies or obstacles. We want to solve this issue by creating a field of radars around the buggy to identify obstacles and their position, so that we can find the best way to alter our path based upon these obstacles. The goal is then to enable our autonomous buggy to be able to race a non autonomous buggy.",
+    "team_profiles": [
+        {
+            "username": "@dtom",
+            "name": "@dtom"
+        },
+        {
+            "username": "@tiffany2",
+            "name": "@tiffany2"
+        },
+        {
+            "username": "@jeduffy",
+            "name": "@jeduffy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "shunt voltage reference",
+            "cost": "$0.89",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "microcontroller",
+            "cost": "$10.64",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Radar System on a Chip",
+            "cost": "$65.35",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "16 Mhz clock",
+            "cost": "$1.06",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "40 Mhz clock",
+            "cost": "$0.96",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "ferrite bead",
+            "cost": "$0.18",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Power regulator",
+            "cost": "$5.75",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Power regulator",
+            "cost": "$4.19",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "flash memory",
+            "cost": "$1.84",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Power regulator",
+            "cost": "$2.83",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "esd protection",
+            "cost": "$0.57",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/433/0.jpg"
+    ]
+}

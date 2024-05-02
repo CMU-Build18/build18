@@ -1,0 +1,141 @@
+{
+    "title": "Star Wars BB8",
+    "date": "28 Nov 2016",
+    "detail": "Recreating Life Size Version of BB8 Robot",
+    "extended_details": "We will be recreating a life size version of the Star Wars popular BB8 robot, by building a robot that can drive in any direction on top of a ball and self balancing with an IMU sensor.",
+    "team_profiles": [
+        {
+            "username": "@krcarter",
+            "name": "@krcarter"
+        },
+        {
+            "username": "@iem",
+            "name": "@iem"
+        },
+        {
+            "username": "@saclark",
+            "name": "@saclark"
+        },
+        {
+            "username": "@ilo1",
+            "name": "@ilo1"
+        },
+        {
+            "username": "@goc",
+            "name": "@goc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: FloraCraft Smooth Foam Hollow Half Ball, 12\"",
+            "cost": "$10.78",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Jumper Wires Standard 7\" M/M - 30 AWG (30 Pack) - PRT-11026 - SparkFun",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Break Away Headers - Straight - PRT-00116 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9V to Barrel Jack Adapter - PRT-09518 - SparkFun Electronics",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Premium Female/Male 'Extension' Jumper Wires - 20 x 6 ID: 1954 - $1.95",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Stackable Header Kit - R3 - PRT-11417 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arduino Uno - R3 - DEV-11021 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun 9DoF IMU Breakout - LSM9DS1 - SEN-13284 - SparkFun Electronic",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Motor/Stepper/Servo Shield for Arduino v2 Kit [v2.3] ID: 1438",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Wall Adapter Power Supply - 9VDC 650mA - TOL-00298 - SparkFun Electron",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Tenergy Universal Smart 6V - 12V Charger for NiMH/NiCd Bat",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$23.92",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Logic Level Converter - Bi-Directional - BOB-12009 - SparkFun",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: uxcell 2.1x5.5mm Plug Batteries Case Box w Cover for 8 x 1",
+            "cost": "$4.30",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 9-DOF IMU Breakout - L3GD20H + LSM303 ID: 1714 - $19.95 : Ada",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/233/0.jpg",
+        "garage/233/1.jpg",
+        "garage/233/2.jpg",
+        "garage/233/3.jpg",
+        "garage/233/4.jpg",
+        "garage/233/5.jpg",
+        "garage/233/6.jpg",
+        "garage/233/7.jpg",
+        "garage/233/8.jpg",
+        "garage/233/9.jpg",
+        "garage/233/10.jpg",
+        "garage/233/11.jpg",
+        "garage/233/12.jpg"
+    ]
+}

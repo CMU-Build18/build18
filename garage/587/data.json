@@ -1,0 +1,40 @@
+{
+    "title": "Animation Game",
+    "date": "25 Oct 2019",
+    "detail": "Live animation using wands!",
+    "extended_details": "There's a \"stage\" area visible by two webcams, one from the front and one from the side. Each person has a wand at the end of which is a colored LED. The 3D location of the wands is detected live using computer vision analyzing the webcam footage. Each wand is mapped to a body part: for example, one player could control the left foot, one the right foot, and the third player could control the head. Together, you can bring the character to life!",
+    "team_profiles": [
+        {
+            "username": "@raymondx",
+            "name": "@raymondx"
+        },
+        {
+            "username": "@jessec1",
+            "name": "@jessec1"
+        },
+        {
+            "username": "@ksangam",
+            "name": "@ksangam"
+        },
+        {
+            "username": "@ndiamant",
+            "name": "@ndiamant"
+        },
+        {
+            "username": "@seungyul",
+            "name": "@seungyul"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Logitech C920 HD Pro Webcam",
+            "cost": "$64.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/587/0.jpg",
+        "garage/587/1.jpg"
+    ]
+}

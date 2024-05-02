@@ -1,0 +1,32 @@
+{
+    "title": "Auto-Bullseye Pong",
+    "date": "07 Nov 2017",
+    "detail": "Making a table that uses cameras to position a cup to catch a ball.",
+    "extended_details": "We want to use cameras which will calculate the trajectory of a ball and move a cup on a table to catch the ball. This would make for a fun party game and an interesting combination of CV algorithms and hardware.",
+    "team_profiles": [
+        {
+            "username": "@abenno",
+            "name": "@abenno"
+        },
+        {
+            "username": "@hmuthaka",
+            "name": "@hmuthaka"
+        },
+        {
+            "username": "@jasonm2",
+            "name": "@jasonm2"
+        },
+        {
+            "username": "@wilsonzhao",
+            "name": "@wilsonzhao"
+        },
+        {
+            "username": "@pnv",
+            "name": "@pnv"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/286/0.jpg"
+    ]
+}

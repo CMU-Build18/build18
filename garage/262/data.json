@@ -1,0 +1,83 @@
+{
+    "title": "BP Bot",
+    "date": "02 Nov 2017",
+    "detail": "Beverage pong playing robot",
+    "extended_details": "Go head-to-head with the beverage pong bot! The self-adapting BP Bot will try to score by tossing a ping pong ball into cups on the user's side of the table while the user attempts to do the same.",
+    "team_profiles": [
+        {
+            "username": "@wfan",
+            "name": "@wfan"
+        },
+        {
+            "username": "@shanelh",
+            "name": "@shanelh"
+        },
+        {
+            "username": "@avictori",
+            "name": "@avictori"
+        },
+        {
+            "username": "@cjye",
+            "name": "@cjye"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Batteries",
+            "cost": "$15.15",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Servo",
+            "cost": "$42.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Camera",
+            "cost": "$51.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$45.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Controller",
+            "cost": "$31.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rubber covering for wheels",
+            "cost": "$3.25",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Encoders",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Motors",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/262/0.jpg"
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "title": "Arkaholics",
+    "date": "08 Nov 2017",
+    "detail": "An engineered solution to a fun night out",
+    "extended_details": "AlcoholEDU part 2; creating a machine that takes in your personal preferences and returns your perfect drink",
+    "team_profiles": [
+        {
+            "username": "@clairec1",
+            "name": "@clairec1"
+        },
+        {
+            "username": "@judyz",
+            "name": "@judyz"
+        },
+        {
+            "username": "@maxinek",
+            "name": "@maxinek"
+        },
+        {
+            "username": "@mbossard",
+            "name": "@mbossard"
+        },
+        {
+            "username": "@arkar1",
+            "name": "@arkar1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LED strip",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wheels",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Wifi Shield",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Zip Ties",
+            "cost": "$5.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Motor",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Duct Tape",
+            "cost": "$6.54",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PCB",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Batteries",
+            "cost": "$17.72",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Food Color",
+            "cost": "$3.06",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Liquid Dispenser",
+            "cost": "$42.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic",
+            "cost": "$41.05",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bluetooth Module",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery Clips",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Cups",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/312/0.jpg"
+    ]
+}

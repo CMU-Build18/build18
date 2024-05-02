@@ -1,0 +1,41 @@
+{
+    "title": "Infinity LED Table",
+    "date": "04 Nov 2018",
+    "detail": "A useful home appliance with the added benefit of being customizable.",
+    "extended_details": "A table with built-in LED strips which will change color at the push of a button. The buttons will be implemented using an arduino and will be on the outside edge of the table for easy-to-reach lighting changes.",
+    "team_profiles": [
+        {
+            "username": "@tduic",
+            "name": "@tduic"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Table",
+            "cost": "$89.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED strips",
+            "cost": "$37.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino starter kit",
+            "cost": "$34.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino push buttons",
+            "cost": "$7.68",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/502/0.jpg"
+    ]
+}

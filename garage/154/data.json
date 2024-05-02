@@ -1,0 +1,81 @@
+{
+    "title": "MinesweepAR",
+    "date": "20 Nov 2016",
+    "detail": "The classic game of Minesweeper in (augmented) real life!",
+    "extended_details": "Remember the grand old days of windows XP, when the only games you had to play were [Pinball](http://www.classicgame.com/Pinball), [Solitaire](https://www.google.com/search?q=solitaire&oq=solitaire&aqs=chrome..69i57j69i60l2j69i61j69i60j69i59.766j0j4&sourceid=chrome&ie=UTF-8), and [Minesweeper](http://minesweeperonline.com/)? We're big fans of the classics, but in the day of VR and AR, they're starting to feel a little dated. To fix that, we're planning on taking the game of Minesweeper into the future!\r\n\r\nTo add another dimension to the game, we're going to build a physical 9x9 grid of buttons which you can walk around on. You'll use a phone or tablet to view the mine count at each location, and it's your job to traverse the minefield, identifying all of the mines. Should you misstep, a simulated explosion will indicate that you've died, which is bad for your health and should generally be avoided.\r\n\r\nRepo: https://github.com/VasuAgrawal/MinesweepAR",
+    "team_profiles": [
+        {
+            "username": "@vasua",
+            "name": "@vasua"
+        },
+        {
+            "username": "@relong",
+            "name": "@relong"
+        },
+        {
+            "username": "@yongyiz",
+            "name": "@yongyiz"
+        },
+        {
+            "username": "@adbenson",
+            "name": "@adbenson"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi Zero Budget Pack - Includes Pi Zero v1.3",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "\n            6 x 1-1/2 phil Flat Head coarse thread Black | Fastenal\n ",
+            "cost": "$0.01",
+            "quantity": "\n",
+            "total": "500"
+        },
+        {
+            "part": "\n            #6 x 1\" Phillips Bugle Head Deck Screw, ACQ Compatible 10",
+            "cost": "$0.04",
+            "quantity": "\n",
+            "total": "350"
+        }
+    ],
+    "photos": [
+        "garage/154/0.jpg",
+        "garage/154/1.jpg",
+        "garage/154/2.jpg",
+        "garage/154/3.jpg",
+        "garage/154/4.jpg",
+        "garage/154/5.jpg",
+        "garage/154/6.jpg",
+        "garage/154/7.jpg",
+        "garage/154/8.jpg",
+        "garage/154/9.jpg",
+        "garage/154/10.jpg",
+        "garage/154/11.jpg",
+        "garage/154/12.jpg",
+        "garage/154/13.jpg",
+        "garage/154/14.jpg",
+        "garage/154/15.jpg",
+        "garage/154/16.jpg",
+        "garage/154/17.jpg",
+        "garage/154/18.jpg",
+        "garage/154/19.jpg",
+        "garage/154/20.jpg",
+        "garage/154/21.jpg",
+        "garage/154/22.jpg",
+        "garage/154/23.jpg",
+        "garage/154/24.jpg",
+        "garage/154/25.jpg",
+        "garage/154/26.jpg",
+        "garage/154/27.jpg",
+        "garage/154/28.jpg",
+        "garage/154/29.jpg",
+        "garage/154/30.jpg",
+        "garage/154/31.jpg",
+        "garage/154/32.jpg",
+        "garage/154/33.jpg",
+        "garage/154/34.jpg"
+    ]
+}

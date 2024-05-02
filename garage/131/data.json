@@ -1,0 +1,155 @@
+{
+    "title": "MEMES Thermostat Controller",
+    "date": "16 Nov 2016",
+    "detail": "Macroelectromechanical engineered system (MEMES) to actuate a thermostat automatically or over Wifi",
+    "extended_details": "Seamlessly integrating electrical and mechanical subsystems, our device will use realtime monitoring and reactive long-extent pulse width modulation to develop an isotropic thermal environment in equilibrium with the normal range of human body temperature.\r\n\r\n\r\n\r\n\r\nIn all seriousness, this project is meant to improve our quality of life while living in the Webster Apartments, by adding some functionality to the awful thermostats that we are provided with. We plan to use a raspberry pi, some sensors, and a servo to mechanically actuate the ON/OFF switch on our thermostat and keep the temperature in a comfortable range.",
+    "team_profiles": [
+        {
+            "username": "@cvsmith",
+            "name": "@cvsmith"
+        },
+        {
+            "username": "@rpaetz",
+            "name": "@rpaetz"
+        },
+        {
+            "username": "@swestenb",
+            "name": "@swestenb"
+        },
+        {
+            "username": "@andrewy",
+            "name": "@andrewy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "5V 2.4A Switching Power Supply with 20AWG MicroUSB Cable ID: 1995 - $7",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPIO Header for Raspberry Pi - Extra tall 2x13 Female Header ID: 1658 ",
+            "cost": "$1.75",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Rotary Encoder - COM-09117 - SparkFun Electronics",
+            "cost": "$2.66",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Command Picture Hanging Strips Value Pack, Medium, White, ",
+            "cost": "$6.04",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$70.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: IOGEAR SD/MicroSD/MMC Card Reader/Writer, GFR204SD: Electr",
+            "cost": "$4.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "One-Wire Ambient Temperature Sensor - MAX31820 - SEN-14049 - SparkFun ",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "4 x AA Battery Holder with On/Off Switch ID: 830 - $2.95 : Adafruit In",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$15.76",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit 16-Channel PWM / Servo HAT for Raspberry Pi - Mini Kit ID: 23",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM ID: 3055 - $39.95 : Adafr",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aven 17542 Desoldering Wick, 2.5mm Width, 5' Length: Solder Wick: Amaz",
+            "cost": "$3.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Thermaltronics TMT-TC-2 Lead Free Tip Tinner (20g) in 0.8o",
+            "cost": "$7.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Duracell Coppertop Alkaline Aa, 24 Count: Health & Persona",
+            "cost": "$13.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro Servo - High Powered, High Torque Metal Gear ID: 2307 - $11.95 :",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "5V 2A (2000mA) switching power supply - UL Listed ID: 276 - $7.95 : Ad",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$6.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 ID: 2336 -",
+            "cost": "$0.75",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Amazon.com: M2.5 x 6mm 304 Stainless Steel Phillips Round Head Screws ",
+            "cost": "$4.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Black Chicken Head Knob - 14x20mm - COM-10000 - SparkFun Electronics",
+            "cost": "$0.60",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/131/0.jpg"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "title": "followBot",
+    "date": "20 Nov 2016",
+    "detail": "Have you ever wanted your robot companion who works silently for you?",
+    "extended_details": "We'll be prototyping a robot that can support trained responders in crisis response scenarios by following them. By using CV, we will track a subject and have the robot follow along",
+    "team_profiles": [
+        {
+            "username": "@nchoudha",
+            "name": "@nchoudha"
+        },
+        {
+            "username": "@rbhardw1",
+            "name": "@rbhardw1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$10.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shield stacking headers for Arduino (R3 Compatible) ID: 85 - $1.95 : A",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Particle Photon with Headers ID: 2721 - $19.00 : Adafruit Industries, ",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Continuous Rotation Servo [FeeTech FS5103R] ID: 154 - $11.95 : Adafrui",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "9V battery holder with switch & 5.5mm/2.1mm plug ID: 67 - $3.95 : Adaf",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Motor/Stepper/Servo Shield for Arduino v2 Kit [v2.3] ID: 1438",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.32",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Standard servo - TowerPro SG-5010 [5010] ID: 155 - $12.00 : Adafruit I",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$27.54",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Qunqi NEMA17 Stepper Motor bipolar 4 leads 34mm 12V 0.4A 26Ncm - - Ama",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Adafruit 16-Channel 12-bit PWM/Servo Shield - I2C interface ID: 1411 -",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Intel Edison Kit for Arduino [Dual Core Intel Atom IA-32 5",
+            "cost": "$84.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/161/0.jpg",
+        "garage/161/1.jpg"
+    ]
+}

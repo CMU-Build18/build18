@@ -1,0 +1,201 @@
+{
+    "title": "Autonomous Underwater Vehicle",
+    "date": "21 Nov 2016",
+    "detail": "Glide and explore below the surface without ever getting wet",
+    "extended_details": "We aim to design and manufacture an autonomous vehicle that will effectively navigate through submarine environments. It will be equipped with a camera and a ultrasonic sensor array, allowing autonomous navigation and object identification.",
+    "team_profiles": [
+        {
+            "username": "@fmeleana",
+            "name": "@fmeleana"
+        },
+        {
+            "username": "@wching",
+            "name": "@wching"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$1.14",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.11",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$14.64",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.35",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.87",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "JBtek\u00ae 1A Lithium Battery Charging Board Lipo Charger Module DIY Micro",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lightobject EWP-7L9 Mini DC Water Pump, Ideal for CPU Cooling, 7 L/min",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: WYPH Ultrasonic Module HC-SR04 Distance Measuring Ranging ",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Break-away 0.1 2x20-pin Strip Dual Male Header ID: 2822 - $0.95 : Adaf",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "4GB SD Card w/ Jessie Lite ID: 2820 - $9.95 : Adafruit Industries, Uni",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.23",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.91",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$13.61",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Sub-Micro Servo 3.7g (Generic)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Lithium Ion Battery Pack - 3.7V 6600mAh ID: 353 - $29.50 : Adafruit In",
+            "cost": "$29.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.77",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Raspberry Pi Zero v1.3 Camera Pack - Includes Pi Zero ID: 3170 - $39.9",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$1.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$7.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$6.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - TB6612FNG Dual Motor Driver Carrier",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Pololu - Adafruit Perma-Proto Quarter-Sized Breadboard PCB (3-Pack)",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3D Filament White PLA 1KG Spool 1.75mm, Filament for 3D Printing, PLA ",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$8.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.91",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - LSM6DS33 3D Accelerometer and Gyro Carrier with Voltage Regul",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/202/0.jpg"
+    ]
+}

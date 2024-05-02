@@ -1,0 +1,47 @@
+{
+    "title": "DJ.io",
+    "date": "20 Oct 2021",
+    "detail": "Chess, Go, StarCraft... there's only one arena where humans still reign supreme, the final frontier: Doodle Jump.",
+    "extended_details": "We will make a system to attempt the world record on hit mobile game Doodle Jump. It will perform CV on the pixels from the screen to detect platforms, make decisions about where to move and shoot, and tilt an iPhone with a motor to perform the movements.",
+    "team_profiles": [
+        {
+            "username": "@raymondx",
+            "name": "@raymondx"
+        },
+        {
+            "username": "@ksangam",
+            "name": "@ksangam"
+        },
+        {
+            "username": "@ssk2",
+            "name": "@ssk2"
+        },
+        {
+            "username": "@ndiamant",
+            "name": "@ndiamant"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "High Torque Motor",
+            "cost": "$20.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Doodle Jump dataset",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "FPGA",
+            "cost": "$211.90",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/713/0.jpg"
+    ]
+}

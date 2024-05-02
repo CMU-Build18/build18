@@ -1,0 +1,75 @@
+{
+    "title": "Modular Mobile Robot",
+    "date": "21 Nov 2016",
+    "detail": "Build a simple multipurpose mobile robot",
+    "extended_details": "Programming mobile robots is a whole field inside robotics. To even start exploring algorithms like trajectory generation, though, one must have a robot to work with. The goal of this project is to build such a mobile robot so that it is possible to experiment with real algorithms on a physical, easy-to-build robot.\r\n\r\nThere are two parts to this project. The first involves building the actual robot. We plan on using a Raspberry Pi platform that controls a four-wheeled drive system, based on the Sand Flea robot from Boston Dynamics. Perception of this robot will be based on the Intel RealSense R200. The second part revolves around writing an API that allows a user to control the robot easily without having to worry about inner workings of the robot, like PWM control of the motors or reading encoder values. We would also like to incorporate ROS into this robot.\r\n\r\nWe also plan on documenting the process of building and programming this robot extensively, so that anyone can make their own modular mobile robot.",
+    "team_profiles": [
+        {
+            "username": "@esahn",
+            "name": "@esahn"
+        },
+        {
+            "username": "@blatz",
+            "name": "@blatz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Pololu 5V, 9A Step-Down Voltage Regulator D24V90F5",
+            "cost": "$27.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu DRV8835 Dual Motor Driver Kit for Raspberry Pi",
+            "cost": "$7.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: DFRobot 2WD miniQ Robot Chassis - DIY Maker Open Source BO",
+            "cost": "$24.09",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Makerfocus Seeed GrovePi+ Expansion Board: Computers & Acc",
+            "cost": "$38.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$14.83",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com - Neato LIDAR Laser distance sensor LDS xv Series xv-11 xv-",
+            "cost": "$120.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Raspberry Pi Camera Module V2 - 8 Megapixel,1080p: Compute",
+            "cost": "$24.81",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/176/0.jpg"
+    ]
+}

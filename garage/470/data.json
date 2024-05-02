@@ -1,0 +1,110 @@
+{
+    "title": "deJunk",
+    "date": "29 Oct 2018",
+    "detail": "Recycling made easy, one toss at a time",
+    "extended_details": "Confused about your trash? Fear no more! We will build a transparent automatic trash and recyclables sorting bin.\r\n\r\nThe purpose of this project is to create a \"smart\" trash can that is able to sort trash into 3 different categories: general trash, recyclable, and compostable. Many recyclable materials end up in the wrong place because people do not have time or do not care to read the labels on trash cans, resulting in an efficient waste of material.\r\n\r\nThe most crucial part of the project is using machine learning to recognize different types of trash and place them in the correct categories. This was mainly facilitated by a Raspberry Pi, Python code, and the Google Cloud Vision API. The servo motors which orient the plates are controlled by GPIO pins on the Raspberry Pi.\r\n\r\nSee [link](https://drive.google.com/drive/folders/1Os5E4Nk0GDNA7Dltmqk1sXCcyrqN40WZ?usp=sharing) for diagrams and meeting minutes prior to and during Build week.",
+    "team_profiles": [
+        {
+            "username": "@schu2",
+            "name": "@schu2"
+        },
+        {
+            "username": "@yuqizhou",
+            "name": "@yuqizhou"
+        },
+        {
+            "username": "@hyuh",
+            "name": "@hyuh"
+        },
+        {
+            "username": "@epena",
+            "name": "@epena"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "DF05BB Tilt/Pan Kit (5kg)",
+            "cost": "$29.92",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Scotch Electrical Tape, 3/4-Inch by 66-Foot",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "24\u2019\u2019x48\u2019\u2019 1/8'' thick, ClearAdir Office Acrylic Plexiglass Sheet",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2 - 8 Megapixels",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CanaKit Raspberry Pi 3 B+ (B Plus) Starter Kit",
+            "cost": "$79.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12\" inch Wooden Circle Cutouts - Pack of 3 - By Woodpeckers",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Medium Density Fiberboard Sheets 24\" \u00d7 36\" x 3/8\"",
+            "cost": "$14.43",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Disposable Cardboard Container for Waste, 5 Gallon Capacity",
+            "cost": "$3.65",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Panel Mount 10K potentiometer (Breadboard Friendly) - 10K Linear",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "BUDGET PACK FOR METRO 328 - WITH ASSEMBLED METRO ATMEGA328P",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Clear Enclosure for Arduino or Metro",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/470/0.jpg",
+        "garage/470/1.jpg",
+        "garage/470/2.jpg",
+        "garage/470/3.jpg",
+        "garage/470/4.jpg",
+        "garage/470/5.jpg",
+        "garage/470/6.jpg",
+        "garage/470/7.jpg",
+        "garage/470/8.jpg",
+        "garage/470/9.jpg",
+        "garage/470/10.jpg",
+        "garage/470/11.jpg",
+        "garage/470/12.jpg",
+        "garage/470/13.jpg",
+        "garage/470/14.jpg",
+        "garage/470/15.jpg"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Mountain Sk80 M80",
+    "date": "31 Oct 2018",
+    "detail": "A long range, multi terrain capable longboard.",
+    "extended_details": "We want to make a cooler longboard type thing, but fewer wheels is better so we are going with three. Also, we want to design a custom battery and battery management system which is where most of the interest in this project lies. We have a lot of experience with these kinds of systems through Carnegie Mellon Racing, and we think it will be fun to throw together something smaller and see how it turns out.\r\n\r\nParts list: https://docs.google.com/spreadsheets/d/1vHobD-drhpxp7Sd7vMw2ByRSrO8eBhTKjatdCcM2Nu8/edit#gid=0",
+    "team_profiles": [
+        {
+            "username": "@mbankole",
+            "name": "@mbankole"
+        },
+        {
+            "username": "@xinzed",
+            "name": "@xinzed"
+        },
+        {
+            "username": "@dpallerl",
+            "name": "@dpallerl"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/491/0.jpg"
+    ]
+}

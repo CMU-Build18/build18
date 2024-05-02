@@ -1,0 +1,178 @@
+{
+    "title": "RealFlight",
+    "date": "08 Nov 2017",
+    "detail": "Experience the true drama and adrenaline of survival as you fly through narrow gaps in immersive first person VR",
+    "extended_details": "With our hot take on the infamous Flappy Bird game, you will be able to flap your wings to control yourself and see through the eyes of the Flappy. How far can you go? \r\n\r\nAfter getting into our harness and putting on our Google Daydream VR headset, players will flap our wing controllers and take to the sky. With each flap of their arms, our wing sensors will send a signal to our harness system that will safely lift them up into the air and reinforce the sensation of upward flight. Of course, players will have to keep flapping their wings to maintain altitude just as they do in the original game; the harness system will slowly lower players if they stop flapping.",
+    "team_profiles": [
+        {
+            "username": "@randaya",
+            "name": "@randaya"
+        },
+        {
+            "username": "@mzc",
+            "name": "@mzc"
+        },
+        {
+            "username": "@efrainb",
+            "name": "@efrainb"
+        },
+        {
+            "username": "@amilford",
+            "name": "@amilford"
+        },
+        {
+            "username": "@sdscott",
+            "name": "@sdscott"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Safety Harness",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Accelerometers",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arduino + Bluetooth",
+            "cost": "$32.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Birch Plywood",
+            "cost": "$49.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Power Supply",
+            "cost": "$23.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pleather Cover",
+            "cost": "$5.98",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Arduino+ Bluetooth Battery",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Screws",
+            "cost": "$13.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Test Motor",
+            "cost": "$15.84",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shaft Collars",
+            "cost": "$5.85",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Matress Topper",
+            "cost": "$11.10",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pipe Assests",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Balancers",
+            "cost": "$21.06",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Emergency Off Button",
+            "cost": "$10.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bolts",
+            "cost": "$8.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor and Driver",
+            "cost": "$101.28",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Square Stock",
+            "cost": "$67.84",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth Assests",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Linear Bearings",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "2X4 wood",
+            "cost": "$3.42",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "Impact Mat",
+            "cost": "$60.76",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/316/0.jpg",
+        "garage/316/1.jpg",
+        "garage/316/2.jpg",
+        "garage/316/3.jpg",
+        "garage/316/4.jpg",
+        "garage/316/5.jpg",
+        "garage/316/6.jpg",
+        "garage/316/7.jpg",
+        "garage/316/8.jpg",
+        "garage/316/9.jpg",
+        "garage/316/10.jpg",
+        "garage/316/11.jpg",
+        "garage/316/12.jpg",
+        "garage/316/13.jpg",
+        "garage/316/14.jpg",
+        "garage/316/15.jpg",
+        "garage/316/16.jpg",
+        "garage/316/17.jpg",
+        "garage/316/18.jpg",
+        "garage/316/19.jpg"
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "title": "CheGoChe",
+    "date": "17 Oct 2021",
+    "detail": "Unbored by Broad Board-er-less Board Games",
+    "extended_details": "An automated Go Board with Computer Vision and automated game logic. Made to add and remove pieces autonomously as dictated by the game rules, enabling remote play, playing against AI and more!",
+    "team_profiles": [
+        {
+            "username": "@rbasdeo",
+            "name": "@rbasdeo"
+        },
+        {
+            "username": "@juanluiv",
+            "name": "@juanluiv"
+        },
+        {
+            "username": "@akyu",
+            "name": "@akyu"
+        },
+        {
+            "username": "@qiuxiand",
+            "name": "@qiuxiand"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Stepper Motor Driivers",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Web Cam",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power Supply",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/4 In MDF Wood Chipboard Sheets for Crafts, Engraving, Painting",
+            "cost": "$17.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Step down voltage converter",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Timing Belt",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "M3 Screws",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "PLA Filament",
+            "cost": "$20.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "M3 Nuts",
+            "cost": "$5.49",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/696/0.jpg",
+        "garage/696/1.jpg",
+        "garage/696/2.jpg",
+        "garage/696/3.jpg",
+        "garage/696/4.jpg",
+        "garage/696/5.jpg",
+        "garage/696/6.jpg",
+        "garage/696/7.jpg",
+        "garage/696/8.jpg",
+        "garage/696/9.jpg",
+        "garage/696/10.jpg",
+        "garage/696/11.jpg",
+        "garage/696/12.jpg",
+        "garage/696/13.jpg",
+        "garage/696/14.jpg",
+        "garage/696/15.jpg",
+        "garage/696/16.jpg",
+        "garage/696/17.jpg",
+        "garage/696/18.jpg",
+        "garage/696/19.jpg",
+        "garage/696/20.jpg",
+        "garage/696/21.jpg",
+        "garage/696/22.jpg",
+        "garage/696/23.jpg",
+        "garage/696/24.jpg",
+        "garage/696/25.jpg",
+        "garage/696/26.jpg",
+        "garage/696/27.jpg",
+        "garage/696/28.jpg",
+        "garage/696/29.jpg",
+        "garage/696/30.jpg",
+        "garage/696/31.jpg",
+        "garage/696/32.jpg",
+        "garage/696/33.jpg",
+        "garage/696/34.jpg",
+        "garage/696/35.jpg",
+        "garage/696/36.jpg",
+        "garage/696/37.jpg",
+        "garage/696/38.jpg",
+        "garage/696/39.jpg",
+        "garage/696/40.jpg",
+        "garage/696/41.jpg",
+        "garage/696/42.jpg",
+        "garage/696/43.jpg",
+        "garage/696/44.jpg",
+        "garage/696/45.jpg",
+        "garage/696/46.jpg",
+        "garage/696/47.jpg",
+        "garage/696/48.jpg",
+        "garage/696/49.jpg",
+        "garage/696/50.jpg",
+        "garage/696/51.jpg",
+        "garage/696/52.jpg",
+        "garage/696/53.jpg"
+    ]
+}

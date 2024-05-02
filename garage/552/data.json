@@ -1,0 +1,53 @@
+{
+    "title": "RoboAssistant",
+    "date": "06 Oct 2019",
+    "detail": "A balancing bot that follows you around and carries your things",
+    "extended_details": "We're building a low-footprint mobile robot that can balance on two wheels, avoid obstacles in it's path, follow it's owner and carry small items.",
+    "team_profiles": [
+        {
+            "username": "@ericat1",
+            "name": "@ericat1"
+        },
+        {
+            "username": "@nflowers",
+            "name": "@nflowers"
+        },
+        {
+            "username": "@lmo",
+            "name": "@lmo"
+        },
+        {
+            "username": "@hcoffin",
+            "name": "@hcoffin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Router",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Intel RealSense Depth Camera",
+            "cost": "$160.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Electronics Starter Kit",
+            "cost": "$27.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Teensy 4.0 Microcontroller",
+            "cost": "$26.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/552/0.jpg"
+    ]
+}

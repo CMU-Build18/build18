@@ -1,0 +1,71 @@
+{
+    "title": "Automatic Can Organizer",
+    "date": "08 Nov 2017",
+    "detail": "This conveyor systems easily allows cans and other grocery items to be stored into shelves!",
+    "extended_details": "Too short? Can't Reach that top shelf? Well we got the solution for you. With our product you no longer need to struggle to put cans and other items on the top shelf. Our conveyor system is similar to those found in bottle vending machines and helps users easily put away items in an organized fashion.",
+    "team_profiles": [
+        {
+            "username": "@apa",
+            "name": "@apa"
+        },
+        {
+            "username": "@sgeorges",
+            "name": "@sgeorges"
+        },
+        {
+            "username": "@madelin1",
+            "name": "@madelin1"
+        },
+        {
+            "username": "@emartell",
+            "name": "@emartell"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Sliding track (to go vertical)",
+            "cost": "$69.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Horizontal Rail: Carriage",
+            "cost": "$9.97",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "12V 200RPM Gear Motor High Torque",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Open Ended Timing Belt w/pulley teeth",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Gorilla Glue",
+            "cost": "$11.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Linear actuator stepper motor (2 inch stroke)",
+            "cost": "$43.72",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Horizontal Rail: Track",
+            "cost": "$23.98",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/315/0.jpg"
+    ]
+}

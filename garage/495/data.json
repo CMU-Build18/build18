@@ -1,0 +1,51 @@
+{
+    "title": "LED Light Wall",
+    "date": "02 Nov 2018",
+    "detail": "Array of LED strips controlled by Rasberry Pi, which can display the time, act as alarm clock, or show the weather.",
+    "extended_details": "Big array of LED strips hung on the wall which can display lots of information.\r\nControlled by Raspberry Pi.",
+    "team_profiles": [
+        {
+            "username": "@nsaizan",
+            "name": "@nsaizan"
+        },
+        {
+            "username": "@astanesc",
+            "name": "@astanesc"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi",
+            "cost": "$84.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Command Strips",
+            "cost": "$7.41",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wifi Shield for RP3",
+            "cost": "$45.30",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Power Supply",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Light Array",
+            "cost": "$109.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/495/0.jpg"
+    ]
+}

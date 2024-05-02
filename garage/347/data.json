@@ -1,0 +1,27 @@
+{
+    "title": "MuVi",
+    "date": "14 Nov 2017",
+    "detail": "Music Visualizer for the home of the future!",
+    "extended_details": "A high-performance music visualizer. This project intends to create a system that not only incorporates music as an audio component of someone's life, but rather visual. Other components such as machine learning will be tied in as well.",
+    "team_profiles": [
+        {
+            "username": "@vincentl",
+            "name": "@vincentl"
+        },
+        {
+            "username": "@mdeng",
+            "name": "@mdeng"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "echo",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/347/0.jpg"
+    ]
+}

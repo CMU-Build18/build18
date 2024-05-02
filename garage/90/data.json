@@ -1,0 +1,20 @@
+{
+    "title": "Such Mechanical, Very Thought!",
+    "date": "28 Nov 2015",
+    "detail": "Build a closed-loop mechanical representation of a neural network.",
+    "extended_details": "[Disclaimer: Project is intended to be more artistic/educational than a pure mechanical metaphor to the human brain's neural interaction.]\r\n\r\nSpring Loaded Gears will be wound by impulses of neighboring gears. Once a gear reaches a particular threshold, it will release (like a neural firing) distributing its potential energy into rotation of other spring loaded gears. Mechanical logic will ensure that a neural network is defined. \r\n\r\nMotors will be required to actuate some of the gears. We will use brushed DC motors controlled by Arduino. All gears will be laser cut. Bearings will ensure near-frictionless rotation with respect to the board.\r\n\r\nPotentiometers on the gears would allow for knowledge of each's state. These could be converted to led brightness values on the gear. Everyone likes flashing lights.",
+    "team_profiles": [
+        {
+            "username": "@bbittner",
+            "name": "@bbittner"
+        },
+        {
+            "username": "@sbittner",
+            "name": "@sbittner"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/90/0.jpg"
+    ]
+}

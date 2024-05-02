@@ -1,0 +1,67 @@
+{
+    "title": "seeing-Eye hand",
+    "date": "07 Nov 2017",
+    "detail": "What if you never had to take notes for a class ever again...",
+    "extended_details": "A blackboard fitted with sensors that tells what's being written. And, transcribes it into notes! :)",
+    "team_profiles": [
+        {
+            "username": "@mjaffer",
+            "name": "@mjaffer"
+        },
+        {
+            "username": "@pkwang",
+            "name": "@pkwang"
+        },
+        {
+            "username": "@evalinej",
+            "name": "@evalinej"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "ultrasonic sensor",
+            "cost": "$32.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "climbing glove",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "xbee shield",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "coin vibrator motor",
+            "cost": "$3.26",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "raspberry pi camera",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "xbee trace antenna",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LIDAR",
+            "cost": "$149.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/294/0.jpg"
+    ]
+}

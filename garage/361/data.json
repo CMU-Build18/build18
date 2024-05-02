@@ -1,0 +1,71 @@
+{
+    "title": "Touchscreen table",
+    "date": "15 Nov 2017",
+    "detail": "Turning any surface into a touchscreen by using a projector, a camera, and contact microphones",
+    "extended_details": "We'll use CV to find and track the finger on the camera feed and sound processing to detect when something is being dragged rather than clicked with the contact microphones",
+    "team_profiles": [
+        {
+            "username": "@rishubj",
+            "name": "@rishubj"
+        },
+        {
+            "username": "@ildook",
+            "name": "@ildook"
+        },
+        {
+            "username": "@varunsha",
+            "name": "@varunsha"
+        },
+        {
+            "username": "@ibiala",
+            "name": "@ibiala"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Contact microphones",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Logitech Webcam",
+            "cost": "$51.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/4in to USB",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Duct tape",
+            "cost": "$3.89",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Projector for display",
+            "cost": "$189.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/4\" to 3.5 mm cable",
+            "cost": "$4.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "3.5 mm to USB adapter",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/361/0.jpg"
+    ]
+}

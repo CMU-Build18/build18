@@ -1,0 +1,111 @@
+{
+    "title": "Mark Succerberg",
+    "date": "25 Oct 2019",
+    "detail": "A plant that finds the sun so you only have to worry about watering it",
+    "extended_details": "We will use light sensors to detect light, motors to move the plant, and an FPGA to coordinate the two. We will use a succulent so we don't have to water it as often.",
+    "team_profiles": [
+        {
+            "username": "@jlenney",
+            "name": "@jlenney"
+        },
+        {
+            "username": "@oaramire",
+            "name": "@oaramire"
+        },
+        {
+            "username": "@cli4",
+            "name": "@cli4"
+        },
+        {
+            "username": "@hliou",
+            "name": "@hliou"
+        },
+        {
+            "username": "@nlamprin",
+            "name": "@nlamprin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Mounting Nuts (pkg of 25)",
+            "cost": "$0.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mounting screws (pkg of 25)",
+            "cost": "$1.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo mounting bracket",
+            "cost": "$2.49",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Wheel",
+            "cost": "$3.50",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Servo",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "AA Batteries (pkg of 24)",
+            "cost": "$10.72",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic (yellow)",
+            "cost": "$14.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic (green)",
+            "cost": "$14.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Photo resistor",
+            "cost": "$0.86",
+            "quantity": "\n",
+            "total": "30"
+        },
+        {
+            "part": "Ultrasonic distance sensor",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "AA Battery case",
+            "cost": "$1.75",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Digital Light Sensor",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "9"
+        }
+    ],
+    "photos": [
+        "garage/585/0.jpg",
+        "garage/585/1.jpg",
+        "garage/585/2.jpg",
+        "garage/585/3.jpg",
+        "garage/585/4.jpg",
+        "garage/585/5.jpg",
+        "garage/585/6.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Robotic Selfie Arm",
+    "date": "08 Nov 2017",
+    "detail": "A selfie stick that does more than just be a selfie stick.",
+    "extended_details": "Using software on your phone, it will find the best angle to position you and the people you are with in the photo, and then adjust the angle using the motors on the selfie stick arm to get you the optimal picture. An interaction of the software on your phone and the hardware in the selfie arm!",
+    "team_profiles": [
+        {
+            "username": "@hardiks1",
+            "name": "@hardiks1"
+        },
+        {
+            "username": "@ruppal",
+            "name": "@ruppal"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/324/0.jpg"
+    ]
+}

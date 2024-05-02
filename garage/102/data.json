@@ -1,0 +1,49 @@
+{
+    "title": "CouchTron",
+    "date": "29 Nov 2015",
+    "detail": "Since everybody wants to drive around campus on a couch... or have the couch come to them.",
+    "extended_details": "1 couch + 4 motors + 4 mecanum wheels + 1 control system + the internet.",
+    "team_profiles": [
+        {
+            "username": "@sreidy",
+            "name": "@sreidy"
+        },
+        {
+            "username": "@ihartwig",
+            "name": "@ihartwig"
+        },
+        {
+            "username": "@rnortega",
+            "name": "@rnortega"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: IFI VEX Pro Victor SP: Toys & Games",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com: Blue Sea Systems ST Blade Fuse Block - 12 Circuits with Ne",
+            "cost": "$38.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 45 AMP Anderson Powerpole Connectors (10 Sets): Electronic",
+            "cost": "$11.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 25 pack 40 Amp ATC Fuse Blade Style Scosche 40A Automotive",
+            "cost": "$5.85",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/102/0.jpg"
+    ]
+}

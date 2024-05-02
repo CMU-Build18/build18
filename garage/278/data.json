@@ -1,0 +1,121 @@
+{
+    "title": "Nemo Touched the Butt",
+    "date": "06 Nov 2017",
+    "detail": "Robotic Nemo swims through a maze to get to a boat",
+    "extended_details": "An arduino and raspberry pi controlled underwater robot uses laser sensors and machine learning to navigate a maze.",
+    "team_profiles": [
+        {
+            "username": "@jessicay",
+            "name": "@jessicay"
+        },
+        {
+            "username": "@jigbokwe",
+            "name": "@jigbokwe"
+        },
+        {
+            "username": "@jandah",
+            "name": "@jandah"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Sparkfun Serial Controlled Motor Driver",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Propeller set 2",
+            "cost": "$10.13",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Propeller set 1",
+            "cost": "$6.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Silicone Sealent",
+            "cost": "$5.32",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Distance sensors",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Gyroscope",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor",
+            "cost": "$14.46",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry pi battery",
+            "cost": "$28.04",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pressure Sensor",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery for motors",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry pi battery breakout board",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Zero W (Basic Kit)",
+            "cost": "$24.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino battery breakout",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Lithium ion battery charger",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Metro Mini",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Magnetic strips",
+            "cost": "$0.36",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/278/0.jpg"
+    ]
+}

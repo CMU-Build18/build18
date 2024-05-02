@@ -1,0 +1,99 @@
+{
+    "title": "AlexaX",
+    "date": "05 Nov 2019",
+    "detail": "Alexa will follow you like a hungry, sad pupper.",
+    "extended_details": "Technology today is constantly playing catch-up with today's fast-moving, relentless consumers. With limitations on budget and time, people often cannot afford more than one smart home device. Introducing AlexaX, an innovative, on-the-go smart home solution that will follow its user to the ends of the world, as long as there is WiFi.",
+    "team_profiles": [
+        {
+            "username": "@jyli1",
+            "name": "@jyli1"
+        },
+        {
+            "username": "@jhsu2",
+            "name": "@jhsu2"
+        },
+        {
+            "username": "@jshuang",
+            "name": "@jshuang"
+        },
+        {
+            "username": "@swyu",
+            "name": "@swyu"
+        },
+        {
+            "username": "@tareks",
+            "name": "@tareks"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Speaker",
+            "cost": "$39.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$30.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "microsd",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED strip",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aux Cord",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Monitor",
+            "cost": "$53.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor driver",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wires",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Camera",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wifi adapter",
+            "cost": "$13.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Chassis",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/662/0.jpg"
+    ]
+}

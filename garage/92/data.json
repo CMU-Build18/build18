@@ -1,0 +1,131 @@
+{
+    "title": "2-D Printer",
+    "date": "28 Nov 2015",
+    "detail": "Have you ever wanted to put tiny text on a handwritten notesheet or forge a signature?",
+    "extended_details": "Then this is the product for you!\r\nThis device will take a digital input, (most likely in the form of an image or PDF), and will write it out with a pen/pencil on 8.5x11 paper. This project will require many, modular steps from figuring out how to interpret the given document, conversion to an arduino-readable format (which will likely be similar to G-Code), and the mechanical design and assembly of the device.",
+    "team_profiles": [
+        {
+            "username": "@slandes",
+            "name": "@slandes"
+        },
+        {
+            "username": "@allanwan",
+            "name": "@allanwan"
+        },
+        {
+            "username": "@bcrites",
+            "name": "@bcrites"
+        },
+        {
+            "username": "@aarontia",
+            "name": "@aarontia"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: 12\" x 24\" - 1/4\" Black Acrylic Plexiglass Sheet, Opaque 0%",
+            "cost": "$13.20",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: Super Power Supply\u00ae AC / DC Adapter Charger Cord Plug - 9V",
+            "cost": "$4.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "uxcell Ball Bushing Linear Motion 8mm x 15mm x 24mm Double Sealed 10 P",
+            "cost": "$7.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Linear Motion 8 mm Shaft, 406 mm Length, Chrome Plated, Case Hardened,",
+            "cost": "$13.79",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "VXB 608 ZZ Skateboard Bearings, Double Shielded, Silver (Pack of 8): D",
+            "cost": "$8.17",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: The Hillman Group 44018 3/8-16 x 1-Inch Button Socket Cap ",
+            "cost": "$5.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 8\" Plastic Cable Zip Ties 100-Pack (Black): Home Improveme",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hilitchi 360pcs M2 M3 Stainless Steel Hex Socket Head Cap Screws Nuts ",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "100Pcs M3 3mm Female Thread Hex Metal Nut Fastener Silver Tone: Amazon",
+            "cost": "$6.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: M3x30mm 0.5mm Pitch Bolts Socket Cap Head Hex Key Screws 5",
+            "cost": "$9.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: M3x45mm 0.5mm Pitch Bolts Socket Cap Head Hex Key Screws 2",
+            "cost": "$5.47",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Arduino MEGA 2560 R3: Computers & Accessories",
+            "cost": "$37.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Swordfish 32030 Oxide Finish Steel Compression Spring Assortment, Blac",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 50 PCS Jumper Wires Premium 200mm M/F Male-to-Female: Comp",
+            "cost": "$5.65",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Motor/Stepper/Servo Shield for Arduino v2 Kit - v2.0: Amazon.",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/92/0.jpg"
+    ]
+}

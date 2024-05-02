@@ -1,0 +1,58 @@
+{
+    "title": "Tapioca Pearl Forming Machine",
+    "date": "28 Nov 2015",
+    "detail": "It isn't natural for tapioca pearls to be black!",
+    "extended_details": "Know what goes into your tapioca pearls by making them yourself! Building a mini tumbler that rolls tapioca balls with a mixing bowl, motor, and some computer vision for quality assurance.\r\nhttps://youtu.be/cV2E1qUDTis",
+    "team_profiles": [
+        {
+            "username": "@jyc1",
+            "name": "@jyc1"
+        },
+        {
+            "username": "@hsuanm",
+            "name": "@hsuanm"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon.com: CoreGear USA Misters 1.5 Liter Personal Water Mister Pump ",
+            "cost": "$14.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC 24V 200RPM High Torque Reversible Turbine Worm Gear Motor Reduction",
+            "cost": "$50.06",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com - RSVP Endurance Bowl - 12 Qt - Mixing Bowls",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: New DC 24V 15A Switching Power Supply Transformer Regulate",
+            "cost": "$23.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Fox Run Silicone Scraper, Green: Mixing Bowls: Kitchen & D",
+            "cost": "$7.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bob's Red Mill Tapioca Flour, 20-Ounce (Pack of 4): Amazon.com: Grocer",
+            "cost": "$19.20",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/81/0.jpg",
+        "garage/81/1.jpg"
+    ]
+}

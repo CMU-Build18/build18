@@ -1,0 +1,73 @@
+{
+    "title": "Marble Xylophone",
+    "date": "08 Nov 2017",
+    "detail": "Play all the modern pop hits on the modern sounds of a xylophone",
+    "extended_details": "We think Ke$ha would sound better when played by a xylophone. And lots and lots of marbles. If you don't like Ke$ha, it'll be compatible with any other song you'd like. As long as it's Ke$ha.",
+    "team_profiles": [
+        {
+            "username": "@dsaha",
+            "name": "@dsaha"
+        },
+        {
+            "username": "@mbartnof",
+            "name": "@mbartnof"
+        },
+        {
+            "username": "@philsmit",
+            "name": "@philsmit"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberri Pi",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 10A switching power supply",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Premium Female/Male 'Extension' Jumper Wires - 40 x 6\" (150mm)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Glockenspiel",
+            "cost": "$49.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sub-micro Servo - SG51R",
+            "cost": "$5.36",
+            "quantity": "\n",
+            "total": "16"
+        },
+        {
+            "part": "Servo HAT",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Acrylic Sheet",
+            "cost": "$9.82",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Ball bearings",
+            "cost": "$3.20",
+            "quantity": "\n",
+            "total": "4"
+        }
+    ],
+    "photos": [
+        "garage/314/0.jpg"
+    ]
+}

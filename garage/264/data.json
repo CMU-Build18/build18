@@ -1,0 +1,159 @@
+{
+    "title": "MarkOff Processor",
+    "date": "03 Nov 2017",
+    "detail": "An autonomous robot to erase whiteboards",
+    "extended_details": "MarkOff Processor (MOP) is a robot that attaches to a whiteboard and autonomously erases old marks on the board. We will use neodymium magnets to attach the MOP to the whiteboard. We will have a webcam watching the whiteboard from the ground, which will send data to a computer running OpenCV. The computer will plan the movement for the MOP and send instructions to the MOP over bluetooth.",
+    "team_profiles": [
+        {
+            "username": "@tpina",
+            "name": "@tpina"
+        },
+        {
+            "username": "@msjohnso",
+            "name": "@msjohnso"
+        },
+        {
+            "username": "@bney",
+            "name": "@bney"
+        },
+        {
+            "username": "@jasonx",
+            "name": "@jasonx"
+        },
+        {
+            "username": "@arudich",
+            "name": "@arudich"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "EXPO Low-Odor Dry Erase Set, Chisel Tip, Assorted Colors, 8-Piece",
+            "cost": "$6.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SAN81505 - EXPO Dry Erase Eraser, 4 Packs",
+            "cost": "$6.48",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ball Caster Plastic - 3/8\"",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Chanzon 3mm LEDs - 100pcs (10 colors x 10pcs)",
+            "cost": "$6.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gorilla Super Glue, 15 g",
+            "cost": "$4.19",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "TAG Inflatable Lounger",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Thin Speaker",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun Triple Axis Accelerometer Breakout - ADXL335",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tenergy 6V 2000mAh NiMH RX Battery Packs",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wheel for Micro Continuous Rotation FS90R Servo",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Feather Stacking Headers - 12-pin and 16-pin female headers",
+            "cost": "$1.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 500mAh",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Feather nRF52 Bluefruit LE - nRF52832",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Continuous Rotation Micro Servo - FS90R",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "High-Pull Rare Earth Magnetic Disc",
+            "cost": "$3.31",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "BLUE Scratch-Resistant Acrylic, 12\" x 24\" x 1/8\"",
+            "cost": "$14.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Oil-Resistant Soft Buna-N O-Rings 2 mm Wide, 40 mm ID",
+            "cost": "$5.94",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "VELCRO Brand - Sew On Fasteners - 3/4\" Wide Tape - 30\" - Black",
+            "cost": "$4.23",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "TNP USB 3.0 Extension Cable (15 Feet)",
+            "cost": "$8.27",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Logitech HD Laptop Webcam C615",
+            "cost": "$31.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/264/0.jpg",
+        "garage/264/1.jpg",
+        "garage/264/2.jpg",
+        "garage/264/3.jpg",
+        "garage/264/4.jpg",
+        "garage/264/5.jpg",
+        "garage/264/6.jpg"
+    ]
+}

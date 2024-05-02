@@ -1,0 +1,53 @@
+{
+    "title": "VGMBoy",
+    "date": "29 Oct 2018",
+    "detail": "Hardware-based VGM player for classic FM synth chiptunes.",
+    "extended_details": "VGMBoy is a board interfacing a microcontroller with a Yamaha FM synth (YM2608) and a TI PSG (SN76489). This allows it to play back music composed for the Sega Genesis, Sega Master system, FM Towns, PC-98, and most AY-3-8910/YM2149-based machines.",
+    "team_profiles": [
+        {
+            "username": "@fseidel",
+            "name": "@fseidel"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Teensy 3.5 Microcontroller",
+            "cost": "$28.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SN76489",
+            "cost": "$3.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "AY-3-8910",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "breadboard",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SI5351A CLOCK GENERATOR BREAKOUT BOARD",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB micro-B cable",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/471/0.jpg"
+    ]
+}

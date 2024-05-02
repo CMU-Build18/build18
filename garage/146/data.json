@@ -1,0 +1,107 @@
+{
+    "title": "Just Keep Swimming",
+    "date": "20 Nov 2016",
+    "detail": "A Mobility-Enhancing Fish Tank",
+    "extended_details": "This project will allow our pet goldfish Walter to explore the world by swimming around his tank. We will build a driving base for the tank controlled by a Raspberry Pi. Images from a webcam mounted above the tank will be processed by the Raspberry Pi and direct the driving direction. To allow for full mobility, the tank will be completely battery powered.",
+    "team_profiles": [
+        {
+            "username": "@aperley",
+            "name": "@aperley"
+        },
+        {
+            "username": "@jchernak",
+            "name": "@jchernak"
+        },
+        {
+            "username": "@aakent",
+            "name": "@aakent"
+        },
+        {
+            "username": "@zen",
+            "name": "@zen"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$20.85",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu 25D mm Metal Gearmotor Bracket Pair",
+            "cost": "$7.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu Universal Aluminum Mounting Hub for 4mm Shaft, #4-40 Holes (2-P",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit ID: 2348 -",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 12V Tenergy 2000mAh NiMH Battery Pack with Bare Leads for ",
+            "cost": "$23.92",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$17.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 ID: 2336 -",
+            "cost": "$0.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16mm Illuminated Pushbutton - Blue Momentary ID: 1477 - $1.95 : Adafru",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Wheel 70\u00d78mm Pair - Blue",
+            "cost": "$8.49",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Model B+ 512MB RAM ID: 1914 - $29.95 : Adafruit Industrie",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/146/0.jpg"
+    ]
+}

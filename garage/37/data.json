@@ -1,0 +1,88 @@
+{
+    "title": "Mega Man Arcade Table",
+    "date": "27 Nov 2015",
+    "detail": "Battle your personal Mega Man character against your friends' with our holographic arcade table!",
+    "extended_details": "A wooden arcade table with a holographic pyramid that use Pepper's Ghost to project each player's character onto a 3D 3x6 play field. On each side of the arcade table, there is a set of arcade buttons that players can control their characters with. Input from these controllers is handled by an Arduino Une that acts as a USB keyboard that controls the game running on a Raspberry Pi. Gameplay is based on Mega Man Battle Network.",
+    "team_profiles": [
+        {
+            "username": "@bhlai",
+            "name": "@bhlai"
+        },
+        {
+            "username": "@vincentl",
+            "name": "@vincentl"
+        },
+        {
+            "username": "@khlee1",
+            "name": "@khlee1"
+        },
+        {
+            "username": "@cckwong",
+            "name": "@cckwong"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arcade Joystick - Short Handle - COM-09182 - SparkFun Electronics",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Concave Button - Red - COM-09336 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Concave Button - Blue - COM-09337 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$42.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Rust-Oleum 7578838 Professional High Performance Enamel Sp",
+            "cost": "$5.53",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: AOC e2752She 27-Inch Class LED Backlit Monitor with 2 MS R",
+            "cost": "$149.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Concave Button - White - COM-09340 - SparkFun Electronics",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: SUPERNIGHT 16.4ft (5m) 5050 300Leds RGB+WHITE Flexible RGB",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$23.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/37/0.jpg",
+        "garage/37/1.jpg",
+        "garage/37/2.jpg",
+        "garage/37/3.jpg",
+        "garage/37/4.jpg",
+        "garage/37/5.jpg"
+    ]
+}

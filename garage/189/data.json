@@ -1,0 +1,24 @@
+{
+    "title": "Theremin Hero",
+    "date": "21 Nov 2016",
+    "detail": "It's Guitar Hero, except with a theremin.",
+    "extended_details": "Do you like the fun of Guitar Hero, but wish it was played with a weird, proximity sensitive electronic instrument from 1920s Russia? Then look no further!\r\n\r\nTheremin hero is a Guitar Hero-like game where players watch an onscreen bar move up and down. The player mimics the movement of the bar using his or her hands to play the song. Movements are detected by a simple theremin which sends an analog voltage to a DAC. The DAC is connected to a computer, which runs the game software and generates audio via FM synthesis in realtime.",
+    "team_profiles": [
+        {
+            "username": "@fseidel",
+            "name": "@fseidel"
+        },
+        {
+            "username": "@jocelynh",
+            "name": "@jocelynh"
+        },
+        {
+            "username": "@achai",
+            "name": "@achai"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/189/0.jpg"
+    ]
+}

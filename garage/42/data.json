@@ -1,0 +1,67 @@
+{
+    "title": "Smart Sensors",
+    "date": "27 Nov 2015",
+    "detail": "Low-cost sensor integration!",
+    "extended_details": "We will design a self-driving steering system that will navigate and complete a set course (for example, the Buggy course or a race track) under varying conditions. This project achieves this by getting position and heading from different sensors and then, with an end point in mind, applying the data to a PID controller. The system will include a personal computer, a microcontroller, multiple sensors, a steering mechanism, and a braking mechanism.",
+    "team_profiles": [
+        {
+            "username": "@emilliga",
+            "name": "@emilliga"
+        },
+        {
+            "username": "@cperry",
+            "name": "@cperry"
+        },
+        {
+            "username": "@njeffrie",
+            "name": "@njeffrie"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SMA to uFL/u.FL/IPX/IPEX RF Adapter Cable ID: 851 - $3.95 : Adafruit I",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 ID: 2",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPS Antenna - External Active Antenna - 3-5V 28dB 5 Meter SMA ID: 960 ",
+            "cost": "$12.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Analog Feedback Servo ID: 1404 - $14.95 : Adafruit Industries, Unique ",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$48.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rotary Encoder - 1024 P/R (Quadrature) - COM-11102 - SparkFun Electron",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Standard Size - High Torque - Metal Gear Servo ID: 1142 - $19.95 : Ada",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/42/0.jpg"
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "title": "Tonal Paintbrush",
+    "date": "27 Nov 2015",
+    "detail": "Paint sounds in 3D space. Listen to your painting by moving the brush around your painting",
+    "extended_details": "There are 2 main components to this project: the desktop component (a computer connected to a Kinect and a set of speakers), and the handheld component (a paintbrush containing a WiFi transceiver, an MCU and a small circuit). The Kinect is used to track the user's hands, and the computer is used to operate the Kinect and produce sounds.\r\n\r\nSetup:\r\nThe user holds the paintbrush in their right hand. The paintbrush has a small MCU, a WiFi transceiver and a small circuit containing a button and a potentiometer. The Kinect will face the user, tracking the position of their right hand.\r\n\r\nWhen the user presses the button on the paintbrush, the transceiver communicates this to the computer (communication protocol TBA), and the current position of the paintbrush is recorded by the computer. The computer also produces a sound.\r\n\r\nNow when the paintbrush is placed in the vicinity of the recorded position, the computer plays back the sound (allowing the user to explore their painting).",
+    "team_profiles": [
+        {
+            "username": "@akkamat",
+            "name": "@akkamat"
+        },
+        {
+            "username": "@msfernan",
+            "name": "@msfernan"
+        },
+        {
+            "username": "@mmcelwai",
+            "name": "@mmcelwai"
+        },
+        {
+            "username": "@pratikpr",
+            "name": "@pratikpr"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit HUZZAH ESP8266 Breakout ID: 2471 - $9.95 : Adafruit Industrie",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Adafruit Perma-Proto Quarter-sized Breadboard PCB - 3 Pack! ID: 589 - ",
+            "cost": "$8.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Trinket - Mini Microcontroller - 5V Logic ID: 1501 - $6.95 : ",
+            "cost": "$6.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Premium Male/Male Jumper Wires - 40 x 12 (300mm) ID: 760 - $7.95 : Ada",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Slide Pot - Medium (10k Linear Taper) - COM-11621 - SparkFun Electroni",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bone Conductor Transducer with Wires - 8 Ohm 1 Watt ID: 1674 - $8.95 :",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Stereo 3.7W Class D Audio Amplifier - MAX98306 ID: 987 - $8.95 : Adafr",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "FTDI Serial TTL-232 USB Cable ID: 70 - $17.95 : Adafruit Industries, U",
+            "cost": "$17.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Linear SoftPot (Ribbon Sensor) [100mm] ID: 178 - $7.95 : Adafruit Indu",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "232 Keystone Electronics | Battery Products | DigiKey",
+            "cost": "$0.58",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Amazon.com : SnoreShield Anti Snore Chin Strap : Beauty",
+            "cost": "$7.61",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 3 Large Area Soft Wash Paint Brushes~gesso, Basecoating: A",
+            "cost": "$7.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Logitech S120 2.0 Multimedia Speakers: Electronics",
+            "cost": "$16.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NeoPixel Ring - 12 x WS2812 5050 RGB LED with Integrated Drivers ID: 1",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gorilla Epoxy - Wood Glues - Amazon.com",
+            "cost": "$3.91",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Vibrating Mini Motor Disc ID: 1201 - $1.95 : Adafruit Industries, Uniq",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "USB cable - A/MicroB [3ft] ID: 592 - $2.95 : Adafruit Industries, Uniq",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GRM188R71C105KA12D Murata Electronics North America | Capacitors | Dig",
+            "cost": "$0.02",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "1222 Energizer Battery Company | Battery Products | DigiKey",
+            "cost": "$1.26",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Arcade Button - 30mm Translucent Red ID: 473 - $2.95 : Adafruit Indust",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/12/0.jpg",
+        "garage/12/1.jpg"
+    ]
+}

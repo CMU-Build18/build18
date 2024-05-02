@@ -1,0 +1,77 @@
+{
+    "title": "Network Display Panel",
+    "date": "14 Nov 2017",
+    "detail": "Watch messages travel between computers in this portable network",
+    "extended_details": "The small size and low cost of the Raspberry Pi Zero W makes it possible to construct a portable network of computers. Using the GPIO, users can push buttons to send messages over the network and watch as LEDs light up between the sender and receiver.",
+    "team_profiles": [
+        {
+            "username": "@bdenby",
+            "name": "@bdenby"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi Zero W",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "USB 2.0 A Male to Micro B 1ft Cables",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2x20 Male Header",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "SanDisk Ultra 16GB Micro SDHC Class 10 Card",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "Perma Proto Bonnet",
+            "cost": "$4.50",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "ATmega328P",
+            "cost": "$2.14",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "Addressable LED Strip",
+            "cost": "$24.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hook-Up Wire",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Power Port",
+            "cost": "$27.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Metal Pushbutton",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/354/0.jpg"
+    ]
+}

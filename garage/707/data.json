@@ -1,0 +1,32 @@
+{
+    "title": "Arrowhead",
+    "date": "19 Oct 2021",
+    "detail": "An archery robot that never misses its target...not a safety hazard",
+    "extended_details": "A project that will use motors, servos and Computer Vision to create an archery robot that can use a bow to accurately hit a target",
+    "team_profiles": [
+        {
+            "username": "@lucag",
+            "name": "@lucag"
+        },
+        {
+            "username": "@smmadan",
+            "name": "@smmadan"
+        },
+        {
+            "username": "@harshuls",
+            "name": "@harshuls"
+        },
+        {
+            "username": "@bpan2",
+            "name": "@bpan2"
+        },
+        {
+            "username": "@njeans",
+            "name": "@njeans"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/707/0.jpg"
+    ]
+}

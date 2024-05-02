@@ -1,0 +1,93 @@
+{
+    "title": "Mat-less DDR",
+    "date": "17 Nov 2016",
+    "detail": "\"She's got accelerometers on the soles of her shoes\"  -- Paul Simon",
+    "extended_details": "# Dance, Dance, Dance!  \r\n\r\n> DDR without a mat.  We put clip-on accelerometers on your shoes, and then let you play right on the floor.\r\n\r\nPSA: Our use of *DDR* refers to Dance, Dance Revolution.  It has nothing to do with memory interfaces.",
+    "team_profiles": [
+        {
+            "username": "@wnace",
+            "name": "@wnace"
+        },
+        {
+            "username": "@ppezeshk",
+            "name": "@ppezeshk"
+        },
+        {
+            "username": "@ptelang",
+            "name": "@ptelang"
+        },
+        {
+            "username": "@pavhad",
+            "name": "@pavhad"
+        },
+        {
+            "username": "@scjoglek",
+            "name": "@scjoglek"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "XBee 2mW PCB Antenna - Series 2 (ZigBee Mesh) - WRL-11217 - SparkFun E",
+            "cost": "$20.76",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "SparkFun 9DoF Razor IMU M0 - SEN-14001 - SparkFun Electronics",
+            "cost": "$39.96",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun XBee Explorer USB - WRL-11812 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun XBee Explorer Dongle - WRL-11697 - SparkFun Electronics",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun XBee Shield - WRL-12847 - SparkFun Electronics",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Break Away Headers - Straight - PRT-00116 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "2mm 10pin XBee Socket - PRT-08272 - SparkFun Electronics",
+            "cost": "$1.00",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Breakout Board for XBee Module - BOB-08276 - SparkFun Electronics",
+            "cost": "$2.36",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Reflective Arm or Leg Elastic Bands By Athleema (Set of 4 Velcro Strap",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/133/0.jpg"
+    ]
+}

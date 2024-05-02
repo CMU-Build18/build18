@@ -1,0 +1,87 @@
+{
+    "title": "Gimme the Lamp",
+    "date": "29 Oct 2018",
+    "detail": "Have you ever woken up groggy or feeling unsatisfied from last night\u2019s terrible nap?",
+    "extended_details": "As a CMU student, our sleep schedules are often disoriented and messy, often leaving us waking up still feeling groggy. Therefore, we should put efforts into maximizing sleep efficiency as well as comfort levels.Better than a trusted cup of coffee, our light gently guides you towards optimal waking hours and it is exactly what every student needs. Waking up with our lamp simulates an environment akin to an amazing sunrise completed with a soothing ambiance. We analyze your personal circadian rhythm in addition to the essential sleep hormones such as cortisol and melatonin in order to personalize a sleep schedule that guarantees you a great night's sleep. This lamp helps you regulate your sleep cycle in beneficial ways to ensure that you are at peak performance each and every day. In addition, it can aid in relieving other sleep-related problems such as insomnia or jet-lag. So instead of having to worry about when to wake up, just focus on your work and let our lamp do the rest!",
+    "team_profiles": [
+        {
+            "username": "@raymondx",
+            "name": "@raymondx"
+        },
+        {
+            "username": "@jessec1",
+            "name": "@jessec1"
+        },
+        {
+            "username": "@ksangam",
+            "name": "@ksangam"
+        },
+        {
+            "username": "@amitnag",
+            "name": "@amitnag"
+        },
+        {
+            "username": "@ssk2",
+            "name": "@ssk2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Lamp Cord",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Dimmer",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bulb Holder",
+            "cost": "$6.28",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Lightbulb",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Raspberry Pi Display",
+            "cost": "$75.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Motor",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Diffuser Sheet",
+            "cost": "$18.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/484/0.jpg"
+    ]
+}

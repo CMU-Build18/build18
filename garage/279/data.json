@@ -1,0 +1,121 @@
+{
+    "title": "Electricity Generating Footwear",
+    "date": "06 Nov 2017",
+    "detail": "You can produce electricity by just walking!",
+    "extended_details": "We use hydropower to generate electricity and then transform this energy into what normal devices can use.",
+    "team_profiles": [
+        {
+            "username": "@zhengx",
+            "name": "@zhengx"
+        },
+        {
+            "username": "@ruohaig",
+            "name": "@ruohaig"
+        },
+        {
+            "username": "@xingshew",
+            "name": "@xingshew"
+        },
+        {
+            "username": "@jiamengd",
+            "name": "@jiamengd"
+        },
+        {
+            "username": "@zhendony",
+            "name": "@zhendony"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Volt Transformer Stabilizer Voltage Regulator Module",
+            "cost": "$27.31",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB module",
+            "cost": "$7.69",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Hydroelectric Power Generator",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "usb rechargeable light",
+            "cost": "$0.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Loctite Epoxy Plastic Bonder 0.85-Fluid Ounce Syringe (1363118 )",
+            "cost": "$7.10",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Collapsible Water Bottle - 6-Pack 16 oz Foldable BPA Free Canteen Drin",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wire",
+            "cost": "$4.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino with bluetooth",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "piezo disc",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB module with converter",
+            "cost": "$7.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Marine-Grade Plywood Sheet",
+            "cost": "$28.29",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "25 ft 3/8\" ID 1/2\" OD Vinyl Tubing - FDA Approved - By Proper Pour",
+            "cost": "$12.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Royal Purple 01600 Purple Ice Super-Coolant Radiator Additive - 12 oz.",
+            "cost": "$13.01",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1N4007 Diode",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/279/0.jpg",
+        "garage/279/1.jpg",
+        "garage/279/2.jpg",
+        "garage/279/3.jpg",
+        "garage/279/4.jpg"
+    ]
+}

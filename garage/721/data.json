@@ -1,0 +1,75 @@
+{
+    "title": "DDR (Dance Dance Robot)",
+    "date": "29 Oct 2021",
+    "detail": "Want to see a robot dance? Play the hit game DDR(TM) and watch the robot dance to your keystrokes!",
+    "extended_details": "We are creating a user interface robot, that can dance based on commands given by a user input. We will also be building the dance pad and the robot's interactive arms. This can be defined as a fun toy for the kids, or can be extended to improving reflexes in a clear way for rehabilitation patients.",
+    "team_profiles": [
+        {
+            "username": "@arojas2",
+            "name": "@arojas2"
+        },
+        {
+            "username": "@shreyara",
+            "name": "@shreyara"
+        },
+        {
+            "username": "@josegarc",
+            "name": "@josegarc"
+        },
+        {
+            "username": "@lcy",
+            "name": "@lcy"
+        },
+        {
+            "username": "@auriellb",
+            "name": "@auriellb"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Arduino Due",
+            "cost": "$34.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Actuator",
+            "cost": "$6.73",
+            "quantity": "\n",
+            "total": "15"
+        },
+        {
+            "part": "Wood",
+            "cost": "$16.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "More aluminum",
+            "cost": "$16.88",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "LED Lights",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "L-Shaped bracket",
+            "cost": "$3.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Spray Paint",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/721/0.jpg"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Mixed Reality: Candy Land",
+    "date": "07 Nov 2017",
+    "detail": "Transforming your world into Candy Land using VR",
+    "extended_details": "We use a Kinect to detect real-world objects in a space and transform them into VR obstacles. This will allow you to wander freely in the real world while being fully immersed in your virtual reality.\r\n\r\nhttps://docs.google.com/a/andrew.cmu.edu/document/d/1-bcZTBbmHSOlzSbEhNklTtq7_Pa03g9SE009fzZV42A/edit?usp=sharing",
+    "team_profiles": [
+        {
+            "username": "@emy",
+            "name": "@emy"
+        },
+        {
+            "username": "@eosofsky",
+            "name": "@eosofsky"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/300/0.jpg"
+    ]
+}

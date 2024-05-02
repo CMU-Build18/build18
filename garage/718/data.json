@@ -1,0 +1,53 @@
+{
+    "title": "Trautonium",
+    "date": "21 Oct 2021",
+    "detail": "create a tactile keyboard-like instrument based on the design for a trautonium",
+    "extended_details": "The trautonium traditionally consists of a resistive wire suspended above a conductive plate. When a user presses the wire down, making contact with the plate, it closes the circuit at that point and current is allowed to flow through the wire. Depending on the position the user chooses, the circuit has a different resistance. This variable resistance can be used to determine the frequency of the sound output.",
+    "team_profiles": [
+        {
+            "username": "@driyer",
+            "name": "@driyer"
+        },
+        {
+            "username": "@ksabak",
+            "name": "@ksabak"
+        },
+        {
+            "username": "@jpedraza",
+            "name": "@jpedraza"
+        },
+        {
+            "username": "@ryanbao",
+            "name": "@ryanbao"
+        },
+        {
+            "username": "@korenet",
+            "name": "@korenet"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Pressure Sensor",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Spring",
+            "cost": "$8.12",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Resistance wire",
+            "cost": "$7.29",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/718/0.jpg",
+        "garage/718/1.jpg",
+        "garage/718/2.jpg"
+    ]
+}

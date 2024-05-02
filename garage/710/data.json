@@ -1,0 +1,147 @@
+{
+    "title": "Pancake Printer",
+    "date": "19 Oct 2021",
+    "detail": "Creating art, one drop of batter at a time",
+    "extended_details": "We plan on making a laser-cutter-style machine that deposits pancake batter in order to make a uniquely shaped pancake.",
+    "team_profiles": [
+        {
+            "username": "@kevinson",
+            "name": "@kevinson"
+        },
+        {
+            "username": "@cscai",
+            "name": "@cscai"
+        },
+        {
+            "username": "@asutandi",
+            "name": "@asutandi"
+        },
+        {
+            "username": "@eserre",
+            "name": "@eserre"
+        },
+        {
+            "username": "@nyw",
+            "name": "@nyw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "controller and stepper motor",
+            "cost": "$64.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Griddle",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "belt pulleys+belt",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/4-20 nut",
+            "cost": "$4.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "bearing bolt",
+            "cost": "$7.84",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1/4\"id-1/2\"od bearings",
+            "cost": "$8.49",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "8020 20mmx20mm 10ft",
+            "cost": "$28.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "squeezy bottle",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "peristaltic pump",
+            "cost": "$38.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "1kg PETG",
+            "cost": "$20.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "24v power supply",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tubing",
+            "cost": "$4.65",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "M5x10mm",
+            "cost": "$4.31",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "M5 nut",
+            "cost": "$1.70",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "t nut",
+            "cost": "$2.45",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "zip ties",
+            "cost": "$6.14",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "acryllic sheet",
+            "cost": "$9.70",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "pancake mix",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/710/0.jpg",
+        "garage/710/1.jpg",
+        "garage/710/2.jpg",
+        "garage/710/3.jpg",
+        "garage/710/4.jpg",
+        "garage/710/5.jpg",
+        "garage/710/6.jpg"
+    ]
+}

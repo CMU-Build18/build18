@@ -1,0 +1,45 @@
+{
+    "title": "The Best Drone",
+    "date": "20 Oct 2018",
+    "detail": "The best drone that has ever been made",
+    "extended_details": "we are building an fpv drone that we will use to fly around and race and deliver amazon packages and other stuff",
+    "team_profiles": [
+        {
+            "username": "@arudich",
+            "name": "@arudich"
+        },
+        {
+            "username": "@jhewitt",
+            "name": "@jhewitt"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Drone Kit",
+            "cost": "$145.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Transmitter and receiver",
+            "cost": "$54.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LiPo Charrger",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/437/0.jpg"
+    ]
+}

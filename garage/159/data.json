@@ -1,0 +1,77 @@
+{
+    "title": "Andy Waffhol",
+    "date": "20 Nov 2016",
+    "detail": "Make waffles with a personalized design via touchscreen",
+    "extended_details": "use a raspberry Pi touchscreen to draw a picture, then a motorized finger will press down pegs and lock them into place, which will press the design into the waffle.",
+    "team_profiles": [
+        {
+            "username": "@jdangrem",
+            "name": "@jdangrem"
+        },
+        {
+            "username": "@seanande",
+            "name": "@seanande"
+        },
+        {
+            "username": "@mriek",
+            "name": "@mriek"
+        },
+        {
+            "username": "@jtaekman",
+            "name": "@jtaekman"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.92",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$38.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$26.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shopping",
+            "cost": "$27.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$13.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$22.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/159/0.jpg"
+    ]
+}

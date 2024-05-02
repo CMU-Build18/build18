@@ -1,0 +1,51 @@
+{
+    "title": "Smarter Smartfade",
+    "date": "20 Nov 2016",
+    "detail": "ETC's Smartfade with usability improvements",
+    "extended_details": "Creating a base-level lighting control surface with key usability improvements and extra features. Potential ideas include having flying faders, sACN output, and other useful programming features in a nice enclosure.",
+    "team_profiles": [
+        {
+            "username": "@youziw",
+            "name": "@youziw"
+        },
+        {
+            "username": "@apinson",
+            "name": "@apinson"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "EK-TM4C123GXL Texas Instruments | Development Boards, Kits, Programmer",
+            "cost": "$13.49",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SparkFun Motor Driver - Dual TB6612FNG (1A) - ROB-09457 - SparkFun Ele",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Slide Pot - Motorized (10k Linear Taper) - COM-10976 - SparkFun Electr",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Slide Potentiometer Knob - COM-09120 - SparkFun Electronics",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "",
+            "cost": "$34.75",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/163/0.jpg"
+    ]
+}

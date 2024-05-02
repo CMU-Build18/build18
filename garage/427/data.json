@@ -1,0 +1,88 @@
+{
+    "title": "Giant Emoji",
+    "date": "13 Oct 2018",
+    "detail": "An apparatus to mimic and present facial expression",
+    "extended_details": "Our facial expressions, no matter innate or voluntary, carry our deepest emotion and best selves we want others to know.\r\nIn this project, we are going to demonstrate the aesthetic value of our facial expressions using robotics: to capture people's facial expressions through computer vision and magnify them on a robotic emoji.",
+    "team_profiles": [
+        {
+            "username": "@ruohaig",
+            "name": "@ruohaig"
+        },
+        {
+            "username": "@fyan1",
+            "name": "@fyan1"
+        },
+        {
+            "username": "@yishunz",
+            "name": "@yishunz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Nema 23 CNC Stepper Motor 2.8A 178.5oz.in/1.26Nm",
+            "cost": "$26.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "ARDUINO UNO R3 [A000066] without Expression Installation",
+            "cost": "$21.21",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Inovat 100-240V to 24V 2A Switching AC/DC Power Adapter",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Micro Maestro 6-Channel USB Servo Controller (Assembled)",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LewanSoul LD-27MG Full Metal Gear Standard Digital Servo",
+            "cost": "$17.49",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Miuzei 10 Pcs MG996R Servo Motor Metal Gear Torque Digital Motor Kit",
+            "cost": "$45.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "T-Slotted Framing Single Rail, Silver, 1\" High x 1\" Wide, Solid (6ft)",
+            "cost": "$17.68",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MYSWEETY TB6600 4A 9-42V Stepper Motor Driver CNC Controller",
+            "cost": "$14.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Chanzon DC Power Connector",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/427/0.jpg",
+        "garage/427/1.jpg",
+        "garage/427/2.jpg",
+        "garage/427/3.jpg",
+        "garage/427/4.jpg",
+        "garage/427/5.jpg",
+        "garage/427/6.jpg",
+        "garage/427/7.jpg",
+        "garage/427/8.jpg",
+        "garage/427/9.jpg"
+    ]
+}

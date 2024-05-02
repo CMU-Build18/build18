@@ -1,0 +1,69 @@
+{
+    "title": "tanksA\u042fus",
+    "date": "04 Nov 2017",
+    "detail": "Tanks .... but really tho",
+    "extended_details": "Augmented reality mobile game with a remote controlled vehicles that interact with each other__________.",
+    "team_profiles": [
+        {
+            "username": "@rselagam",
+            "name": "@rselagam"
+        },
+        {
+            "username": "@sungjunh",
+            "name": "@sungjunh"
+        },
+        {
+            "username": "@arij",
+            "name": "@arij"
+        },
+        {
+            "username": "@souravp",
+            "name": "@souravp"
+        },
+        {
+            "username": "@dzy",
+            "name": "@dzy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "USB Extension Cable",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Xbox Wireless Receiver",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Tanks",
+            "cost": "$54.06",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Samsung 32GB MicroSD",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "IMU for Raspberry Pi 3 Model B",
+            "cost": "$31.10",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/270/0.jpg"
+    ]
+}

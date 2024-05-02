@@ -1,0 +1,16 @@
+{
+    "title": "Tornado Trainer (Foosball)",
+    "date": "15 Nov 2021",
+    "detail": "Challenge your robot overlords to foosball, and use the training to dominate humans",
+    "extended_details": "Foosball \"training\" robot, that aims to defend and deflect away your foosball shots. Good when you dont have friends to play with, or for competitive, foosball-addicts like myself. \r\n\r\n*Tornado is the name of the American foosball table.",
+    "team_profiles": [
+        {
+            "username": "@scleong",
+            "name": "@scleong"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/740/0.jpg"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Haptic Rhythm Music Game",
+    "date": "19 Oct 2021",
+    "detail": "Next-generation rhythm music game that has haptic feedback.",
+    "extended_details": "We want to create a simple rhythm music game that runs on a Raspberry Pi and has the feature of most traditional music games, with the new feature of having physical game interface and providing haptic feedback to the players which strengthen their perception of rhythms.\r\n\r\nCode available at https://github.com/rg526/rg526.",
+    "team_profiles": [
+        {
+            "username": "@yizet",
+            "name": "@yizet"
+        },
+        {
+            "username": "@fuyangl",
+            "name": "@fuyangl"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Breadboard",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 4 7\" display case",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Powered Speakers",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "2.1mm DC barrel jack",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 7\" display",
+            "cost": "$79.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 4",
+            "cost": "$129.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V Power Supply 2.1mm",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V Power Supply MicroUSB",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Female/Male 'Extension' Jumper Wires - 20 x 12\"",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Colorful Round Tactile Button Switch Assortment - 15 pack",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "N-channel power MOSFET",
+            "cost": "$1.75",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Vibrating Mini Motor Disc",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/704/0.jpg",
+        "garage/704/1.jpg",
+        "garage/704/2.jpg",
+        "garage/704/3.jpg",
+        "garage/704/4.jpg",
+        "garage/704/5.jpg",
+        "garage/704/6.jpg",
+        "garage/704/7.jpg",
+        "garage/704/8.jpg",
+        "garage/704/9.jpg"
+    ]
+}

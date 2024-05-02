@@ -1,0 +1,79 @@
+{
+    "title": "ModulAR IOT",
+    "date": "29 Oct 2018",
+    "detail": "An AR app that points arrows between connected/communicating modules.",
+    "extended_details": "A more intuitive way to understand, control, and visualize connections. We will use AR to draw visuals showing the communication and data flow between various IOT devices/modules.",
+    "team_profiles": [
+        {
+            "username": "@sjlau",
+            "name": "@sjlau"
+        },
+        {
+            "username": "@cnl2",
+            "name": "@cnl2"
+        },
+        {
+            "username": "@elu2",
+            "name": "@elu2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Adafruit DRV8833 DC/Stepper Motor Driver Breakout Board",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper Motor With Cable",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ELEGOO Upgraded 37 in 1 Sensor Modules Kit with Tutorial for Arduino U",
+            "cost": "$29.86",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Break Away Header Pins",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB micro-B Cable - 6 Foot",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Lithium Ion Battery - 110mAh",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "SparkFun Photon Battery Shield",
+            "cost": "$13.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "ALITOVE 3.2ft 60 Pixels WS2812B WS2811 Individual Addressable 5050 RGB",
+            "cost": "$11.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Photon",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/485/0.jpg"
+    ]
+}

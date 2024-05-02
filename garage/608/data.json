@@ -1,0 +1,103 @@
+{
+    "title": "Otto-Checkers",
+    "date": "27 Oct 2019",
+    "detail": "Feeling lonely? Play a game of checkers against Otto, the autonomous checker playing robot!",
+    "extended_details": "This board will be able to move it's own checkers pieces around against a human opponent. Uses some magnets and a little bit of magic.",
+    "team_profiles": [
+        {
+            "username": "@jafinn",
+            "name": "@jafinn"
+        },
+        {
+            "username": "@eeschnei",
+            "name": "@eeschnei"
+        },
+        {
+            "username": "@mtrivedi",
+            "name": "@mtrivedi"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Sleeve bearings (6294K416)",
+            "cost": "$1.32",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "Stepper motor",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Power Supply (839-1687-ND)",
+            "cost": "$13.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Reed switches",
+            "cost": "$0.72",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "EasyDriver",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Mini Microswitch",
+            "cost": "$2.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Metro Mini",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Zero WH",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Neodymium magnets",
+            "cost": "$0.62",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "P Star",
+            "cost": "$9.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "plastic rod",
+            "cost": "$1.05",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Diode",
+            "cost": "$0.06",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "5V Electromagnet",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/608/0.jpg"
+    ]
+}

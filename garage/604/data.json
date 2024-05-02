@@ -1,0 +1,81 @@
+{
+    "title": "Rocket Shoes!",
+    "date": "27 Oct 2019",
+    "detail": "Tired of walking and other existing modes of transportation? Here's another one that's located in your shoes..",
+    "extended_details": "Ever heard of the revolutionary technology known as Heelys? We have. But we decided to take it a step further by reducing your physical exertion. That's right: motorized Heelys (aka Rocket Shoes!). We will accomplish this with teamwork, a reasonable budget, and motors.",
+    "team_profiles": [
+        {
+            "username": "@utran",
+            "name": "@utran"
+        },
+        {
+            "username": "@ebarake",
+            "name": "@ebarake"
+        },
+        {
+            "username": "@lchilamk",
+            "name": "@lchilamk"
+        },
+        {
+            "username": "@vluu",
+            "name": "@vluu"
+        },
+        {
+            "username": "@vvortega",
+            "name": "@vvortega"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LIPO Batteries",
+            "cost": "$35.38",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Heelys Wheels",
+            "cost": "$26.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "VESC",
+            "cost": "$60.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Controller",
+            "cost": "$27.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor",
+            "cost": "$48.29",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "bearings",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "xt60 connectors",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Sparkfun Bread Boards",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/604/0.jpg"
+    ]
+}

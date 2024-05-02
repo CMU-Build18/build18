@@ -1,0 +1,20 @@
+{
+    "title": "Automated Silk Screener",
+    "date": "29 Oct 2018",
+    "detail": "a DIY silk screening device allowing for consistent reproduction for the at home maker",
+    "extended_details": "We are creating a silk screening mechanism that automatically will perform registration for whatever is being silkscreened and that might automatically wipe the screen for us, creating a consistent pattern.",
+    "team_profiles": [
+        {
+            "username": "@jbgoldst",
+            "name": "@jbgoldst"
+        },
+        {
+            "username": "@sarikab",
+            "name": "@sarikab"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/483/0.jpg"
+    ]
+}

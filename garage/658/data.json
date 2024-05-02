@@ -1,0 +1,93 @@
+{
+    "title": "Note-taker",
+    "date": "31 Oct 2019",
+    "detail": "No need for a scanner when your notes are automatically transferred to your computer",
+    "extended_details": "We are designing an attachment for any regular-sized pen/pencil that'll allow the user to take notes on any surface (paper) and have those notes be added to a pdf on their computers in real time.",
+    "team_profiles": [
+        {
+            "username": "@sangbums",
+            "name": "@sangbums"
+        },
+        {
+            "username": "@ggoran",
+            "name": "@ggoran"
+        },
+        {
+            "username": "@asanders",
+            "name": "@asanders"
+        },
+        {
+            "username": "@asgovind",
+            "name": "@asgovind"
+        },
+        {
+            "username": "@jwli2",
+            "name": "@jwli2"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Gyroscope",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Sensor",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Distance Sensor",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acryllic",
+            "cost": "$9.15",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi",
+            "cost": "$54.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rasberry Pi 4",
+            "cost": "$55.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino",
+            "cost": "$20.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth Module",
+            "cost": "$27.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Strip",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi WH",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/658/0.jpg"
+    ]
+}

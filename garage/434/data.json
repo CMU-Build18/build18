@@ -1,0 +1,253 @@
+{
+    "title": "Keep Talking and Nobody Explodes",
+    "date": "19 Oct 2018",
+    "detail": "A physical instantiation of the computer game Keep Talking and Nobody Explodes",
+    "extended_details": "We are bringing the popular computer game *Keep Talking and Nobody Explodes* to life! You have only a few minutes to defuse several modules' worth of puzzles\u2014can you do it before your time runs out? Uh oh, looks like you forgot your defusal manual. Communicate with your teammates to figure out how to defuse the bomb before the timer counts down to 00:00.",
+    "team_profiles": [
+        {
+            "username": "@wnace",
+            "name": "@wnace"
+        },
+        {
+            "username": "@msjohnso",
+            "name": "@msjohnso"
+        },
+        {
+            "username": "@jasonx",
+            "name": "@jasonx"
+        },
+        {
+            "username": "@sprasad1",
+            "name": "@sprasad1"
+        },
+        {
+            "username": "@jluo3",
+            "name": "@jluo3"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Red Illuminated Toggle Switch with Cover",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "4-Way rotary Switch",
+            "cost": "$4.77",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CD4021BE",
+            "cost": "$0.43",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Arduino Nano",
+            "cost": "$37.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Mega",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Proto board",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red 7-Segment Display",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "RGB LCD (12C controllable)",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Green Illuminated Momentary Push Button",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "4 Digit 7 Segment FeatherWing Display - Red",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Single Number Display",
+            "cost": "$3.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SN74HC595N",
+            "cost": "$0.44",
+            "quantity": "\n",
+            "total": "15"
+        },
+        {
+            "part": "Status Light",
+            "cost": "$2.05",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red Alphanumeric Display",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Rotary Encoder Dials",
+            "cost": "$10.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Pushbuttons",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "I2C OLED Display",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pin Header",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood",
+            "cost": "$27.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Clear RGB LED pack",
+            "cost": "$8.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Red 7-Seg display (10 pc of single digit)",
+            "cost": "$6.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "10 pieces of Colorful Momentary Pushbuttons",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Black Knob",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5 toggle switches",
+            "cost": "$11.55",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pushbutton pack of 10",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3-pack white lit transmit button",
+            "cost": "$5.59",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED Mounts",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "16x2 Character LCD display",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Yellow Illuminated Momentary Push Button",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Yellow 7-Segment Display",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Piezo Element",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16mm Illuminated Pushbutton",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Momentary Black Push button",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Metal Knob",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/434/0.jpg",
+        "garage/434/1.jpg",
+        "garage/434/2.jpg",
+        "garage/434/3.jpg",
+        "garage/434/4.jpg",
+        "garage/434/5.jpg",
+        "garage/434/6.jpg",
+        "garage/434/7.jpg",
+        "garage/434/8.jpg",
+        "garage/434/9.jpg",
+        "garage/434/10.jpg",
+        "garage/434/11.jpg",
+        "garage/434/12.jpg",
+        "garage/434/13.jpg",
+        "garage/434/14.jpg",
+        "garage/434/15.jpg",
+        "garage/434/16.jpg"
+    ]
+}

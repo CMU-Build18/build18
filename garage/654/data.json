@@ -1,0 +1,78 @@
+{
+    "title": "RoboCat",
+    "date": "29 Oct 2019",
+    "detail": "Meow? Meow!!!! Purrrrrrrrr",
+    "extended_details": "A see-through acrylic robot cat.\r\n\r\nYour favorite pet, now available without shedding and litterbox duties.\r\n\r\nThis beauty will have an onboard computer that controls its very cat-like quadrupedal motion as well as its vision system. It will use a raspberry pi camera and open CV to detect where a laser pointer is pointing towards and follow in its direction.",
+    "team_profiles": [
+        {
+            "username": "@aassefa",
+            "name": "@aassefa"
+        },
+        {
+            "username": "@achang2",
+            "name": "@achang2"
+        },
+        {
+            "username": "@takshshg",
+            "name": "@takshshg"
+        },
+        {
+            "username": "@wobeid",
+            "name": "@wobeid"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Longruner 10Pcs MG90S Metal Geared Micro Servo Motor 9G for Helicopter",
+            "cost": "$35.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit 16-Channel PWM/Servo-HAT for Pi, MINI KIT (X 1)",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SunFounder USB 2.0 Mini Microphone for Raspberry Pi 4 Model B, Module",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "DIYmall 0.96\" Inch I2c IIC Serial 128x64 OLED LCD LED White Display Mo",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Clear Scratch UV-Resistant Cast Acrylic Sheet",
+            "cost": "$8.31",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Stereo Enclosed Speaker Set - 3W 4 Ohm",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Portable Phone Charger 10000mAh Quick Charge 2.4 A Power Bank External",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (2GB)",
+            "cost": "$47.69",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/654/0.jpg",
+        "garage/654/1.jpg"
+    ]
+}

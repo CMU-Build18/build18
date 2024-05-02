@@ -1,0 +1,71 @@
+{
+    "title": "Copycat",
+    "date": "28 Oct 2018",
+    "detail": "Robotic arm that parallels motion",
+    "extended_details": "A robotic arm that uses an Arduino, servos, and sensors to track and mimic the motion of a human arm.",
+    "team_profiles": [
+        {
+            "username": "@jcorona",
+            "name": "@jcorona"
+        },
+        {
+            "username": "@denisey",
+            "name": "@denisey"
+        },
+        {
+            "username": "@sangbums",
+            "name": "@sangbums"
+        },
+        {
+            "username": "@tanvib",
+            "name": "@tanvib"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Servo motor",
+            "cost": "$12.00",
+            "quantity": "\n",
+            "total": "9"
+        },
+        {
+            "part": "Magnets",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hall Sensors",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "15"
+        },
+        {
+            "part": "Arduino Uno",
+            "cost": "$18.90",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Plywood",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Motor Driver",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Breadboard",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/452/0.jpg"
+    ]
+}

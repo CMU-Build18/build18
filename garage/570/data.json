@@ -1,0 +1,91 @@
+{
+    "title": "Naagin",
+    "date": "16 Oct 2019",
+    "detail": "A modular robot that can re-form to maneuver over any terrain.",
+    "extended_details": "We want to create a modular robot that can navigate terrain by changing its configuration.  It will be able to autonomously detect its environment, detach segments, and modify itself to change its mobility configuration.  Each segment will be its own functional robot and will be able to detach, move, and reattach on its own.  Each module will use a wifi chip as a microcontroller and communicate with other modules wirelessly.  The modules will each have 2 wheels, and they will also each contain a powered universal joint to maximize their adaptability.  Additionally, each will have sensors onboard, and the network as a whole will use the combination of all of the sensors for state estimation.\r\n\r\nWishlists: https://docs.google.com/document/d/15Ercf_QJc5ywpJZrIIhJ4jKzUehmwSl6zQGfLloHr9Q/edit\r\n\r\nCAD:\r\nhttps://cad.onshape.com/documents/fdb6094af97f443f01d9c1c4/w/0e954dc3aa772307bf7996fb/e/618063ea4fd4dc588d547505\r\n\r\nCode:\r\nhttps://github.com/mooey5775/small_naagin\r\nhttps://github.com/mooey5775/big_naagin",
+    "team_profiles": [
+        {
+            "username": "@edwardli",
+            "name": "@edwardli"
+        },
+        {
+            "username": "@kjnewman",
+            "name": "@kjnewman"
+        },
+        {
+            "username": "@osavkur",
+            "name": "@osavkur"
+        },
+        {
+            "username": "@ntalvare",
+            "name": "@ntalvare"
+        },
+        {
+            "username": "@gxgao",
+            "name": "@gxgao"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Continuous Rotation Servo",
+            "cost": "$4.46",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Standard Servo",
+            "cost": "$3.99",
+            "quantity": "\n",
+            "total": "15"
+        },
+        {
+            "part": "Battery",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "ESP8266 Wifi Microchip",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "5V Regulator",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Ultrasonic Distance Sensor - HC-SR04",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Lipo Charger",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Sparkfun Air Quality Breakout",
+            "cost": "$20.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Serial Cable",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/570/0.jpg",
+        "garage/570/1.jpg",
+        "garage/570/2.jpg",
+        "garage/570/3.jpg",
+        "garage/570/4.jpg"
+    ]
+}

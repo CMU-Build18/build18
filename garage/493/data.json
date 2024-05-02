@@ -1,0 +1,139 @@
+{
+    "title": "Bearing Blaster",
+    "date": "31 Oct 2018",
+    "detail": "Are you on a buggy team? Do your hands ache from cleaning bearings? Fear no more!",
+    "extended_details": "The Bearing Blaster cleans multiple ball bearings simultaneously.  It spins and washes bearings with acetone, flushing out any loose particles or excess lubricant in the mechanism.  It saves mechanics time and effort, while safely containing the mess.",
+    "team_profiles": [
+        {
+            "username": "@ehusted",
+            "name": "@ehusted"
+        },
+        {
+            "username": "@mcornwal",
+            "name": "@mcornwal"
+        },
+        {
+            "username": "@andrewth",
+            "name": "@andrewth"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Transfer Pipettes",
+            "cost": "$5.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Butyl Tape",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminum Sheets",
+            "cost": "$27.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Ball Valve",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "High Torque DC Motor",
+            "cost": "$12.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "DC Speed Controller",
+            "cost": "$8.45",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Aluminum Rods",
+            "cost": "$10.26",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Bevel Gear",
+            "cost": "$11.80",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery Pack",
+            "cost": "$23.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Spring Set",
+            "cost": "$8.91",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Squeeze Bottles",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood Screw Set",
+            "cost": "$11.75",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Zip Ties",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Silicone Sealant",
+            "cost": "$11.62",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tubing",
+            "cost": "$10.13",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Storage Container",
+            "cost": "$25.08",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Copper Wire",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "PWM Cable",
+            "cost": "$5.65",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acetone",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/493/0.jpg"
+    ]
+}

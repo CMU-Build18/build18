@@ -1,0 +1,129 @@
+{
+    "title": "100-Proof",
+    "date": "08 Nov 2017",
+    "detail": "In need of inspiration? Press a button to make a cocktail of your choice. No fuss and no cleaning!",
+    "extended_details": "The 3D Cocktail Printer makes you a cocktail of your choice simply by pressing a button! \r\n\r\n* Choose from an updated and refreshing list of drink options!\r\n* Make your own drinks! The Printer is programmable for the hobbyist bartender in you!\r\n* No fuss, no cleaning! All you need is a glass!\r\n\r\n\r\nThe Printer also comes with facial recognition features to ensure safe and responsible drinking!\r\n\r\nhttps://docs.google.com/document/d/1vDSxkru7BCNRnNGhuiKurxnfFoGU5Pj5rFOhP0uoYEc/edit",
+    "team_profiles": [
+        {
+            "username": "@ckho",
+            "name": "@ckho"
+        },
+        {
+            "username": "@myou",
+            "name": "@myou"
+        },
+        {
+            "username": "@eujingc",
+            "name": "@eujingc"
+        },
+        {
+            "username": "@zexuano",
+            "name": "@zexuano"
+        },
+        {
+            "username": "@nleonzhi",
+            "name": "@nleonzhi"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RioRand 12V-40V 10A PWM DC Motor Speed Controller with Knob-High Effic",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "econoLED 12V Flexible SMD 5050 RGB LED Strip Lights, LED Tape",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Liquid Flow Meter - Plastic 1/2\" NPS Threaded",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "TIMING BELT GT2 PROFILE - 2MM PITCH - 6MM WIDE 1164MM LONG",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "74HC595 SHIFT REGISTER - 3 PACK",
+            "cost": "$2.75",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit TB6612 1.2A DC/Stepper Motor Driver Breakout Board",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "ALUMINUM GT2 TIMING PULLEY - 6MM BELT - 36 TOOTH - 5MM BORE",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stepper motor - NEMA-17 size - 200 steps/rev, 12V 350mA",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Power Adapter",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B Motherboard",
+            "cost": "$34.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Mal",
+            "cost": "$6.66",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Kootek 8 Channel DC 5V Relay Module for Arduino Raspberry Pi DSP AVR P",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5/8\" Worm-Drive Hose Clamps, SAE 4 Mini - (pack of 10)",
+            "cost": "$9.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "uxcell Priming Diaphragm Pump Spray Motor 12V for Water Dispenser",
+            "cost": "$13.29",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "5/16\" ID, 7/16\" OD Vinyl Tubing",
+            "cost": "$9.52",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "InstallGear Universal Car Power Door Lock Actuator 12-Volt Motor",
+            "cost": "$13.87",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/319/0.jpg"
+    ]
+}

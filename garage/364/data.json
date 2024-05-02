@@ -1,0 +1,97 @@
+{
+    "title": "One Nightstand",
+    "date": "15 Nov 2017",
+    "detail": "A bedside table with everything you could dream of.",
+    "extended_details": "The nightstand will feature a wireless charger on the surface of the table, and the table itself will be built by us. Other features may include a customizable alarm clock and a \"lamp\" or other low-light experience with adjustable light levels. The table encompasses essential and convenient features of a bedside table, and ideally, be so appealing that you would want to take it home.",
+    "team_profiles": [
+        {
+            "username": "@zkearney",
+            "name": "@zkearney"
+        },
+        {
+            "username": "@jsafer",
+            "name": "@jsafer"
+        },
+        {
+            "username": "@ryanauld",
+            "name": "@ryanauld"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Green 1.2\" clock display",
+            "cost": "$18.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "microUSB to USB cable",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "JST SM connectors",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Digital RGB LED strip",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wood Glue",
+            "cost": "$6.78",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hard Maple Lumber 3/4\"x4\"x12\"",
+            "cost": "$12.31",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Wireless Charging Transmitter",
+            "cost": "$7.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "White LED Strip (edited by officers)",
+            "cost": "$23.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic Paint",
+            "cost": "$18.07",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Mini powerstrip",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Wireless Charging Case for iPhone 7 in Silver",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/364/0.jpg"
+    ]
+}

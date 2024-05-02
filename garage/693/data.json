@@ -1,0 +1,101 @@
+{
+    "title": "Socially-distanced Pong",
+    "date": "15 Oct 2021",
+    "detail": "Pong without a CPU, built on 2 FPGAs, driving 2 monitors, communicating in ridiculous ways.",
+    "extended_details": "This implementation of Pong will build on the 18-240 lab project as a completely digital hardware version of Pong.  Instead of implementing the entire game on a single FPGA, we will use two FPGAs to drive two monitors.  The communication between the two FPGAs will be something ludicrous, like audible Morse code or flashing QR codes.",
+    "team_profiles": [
+        {
+            "username": "@wnace",
+            "name": "@wnace"
+        },
+        {
+            "username": "@anirudhp",
+            "name": "@anirudhp"
+        },
+        {
+            "username": "@bohanyu",
+            "name": "@bohanyu"
+        },
+        {
+            "username": "@allin",
+            "name": "@allin"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Pi Zero W",
+            "cost": "$14.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Camera for Pi Zero",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "E-Ink Gizmo for Circuit Playground",
+            "cost": "$21.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Circuit Playground Bluefruit",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Acrylic Sheet",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Joystick",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Neopixel Bars",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Arcade button: Red",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arcade button: Blue",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arcade button: Green",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arcade button: Yellow",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Arcade button quick connects",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/693/0.jpg"
+    ]
+}

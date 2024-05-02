@@ -1,0 +1,28 @@
+{
+    "title": "Mind Controlled Bot",
+    "date": "14 Nov 2016",
+    "detail": "Think it. Do it. This is your world.",
+    "extended_details": "Have you ever wondered what it would be like to control things with your mind? With our robot, you need not wonder anymore! We connect an EEG headset to allow users to control an Arduino-based robot using nothing more than their brainwaves. With applications in biomedical engineering, biorobotics, and more, we hope to develop a product that is both convenient to use and marketable.",
+    "team_profiles": [
+        {
+            "username": "@arajesh",
+            "name": "@arajesh"
+        },
+        {
+            "username": "@rishabhc",
+            "name": "@rishabhc"
+        },
+        {
+            "username": "@abhaa",
+            "name": "@abhaa"
+        },
+        {
+            "username": "@abharga2",
+            "name": "@abharga2"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/129/0.jpg"
+    ]
+}

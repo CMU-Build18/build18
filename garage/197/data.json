@@ -1,0 +1,97 @@
+{
+    "title": "Kinect Based Fork Lift",
+    "date": "21 Nov 2016",
+    "detail": "Construct a fork lift controlled by kinect from scratch!",
+    "extended_details": "Fork lift is often clumsy to operate and difficult to control. We are trying to build an arduino based fork lift and train our kinect sensors to capture body signals and relay them back to the machine through bluetooth.",
+    "team_profiles": [
+        {
+            "username": "@wguo2",
+            "name": "@wguo2"
+        },
+        {
+            "username": "@jiaxuan1",
+            "name": "@jiaxuan1"
+        },
+        {
+            "username": "@hardiks1",
+            "name": "@hardiks1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$19.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: LEGO Tire \u00d862.4 x 20 w/ Rim \u00d8 43,2 X 18 - Pack of 4 each (",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: CISNO 203589/5959 Go Kart Drive Belt- Mini Bike Drive Belt",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$15.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$7.32",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Unifun 10400mAh Waterproof External Battery Power Bank Cha",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$4.97",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$89.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Robot Check",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Qunqi 1.8V 3V 5V 6V 12V 2A PWM DC Motor Speed Control /w Potentiometer",
+            "cost": "$8.98",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/197/0.jpg"
+    ]
+}

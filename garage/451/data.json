@@ -1,0 +1,117 @@
+{
+    "title": "music fountain",
+    "date": "28 Oct 2018",
+    "detail": "Fountain that moves to the beat of radical tunes",
+    "extended_details": "This project will be a fountain that reads a song and makes a water and light show based on the audio.",
+    "team_profiles": [
+        {
+            "username": "@jlenney",
+            "name": "@jlenney"
+        },
+        {
+            "username": "@oaramire",
+            "name": "@oaramire"
+        },
+        {
+            "username": "@repouhe",
+            "name": "@repouhe"
+        },
+        {
+            "username": "@nlamprin",
+            "name": "@nlamprin"
+        },
+        {
+            "username": "@jlewis1",
+            "name": "@jlewis1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "MicroSD card (16GB)",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tubing",
+            "cost": "$8.71",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Waterproof Servo",
+            "cost": "$17.89",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Pi MicroUSB charger",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bucket",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Basin",
+            "cost": "$26.44",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Submersible Water Pump",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Waterproof LED Strip",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Waterproof speaker",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboards",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC motor",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Tarp",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Straws",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B Board",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/451/0.jpg"
+    ]
+}

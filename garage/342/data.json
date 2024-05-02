@@ -1,0 +1,139 @@
+{
+    "title": "Keychain Gameboy",
+    "date": "14 Nov 2017",
+    "detail": "Scratch built emulation of Gameboy in an adorable form factor",
+    "extended_details": "Remember the 90's? Trading Recees for string cheese, crying when your teacher killed your Tamagotchi and of course, trading \r\nPok\u00e9mon. Powered by the same chip at the heart of the TI-84, the original Gameboy was a defining element of childhood for many 90's kids. Although ancient by todays standards, at the time it was nothing short of incredible.This project captures that nostalgia by faithfully recreating it in a novelty form factor.\r\n\r\nCustom Built Raspbery-Pi based miniature Gameboy emulator. Emulator written for raspberry pi in C/C++. Project placed with screen and buttons into custom case. Target size is something small enough to be used as a functional keychain.\r\n\r\nProject will split into two phases : software design of emulator and hardware design of the physical device.",
+    "team_profiles": [
+        {
+            "username": "@eblesswi",
+            "name": "@eblesswi"
+        },
+        {
+            "username": "@mlaurenc",
+            "name": "@mlaurenc"
+        },
+        {
+            "username": "@jbfields",
+            "name": "@jbfields"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "5V 2.4A Switching Power Supply with 20AWG MicroUSB Cable",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit Joy Bonnet for Raspberry Pi",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Tiny OTG Adapter - USB Micro to USB",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A - 1000C",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "PiGrrl Zero Custom Gamepad PCB",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "PiTFT Plus 320x240 3.2\" TFT + Resistive Touchscreen",
+            "cost": "$39.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Zero W (Basic Kit)",
+            "cost": "$24.50",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Break-away 0.1\" 2x20-pin Strip Dual Male Header",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Tactile Button switch (6mm) x 20 pack",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Lithium Ion Battery - 3.7v 2000mAh",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Soft Tactile Button (8mm) x 10",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Hammering Sodder Field",
+            "cost": "$6.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ethernet Adapter",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CONSOLE DEBUGGER",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GAMEPAD PCB",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "JUmper Cables",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Perma Proto Board",
+            "cost": "$8.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3.5 in screen",
+            "cost": "$45.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Jumper Cables (male)",
+            "cost": "$6.98",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/342/0.jpg"
+    ]
+}

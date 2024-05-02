@@ -1,0 +1,99 @@
+{
+    "title": "Keyboard/Software for Composers!",
+    "date": "19 Oct 2021",
+    "detail": "Ever jammed out and liked a chord but struggled when you tried to write it down to play later? This is for you!",
+    "extended_details": "As a composer, it can be tedious to jam out until you hit a melody or harmony you like, take a video with one hand and try to remember what you just did with the other, go back through the video note by note and add it to a software while changing the key, length, and other aspects for every single note. So, we propose a keyboard or software that automatically takes makes what you play into a music score so can easily edit it however you like after!",
+    "team_profiles": [
+        {
+            "username": "@jiyengar",
+            "name": "@jiyengar"
+        },
+        {
+            "username": "@karenli",
+            "name": "@karenli"
+        },
+        {
+            "username": "@achong2",
+            "name": "@achong2"
+        },
+        {
+            "username": "@arobert",
+            "name": "@arobert"
+        },
+        {
+            "username": "@sgaiter",
+            "name": "@sgaiter"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "force sensitive resistor",
+            "cost": "$6.30",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "10k resistors",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "i2c port expander",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "arduino mega",
+            "cost": "$34.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "wires",
+            "cost": "$11.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "4051 multiplexers",
+            "cost": "$6.11",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "plywood",
+            "cost": "$59.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "lilac filament",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "clear filament",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "purple spray paint",
+            "cost": "$14.71",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "LED pixel lights",
+            "cost": "$17.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/708/0.jpg"
+    ]
+}

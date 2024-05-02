@@ -1,0 +1,109 @@
+{
+    "title": "Lit\u00b3",
+    "date": "27 Oct 2019",
+    "detail": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Draw mathematical representations in 3D using a LED cube.",
+    "extended_details": "A visualizer for 3D functions using a LED cube. We will implement a script that allows plotting any mathematical representation in 3D. The LEDs will be controlled by an Arduino.",
+    "team_profiles": [
+        {
+            "username": "@xuanyel",
+            "name": "@xuanyel"
+        },
+        {
+            "username": "@gdl2",
+            "name": "@gdl2"
+        },
+        {
+            "username": "@dchwang",
+            "name": "@dchwang"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "270-10K/REEL-RC",
+            "cost": "$0.22",
+            "quantity": "\n",
+            "total": "250"
+        },
+        {
+            "part": "36-pin Stacking header - pack of 5",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit 6-pin AVR ISP Breadboard Adapter Mini Kit",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Premium Male/Male Jumper Wires - 40 x 6\" (150mm)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "TPIC6B595 High Power Shift Register - TPIC6B595",
+            "cost": "$1.17",
+            "quantity": "\n",
+            "total": "25"
+        },
+        {
+            "part": "Mean Well Switching Power Supply",
+            "cost": "$25.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "270-1K-RC",
+            "cost": "$0.02",
+            "quantity": "\n",
+            "total": "250"
+        },
+        {
+            "part": "270-130-RC",
+            "cost": "$0.22",
+            "quantity": "\n",
+            "total": "64"
+        },
+        {
+            "part": "270-82-RC",
+            "cost": "$0.22",
+            "quantity": "\n",
+            "total": "128"
+        },
+        {
+            "part": "IRF9Z34NPBF",
+            "cost": "$0.87",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "ARDUINO MEGA 2560 REV3",
+            "cost": "$38.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "0.1uF 50V Ceramic Capacitors (50 pcs)",
+            "cost": "$3.40",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Stripboard",
+            "cost": "$10.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16VDC 100uF Electrolytic Capacitor",
+            "cost": "$0.55",
+            "quantity": "\n",
+            "total": "10"
+        }
+    ],
+    "photos": [
+        "garage/607/0.jpg"
+    ]
+}

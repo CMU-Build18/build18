@@ -1,0 +1,20 @@
+{
+    "title": "Mallow Shot",
+    "date": "07 Nov 2017",
+    "detail": "Advanced computer vision turret with marshmallows.",
+    "extended_details": "A person stands in front of the robot. We run live face detection to determine when they open their mouth. Once their mouth is open, we pull depth data from a Kinect to determine it's exact position.\r\n\r\nTwo high-torque servos pan and tilt the marshmallow launcher in order to follow a perfectly parabolic path into the open mouth. A continuous stream of marshmallows is launched until the person closes their mouth or moves their head away.\r\n\r\nThe marshmallow launcher uses a spring-solenoid mechanism, or a regulated low-pressure compressed air source for power. Consecutive marshmallows are loaded from a vertical tube with a custom feeder mechanism to avoid jams.",
+    "team_profiles": [
+        {
+            "username": "@lmetro",
+            "name": "@lmetro"
+        },
+        {
+            "username": "@rrudolph",
+            "name": "@rrudolph"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/292/0.jpg"
+    ]
+}

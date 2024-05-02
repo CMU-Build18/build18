@@ -1,0 +1,59 @@
+{
+    "title": "I am Someone Else",
+    "date": "29 Oct 2017",
+    "detail": "A wearable that changes the way people sound",
+    "extended_details": "A system that collects people's speech, modifies it according to user preference and plays it with a different voice.",
+    "team_profiles": [
+        {
+            "username": "@haowensh",
+            "name": "@haowensh"
+        },
+        {
+            "username": "@yuyans",
+            "name": "@yuyans"
+        },
+        {
+            "username": "@bangyanc",
+            "name": "@bangyanc"
+        },
+        {
+            "username": "@yishanz",
+            "name": "@yishanz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Sandisk Ultra 32GB Micro SDHC UHS-I Card with Adapter - 98MB/s U1 A1",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CanaKit Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply",
+            "cost": "$49.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sumind Men's Pre-Tied Bow Ties Tux Bowtie Adjustable Formal Neck Bowti",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Professional #1 Best Lavalier Lapel Microphone Omnidirectional Condens",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sabrent USB External Stereo Sound Adapter for Windows and Mac. Plug an",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/260/0.jpg"
+    ]
+}

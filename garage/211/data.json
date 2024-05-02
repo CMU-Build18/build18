@@ -1,0 +1,123 @@
+{
+    "title": "Tracking Drone",
+    "date": "22 Nov 2016",
+    "detail": "A Drone that follows you, or whatever you want it to",
+    "extended_details": "Have you ever wanted to have a drone follow you or a moving object without the hassle of a remote controller? If you have, then you're at the right place. Our specially modified drone will follow whoever is holding a tracker. It can record your environment and collect other information as well.",
+    "team_profiles": [
+        {
+            "username": "@hyallapa",
+            "name": "@hyallapa"
+        },
+        {
+            "username": "@dennisya",
+            "name": "@dennisya"
+        },
+        {
+            "username": "@dzeng",
+            "name": "@dzeng"
+        },
+        {
+            "username": "@ericchan",
+            "name": "@ericchan"
+        },
+        {
+            "username": "@gclu",
+            "name": "@gclu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LED - Infrared 950nm - COM-09349 - SparkFun Electronics",
+            "cost": "$0.86",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Mini Pushbutton Switch - COM-00097 - SparkFun Electronics",
+            "cost": "$0.32",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$10.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$24.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$9.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$36.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun 9DoF IMU Breakout - LSM9DS1 - SEN-13284 - SparkFun Electronic",
+            "cost": "$22.46",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Maywa Denki Otamatone Music Instrument (Pink): Toys & Game",
+            "cost": "$22.06",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Makerfire 4pcs BLHeli 12A ESC Brushless Speed Controller f",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$12.38",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: ARRIS X-Speed FPV250 Pure Carbon Fiber Racing RC Drone Qua",
+            "cost": "$29.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$2.90",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$24.14",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino 101 - DEV-13787 - SparkFun Electronics",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "IR Receiver Diode - TSOP38238 - SEN-10266 - SparkFun Electronics",
+            "cost": "$1.76",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/211/0.jpg"
+    ]
+}

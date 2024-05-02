@@ -1,0 +1,81 @@
+{
+    "title": "Wheel Heater",
+    "date": "23 Oct 2019",
+    "detail": "Develop an automatic wheel heater for cast elastomer polyurethane wheels",
+    "extended_details": "Automatic wheel heater for cast elastomer polyurethane. Continuous rotation servos connected to Arduinos to automatically spin the wheels at variable speeds. And a web interface to read the outputs from the Arduino and display and control the temperature of each wheel.",
+    "team_profiles": [
+        {
+            "username": "@jsterank",
+            "name": "@jsterank"
+        },
+        {
+            "username": "@icv",
+            "name": "@icv"
+        },
+        {
+            "username": "@szzhang",
+            "name": "@szzhang"
+        },
+        {
+            "username": "@tinghuah",
+            "name": "@tinghuah"
+        },
+        {
+            "username": "@jagu",
+            "name": "@jagu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Melexis Contact-less Infrared Sensor - MLX90614 5V",
+            "cost": "$15.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Graphic LCD 84x48 - Nokia 5110",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "breadboard",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "cute Acorn motion sensor",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno - R3 SMD",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Continuous Rotation Servo - FeeTech FS5103R",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Buttons",
+            "cost": "$1.00",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Potentiometer with Built In Knob - 10K ohm",
+            "cost": "$1.25",
+            "quantity": "\n",
+            "total": "6"
+        }
+    ],
+    "photos": [
+        "garage/577/0.jpg"
+    ]
+}

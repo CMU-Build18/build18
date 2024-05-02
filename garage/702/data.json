@@ -1,0 +1,67 @@
+{
+    "title": "buddybots (take 2)",
+    "date": "18 Oct 2021",
+    "detail": "robots that can move around",
+    "extended_details": "hello. thank you for taking the time out of your day to read the project description for buddybots. we hope that you don't find it a waste of your time. we will now proceed to explain what buddybots are.\r\n\r\nbuddybots will be friendly little robots that follow you around. they will also talk to each other to make sure they don't bump in to each other while they follow you around.\r\n\r\nthanks for reading and we hope you have a nice day.\r\n\r\np.s. if you like buzzwords, here are a few: buddybots will be (relatively) low-cost robots communicating with each other through the ultra wideband frequency. the unique value proposition of uwb is that, in addition to transfer of data, uwb-equipped devices are capable of multilateration through the use of time-of-flight calculations, simplifying the implementation of things such as swarm robotics and self-driving car networks. in this project, we plan on implementing trilateration with stationary beacons, then adding the ability to move to a specific point in space, and then finally adding communication ability between robots to avoid interference (likely through a simple control system to minimize distance between the destination point and the robot's position, but also to maximize distance between other robots). application of buddybots could include uses in search-and-rescue operations in areas with limited GPS capability.\r\n\r\ntake 2 because the parts never came for take 1 :\u2019(",
+    "team_profiles": [
+        {
+            "username": "@mmx",
+            "name": "@mmx"
+        },
+        {
+            "username": "@asinghan",
+            "name": "@asinghan"
+        },
+        {
+            "username": "@hannahhe",
+            "name": "@hannahhe"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "DWM3000 UWB module",
+            "cost": "$15.63",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "Debug Cable",
+            "cost": "$39.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DIN connectors",
+            "cost": "$1.57",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "USB-UART module",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Buck converter",
+            "cost": "$14.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit wishlist",
+            "cost": "$103.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Roomba + Raspberry Pi",
+            "cost": "$0.00",
+            "quantity": "\n",
+            "total": "0"
+        }
+    ],
+    "photos": [
+        "garage/702/0.jpg"
+    ]
+}

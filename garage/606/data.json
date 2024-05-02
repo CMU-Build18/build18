@@ -1,0 +1,24 @@
+{
+    "title": "Self Solving Rubik Cube",
+    "date": "27 Oct 2019",
+    "detail": "Tired of solving Rubik Cube? Our model automatically solves itself quickly and efficiently.",
+    "extended_details": "Our Custom made Rubik Cube will capture the cube positions and implement a fast algorithm to go back to the solved state. This automation is done using servo motors, custom made PCB with Micro-controller along with a custom designed Rubik Cube.\r\n\r\nProject Proposal Document:\r\nhttps://docs.google.com/document/d/1WfQGW5g1kKlj6D-jz1DR4qaIOQjv7RsZinsVoDq2dUw/edit?usp=sharing",
+    "team_profiles": [
+        {
+            "username": "@nnanjaya",
+            "name": "@nnanjaya"
+        },
+        {
+            "username": "@mkumaras",
+            "name": "@mkumaras"
+        },
+        {
+            "username": "@nsathish",
+            "name": "@nsathish"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/606/0.jpg"
+    ]
+}

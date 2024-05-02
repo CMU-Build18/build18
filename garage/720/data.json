@@ -1,0 +1,49 @@
+{
+    "title": "Wizard's Chess",
+    "date": "25 Oct 2021",
+    "detail": "An Interactive XR rendering of the life size wizard's chess from Harry Potter and the Sorcerer's Stone.",
+    "extended_details": "An Interactive XR rendering of the life size wizard's chess from Harry Potter and the Sorcerer's Stone using Mozilla Deep Speech processing, Realistic 3D animated renderings of Chess combat, and an interactive environement",
+    "team_profiles": [
+        {
+            "username": "@mnguyen2",
+            "name": "@mnguyen2"
+        },
+        {
+            "username": "@jgpinon",
+            "name": "@jgpinon"
+        },
+        {
+            "username": "@grantyu",
+            "name": "@grantyu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Oculus Quest 2",
+            "cost": "$299.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Sponge",
+            "cost": "$36.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Aluminium Foil",
+            "cost": "$3.79",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "MDF Board",
+            "cost": "$33.72",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/720/0.jpg"
+    ]
+}

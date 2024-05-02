@@ -1,0 +1,76 @@
+{
+    "title": "Flush Detection",
+    "date": "22 Oct 2018",
+    "detail": "An IoT sensor for detecting toilet flushes and extracting insights",
+    "extended_details": "What if you could track every toilet flush on CMU campus in real-time? Improved maintenance, better environmentalism, traffic control: the possibilities are limitless.",
+    "team_profiles": [
+        {
+            "username": "@bobbiec",
+            "name": "@bobbiec"
+        },
+        {
+            "username": "@raghuv",
+            "name": "@raghuv"
+        },
+        {
+            "username": "@ahq",
+            "name": "@ahq"
+        },
+        {
+            "username": "@mfy",
+            "name": "@mfy"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "LIS3DH Triple-Axis Accelerometer",
+            "cost": "$5.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Particle Electron",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Clear polycarbonate sheet",
+            "cost": "$41.54",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/439/0.jpg",
+        "garage/439/1.jpg",
+        "garage/439/2.jpg",
+        "garage/439/3.jpg",
+        "garage/439/4.jpg",
+        "garage/439/5.jpg",
+        "garage/439/6.jpg",
+        "garage/439/7.jpg",
+        "garage/439/8.jpg",
+        "garage/439/9.jpg",
+        "garage/439/10.jpg",
+        "garage/439/11.jpg",
+        "garage/439/12.jpg",
+        "garage/439/13.jpg",
+        "garage/439/14.jpg",
+        "garage/439/15.jpg",
+        "garage/439/16.jpg",
+        "garage/439/17.jpg",
+        "garage/439/18.jpg",
+        "garage/439/19.jpg",
+        "garage/439/20.jpg",
+        "garage/439/21.jpg",
+        "garage/439/22.jpg",
+        "garage/439/23.jpg",
+        "garage/439/24.jpg",
+        "garage/439/25.jpg",
+        "garage/439/26.jpg",
+        "garage/439/27.jpg",
+        "garage/439/28.jpg",
+        "garage/439/29.jpg"
+    ]
+}

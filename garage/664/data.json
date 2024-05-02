@@ -1,0 +1,33 @@
+{
+    "title": "co-vidCar: Safe deliveries in Covid",
+    "date": "13 Nov 2020",
+    "detail": "Waypoint-based Navigation",
+    "extended_details": "We plan to make a **semi-autonomous robot** that navigates its surroundings by mapping its environment and traveling to *waypoints* selected by the user on a web interface.",
+    "team_profiles": [
+        {
+            "username": "@rdudhagr",
+            "name": "@rdudhagr"
+        },
+        {
+            "username": "@jefftan",
+            "name": "@jefftan"
+        },
+        {
+            "username": "@stayal",
+            "name": "@stayal"
+        },
+        {
+            "username": "@ppareek",
+            "name": "@ppareek"
+        },
+        {
+            "username": "@mbalajee",
+            "name": "@mbalajee"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/664/0.jpg",
+        "garage/664/1.jpg"
+    ]
+}

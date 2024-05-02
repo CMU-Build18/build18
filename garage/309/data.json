@@ -1,0 +1,24 @@
+{
+    "title": "Smartphone Controlled R/C Car",
+    "date": "08 Nov 2017",
+    "detail": "Control a R/C car with your phone!",
+    "extended_details": "We want to hack a R/C car and create a car that can be controlled via an app that can be accessed by your phone or tablet.",
+    "team_profiles": [
+        {
+            "username": "@vthallam",
+            "name": "@vthallam"
+        },
+        {
+            "username": "@vbaskar",
+            "name": "@vbaskar"
+        },
+        {
+            "username": "@aragura1",
+            "name": "@aragura1"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/309/0.jpg"
+    ]
+}

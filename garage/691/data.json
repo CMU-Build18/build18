@@ -1,0 +1,40 @@
+{
+    "title": "Smart Garden",
+    "date": "13 Oct 2021",
+    "detail": "So your plants can yell at you when they're dying",
+    "extended_details": "We will use sensors and automated systems along with vertical garden architecture to optimize indoor gardens. Sensors will monitor water, sun, and temperature for the user with notifications should an aspect need attention.",
+    "team_profiles": [
+        {
+            "username": "@sophiali",
+            "name": "@sophiali"
+        },
+        {
+            "username": "@byohanne",
+            "name": "@byohanne"
+        },
+        {
+            "username": "@sshriram",
+            "name": "@sshriram"
+        },
+        {
+            "username": "@ssbhanda",
+            "name": "@ssbhanda"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Amazon Parts",
+            "cost": "$293.45",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/691/0.jpg",
+        "garage/691/1.jpg",
+        "garage/691/2.jpg",
+        "garage/691/3.jpg",
+        "garage/691/4.jpg",
+        "garage/691/5.jpg"
+    ]
+}

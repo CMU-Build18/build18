@@ -1,0 +1,16 @@
+{
+    "title": "Flywheel energy storage prototype",
+    "date": "09 Nov 2017",
+    "detail": "How to make a better battery",
+    "extended_details": "We wish to create a prototype for a flywheel energy storage system. Instead of storing electricity chemically like conventional batteries, these systems store energy mechanically. This is accomplished through spinning rotors at high speeds.\r\n\r\nThere are two types of flywheels - direct drive flywheels and magnetic flywheels. Direct drive flywheels use mechanical contact to store and extract energy from the rotor. Magnetic flywheels use magnetic bearings and electrical motors/generators to access energy without friction. These flywheels tend to be stored in vacuum sealed containers to further reduce friction.\r\n\r\nWe would like to experiment with rotor shape to test efficiency. We are also interested in learning how to efficiently create a vacuum enclosure. Another interesting variable to experiment on is the torque generated, and how to control the torque with rotor shapes and gymbal setups.",
+    "team_profiles": [
+        {
+            "username": "@amurillo",
+            "name": "@amurillo"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/337/0.jpg"
+    ]
+}

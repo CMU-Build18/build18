@@ -1,0 +1,243 @@
+{
+    "title": "RoboGoalie",
+    "date": "27 Nov 2015",
+    "detail": "A robotic air hockey opponent",
+    "extended_details": "This project is a game of air hockey with a human facing off against a robot player. The robot, mounted on top of the air hockey table, will block and return a puck launched by the human player. We use computer vision to compute the trajectory of the incoming ball in real-time, while a motor-operated paddle deflects the ball.",
+    "team_profiles": [
+        {
+            "username": "@zhaodonz",
+            "name": "@zhaodonz"
+        },
+        {
+            "username": "@njassal",
+            "name": "@njassal"
+        },
+        {
+            "username": "@abandecc",
+            "name": "@abandecc"
+        },
+        {
+            "username": "@ehsi",
+            "name": "@ehsi"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.08",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$13.02",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$4.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$9.47",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$1.82",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.64",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit DC & Stepper Motor HAT for Raspberry Pi - Mini Kit ID: 2348 -",
+            "cost": "$22.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 40mm x 40mm x 10mm 12V Fan Huge Amounts of Air for its Siz",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: PlayStation Eye: Artist Not Provided: Video Games",
+            "cost": "$7.98",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Large push-pull solenoid ID: 413 - $14.95 : Adafruit Industries, Uniqu",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Nema 17 42X42mm 4 Wire 1.8 Degree 1A CNC Stepping Stepper Motor - - Am",
+            "cost": "$23.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: 10 Pcs 5.5mm x 2.1mm DC Power Cable Female Connector Plug ",
+            "cost": "$2.39",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.51",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu - Stepper Motor: Unipolar/Bipolar, 200 Steps/Rev, 42\u00d748mm, 4V, ",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.10",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: StarTech 6in 4 Pin Molex to SATA Power Cable Adapter (SATA",
+            "cost": "$1.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$3.32",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "12V 5A switching power supply ID: 352 - $24.95 : Adafruit Industries, ",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Assembled Pi Cobbler Plus - Breakout Cable for Pi B+/A+/Pi 2 ID: 2029 ",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "80/20 Inc., 30-3789, 30 Series, Slide-In Economy T-Nut Bright Zinc 5/1",
+            "cost": "$6.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Brass M2.5 Standoffs for Pi HATs - Black Plated - Pack of 2 ID: 2336 -",
+            "cost": "$0.75",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$6.26",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "GPIO Stacking Header for Pi A+/B+/Pi 2 - Extra-long 2x20 Pins ID: 2223",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$10.30",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: ALEX Toys Artist Studio Decorative Masking Tape: Toys & Ga",
+            "cost": "$7.43",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$11.42",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Ball Caster with 3/8\u2033 Metal Ball",
+            "cost": "$1.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$0.88",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$2.81",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Quad Alphanumeric Display - Red 0.54 Digits w/ I2C Backpack ID: 1911 -",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$3.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/44/0.jpg",
+        "garage/44/1.jpg",
+        "garage/44/2.jpg",
+        "garage/44/3.jpg",
+        "garage/44/4.jpg",
+        "garage/44/5.jpg",
+        "garage/44/6.jpg",
+        "garage/44/7.jpg",
+        "garage/44/8.jpg",
+        "garage/44/9.jpg",
+        "garage/44/10.jpg",
+        "garage/44/11.jpg",
+        "garage/44/12.jpg",
+        "garage/44/13.jpg",
+        "garage/44/14.jpg",
+        "garage/44/15.jpg",
+        "garage/44/16.jpg"
+    ]
+}

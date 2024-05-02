@@ -1,0 +1,81 @@
+{
+    "title": "LIDAR Turret",
+    "date": "20 Nov 2016",
+    "detail": "The cheapest LIDAR turret possible!",
+    "extended_details": "We will try to create an effective mapping system using LIDAR. We will try to create a map of our environment with this turret and localize ourselves in it (Simultaneous Localization and Mapping). We will try the TeraRanger, LIDAR lite v3 and other cheap LIDAR solutions. We will be constructing the rotating turret portion ourselves.",
+    "team_profiles": [
+        {
+            "username": "@bwarwick",
+            "name": "@bwarwick"
+        },
+        {
+            "username": "@ovg",
+            "name": "@ovg"
+        },
+        {
+            "username": "@jmeola",
+            "name": "@jmeola"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Slip Ring with Flange - 22mm diameter, 6 wires, max 240V @ 2A ID: 736 ",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$23.17",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$5.44",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Metro Mini 328 - 5V 16MHz ID: 2590 - $12.50 : Adafruit Indust",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "HATCHBOX 3D ABS-1KG1.75-WHT ABS 3D Printer Filament, Dimensional Accur",
+            "cost": "$21.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "12V Silent DC Motor 146RPM w/Encoder  | eBay",
+            "cost": "$45.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$33.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: HATCHBOX 3D PLA-1KG1.75-RED PLA 3D Printer Filament, Dimen",
+            "cost": "$20.77",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: DFRobot 12V DC Motor 251rpm w/Encoder: Computers & Accesso",
+            "cost": "$22.09",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/147/0.jpg",
+        "garage/147/1.jpg",
+        "garage/147/2.jpg"
+    ]
+}

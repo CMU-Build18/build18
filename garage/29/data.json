@@ -1,0 +1,73 @@
+{
+    "title": "Ferro",
+    "date": "27 Nov 2015",
+    "detail": "A ferrofluid-based animated desktop toy",
+    "extended_details": "If you've never interacted with it, ferrofluid is quite cool. It's magnetic qualities make it capable of performing all sorts of acrobatics under the right fields. Thus, we aim to create a small device to manipulate the fluid for our visualizing pleasure. Our device will be built around a small jar of a ferrofluid and water mixture, and will leverage an array of electromagnets controlled by a single computer to create interesting patterns within the jar.",
+    "team_profiles": [
+        {
+            "username": "@jju",
+            "name": "@jju"
+        },
+        {
+            "username": "@jtesler",
+            "name": "@jtesler"
+        },
+        {
+            "username": "@sclaure",
+            "name": "@sclaure"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "CMS Magnetics\u00ae Magnetic Ferrofluid for Fun! 2 OZ. Packed with Gloves a",
+            "cost": "$19.76",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com - Hinterland Trading 5\" Glass Apothecary Jar with Cork Lid ",
+            "cost": "$15.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Libbey Glass Milk Bottle with Lid - 33.5 oz: Kitchen & Din",
+            "cost": "$9.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC12V 50N 0.33A 2 Wired Connector Electromagnet Solenoid Lift Holding:",
+            "cost": "$8.77",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Raspberry Pi Zero Budget Pack ID: 2817 - $29.95 : Adafruit Industries,",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Resistor Kit - 1/4W (500 total) - COM-10969 - SparkFun Electronics",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "STQ2HNK60ZR-AP STMicroelectronics | Discrete Semiconductor Products | ",
+            "cost": "$0.70",
+            "quantity": "\n",
+            "total": "20"
+        },
+        {
+            "part": "VN0606L-G Microchip Technology | Discrete Semiconductor Products | Dig",
+            "cost": "$0.92",
+            "quantity": "\n",
+            "total": "25"
+        }
+    ],
+    "photos": [
+        "garage/29/0.jpg"
+    ]
+}

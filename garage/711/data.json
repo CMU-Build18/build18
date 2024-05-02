@@ -1,0 +1,73 @@
+{
+    "title": "SSS - Self-driving Spinny Scooter",
+    "date": "20 Oct 2021",
+    "detail": "Ever fell of your spin scooter because of a pothole at night or in the morning while rushing to class?",
+    "extended_details": "The SSS is a clip-on attachment geared specifically to be used on Spin scooters and other electric scooters around campus that adds a self-driving function to the scooter. \r\n\r\nThis attachment consists of 3 big ideas: \r\nUsing an IR camera and computer vision to detect roadside blocks and potholes, corners, streets, and other generally large objects. \r\nConnecting to Google maps to get the path to be navigated by connecting to your phone via USB-C or Bluetooth\r\nUsing motors and 3d printed parts that clip onto the handle to control the direction and speed of the scooter. \r\nThe attachment will have three individual motors, one that controls the acceleration lever, one to control the brake, and one that controls direction by turning the handles of the scooter.\r\nThe motors will be controlled by a microcontroller, likely a raspberry pi 4, with a battery that hangs down and hooks onto the bottom of the steering pole of the scooter.",
+    "team_profiles": [
+        {
+            "username": "@zhejiay",
+            "name": "@zhejiay"
+        },
+        {
+            "username": "@rananth",
+            "name": "@rananth"
+        },
+        {
+            "username": "@ritupath",
+            "name": "@ritupath"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Rotary Encoder",
+            "cost": "$33.71",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi heatsink/rack",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "IR Camera",
+            "cost": "$25.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acceleration/Braking Pushers (Linear Actuators)",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Handle Turning Motor",
+            "cost": "$32.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3D Printer Filament",
+            "cost": "$31.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "3D printing/Laser Cutting Budget",
+            "cost": "$55.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Battery Pack",
+            "cost": "$39.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/711/0.jpg"
+    ]
+}

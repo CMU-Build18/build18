@@ -1,0 +1,95 @@
+{
+    "title": "Home on the Web!",
+    "date": "28 Nov 2015",
+    "detail": "A series of innovative home automation projects on the web!",
+    "extended_details": "Home audio system to monitor and control living room TV volume.\r\n\r\nhttps://www.youtube.com/watch?v=j8D8YjgnGR4\r\nHome-kit compatible for control by Siri.\r\nGarage door opener and status monitor.\r\nMonitor when mail and packages are delivered.\r\nCheck who is home.\r\nSmartFridge (c) \r\nControl lights (through clapping?)\r\n\r\nPowered by Raspberry Pis and the web",
+    "team_profiles": [
+        {
+            "username": "@plima",
+            "name": "@plima"
+        },
+        {
+            "username": "@rmaratos",
+            "name": "@rmaratos"
+        },
+        {
+            "username": "@clx",
+            "name": "@clx"
+        },
+        {
+            "username": "@jacobwei",
+            "name": "@jacobwei"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Particle Photon Kit - KIT-13345 - SparkFun Electronics",
+            "cost": "$29.00",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "SUPERNIGHT (TM) 16.4FT 5M SMD 5050 Waterproof 300LEDs RGB Color Changi",
+            "cost": "$14.88",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 2 Starter Kit - KIT-13673 - SparkFun Electronics",
+            "cost": "$89.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Module - Pi NoIR - DEV-12654 - SparkFun Electronic",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Magnetic Door Switch Set - COM-13247 - SparkFun Electronics",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Amazon.com: Hitec 31311S HS-311 Servo Standard Universal: Toys & Games",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: SunFounder 2 pcs Ultrasonic Module HC-SR04 Distance Sensor",
+            "cost": "$8.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "IRLB8721PBF Infineon Technologies Americas Corp. | Discrete Semiconduc",
+            "cost": "$1.25",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Digital Potentiometer - 10K - COM-10613 - SparkFun Electronics",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "SparkFun Electret Microphone Breakout - BOB-09964 - SparkFun Electroni",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: ARDUINO Compatible 37-in-1 Sensor Module Kit - Black: Comp",
+            "cost": "$27.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/63/0.jpg"
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Photogenic Mirror",
+    "date": "26 Oct 2019",
+    "detail": "From now, taking an easy and desirable full body selfie is no longer a dream!",
+    "extended_details": "Summary\r\n\r\nThis full-body mirror with adjustable cameras can take photos and send it the user\u2019s email for easy access/review. It provides excellent lighting conditions and primarily allows users to independently and effortlessly capture their reflection as a photo.\r\nFrom now, taking an easy and desirable full body selfie is no longer a dream!\r\n\r\nComplete Proposal\r\n\r\nWhen a person takes a selfie of himself that includes more of his body than a portrait or headshot, he stays unaware of how he looks in the photo until he manually checks the camera. Existing solutions like a longer selfie stick can expand the photo frame, but will not suffice for full bodies and the phone screen will also be hard to see from a distance. To combat this issue and provide an easier way to pose oneself perfectly for a photo, we would like to propose a \u201cphotogenic\u201d mirror. This mirror will provide excellent lighting conditions and primarily allows users to independently and effortlessly capture their reflection as a photo. In this project, development of the prototype will be split into three stages: incorporating one camera with major functions, expanding to three to five cameras, and implementing other creative functions.\r\n\r\nInitially, the full-body mirror will have one camera clipped onto it and it will take photos by pressing a button. Consequently, users will receive a light signal countdown by having a signal light strip change color gradients from red to yellow to green. Once the last green light shines, the camera will be activated to not only take photos, but a speaker attached to the mirror will also say encouraging words to the user like \u201cyou look great today!\u201d Finally, the camera will send it to the user\u2019s email for easy access/review.  For additional customization, the adjustable camera can be moved to other locations on the mirror. Likewise, depending on the environment, lights around the camera and mirror will adjust their brightness to try to emulate natural lighting. From here, aside from installing more adjustable cameras, we can start the third stage by adding possible interactive features such as a weather display, photo filters, sound recognition commands for photo taking process, and speaker greetings that are triggered when the user approaches the mirror closely. In addition, we could add a burst mode that will take photos sequentially and provide a user-specified number of \u201cbursts.\u201d\r\n\r\nAlthough other teams have made projects involving mirrors, many focus on the convenience factor and only offer functions like makeup filters that can already be achieved with cell-phone apps or other technology. Not only is our camera concept unique to this category, it also solves a substantial problem. When taking such into consideration, our mirror will stand out greatly from the others that are becoming repetitive and overdone.",
+    "team_profiles": [
+        {
+            "username": "@yizhao2",
+            "name": "@yizhao2"
+        },
+        {
+            "username": "@mcwu",
+            "name": "@mcwu"
+        },
+        {
+            "username": "@zhenxinz",
+            "name": "@zhenxinz"
+        },
+        {
+            "username": "@hfei",
+            "name": "@hfei"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Panasonic Alkaline Battery - AA",
+            "cost": "$0.50",
+            "quantity": "\n",
+            "total": "10"
+        },
+        {
+            "part": "Stereo Enclosed Speaker Set - 3W 4 Ohm",
+            "cost": "$7.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Audio FX Sound Board + 2x2W Amp - WAV/OGG Trigger -16MB",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2 - 8 Megapixels",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "LED - Assorted",
+            "cost": "$3.30",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Tactile Button switch",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "4 x AA Battery Holder with Premium Jumper Header Wires",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB Battery Pack for Raspberry Pi - 5000mAh - 5V @ 2.1A",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 4 Model B Project Board",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Additional Speaker",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "breadboard full size",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "fancy camera",
+            "cost": "$29.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Premium Male/Male Jumper Wires - 40 x 6\" (150mm)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "3"
+        }
+    ],
+    "photos": [
+        "garage/593/0.jpg"
+    ]
+}

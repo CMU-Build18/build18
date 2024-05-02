@@ -1,0 +1,46 @@
+{
+    "title": "EPA Phone Home!",
+    "date": "20 Nov 2016",
+    "detail": "In developing world contexts, measure if water and air is safe using simple sensors with an iphone.",
+    "extended_details": "Developing countries are getting access to smart phones before they get access to clean water.  With low-power, low-cost sensors a smart phone can  take all the measurements needed to establish that a water sample or surrounding air is safe or dangerous.  I plan on reading the sensor data in, processing it in iOS, and communicating it to the user with the iPhone API.",
+    "team_profiles": [
+        {
+            "username": "@jthornbu",
+            "name": "@jthornbu"
+        },
+        {
+            "username": "@baortiz",
+            "name": "@baortiz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Variable, Inc.",
+            "cost": "$75.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "One-Wire Ambient Temperature Sensor - MAX31820 - SEN-14049 - SparkFun ",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "\n  NODE+ Sensor Platform (no motion processor) \u2013 Variable, Inc.\n  ",
+            "cost": "$149.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "\n  clima \u2013 Variable, Inc.\n  ",
+            "cost": "$50.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/145/0.jpg",
+        "garage/145/1.jpg"
+    ]
+}

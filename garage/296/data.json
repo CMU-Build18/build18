@@ -1,0 +1,93 @@
+{
+    "title": "RamenX - The Automated Ramen Maker",
+    "date": "07 Nov 2017",
+    "detail": "The future of college dormitory cuisine",
+    "extended_details": "In the daily life of a college student, meals are often reduced to miserably eating whatever is within arm's reach from your chair. With our innovative solution, college students can make delicious ramen with the click of a button and come home to a heartwarming bowl of noodle soup!\r\nINTRODUCING\r\nR A M E N X",
+    "team_profiles": [
+        {
+            "username": "@jyli1",
+            "name": "@jyli1"
+        },
+        {
+            "username": "@jhsu2",
+            "name": "@jhsu2"
+        },
+        {
+            "username": "@jshuang",
+            "name": "@jshuang"
+        },
+        {
+            "username": "@tsahyoun",
+            "name": "@tsahyoun"
+        },
+        {
+            "username": "@mwang5",
+            "name": "@mwang5"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$69.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Acrylic",
+            "cost": "$7.34",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "Electric Cooker",
+            "cost": "$21.76",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Shin Ramen Noodles",
+            "cost": "$16.23",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Air Pump Motor",
+            "cost": "$8.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Piping",
+            "cost": "$4.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Continuous Servo Motor",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Egg Cracking Tool",
+            "cost": "$12.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo Motor",
+            "cost": "$16.99",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Micro Servo Motors (x10)",
+            "cost": "$36.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/296/0.jpg"
+    ]
+}

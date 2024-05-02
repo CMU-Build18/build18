@@ -1,0 +1,57 @@
+{
+    "title": "Mirage",
+    "date": "29 Oct 2018",
+    "detail": "Mirror, Mirror on the wall, what's the weather?",
+    "extended_details": "Mirror that acts like a bulletin board and presents you with what you want to read in the morning (such as today\u2019s calendar and weather) or anything else throughout the day such as time and reminders.  \r\nFeatures we plan to include are:\r\n- Weather\r\n- Time + date\r\n- Today\u2019s calendar\r\n- Reminders\r\n- Facial recognition",
+    "team_profiles": [
+        {
+            "username": "@habaker",
+            "name": "@habaker"
+        },
+        {
+            "username": "@ayli1",
+            "name": "@ayli1"
+        },
+        {
+            "username": "@jrathnag",
+            "name": "@jrathnag"
+        },
+        {
+            "username": "@mdbanerj",
+            "name": "@mdbanerj"
+        },
+        {
+            "username": "@sgehlot",
+            "name": "@sgehlot"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "film",
+            "cost": "$9.49",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "frame",
+            "cost": "$33.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Monitor",
+            "cost": "$99.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "mini pc",
+            "cost": "$156.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/476/0.jpg"
+    ]
+}

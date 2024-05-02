@@ -1,0 +1,115 @@
+{
+    "title": "Running BPM Tracker",
+    "date": "14 Nov 2017",
+    "detail": "idkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidk",
+    "extended_details": "This project tracks run rate with a pressure sensor placed in a shoe and uses that information to select a song with a similar BPM from a playlist and control a light system.",
+    "team_profiles": [
+        {
+            "username": "@emmaliu",
+            "name": "@emmaliu"
+        },
+        {
+            "username": "@zexiy",
+            "name": "@zexiy"
+        },
+        {
+            "username": "@kkozlows",
+            "name": "@kkozlows"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "NeoPixel Mini PCB - Pack of 5",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 500mAh",
+            "cost": "$11.98",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB Battery Pack for Raspberry Pi - 4000mAh - 5V @ 1A",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Square Force-Sensitive Resistor (FSR) - Interlink 406",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Potato",
+            "cost": "$0.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Dr. Scholl\u2019s Athletic Series Sport Insoles for Men, 1 Pair, Size 8-14",
+            "cost": "$11.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Smoke Translucent Enclosure for Arduino - Electronics enclosure - 1.0",
+            "cost": "$15.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Medium Vibration Sensor Switch",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit NeoPixel Digital RGB LED Strip - White 60 LED - WHITE",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Premium Female/Male 'Extension' Jumper Wires - 40 x 12\" (300mm)",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pressure-Sensitive Conductive Sheet (Velostat/Linqstat)",
+            "cost": "$13.24",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit GEMMA v2 - Miniature wearable electronic platform",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Fast Vibration Sensor Switch (Easy to trigger)",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "HC-05 Arduino Wireless Bluetooth Receiver RF Transceiver Module Serial",
+            "cost": "$10.57",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Raine Security Ankle Wallet Pouch, Black",
+            "cost": "$12.70",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/356/0.jpg"
+    ]
+}

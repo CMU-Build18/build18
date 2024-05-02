@@ -1,0 +1,39 @@
+{
+    "title": "Camerray",
+    "date": "17 Nov 2016",
+    "detail": "Array of cameras to get more impressive footage",
+    "extended_details": "Take an array of smartphones and record and stream to create one video that stitches all the different angles together",
+    "team_profiles": [
+        {
+            "username": "@rishubj",
+            "name": "@rishubj"
+        },
+        {
+            "username": "@ildook",
+            "name": "@ildook"
+        },
+        {
+            "username": "@varunsha",
+            "name": "@varunsha"
+        },
+        {
+            "username": "@ibiala",
+            "name": "@ibiala"
+        },
+        {
+            "username": "@vijayram",
+            "name": "@vijayram"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "15"
+        }
+    ],
+    "photos": [
+        "garage/137/0.jpg"
+    ]
+}

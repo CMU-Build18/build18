@@ -1,0 +1,101 @@
+{
+    "title": "Connected Room",
+    "date": "21 Nov 2016",
+    "detail": "Ever want a facial recognition activated IOT dorm room with outlet, light, and appliance control?",
+    "extended_details": "We are making a fully connected dorm room! It is essentially many small iot connected devices that communicate to one central raspberry pi unit with a touch screen interface. Here are the components:\r\n\r\n* Raspberry pi HUB with touch LED display to schedule and manage all devices. This is where all the data is stored and processed. This will come with a picam to sense your face (python libraries do this) and only activate for you. This can directly communicate to a teensy with an ARMC M-4 Processor running an RTOS (Chibi OS) to schedule events accurately and be powerful enough to run our data processing algorithms.\r\n\r\n* Arduino controlled extension chord to power appliances, such as a coffee machine to turn on with your alarm (adafruit has a device that makes this easy)\r\n\r\n* Neon LED Ring to set the tone for your room (mood lights), and and LED strip to smartly illuminate parts of your room based on data fed.\r\n\r\n* LoRA module (long range radio module), and could control the room from anywhere on campus!\r\n\r\nThe basic communication within the room would take place with Xbee with one BT device to connect to a phone for text commands. Long range communication would be done with LoRA",
+    "team_profiles": [
+        {
+            "username": "@sidhartv",
+            "name": "@sidhartv"
+        },
+        {
+            "username": "@aakapadi",
+            "name": "@aakapadi"
+        },
+        {
+            "username": "@rsajjad",
+            "name": "@rsajjad"
+        },
+        {
+            "username": "@avenkat1",
+            "name": "@avenkat1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Teensy 3.2 + header ID: 2756 - $19.95 : Adafruit Industries, Unique & ",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit PiTFT - 320x240 2.8 TFT+Touchscreen for Raspberry Pi ID: 1601",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit RFM95W LoRa Radio Transceiver Breakout - 868 or 915 MHz ID: 3",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Lithium Ion Polymer Battery - 3.7v 1200mAh ID: 258 - $9.95 : Adafruit ",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Female DC Power adapter - 2.1mm jack to screw terminal block ID: 368 -",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "5V 10A switching power supply ID: 658 - $25.00 : Adafruit Industries, ",
+            "cost": "$25.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "XBee Module - Series 1 - 1mW with Wire Antenna [XB24-AWI-001] ID: 128 ",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Controllable Four Outlet Power Relay Module ID: 2935 - $19.95 : Adafru",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "NeoPixel Ring - 16 x 5050 RGBW LEDs w/ Integrated Drivers [Natural Whi",
+            "cost": "$11.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Switched JST-PH 2-Pin SMT Right Angle Breakout Board ID: 1863 - $2.50 ",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Adafruit NeoPixel Digital RGB LED Strip - Black 60 LED [BLACK] ID: 146",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "2-pin JST SM Plug + Receptacle Cable Set ID: 2880 - $0.75 : Adafruit I",
+            "cost": "$0.75",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/206/0.jpg"
+    ]
+}

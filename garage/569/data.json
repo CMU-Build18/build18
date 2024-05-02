@@ -1,0 +1,69 @@
+{
+    "title": "Turner Van Jug",
+    "date": "15 Oct 2019",
+    "detail": "Always wanted to be able to paint but never had Van Gogh's painting technique? Muscle contraction is all you need.",
+    "extended_details": "We want to make a device that will receive muscle contraction signals and transform that signal into a position at which our device will splash paint onto a canvas to make an impressionist painting.",
+    "team_profiles": [
+        {
+            "username": "@rgess",
+            "name": "@rgess"
+        },
+        {
+            "username": "@evelge",
+            "name": "@evelge"
+        },
+        {
+            "username": "@gmagendz",
+            "name": "@gmagendz"
+        },
+        {
+            "username": "@ttinley",
+            "name": "@ttinley"
+        },
+        {
+            "username": "@wmbrooks",
+            "name": "@wmbrooks"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "MyoWare Muscle Sensor",
+            "cost": "$37.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Muscle Sensor Surface EMG Electrode",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "12"
+        },
+        {
+            "part": "Adafruit 32u4 Basic Proto",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit USB Isolator",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DC Toy / Hobby Motor - 130 Size",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "DC Motor in Micro Servo Body",
+            "cost": "$3.50",
+            "quantity": "\n",
+            "total": "7"
+        }
+    ],
+    "photos": [
+        "garage/569/0.jpg"
+    ]
+}

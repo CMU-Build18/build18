@@ -1,0 +1,23 @@
+{
+    "title": "Visual Odometry Part Deux",
+    "date": "27 Nov 2015",
+    "detail": "Visual Odometry Coprocessor on an Altera FPGA",
+    "extended_details": "For my digital design capstone (18-545), I worked a stereoscopic visual odometry coprocessor on a Xilinx FPGA (Zedboard). However, the Xilinx tools are very poorly documented and quite difficult to use. \r\n\r\nAltera has a similar FPGA to the Zedboard, so I wanted to see how much easier (or more difficult) the Altera tools are to use. The goal of the project will be to port the original project to the DE-1 SoC board (Cyclone V family).",
+    "team_profiles": [
+        {
+            "username": "@bmperez",
+            "name": "@bmperez"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Terasic -  SoC Platform - Cyclone - DE1-SoC Board",
+            "cost": "$249.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/26/0.jpg"
+    ]
+}

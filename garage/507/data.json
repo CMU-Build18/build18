@@ -1,0 +1,45 @@
+{
+    "title": "Automated Liquid Coalescer",
+    "date": "06 Nov 2018",
+    "detail": "High precision liquid combining machine",
+    "extended_details": "Using peristaltic pumps, our project blends liquids with high fidelity. For applications like creating on-camera liquids, the appeared color of the liquid must be carefully controlled. Our project can very accurately measure the volume of specific molarity ink concentrations to create ideal colors.",
+    "team_profiles": [
+        {
+            "username": "@showard",
+            "name": "@showard"
+        },
+        {
+            "username": "@gltang",
+            "name": "@gltang"
+        },
+        {
+            "username": "@jgualtie",
+            "name": "@jgualtie"
+        },
+        {
+            "username": "@bcontess",
+            "name": "@bcontess"
+        },
+        {
+            "username": "@bstone",
+            "name": "@bstone"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RGB LED Board",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Fridge",
+            "cost": "$140.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/507/0.jpg"
+    ]
+}

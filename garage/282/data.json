@@ -1,0 +1,51 @@
+{
+    "title": "P2P Network API",
+    "date": "07 Nov 2017",
+    "detail": "Making peer-to-peer networking simple",
+    "extended_details": "Peer-to-Peer networks are vital components in file-sharing networks, P2P web hosting, and cryptocurrencies. Problem is, creating an application that relies on P2P networks is hard, because doing so means writing a peer-to-peer network protocol. We're working to make one protocol that can be generalized to any application.",
+    "team_profiles": [
+        {
+            "username": "@tjjohans",
+            "name": "@tjjohans"
+        },
+        {
+            "username": "@stroucki",
+            "name": "@stroucki"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "SD cards",
+            "cost": "$33.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Standoffs qty 50",
+            "cost": "$10.57",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspi 3B",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "5V 2A PS",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Barrel to USB",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/282/0.jpg"
+    ]
+}

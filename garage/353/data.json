@@ -1,0 +1,83 @@
+{
+    "title": "Ornithopter",
+    "date": "14 Nov 2017",
+    "detail": "A bird-like flying machine",
+    "extended_details": "We are creating an aircraft that flies my mimicking the flapping motion of a bird. Our main goal is making sure that our machine can maintain flight for a significant period of time.",
+    "team_profiles": [
+        {
+            "username": "@mlipari",
+            "name": "@mlipari"
+        },
+        {
+            "username": "@cowarang",
+            "name": "@cowarang"
+        },
+        {
+            "username": "@amosaed",
+            "name": "@amosaed"
+        },
+        {
+            "username": "@fpaulino",
+            "name": "@fpaulino"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Carbon Fiber Rods",
+            "cost": "$16.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bluetooth Transmitter",
+            "cost": "$7.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Bird Fabric",
+            "cost": "$8.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Motor Drive Shield",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Brushless Motor",
+            "cost": "$10.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno R3",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Battery",
+            "cost": "$18.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Gears",
+            "cost": "$4.93",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/353/0.jpg"
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "title": "Sound and Lights",
+    "date": "27 Oct 2019",
+    "detail": "Sound activated lights! Clap to make lights change color or input MIDI to make a light show",
+    "extended_details": "We're building lights that are activated by sound. We'll probably be using a LED matrix and a teensy/arduino for sound activation and MIDI-input. Essentially it'll be a music visualizer with colors and shaping effects",
+    "team_profiles": [
+        {
+            "username": "@bridgett",
+            "name": "@bridgett"
+        },
+        {
+            "username": "@reckert",
+            "name": "@reckert"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Teensy 3.6 Microcontroller",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno - R3",
+            "cost": "$22.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "SmartMatrix SmartLED Shield (V4) for Teensy 3",
+            "cost": "$19.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Breadboard - Self-Adhesive (White)",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Breadboard - Full-Size",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Premium Male/Male Jumper Wires - 40 x 6\" (150mm)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit RGB Matrix Shield for Arduino",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "5V 4A (4000mA) switching power supply - UL Listed",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Female DC Power adapter - 2.1mm jack to screw terminal block",
+            "cost": "$2.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Medium 16x32 RGB LED matrix panel",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Premium Female/Female Jumper Wires - 40 x 6\"",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Premium Female/Male 'Extension' Jumper Wires - 40 x 6\" (150mm)",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "6mm Rainbow Tactile Button Deluxe Party Tray - 160 Pieces",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "JST PH 3-Pin to Male Header Cable - 200mm",
+            "cost": "$1.25",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "16GB Card with NOOBS 3.0",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi 3 - Model B+ - 1.4GHz Cortex-A53 with 1GB RAM",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "USB cable - USB A to Micro-B - 3 foot long",
+            "cost": "$2.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Break-away 0.1\" 36-pin strip male header - Black - 10 pack",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Adafruit STEMMA Speaker - Plug and Play Audio Amplifier",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/602/0.jpg"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Third Person in Real Life (TPiRL)",
+    "date": "08 Nov 2017",
+    "detail": "Have you ever experienced third person in real life? Now you can!",
+    "extended_details": "An autonomous quadcopter that tracks a user's movement and displays the third-person view on a VR headset worn by the user.\r\n\r\nFor more information click [here](https://drive.google.com/open?id=10cEZaF9CLp6lVObs8qIR_cSOQUL_FEyO) for our Track 2 project description!",
+    "team_profiles": [
+        {
+            "username": "@vcommuri",
+            "name": "@vcommuri"
+        },
+        {
+            "username": "@jaewoonc",
+            "name": "@jaewoonc"
+        },
+        {
+            "username": "@emaburi",
+            "name": "@emaburi"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RPLIDAR",
+            "cost": "$449.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "TP Link Wireless Adapter",
+            "cost": "$19.99",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Infrared Camera Lens",
+            "cost": "$13.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Infrared LED's",
+            "cost": "$0.36",
+            "quantity": "\n",
+            "total": "50"
+        },
+        {
+            "part": "Raspberry Pi Camera",
+            "cost": "$29.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/321/0.jpg"
+    ]
+}

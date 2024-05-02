@@ -1,0 +1,73 @@
+{
+    "title": "Smartbell",
+    "date": "11 Nov 2017",
+    "detail": "Are you tired of how overcrowded the gym is at CMU? What if you knew the best time to go?",
+    "extended_details": "The goal of this project is to retrofit sensors to the cardio and circuit machines in the CMU gym that can easily detect machine usage. This info flows to a website/app that students can check to know the best time to use the gym or even a specific machine.",
+    "team_profiles": [
+        {
+            "username": "@mphelan1",
+            "name": "@mphelan1"
+        },
+        {
+            "username": "@kvenkate",
+            "name": "@kvenkate"
+        },
+        {
+            "username": "@jboudrea",
+            "name": "@jboudrea"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Mini Photocell - SEN-09088 - SparkFun Electronics",
+            "cost": "$1.34",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Lithium Ion Battery - 1Ah",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "Particle Photon (without headers)",
+            "cost": "$19.00",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "USB Micro B Cable",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun USB LiPoly Charger - Single Cell",
+            "cost": "$11.96",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "CSV/ JSON/ JST Right-Angle Connector - Through-Hole 2-Pin",
+            "cost": "$0.95",
+            "quantity": "\n",
+            "total": "8"
+        },
+        {
+            "part": "3M Multi-Use Duct Tape, 2930-C, 1.88 Inches by 30 Yards",
+            "cost": "$3.89",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Ultrasonic Sensor",
+            "cost": "$3.95",
+            "quantity": "\n",
+            "total": "8"
+        }
+    ],
+    "photos": [
+        "garage/339/0.jpg"
+    ]
+}

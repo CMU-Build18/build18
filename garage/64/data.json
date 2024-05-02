@@ -1,0 +1,71 @@
+{
+    "title": "Use the force, Luke",
+    "date": "28 Nov 2015",
+    "detail": "aka just a super cool can crusher",
+    "extended_details": "Using a magnetic field to reshape metals! See https://en.wikipedia.org/wiki/Electromagnetic_forming and http://youtu.be/4RWONM2wwak",
+    "team_profiles": [
+        {
+            "username": "@youziw",
+            "name": "@youziw"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "FVT02506E12K00JE Vishay Huntington Electric Inc. | Resistors | DigiKey",
+            "cost": "$3.84",
+            "quantity": "\n",
+            "total": "7"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$28.15",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "450BXW150MEFC18X45 Rubycon | Capacitors | DigiKey",
+            "cost": "$3.14",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "E36D451HPN222MCE3M United Chemi-Con | Capacitors | DigiKey",
+            "cost": "$25.82",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$11.11",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "APT60DQ100BG Microsemi Power Products Group | Discrete Semiconductor P",
+            "cost": "$4.60",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$19.85",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "BUD Industries JB-3959 Steel NEMA 1 Sheet Metal Junction Box with Lift",
+            "cost": "$17.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "500 Service Unavailable Error",
+            "cost": "$2.83",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/64/0.jpg"
+    ]
+}

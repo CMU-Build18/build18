@@ -1,0 +1,135 @@
+{
+    "title": "The G.lock",
+    "date": "28 Nov 2017",
+    "detail": "Automated smart doorman system",
+    "extended_details": "A visitor would walk up to the door and step on the pressure-sensing doormat, where a camera inside the door takes a picture of them and compares it with facial scans of the people in the house, then unlocks if it recognizes or sends a push notification to people in the house who approve/disapprove it, if they disapprove or there's nobody home, the door plays an automated voice message with the option of taking a message, which is sent over to the homeowners all through the G.lock app.\r\n\r\nIf the service fails, there's always a key/passcode override.",
+    "team_profiles": [
+        {
+            "username": "@cio",
+            "name": "@cio"
+        },
+        {
+            "username": "@oalhait",
+            "name": "@oalhait"
+        },
+        {
+            "username": "@josei",
+            "name": "@josei"
+        },
+        {
+            "username": "@cdbright",
+            "name": "@cdbright"
+        },
+        {
+            "username": "@mswain",
+            "name": "@mswain"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Flex Cable for Raspberry Pi Camera - 2 meters",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Raspberry Pi Camera Board v2",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry Pi 3 Model B",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Keypad",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "DEV-11113 SparkFun Electronics | Development Boards, Kits, Programmers",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "BreadBoard",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Flex Cable Extender",
+            "cost": "$3.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Servo",
+            "cost": "$33.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "SparkFun FTDI Basic Breakout",
+            "cost": "$14.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Cables",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Raspberry pi IR camera",
+            "cost": "$30.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Speaker 2",
+            "cost": "$13.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Thin Breadboard",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Door Lock",
+            "cost": "$10.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Audio, Microphone Pre-Amp Evaluation Board",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "1712 Adafruit Industries LLC | Development Boards, Kits, Programmers |",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Power battery pack",
+            "cost": "$7.00",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/388/0.jpg"
+    ]
+}

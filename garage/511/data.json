@@ -1,0 +1,45 @@
+{
+    "title": "Delivery Drone",
+    "date": "17 Sep 2019",
+    "detail": "A Drone that takes a waypoint and autonomously flies to it",
+    "extended_details": "As the description says, we want to make a drone that takes as input a latitude and longitude point, then flies to that point",
+    "team_profiles": [
+        {
+            "username": "@cggonzal",
+            "name": "@cggonzal"
+        },
+        {
+            "username": "@zeyih1",
+            "name": "@zeyih1"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Raspberry Pi 3",
+            "cost": "$35.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Jetson Nano",
+            "cost": "$99.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Smaller Arduino",
+            "cost": "$12.50",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Frame and PDB",
+            "cost": "$98.98",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/511/0.jpg"
+    ]
+}

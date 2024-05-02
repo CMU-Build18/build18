@@ -1,0 +1,63 @@
+{
+    "title": "Dynamic Room Correction",
+    "date": "06 Oct 2019",
+    "detail": "Smart speakers that calibrates itself according to its surroundings, providing optimal audio regardless of its location.",
+    "extended_details": "Smart speakers that calibrates itself according to its surroundings, providing optimal audio regardless of its location. A microphone is used to measure the room's acoustic response and the DSP automatically compensates for acoustic imperfections. Similar to the technology in the Apple Homepod and Sonos' Trueplay.",
+    "team_profiles": [
+        {
+            "username": "@ryano",
+            "name": "@ryano"
+        },
+        {
+            "username": "@epalaz",
+            "name": "@epalaz"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Tweeter RAAL 64-10 (WILL ORDER MYSELF)",
+            "cost": "$135.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Woofer 18w_8545-01 (IN CART)",
+            "cost": "$182.40",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Speaker Port (IN CART)",
+            "cost": "$9.79",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Mid Range Driver (IN CART)",
+            "cost": "$18.39",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Binding Posts (IN CART)",
+            "cost": "$5.59",
+            "quantity": "\n",
+            "total": "4"
+        },
+        {
+            "part": "Calibration Mic (IN CART)",
+            "cost": "$65.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Low Distortion DAC (PURCHASED MYSELF)",
+            "cost": "$422.99",
+            "quantity": "\n",
+            "total": "1"
+        }
+    ],
+    "photos": [
+        "garage/553/0.jpg"
+    ]
+}

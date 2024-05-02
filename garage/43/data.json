@@ -1,0 +1,135 @@
+{
+    "title": "Pathfinder",
+    "date": "27 Nov 2015",
+    "detail": "Whenever you're lost, the Pathfinder can find your way back!",
+    "extended_details": "The Pathfinder remembers the path it takes. With one button press, it can backtrack its way back to the original location. There is also an advanced feature that allows it to take the shortest path back.",
+    "team_profiles": [
+        {
+            "username": "@jaeeunl",
+            "name": "@jaeeunl"
+        },
+        {
+            "username": "@leehsu",
+            "name": "@leehsu"
+        },
+        {
+            "username": "@nguan",
+            "name": "@nguan"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Element 14 BeagleBone Black Rev C - 4GB - Pre-installed Debian [Elemen",
+            "cost": "$55.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "USB Battery Pack for Raspberry Pi - 4400mAh - 5V @ 1A ID: 1565 - $24.9",
+            "cost": "$24.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: PlayStation Eye: Artist Not Provided: Video Games",
+            "cost": "$7.69",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu 38 kHz IR Proximity Sensor, Fixed Gain, Low Brightness",
+            "cost": "$5.95",
+            "quantity": "\n",
+            "total": "3"
+        },
+        {
+            "part": "Mini Remote Control ID: 389 - $4.95 : Adafruit Industries, Unique & fu",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "IR (Infrared) Receiver Sensor [TSOP38238] ID: 157 - $1.95 : Adafruit I",
+            "cost": "$1.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu - 34:1 Metal Gearmotor 25Dx52L mm LP 6V with 48 CPR Encoder",
+            "cost": "$34.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Half-size breadboard ID: 64 - $5.00 : Adafruit Industries, Unique & fu",
+            "cost": "$5.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Wheel 90\u00d710mm Pair - Black",
+            "cost": "$9.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu 25D mm Metal Gearmotor Bracket Pair",
+            "cost": "$7.45",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "McMaster-Carr",
+            "cost": "$19.57",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu - DRV8833 Dual Motor Driver Carrier",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Pololu Universal Aluminum Mounting Hub for 4mm Shaft, #4-40 Holes (2-P",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Adafruit Proto Plate for Beagle Bone & Beagle Bone Black ID: 702 - $7.",
+            "cost": "$7.95",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Samsung 16GB EVO Class 10 Micro SDHC with Adapter up to 48",
+            "cost": "$6.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Pololu Ball Caster with 1\u2033 Plastic Ball and Ball Bearings",
+            "cost": "$6.95",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/43/0.jpg",
+        "garage/43/1.jpg",
+        "garage/43/2.jpg",
+        "garage/43/3.jpg",
+        "garage/43/4.jpg",
+        "garage/43/5.jpg",
+        "garage/43/6.jpg",
+        "garage/43/7.jpg",
+        "garage/43/8.jpg",
+        "garage/43/9.jpg",
+        "garage/43/10.jpg",
+        "garage/43/11.jpg",
+        "garage/43/12.jpg",
+        "garage/43/13.jpg",
+        "garage/43/14.jpg"
+    ]
+}

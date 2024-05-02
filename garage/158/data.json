@@ -1,0 +1,111 @@
+{
+    "title": "Uke-an strum",
+    "date": "20 Nov 2016",
+    "detail": "Learning to play the uke by watching it play itself!",
+    "extended_details": "We want to create a self-playing ukelele that can strum and play basic chords. It will get info from a phone application about what chords to play and play them with motors attached to guitar picks.",
+    "team_profiles": [
+        {
+            "username": "@glahiry",
+            "name": "@glahiry"
+        },
+        {
+            "username": "@mbremner",
+            "name": "@mbremner"
+        },
+        {
+            "username": "@npmurali",
+            "name": "@npmurali"
+        },
+        {
+            "username": "@avythees",
+            "name": "@avythees"
+        },
+        {
+            "username": "@yaesunk",
+            "name": "@yaesunk"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "Mini Pushbutton Switch - COM-00097 - SparkFun Electronics",
+            "cost": "$0.35",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "Solenoid - 5v (small) - ROB-11015 - SparkFun Electronics",
+            "cost": "$4.95",
+            "quantity": "\n",
+            "total": "18"
+        },
+        {
+            "part": "TIP120 Power Darlington Transistors - 3 pack ID: 976 - $2.50 : Adafrui",
+            "cost": "$2.50",
+            "quantity": "\n",
+            "total": "6"
+        },
+        {
+            "part": "1N4001 Diode - 10 pack ID: 755 - $1.50 : Adafruit Industries, Unique &",
+            "cost": "$1.50",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Servo - Hitec HS-422 (Standard Size) - ROB-11884 - SparkFun Electronic",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$5.99",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Servo - Generic (Sub-Micro Size) - ROB-09065 - SparkFun Electronics",
+            "cost": "$8.00",
+            "quantity": "\n",
+            "total": "5"
+        },
+        {
+            "part": "503 Service Unavailable Error",
+            "cost": "$4.60",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Amazon.com: Aketek 3x Solderless BreadBoard, 400 tie-points, 4 power r",
+            "cost": "$9.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Arduino Uno - R3 - DEV-11021 - SparkFun Electronics",
+            "cost": "$23.00",
+            "quantity": "\n",
+            "total": "2"
+        },
+        {
+            "part": "Amazon.com: Diamond Head DU-150 Soprano Ukulele - Mahogany Brown: Musi",
+            "cost": "$28.00",
+            "quantity": "\n",
+            "total": "1"
+        },
+        {
+            "part": "Magnet Disk - 0.709\" - COM-08890 - SparkFun Electronics",
+            "cost": "$0.90",
+            "quantity": "\n",
+            "total": "5"
+        }
+    ],
+    "photos": [
+        "garage/158/0.jpg"
+    ]
+}

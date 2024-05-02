@@ -1,0 +1,21 @@
+{
+    "title": "Hot Box Laser Show, Man",
+    "date": "21 Nov 2016",
+    "detail": "Piano with frickin' laser beams attached!",
+    "extended_details": "Our project is to create a tabletop upright piano where the strings are replaced with lasers. The keys of the piano, instead of actuating a hammer to strike the strings, will move a blocker to block the laser. A microcontroller will read out the lasers that are currently blocked as the key being pressed and will mix and output the sound.",
+    "team_profiles": [
+        {
+            "username": "@bmperez",
+            "name": "@bmperez"
+        },
+        {
+            "username": "@nshills",
+            "name": "@nshills"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/178/0.jpg",
+        "garage/178/1.jpg"
+    ]
+}

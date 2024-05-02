@@ -1,0 +1,31 @@
+{
+    "title": "Motorized Roller Skates",
+    "date": "20 Oct 2021",
+    "detail": "Find walking tiring? Transportation a hassle? Zoom around on motorized roller skates.",
+    "extended_details": "Motorized roller skates. They\u2019re fun and quirky. Being able to move on wheels is the easiest solution for ground transportation. However, most wheeled devices are rather large, such as cars, bikes, and scooters, and the additional costs of storing such vehicles can be rather large (hint: parking passes). Those on the smaller end are acceptable, but are still too inconvenient to carry around, like skateboards and hoverboards.\r\nThe most convenient of wheeled devices are roller skates, due to their small size and portability. However, roller skates come with a big flaw in that they cannot assist in moving uphill. Thus the solution is to create motorized roller skates.\r\nMotorized roller skates will in their core, be roller skates. Each shoe will have four wheels, with the front two wheels being powered by a motor and a rechargeable battery, both of which are placed inside a protective container. The shoes will be controlled by a handheld controller, which will control both shoes using remote IR transmissions. In a strange abstractive sense, it is almost like attaching two remote controlled cars to one\u2019s feet.\r\nThere are further considerations as to making the motorized roller skates an attachable addendum by allowing any shoe to be strapped on, or if they should be their specific shoes. The exact specs regarding the power of the motor and battery are not completely finalized, but a general estimate is given here.",
+    "team_profiles": [
+        {
+            "username": "@dswu",
+            "name": "@dswu"
+        },
+        {
+            "username": "@efu",
+            "name": "@efu"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "RC Car",
+            "cost": "$104.00",
+            "quantity": "\n",
+            "total": "2"
+        }
+    ],
+    "photos": [
+        "garage/716/0.jpg",
+        "garage/716/1.jpg",
+        "garage/716/2.jpg",
+        "garage/716/3.jpg",
+        "garage/716/4.jpg"
+    ]
+}

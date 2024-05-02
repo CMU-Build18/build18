@@ -1,0 +1,16 @@
+{
+    "title": "I've Got You in My Sights",
+    "date": "15 Nov 2017",
+    "detail": "A smart camera that tracks people",
+    "extended_details": "As the project pitch suggests, we are building a smart camera that tracks people, using a Pi and a camera. Simple, but great potential.",
+    "team_profiles": [
+        {
+            "username": "@zhengyup",
+            "name": "@zhengyup"
+        }
+    ],
+    "parts_and_costs": [],
+    "photos": [
+        "garage/373/0.jpg"
+    ]
+}
