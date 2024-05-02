@@ -104,13 +104,13 @@
                         console.log(errorMessage);
                         console.log('User is signed in as' + email);
 
+
                         // ...
                     });
-
-
                 console.log(credential);
                 console.log(token);
-                console.log('User is signed in as' + email);
+                console.log('User is signed in as ' + email);
+
             });
 
             // listen for a user sign-in
@@ -124,7 +124,7 @@
                     const isAnonymous = user.isAnonymous;
                     const uid = user.uid;
                     const providerData = user.providerData;
-                    console.log('User is signed in as' + email);
+                    console.log('User is signed in as ' + email);
 
                     // Delete registration form
                     document.getElementById('register-form').remove();
@@ -135,10 +135,22 @@
             });
         });
 
+        document.addEventListener('alpine:init', () => {
+            Alpine.data('body', () => ({
+                showToast: false,
+                showDiv() {
+                    this.showToast = true;
+                    setTimeout(() => {
+                        this.showToast = false;
+                    }, 10000);
+                }
+            }));
+        });
+
     </script>
 </head>
 
-<body>
+<body x-data="{ showToast: false }">
     <!-- nav -->
     <div id="nav"
         class="fixed top-1/2 transform -translate-y-1/2 bg-slate-50 bg-opacity-30 z-10 rounded-lg transition-opacity duration-500 ease-in-out"
@@ -191,8 +203,16 @@
     </div>
 
     <!-- landing -->
-    <section id="home ">
+    <section id="home">
         <div class="h-screen  bg-[#faf7f5] ">
+            <div x-show="showToast" x-transition:enter="transition ease-out duration-1000"
+                x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
+                x-transition:leave="transition ease-in duration-1000" x-transition:leave-start="opacity-100"
+                x-transition:leave-end="opacity-0" class="toast toast-top toast-center">
+                <div class="alert alert-success">
+                    <span>Account registered successfully!</span>
+                </div>
+            </div>
             <img src="assets/build18-breadboard.svg" class="min-w-full max-h-screen object-cover min-h-full ">
             <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 items-center">
                 <div class="text-center">

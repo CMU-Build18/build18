@@ -8,7 +8,7 @@ import os
 
 def get_garage_data():
 
-    for i in range(1, 800):
+    for i in range(1, 10):
         try:
             print("Trying project ", i, '...')
             url = "https://www.build18.org/garage/project/" + str(i) + "/"
@@ -75,6 +75,7 @@ def get_garage_data():
             # visit the image urls and download
             for j, photo in enumerate(photos):
                 response = requests.get(photo)
+                
                 with open(f"garage/{i}/{j}.jpg", "wb") as f:
                     f.write(response.content)
                 photos_list.append(f"garage/{i}/{j}.jpg")
