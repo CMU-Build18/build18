@@ -38,8 +38,9 @@
     </script>
 
     <!-- Alpine Plugins -->
-    <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js" defer></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js defer"></script>
+    <script src="https://unpkg.com/alpinejs" defer></script>
 
     <!-- Firebase -->
     <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
@@ -141,8 +142,12 @@
     <!-- nav -->
     <div id="nav"
         class="fixed top-1/2 transform -translate-y-1/2 bg-slate-50 bg-opacity-30 z-10 rounded-lg transition-opacity duration-500 ease-in-out"
-        x-data="{ scrolled: false, lastScroll: 0, timer: null }" :class="{ 'opacity-0': scrolled }"
-        @scroll.window="clearTimeout(timer); scrolled = (window.pageYOffset > lastScroll && window.pageYOffset > 0); lastScroll = window.pageYOffset; timer = setTimeout(() => { scrolled = false }, 3500)">
+        x-data="{ show: true, lastScroll: 0 }" x-init="window.addEventListener('scroll', () => {
+            show = window.scrollY <= 10 || window.scrollY < lastScroll;
+            lastScroll = window.scrollY;
+        })" x-show="show" x-transition:enter="transition-opacity duration-50 ease-in-out"
+        x-transition:leave="transition-opacity duration-50 ease-in-out" x-transition:leave-start="opacity-100"
+        x-transition:leave-end="opacity-0" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100">
 
         <ul class="menu w-fit rounded-box">
             <li>
@@ -647,7 +652,8 @@
 
             </div>
 
-            <div class="pt-12 container mx-auto max-w-screen-lg px-4 md:px-8 text-center flex items-center justify-center w-full pb-10 hidden md:block">
+            <div
+                class="pt-12 container mx-auto max-w-screen-lg px-4 md:px-8 text-center flex items-center justify-center w-full pb-10 hidden md:block">
                 <ul class="timeline text-white pt-12">
                     <li>
                         <div class="timeline-start timeline-box">Registration Opens</div>
