@@ -10,7 +10,7 @@
 
 Assets 
 
- - [https://fonts.google.com/icons](https://fonts.google.com/icons)
+ - [Google Fonts](https://fonts.google.com/icons)
 
  - [DaisyUI](https://daisyui.com/)
  
@@ -25,4 +25,6 @@ Tooling
  - [Google Firebase](https://firebase.google.com/)
 
  - [Microsoft Clarity](https://clarity.microsoft.com/) 
+
+ - [GitHub Pages](https://pages.github.com/)
 
