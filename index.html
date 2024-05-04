@@ -126,8 +126,11 @@
                     const providerData = user.providerData;
                     console.log('User is signed in as ' + email);
 
-                    // Delete registration form
-                    document.getElementById('register-form').remove();
+                    // Replace registration form
+                    document.getElementById('attendees').innerHTML = 
+                    '<br><br><div class="relative group max-w-max mx-auto"> <div class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"> </div> <a href="/dashboard"> <div class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">' + 'Enter Dashboard as ' + displayName + '</div> </a> </div><br>';
+
+                        
                 } else {
                     // User is signed out.
                     // ...
@@ -213,26 +216,28 @@
                         APPLY FOR BUILD18!</p>
 
                     </p>
-                    <label id="register-form"
-                        class="input input-bordered flex items-center gap-2 mt-8 max-w-md mx-auto pr-0 glass">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
-                            class="w-4 h-4 opacity-70">
-                            <path
-                                d="M2.5 3A1.5 1.5 0 0 0 1 4.5v.793c.026.009.051.02.076.032L7.674 8.51c.206.1.446.1.652 0l6.598-3.185A.755.755 0 0 1 15 5.293V4.5A1.5 1.5 0 0 0 13.5 3h-11Z" />
-                            <path
-                                d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" />
-                        </svg>
-                        <input type="text" class="grow" placeholder="*cmu.edu" id="email-placeholder" />
-                        <button id="register-button" class="mx-5 hover:fill-orange-400"><svg
-                                xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24">
+                    <div id="attendees">
+                        <label id="register-form"
+                            class="input input-bordered flex items-center gap-2 mt-8 max-w-md mx-auto pr-0 glass">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                class="w-4 h-4 opacity-70">
                                 <path
-                                    d="M212.31-140Q182-140 161-161q-21-21-21-51.31v-535.38Q140-778 161-799q21-21 51.31-21h252.3v60h-252.3q-4.62 0-8.46 3.85-3.85 3.84-3.85 8.46v535.38q0 4.62 3.85 8.46 3.84 3.85 8.46 3.85h535.38q4.62 0 8.46-3.85 3.85-3.84 3.85-8.46v-252.3h60v252.3Q820-182 799-161q-21 21-51.31 21H212.31Zm176.46-206.62-42.15-42.15L717.85-760H560v-60h260v260h-60v-157.85L388.77-346.62Z" />
+                                    d="M2.5 3A1.5 1.5 0 0 0 1 4.5v.793c.026.009.051.02.076.032L7.674 8.51c.206.1.446.1.652 0l6.598-3.185A.755.755 0 0 1 15 5.293V4.5A1.5 1.5 0 0 0 13.5 3h-11Z" />
+                                <path
+                                    d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" />
                             </svg>
-                            <!-- on click, open firebase auth -->
+                            <input type="text" class="grow" placeholder="*cmu.edu" id="email-placeholder" />
+                            <button id="register-button" class="mx-5 hover:fill-orange-400"><svg
+                                    xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24">
+                                    <path
+                                        d="M212.31-140Q182-140 161-161q-21-21-21-51.31v-535.38Q140-778 161-799q21-21 51.31-21h252.3v60h-252.3q-4.62 0-8.46 3.85-3.85 3.84-3.85 8.46v535.38q0 4.62 3.85 8.46 3.84 3.85 8.46 3.85h535.38q4.62 0 8.46-3.85 3.85-3.84 3.85-8.46v-252.3h60v252.3Q820-182 799-161q-21 21-51.31 21H212.31Zm176.46-206.62-42.15-42.15L717.85-760H560v-60h260v260h-60v-157.85L388.77-346.62Z" />
+                                </svg>
+                                <!-- on click, open firebase auth -->
 
-                        </button>
+                            </button>
 
-                    </label>
+                        </label>
+                    </div>
 
                 </div>
             </div>
