@@ -44,7 +44,7 @@
         <p class="pl-8 pt-8 text-2xl">
             ← </p>
     </a>
-    
+
     <section id="dashboard">
 
         <div class="bg-[#faf7f5]  py-6 sm:py-8 lg:py-12 h-screen">
@@ -58,6 +58,7 @@
                 <br>
                 <br>
                 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+                <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
                 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-analytics.js"></script>
                 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
 
@@ -78,11 +79,59 @@
                     // Check if user is logged in
                     firebase.auth().onAuthStateChanged(function (user) {
                         if (user) {
-                            // User is logged in, show dashboard content
-                            document.getElementById("dashboard-content").style.display = "block";
+                            if (user.email.indexOf("andrew.cmu.edu") == -1) {
+                                document.getElementById("change-account").style.display = "block";
+
+                                firebase.auth().signOut().then(function () {
+                                    // Sign-out successful.
+                                    setTimeout(function () {
+                                        window.location.href = "/";
+                                    }, 1000);
+                                }).catch(function (error) {
+                                    // An error happened.
+                                    console.log(error);
+                                });
+                            } else {
+                                // User is logged in, show dashboard content
+                                document.getElementById("dashboard-content").style.display = "block";
+
+                                // Add to firestore as a new document
+                                var db = firebase.firestore();
+                                var userId = user.email;
+
+                                db.collection("users").doc(userId).get().then((doc) => {
+                                    if (doc.exists) {
+                                        console.log(`User ${userId} is already in the database.`);
+
+                                        // Update last login time
+                                        db.collection("users").doc(userId).update({
+                                            lastLogin: firebase.firestore.FieldValue.serverTimestamp()
+                                        }).then(() => {
+                                            console.log(`User ${userId} last login updated.`);
+                                        }).catch((error) => {
+                                            console.error("Error updating last login: ", error);
+                                        });
+                                    } else {
+                                        db.collection("users").doc(userId).set({
+                                            email: userId,
+                                            name: user.displayName,
+                                            photoURL: user.photoURL,
+                                            team: "",
+                                            project: "",
+                                            progress: 0,
+                                        }).then(() => {
+                                            console.log(`User ${userId} added to the database.`);
+                                        }).catch((error) => {
+                                            console.error("Error adding user to the database: ", error);
+                                        });
+                                    }
+                                }).catch((error) => {
+                                    console.error("Error checking user in the database: ", error);
+                                });
+                            }
                         } else {
-                            // User is not logged in, show login form
-                            document.getElementById("redirect-form").style.display = "block";
+                            document.getElementById("logged-out").style.display = "block";
+
                             setTimeout(function () {
                                 window.location.href = "/";
                             }, 1000);
@@ -107,10 +156,14 @@
                     };
 
                 </script>
+                <div id="change-account" style="display: none;">
+                    <p class="text-2xl pt-32 mt-32">Please login with a CMU account..</p>
+                </div>
 
-                <div id="redirect-form" style="display: none;">
+                <div id="logged-out" style="display: none;">
                     <p class="text-2xl pt-32 mt-32">Something went wrong. Please login again... </p>
                 </div>
+
 
                 <div id="dashboard-content" style="display: none;">
                     <p class="text-2xl pt-32 mt-32">Welcome to the Build18 Dashboard! Here you can view

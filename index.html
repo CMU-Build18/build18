@@ -71,7 +71,7 @@
         // Add event listener to registration-button
         document.addEventListener('DOMContentLoaded', (event) => {
 
-            document.getElementById('register-button').addEventListener('click', () => {
+            document.getElementById('attendees').addEventListener('click', () => {
 
                 firebase.auth().signInWithRedirect(provider)
                     .then((result) => {
