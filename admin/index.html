@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build18 | Admin </title>
+    <link href="../output.css" rel="stylesheet">
+    <link rel="icon" href="../assets/build18-logo.png" type="image/x-icon">
+
+    <!-- HTML Meta Tags -->
+    <title>Build18 | Garage</title>
+    <meta name="description" content="Join us for the coolest build event at Carnegie Mellon University!">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://build18.org">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Build18">
+    <meta property="og:description" content="Join us for the coolest build event at Carnegie Mellon University!">
+    <meta property="og:image" content="https://i.imgur.com/sbokFjM.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="congenial-engine-pwr979rgp5xf9jg-5500.app.github.dev">
+    <meta property="twitter:url" content="https://build18.org">
+    <meta name="twitter:title" content="Build18">
+    <meta name="twitter:description" content="Join us for the coolest build event at Carnegie Mellon University!">
+    <meta name="twitter:image" content="https://i.imgur.com/sbokFjM.png">
+
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "m5mdsy528d");
+    </script>
+</head>
+
+<body>
+
+    <!-- Back to home page in top left -->
+    <a href="/" class="absolute top-0 left-0 mt-4 ml-4 flex items-center">
+        <p class="pl-8 pt-8 text-2xl">
+            ← </p>
+    </a>
+
+    <section id="admin">
+
+        <div class="bg-[#faf7f5]  py-6 sm:py-8 lg:py-12 h-screen">
+            <div class="mx-auto max-w-screen-2xl px-4 md:px-8 text-center">
+                <p
+                    class="text-6xl md:text-9xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.purple.400),theme(colors.purple.100),theme(colors.pink.300),theme(colors.orange.400),theme(colors.pink.300),theme(colors.purple.100),theme(colors.purple.400))] bg-[length:200%_auto] animate-gradient">
+                    ADMIN</p>
+                </p>
+
+                <!-- Welcome message -->
+                <br>
+                <br>
+                <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+                <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+                <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-analytics.js"></script>
+                <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+
+                <script>
+                    // Initialize Firebase
+                    const firebaseConfig = {
+                        apiKey: "AIzaSyDe1rwShoj5OXQQBndtnkM2gbBJmG0i_jY",
+                        authDomain: "build18-7c01e.firebaseapp.com",
+                        projectId: "build18-7c01e",
+                        storageBucket: "build18-7c01e.appspot.com",
+                        messagingSenderId: "531582224158",
+                        appId: "1:531582224158:web:c1864dd5259e7c9857ab0f",
+                        measurementId: "G-R1KHW2JFKG"
+                    };
+
+                    firebase.initializeApp(firebaseConfig);
+
+                    // Check if user is logged in
+                    firebase.auth().onAuthStateChanged(function (user) {
+                        if (user) {
+                            var db = firebase.firestore();
+                            var userId = user.email;
+
+                            db.collection("admin").doc(userId).get().then((doc) => {
+                                if (doc.exists) {
+                                    console.log(`User ${userId} is an admin.`);
+
+                                    // Admin user is logged in, show admin content
+                                    document.getElementById("admin-content").style.display = "block";
+                                } else {
+                                    console.log(`User ${userId} is not an admin.`);
+                                }
+                            }).catch((error) => {
+                                console.error("Error checking admin status: ", error);
+                            });
+                        } else {
+                            // User is not logged in, show login form
+                            document.getElementById("redirect-form").style.display = "block";
+                            setTimeout(function () {
+                                window.location.href = "/";
+                            }, 1000);
+                        }
+                    });
+
+                    // wait for the page to load
+                    window.onload = function () {
+                        // Logout button
+                        document.getElementById("logout-button").addEventListener("click", function () {
+                            console.log("Logging out...");
+                            firebase.auth().signOut().then(function () {
+                                // Sign-out successful.
+                                setTimeout(function () {
+                                    window.location.href = "/";
+                                }, 1000);
+                            }).catch(function (error) {
+                                // An error happened.
+                                console.log(error);
+                            });
+                        });
+                    };
+
+                </script>
+
+                <div id="redirect-form" style="display: none;">
+                    <p class="text-2xl pt-32 mt-32">Something went wrong. Please login again... </p>
+                </div>
+
+                <div id="admin-content" style="display: none;">
+                    <p class="text-2xl pt-32 mt-32">Welcome to the Build18 Admin dashboard! Here you can view
+                        information about teams, projects, and logistics. </p>
+                    <br>
+                    <br>
+                    <p class="text-2xl pt-32 mt-32">Check back soon for updates!</p>
+                    <br>
+                    <br>
+                    <div id="logout-button" class="relative group max-w-max mx-auto pt-32">
+                        <div
+                            class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt">
+                        </div>
+                        <a class="pt-32">
+                            <button
+                                class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">
+                                LOGOUT</button>
+                        </a>
+                    </div><br>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- footer -->
+    <footer class="footer py-4 bg-base-200 text-base-content max-h-16">
+        <nav class="flex justify-between pl-10">
+            <aside>
+                <a href="#home">
+                    <img class="max-h-8 overflow-hidden" src="../assets/build18-logo.png">
+                </a>
+            </aside>
+            <p class="text-center justify-center mt-1">Build18 © 2024</p>
+            <a href="#top" class="text-2xl text-orange-400 text-right pl-8">↑</a>
+
+        </nav>
+    </footer>
+
+</body>
+
+</html>
