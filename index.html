@@ -49,13 +49,13 @@
 
     <script type="module">
         const firebaseConfig = {
-            apiKey: "AIzaSyDe1rwShoj5OXQQBndtnkM2gbBJmG0i_jY",
-            authDomain: "build18-7c01e.firebaseapp.com",
-            projectId: "build18-7c01e",
-            storageBucket: "build18-7c01e.appspot.com",
-            messagingSenderId: "531582224158",
-            appId: "1:531582224158:web:c1864dd5259e7c9857ab0f",
-            measurementId: "G-R1KHW2JFKG"
+            apiKey: "AIzaSyDmPOF_J6ckarUOmOtkovXH5evbm4wPlDA",
+            authDomain: "cmu-build18.firebaseapp.com",
+            projectId: "cmu-build18",
+            storageBucket: "cmu-build18.appspot.com",
+            messagingSenderId: "803530361718",
+            appId: "1:803530361718:web:f78d57d7ef2ea728194857",
+            measurementId: "G-R0GXBKPJG1"
         };
 
         // Initialize Firebase
@@ -127,10 +127,10 @@
                     console.log('User is signed in as ' + email);
 
                     // Replace registration form
-                    document.getElementById('attendees').innerHTML = 
-                    '<br><br><div class="relative group max-w-max mx-auto"> <div class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"> </div> <a href="/dashboard"> <div class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">' + 'Enter Dashboard as ' + displayName + '</div> </a> </div><br>';
+                    document.getElementById('attendees').innerHTML =
+                        '<br><br><div class="relative group max-w-max mx-auto"> <div class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"> </div> <a href="/dashboard"> <div class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">' + 'Enter Dashboard as ' + displayName + '</div> </a> </div><br>';
 
-                        
+
                 } else {
                     // User is signed out.
                     // ...
