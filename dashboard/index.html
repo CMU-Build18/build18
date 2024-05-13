@@ -73,7 +73,7 @@
                         appId: "1:803530361718:web:f78d57d7ef2ea728194857",
                         measurementId: "G-R0GXBKPJG1"
                     };
-                    
+
                     firebase.initializeApp(firebaseConfig);
 
                     // Check if user is logged in
@@ -111,6 +111,13 @@
                                         }).catch((error) => {
                                             console.error("Error updating last login: ", error);
                                         });
+
+                                        // Show user profile information
+                                        document.getElementById("profile-info").style.display = "block";
+                                        document.getElementById("profile-photo").src = user.photoURL;
+                                        document.getElementById("profile-name").innerText = user.displayName;
+                                        document.getElementById("profile-email").innerText = user.email;
+
                                     } else {
                                         db.collection("users").doc(userId).set({
                                             email: userId,
@@ -173,6 +180,15 @@
                     <p class="text-2xl pt-32 mt-32">Check back soon for updates!</p>
                     <br>
                     <br>
+
+                    <div id="profile-info" style="display: none;">
+                        <img id="profile-photo" src="" alt="Profile Photo" class="rounded-full h-32 w-32 mx-auto">
+                        <h2 id="profile-name" class="text-2xl pt-4"></h2>
+                        <p id="profile-email" class="text-lg"></p>
+                    </div>
+                    <br>
+                    <br>
+
                     <div id="logout-button" class="relative group max-w-max mx-auto pt-32">
                         <div
                             class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt">
