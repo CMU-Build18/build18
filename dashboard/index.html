@@ -47,7 +47,7 @@
 
     <section id="dashboard">
 
-        <div class="bg-[#faf7f5]  py-6 sm:py-8 lg:py-12 h-screen">
+        <div class="bg-[#faf7f5]  py-6 sm:py-8 lg:py-12 ">
             <div class="mx-auto max-w-screen-2xl px-4 md:px-8 text-center">
                 <p
                     class="text-6xl md:text-9xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.purple.400),theme(colors.purple.100),theme(colors.pink.300),theme(colors.orange.400),theme(colors.pink.300),theme(colors.purple.100),theme(colors.purple.400))] bg-[length:200%_auto] animate-gradient">
@@ -160,6 +160,39 @@
                                 console.log(error);
                             });
                         });
+
+                        // Update button
+                        document.getElementById("update-button").addEventListener("click", function () {
+                            console.log("Updating user profile...");
+                            var shirtSize = document.getElementById("shirtSize").value;
+                            var college = document.getElementById("college").value;
+                            var classYear = document.getElementById("classYear").value;
+                            var gender = document.getElementById("gender").value;
+                            var ethnicity = document.getElementById("ethnicity").value;
+                            var projectDescription = document.getElementById("projectDescription").value;
+                            var teamName = document.getElementById("teamName").value;
+                            var teamPassword = document.getElementById("teamPassword").value;
+
+                            var db = firebase.firestore();
+                            var userId = firebase.auth().currentUser.email;
+
+                            db.collection("users").doc(userId).update({
+                                shirtSize: shirtSize,
+                                college: college,
+                                classYear: classYear,
+                                gender: gender,
+                                ethnicity: ethnicity, 
+                                project: projectDescription,
+                                team: teamName,
+                                teamPassword: teamPassword
+                            }).then(() => {
+                                console.log(`User ${userId} profile updated.`);
+                                alert("Profile updated successfully!");
+                            }).catch((error) => {
+                                console.error("Error updating user profile: ", error);
+                                alert("Error updating profile. Please try again.");
+                            });
+                        });
                     };
 
                 </script>
@@ -188,17 +221,132 @@
                     </div>
                     <br>
                     <br>
+                    <h1>Status: <b>Pending</b></h1>
+                    <!-- User Profile Info Fields -->
+                    <label class="form-control w-full max-w-md mx-auto pt-6">
+                        <div class="label">
+                            <span class="label-text">Shirt Size</span>
+                        </div>
+                        <select class="select select-bordered bg-white" id="shirtSize">
+                            <option disabled selected>Pick one</option>
+                            <option>Small</option>
+                            <option>Medium</option>
+                            <option>Large</option>
+                            <option>XL</option>
+                            <option>XXL</option>
+                        </select>
+                    </label>
+                    <label class="form-control w-full max-w-md mx-auto pt-8">
+                        <div class="label">
+                            <span class="label-text">College</span>
+                        </div>
+                        <select class="select select-bordered bg-white" id="college">
+                            <option disabled selected>Pick one</option>
+                            <option>College of Engineering</option>
+                            <option>School of Computer Science</option>
+                            <option>College of Fine Arts</option>
+                            <option>Dietrich College</option>
+                            <option>Heinz College</option>
+                            <option>Mellon College of Science</option>
+                            <option>Tepper School of Business</option>
+                        </select>
+                    </label>
+                    <label class="form-control w-full max-w-md mx-auto pt-8">
+                        <div class="label">
+                            <span class="label-text">Class Year</span>
+                        </div>
+                        <select class="select select-bordered bg-white" id="classYear">
+                            <option disabled selected>Pick one</option>
+                            <option>Undergraduate First Year</option>
+                            <option>Undergraduate Sophomore</option>
+                            <option>Undergraduate Junior</option>
+                            <option>Undergraduate Senior</option>
+                            <option>Masters</option>
+                            <option>Doctorate</option>
+                            <option>Alumni</option>
+                            <option>Faculty</option>
+                            <option>Staff</option>
+                        </select>
+                    </label>
+                    <label class="form-control w-full max-w-md mx-auto pt-8">
+                        <div class="label">
+                            <span class="label-text">Gender</span>
+                        </div>
+                        <select class="select select-bordered bg-white" id="gender">
+                            <option disabled selected>Pick one</option>
+                            <option>Man</option>
+                            <option>Woman</option>
+                            <option>Non-binary</option>
+                            <option>Prefer Not to Answer</option>
+                            <option>Other</option>
+                        </select>
+                        <input type="text" class="bg-white pt-6" placeholder="Prefer to self-describe">
+                    </label>
+                    <label class="form-control w-full max-w-md mx-auto pt-8">
+                        <div class="label">
+                            <span class="label-text">Ethnicity</span>
+                        </div>
+                        <select class="select select-bordered bg-white" id="ethnicity">
+                            <option disabled selected>Pick one</option>
+                            <option>Asian Indian</option>
+                            <option>Black or African</option>
+                            <option>Chinese</option>
+                            <option>Filipino</option>
+                            <option>Hispanic / Latino / Spanish Origin</option>
+                            <option>Japanese</option>
+                            <option>Korean</option>
+                            <option>Middle Eastern</option>
+                            <option>Native American or Alaskan Native</option>
+                            <option>Vietnamese</option>
+                            <option>Other Asian (Thai, Cambodian, etc)</option>
+                            <option>Pacific Islander</option>
+                            <option>Other</option>
+                            <option>Prefer Not to Answer</option>
+                        </select>
+                        <input type="text" class="bg-white pt-6" placeholder="Prefer to self-describe">
+                    </label>
 
-                    <div id="logout-button" class="relative group max-w-max mx-auto pt-32">
+                    <!-- Project -->
+                    <label class="form-control w-full max-w-md mx-auto pt-8">
+                        <div class="label">
+                            <span class="label-text ">What do you want to build?</span>
+                        </div>
+                        <textarea class="textarea textarea-bordered h-24 bg-white" id="projectDescription"
+                            placeholder="Tell us about your project!"></textarea>
+                    </label>
+
+                    <!-- Team -->
+                    <label class="form-control w-full max-w-md mx-auto pt-8">
+                        <div class="label">
+                            <span class="label-text
+                            ">Team Name (Create or Join)</span>
+                        </div>
+                        <input type="text" class="input input-bordered bg-white" placeholder="Team Name" id="teamName">
+                    </label>
+                    <label class="form-control w-full max-w-md mx-auto">
+                        <input type="password" class="input input-bordered bg-white" placeholder="Password" id="teamPassword">
+                    </label>
+
+                    <br><br>
+                    <div id="update-button" class="relative group max-w-max mx-auto pt-32">
                         <div
                             class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt">
                         </div>
                         <a class="pt-32">
                             <button
                                 class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">
+                                UPDATE</button>
+                        </a>
+                    </div><br>
+
+                    <div id="logout-button" class="relative group max-w-max mx-auto pt-32">
+                        <a class="pt-32">
+                            <button
+                                class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">
                                 LOGOUT</button>
                         </a>
                     </div><br>
+                    <br>
 
                 </div>
 
