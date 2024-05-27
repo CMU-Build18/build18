@@ -53,8 +53,6 @@
                     class="text-6xl md:text-9xl font-extrabold bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.purple.400),theme(colors.purple.100),theme(colors.pink.300),theme(colors.orange.400),theme(colors.pink.300),theme(colors.purple.100),theme(colors.purple.400))] bg-[length:200%_auto] animate-gradient">
                     DASHBOARD</p>
                 </p>
-
-                <!-- Welcome message -->
                 <br>
                 <br>
                 <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
@@ -118,6 +116,21 @@
                                         document.getElementById("profile-name").innerText = user.displayName;
                                         document.getElementById("profile-email").innerText = user.email;
 
+                                        // for admins / exec
+                                        db.collection("admin").doc(userId).get().then((doc) => {
+                                            if (doc.exists) {
+                                                console.log(`User ${userId} is an admin.`);
+
+                                                // Admin user is logged in, show admin content
+                                                document.getElementById("admin-content").style.display = "block";
+                                            } else {
+                                                console.log(`User ${userId} is not an admin.`);
+                                            }
+                                        }).catch((error) => {
+                                            console.error("Error checking admin status: ", error);
+                                        });
+
+
                                     } else {
                                         db.collection("users").doc(userId).set({
                                             email: userId,
@@ -176,21 +189,61 @@
                             var db = firebase.firestore();
                             var userId = firebase.auth().currentUser.email;
 
-                            db.collection("users").doc(userId).update({
-                                shirtSize: shirtSize,
-                                college: college,
-                                classYear: classYear,
-                                gender: gender,
-                                ethnicity: ethnicity, 
-                                project: projectDescription,
-                                team: teamName,
-                                teamPassword: teamPassword
-                            }).then(() => {
+                            let updateData = {}
+                            if (shirtSize !== null) updateData.shirtSize = shirtSize;
+                            if (college !== null) updateData.college = college;
+                            if (classYear !== null) updateData.classYear = classYear;
+                            if (gender !== null) updateData.gender = gender;
+                            if (ethnicity !== null) updateData.ethnicity = ethnicity;
+                            if (projectDescription !== null) updateData.project = projectDescription;
+                            if (teamName !== null) updateData.team = teamName;
+
+                            db.collection("users").doc(userId).update(updateData).then(() => {
                                 console.log(`User ${userId} profile updated.`);
                                 alert("Profile updated successfully!");
                             }).catch((error) => {
                                 console.error("Error updating user profile: ", error);
                                 alert("Error updating profile. Please try again.");
+                            });
+
+                            // Check if team exists
+                            db.collection("teams").doc(teamName).get().then((doc) => {
+                                if (doc.exists) {
+                                    console.log(`Team ${teamName} exists.`);
+                                    var data = doc.data();
+                                    if (data.password == teamPassword) {
+                                        console.log(`Team ${teamName} password is correct.`);
+                                        db.collection("users").doc(userId).update({
+                                            team: teamName,
+                                        }).then(() => {
+                                            console.log(`User ${userId} team updated.`);
+                                            alert("Team updated successfully!");
+                                        }).catch((error) => {
+                                            console.error("Error updating user team: ", error);
+                                            alert("Error updating team. Please try again.");
+                                        });
+                                    } else {
+                                        console.log(`Team ${teamName} password is incorrect.`);
+                                        alert("Incorrect team password. Please try again.");
+                                    }
+                                } else {
+                                    alert("New team created!");
+
+                                    // Create new team
+                                    db.collection("teams").doc(teamName).set({
+                                        password: teamPassword,
+                                        members: [userId],
+                                        project: projectDescription,
+                                    }).then(() => {
+                                        console.log(`Team ${teamName} created.`);
+                                    }).catch((error) => {
+                                        console.error("Error creating team: ", error);
+                                        alert("Error creating team. Please try again.");
+                                    });
+                                }
+                            }).catch((error) => {
+                                console.error("Error checking team: ", error);
+                                alert("Error checking team. Please try again.");
                             });
                         });
                     };
@@ -210,7 +263,9 @@
                         information about your team, your project, and your progress. </p>
                     <br>
                     <br>
-                    <p class="text-2xl pt-32 mt-32">Check back soon for updates!</p>
+                    <p class="text-2xl pt-32 mt-32">Check back soon for more information! In the meantime, please fill
+                        out your profile here - all demographic information is strictly optional and helps us put on a
+                        better event for you :)</p>
                     <br>
                     <br>
 
@@ -324,7 +379,8 @@
                         <input type="text" class="input input-bordered bg-white" placeholder="Team Name" id="teamName">
                     </label>
                     <label class="form-control w-full max-w-md mx-auto">
-                        <input type="password" class="input input-bordered bg-white" placeholder="Password" id="teamPassword">
+                        <input type="password" class="input input-bordered bg-white" placeholder="Password"
+                            id="teamPassword">
                     </label>
 
                     <br><br>
@@ -336,6 +392,17 @@
                             <button
                                 class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">
                                 UPDATE</button>
+                        </a>
+                    </div><br>
+
+                    <div id="admin-content" class="relative group max-w-max mx-auto pt-32" style="display: none;">
+                        <div
+                            class="absolute -inset-0.5 bg-gradient-to-r from-orange-600 to-blue-300 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt">
+                        </div>
+                        <a class="pt-32" href="/admin">
+                            <button
+                                class="relative px-6 py-3 bg-white text-xl font-semibold text-black rounded-lg text-center ">
+                                ADMIN PORTAL</button>
                         </a>
                     </div><br>
 
