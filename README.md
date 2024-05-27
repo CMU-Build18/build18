@@ -22,6 +22,8 @@ Tooling
 
  - [AlpineJS](https://alpinejs.dev/)
 
+ - [ChartJS](https://www.chartjs.org/)
+
  - [Google Firebase](https://firebase.google.com/)
 
  - [Microsoft Clarity](https://clarity.microsoft.com/) 
