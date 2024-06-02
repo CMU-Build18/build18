@@ -1,0 +1,37 @@
+{
+    "title": "Noisy Notes",
+    "date": "15 Nov 2023",
+    "detail": "Quirky and fun to play (albeit a bit dissonant) touch-controlled musical instrument!",
+    "extended_details": "We used a ribbon controller (potentiometer), Arduino, and speaker to map the user’s finger position to a specific frequency. We also used addressable LEDs to guide the user in playing a basic song. We mounted the whole thing on wood and laser-cut acrylic and customized it to look like a frog :D",
+    "team_profiles": [
+        {
+            "username": "",
+            "name": "Angela Xu"
+        },
+        {
+            "username": "",
+            "name": "Julia Anitescu"
+        },
+        {
+            "username": "",
+            "name": "Ankita Chatterjee"
+        },
+        {
+            "username": "",
+            "name": "Majd Almudhry"
+        }
+    ],
+    "parts_and_costs": [
+        {
+            "part": "",
+            "cost": "",
+            "quantity": "",
+            "total": ""
+        }
+    ],
+    "awards": [
+        ""
+    ],
+    "built18": false,
+    "photos": []
+}
