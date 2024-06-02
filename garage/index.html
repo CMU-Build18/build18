@@ -27,6 +27,9 @@
     <meta name="twitter:description" content="Join us for the coolest build event at Carnegie Mellon University!">
     <meta name="twitter:image" content="https://i.imgur.com/sbokFjM.png">
 
+    <!-- Cache Control -->
+    <meta http-equiv="Cache-Control" content="public, max-age=1800">
+
     <!-- Microsoft Clarity -->
     <script type="text/javascript">
         (function (c, l, a, r, i, t, y) {
@@ -44,7 +47,7 @@
         <p class="pl-8 pt-8 text-2xl">
             ← </p>
     </a>
-    <section id="garage">
+    <section id="garage">        
 
         <div class="bg-[#faf7f5]  py-6 sm:py-8 lg:py-12 h-max">
             <div class="mx-auto max-w-screen-2xl px-4 md:px-8 text-center">
@@ -67,11 +70,11 @@
                 <br>
                 <div class="mb-4 grid grid-cols-2 gap-4 sm:grid-cols-3 md:mb-8 md:grid-cols-4 md:gap-6 xl:gap-8">
                     <script>
-                        const tags = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 'built18', 'All'];
-                        tags.forEach(tag => {
-                            document.write(`<a href="#" id=${tag} class="tag tag-ghost">${tag}</a>`);
-                        });
-                        document.write('<br>');
+                        // const tags = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 'built18', 'All'];
+                        // tags.forEach(tag => {
+                        //     document.write(`<a href="#" id=${tag} class="tag tag-ghost">${tag}</a>`);
+                        // });
+                        // document.write('<br>');
                     </script>
                 </div>
 
@@ -82,54 +85,50 @@
                         let container = document.getElementById("container");
 
                         // add click listeners to the tags
-                        document.getElementById("2015").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2015);
-                        });
-                        document.getElementById("2016").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2016);
-                        });
-                        document.getElementById("2017").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2017);
-                        });
-                        document.getElementById("2018").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2018);
-                        });
-                        document.getElementById("2019").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2019);
-                        });
-                        document.getElementById("2020").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2020);
-                        });
-                        document.getElementById("2021").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2021);
-                        });
-                        document.getElementById("2022").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2022);
-                        });
-                        document.getElementById("2023").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2023);
-                        });
-                        document.getElementById("2024").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects(2024);
-                        });
-                        document.getElementById("built18").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects("built18");
-                        });
-                        document.getElementById("All").addEventListener("click", () => {
-                            container.innerHTML = "";
-                            fetchProjects();
-                        });
+                        // document.getElementById("2015").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2016);
+                        // });
+                        // document.getElementById("2016").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2017);
+                        // });
+                        // document.getElementById("2017").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2018);
+                        // });
+                        // document.getElementById("2018").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2019);
+                        // });
+                        // document.getElementById("2019").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2020);
+                        // });
+                        // document.getElementById("2020").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2021);
+                        // });
+                        // document.getElementById("2021").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2022);
+                        // });
+                        // document.getElementById("2022").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2023);
+                        // });
+                        // document.getElementById("2023").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects(2024);
+                        // });
+                        // document.getElementById("built18").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects("built18");
+                        // });
+                        // document.getElementById("All").addEventListener("click", () => {
+                        //     container.innerHTML = "";
+                        //     fetchProjects();
+                        // });
 
                         // add click listener to search button
                         document.getElementById("search-button").addEventListener("click", () => {
@@ -138,7 +137,7 @@
                             fetchProjects(null, search);
                         });
 
-                        fetchProjects(2021);
+                        fetchProjects();
 
                         function fetchProjects(year = null, searchRequest = null) {
                             let searchYear = year;
@@ -153,6 +152,19 @@
                                     let project = `${i}`;
                                     let projectPath = `${project}/`;
                                     let projectImage = projectPath + "0.jpg";
+                                    let projectURL = projectPath + "index.html";
+
+                                    // check if projectURL exists
+                                    fetch(projectURL)
+                                        .then(response => {
+                                            if (!response.ok) {
+                                                projectPath = '#';
+                                            }
+                                        })
+                                        .catch(error => {
+                                            console.error(`Error fetching data: ${error}`);
+                                            return;
+                                        });
 
                                     let projectDataPath = projectPath + "data.json";
 
@@ -161,7 +173,7 @@
                                     fetch(projectDataPath)
                                         .then(response => {
                                             if (!response.ok) {
-                                                //throw new Error(`HTTP error! status: ${response.status}`);
+                                                projectPath = '#';
                                             }
                                             return response.json();
                                         })
@@ -184,8 +196,7 @@
                                                 return;
                                             }
                                             else {
-                                                console.log('project year matches')
-                                                let project_card = createTemplate(projectImage, projectTitle, projectTitle, projectDetail);
+                                                let project_card = createTemplate(projectImage, projectTitle, projectTitle, projectDetail, projectPath);
                                                 container.innerHTML += project_card;
                                             }
 
@@ -200,15 +211,15 @@
                             }
                         }
 
-                        function createTemplate(imgSrc, altText, projectTitle, projectDetail) {
+                        function createTemplate(imgSrc, altText, projectTitle, projectDetail, projectLink = '#') {
 
                             let cardSize = Math.floor(Math.random() * 3) + 1;
 
                             return `
-                                <a href="#" class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80 ">
+                                <a href="${projectLink}" class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80 ">
                                     <img src="${imgSrc}"
                                         loading="lazy" alt="${altText}"
-                                        class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110 ${cardSize === 1 ? 'h-48' : cardSize === 2 ? 'h-64' : 'h-80'}" />
+                                        class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-100 ${cardSize === 1 ? 'h-48' : cardSize === 2 ? 'h-64' : 'h-80'}" />
                                     <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">${projectTitle}</span>
                                 </a>         
                             `;
