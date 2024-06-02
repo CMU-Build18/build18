@@ -1,28 +1,28 @@
 {
-    "title": "Tanner's Screaming Orbs",
+    "title": "ELECTRÆGLOVE PRO 9000-1X",
     "date": "15 Nov 2023",
-    "detail": "Have you ever felt guilty about dropping a juggling ball? Would you like to?",
-    "extended_details": "The purpose of this project is to build three juggling balls that scream in pain when you drop them. This is intended to improve the user’s juggling ability by making them feel guilty when they drop the juggling balls. Parts were used carefully. We used an IMU in a microcontroller to detect the acceleration of the juggling ball. When the ball acceleration hit a certain threshold, we triggered the soundboard screaming. Physical parts were created using 3D printer and sewing, and electronic connections were soldered. We made four juggling balls and a demo breadboard.",
+    "detail": "Ever wanted to play video games, but without a controller or keyboard? Now with the ElectræGlove Pro 9000-1X you can!",
+    "extended_details": "Before starting to assemble the hardware, we had to plan out where to place the IMU units (that collect accelerometer and gyroscope data) to make meaningful gestures. In the end, we decided to place units on three separate fingers since moving the fingers would give us more varied data to work with. We also put the time of flight (ToF) sensor (that dictates when to brake and is activated by putting another hand above the glove) on the top of the glove hand. All of the wiring (including the microcontroller that processes the IMU data) is done on the top of the glove as well (which makes for easier connectivity). Next, we wrote the code that collects the IMU data. Since each IMU is identical, the I2C address is also identical, so in order to differentiate between each of the three sensors, we used a mux and wired a different IMU sensor to each channel of the mux, and then with the Arduino, we collected data from each mux channel separately. We did a similar process with the ToF sensor. These inputs are used to activate keyboard commands which are sent to the computer. The outcome was a working glove that could interface with “wasd” keys which allows us to play games. The game we decided to feature with this project is Forza Motorsport 8 which is historically known as a game that is not friendly to keyboard inputs. However, we hope this project can serve as a baseline into exploring other methods of control.",
     "team_profiles": [
         {
             "username": "",
-            "name": "Ryan Bao"
+            "name": "Nicolas Keck"
         },
         {
             "username": "",
-            "name": "JC Yordy"
+            "name": "Kevin St Luce"
         },
         {
             "username": "",
-            "name": "Tanner Aikens"
+            "name": "Lohith Tummala"
         },
         {
             "username": "",
-            "name": "Freda Su"
+            "name": "Lijie Yang"
         },
         {
             "username": "",
-            "name": "Juno Hoffman"
+            "name": "Alan Abraham"
         }
     ],
     "parts_and_costs": [
