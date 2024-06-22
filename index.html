@@ -73,7 +73,7 @@
 
             document.getElementById('attendees').addEventListener('click', () => {
 
-                firebase.auth().signInWithRedirect(provider)
+                firebase.auth().signInWithPopup(provider)
                     .then((result) => {
                         // This gives you a Google Access Token. You can use it to access the Google API.
                         const credential = firebase.auth.GoogleAuthProvider.credentialFromResult(result);
