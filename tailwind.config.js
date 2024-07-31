@@ -1,6 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["*.{html,js}"],
+  content: ["*.{html,js},",
+    './index.html',
+    './admin/**/*.html',
+    './dashboard/**/*.html',
+    './garage/**/*.html',
+  ],
   theme: {
     extend: {
       opacity: ['group-hover'],
